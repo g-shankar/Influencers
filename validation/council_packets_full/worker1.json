@@ -1,0 +1,1085 @@
+{
+ "worker": 1,
+ "check_date_utc": "2026-09-16",
+ "packets": [
+  {
+   "id": 1,
+   "batch": 1,
+   "handle": "@adventurouskate",
+   "platform": "instagram",
+   "title": "Two Weeks in Mexico: The BEST Yucatan Road Trip Itinerary",
+   "destination": "Yucatan Peninsula",
+   "country": "Mexico",
+   "days": 14,
+   "summary": "Kate McCulley's two-week Yucatan road trip itinerary skips Cancun, Playa del Carmen and Tulum in favor of Isla Holbox, colonial Valladolid, Rio Lagartos, Merida with cenote and ruin day trips, and the Lake of Seven Colors at Bacalar. It is a full day-by-day plan with named hotel, restaurant and activity recommendations at each stop, based on her winter living in Merida and years of trips through the peninsula.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.adventurouskate.com/two-weeks-in-mexico-yucatan-road-trip-itinerary/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Cancun to Holbox transfer",
+     "location": "Cancun Airport -> Chiquila -> Isla Holbox"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Ser Casasandra",
+     "location": "Isla Holbox"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Hotel Para Ti",
+     "location": "Isla Holbox"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Hotelito Villas Holbox",
+     "location": "Isla Holbox"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Tribu",
+     "location": "Isla Holbox"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Cabo Catoche boat trip",
+     "location": "Isla Holbox"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Three-island boat trip",
+     "location": "Isla Holbox"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Swim with whale sharks",
+     "location": "Isla Holbox"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Zomay",
+     "location": "Isla Holbox"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "La Sardina Enamorada",
+     "location": "Chiquila"
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "Drive to Valladolid",
+     "location": "Chiquila -> Valladolid"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Le Muuch Hotel",
+     "location": "Valladolid"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Casa Tia Micha",
+     "location": "Valladolid"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Hotel Zazil-Maj",
+     "location": "Valladolid"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Chichen Itza",
+     "location": "Valladolid area"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Cenote Zaci",
+     "location": "Valladolid"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Hacienda San Lorenzo Oxman cenote",
+     "location": "Valladolid area"
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Wabi Gelato",
+     "location": "Valladolid"
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "ConKafecito",
+     "location": "Valladolid"
+    },
+    {
+     "day": 6,
+     "item_type": "other",
+     "name": "Days 6-14 route outline (Rio Lagartos, Merida, Bacalar)",
+     "location": "Yucatan Peninsula"
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "batch": 1,
+   "handle": "@cheaprvliving",
+   "platform": "instagram",
+   "title": "Road Trip with my Son and his Girlfriend",
+   "destination": "Utah red rock country (Moab, Goblin Valley, Capitol Reef, Monument Valley)",
+   "country": "USA",
+   "days": 4,
+   "summary": "Bob Wells's 4-day family road trip through Utah's red rock country with his son Robert, Deb and her sister Ann (who planned the itinerary). Route: Moab/Arches to Goblin Valley State Park and Capitol Reef NP (overnight in Torrey), then down UT-95 past Hite Overlook and the Moki Dugway to Goosenecks State Park and Monument Valley. A trip narrative with a clear stop sequence rather than a published guide.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://cheaprvliving.com/kb/road-trip-son-girlfriend/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Arches NP / Double-Arch",
+     "location": "Moab, UT, USA"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Goblin Valley State Park",
+     "location": "Utah, USA"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Capitol Reef NP",
+     "location": "Utah, USA"
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Torrey, Utah (overnight stop)",
+     "location": "Torrey, UT, USA"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Hite Overlook",
+     "location": "Utah, USA"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Moki Dugway (Mogi Dugway)",
+     "location": "Utah, USA"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Goosenecks State Park",
+     "location": "Utah, USA"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Monument Valley",
+     "location": "Arizona/Utah border, USA"
+    }
+   ]
+  },
+  {
+   "id": 19,
+   "batch": 1,
+   "handle": "@karaandnate",
+   "platform": "instagram",
+   "title": "The Ultimate Guide to Riding the Trans-Siberian Railway (Moscow to Vladivostok)",
+   "destination": "Moscow to Vladivostok, via Irkutsk and Ulan-Ude",
+   "country": "Russia",
+   "days": 11,
+   "summary": "Kara and Nate's own 11-day (they state '10 days and 11 nights' in the route section) Trans-Siberian journey covering 9,280 km: Moscow to Irkutsk (74h non-stop train), 2 nights Irkutsk (Lake Baikal gateway), 6.5h train to Ulan-Ude, 2 nights Ulan-Ude, then 64h non-stop train to Vladivostok. 7 nights slept on the train, 2 nights in a hostel, 2 nights in a hotel. The post is a full practical guide (Russian visa steps, route choice, ticket buying) plus what they'd do differently. Day numbering here is approximate (derived from leg durations in the source) - the post is leg-structured, not day-numbered.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://karaandnate.com/the-ultimate-guide-to-riding-the-trans-siberian-railway/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Trans-Siberian train: Moscow to Irkutsk",
+     "location": "Russia"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Irkutsk - Lake Baikal (Olkhon Island)",
+     "location": "Irkutsk, Russia"
+    },
+    {
+     "day": 6,
+     "item_type": "transport",
+     "name": "Train: Irkutsk to Ulan-Ude",
+     "location": "Russia"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Ulan-Ude sightseeing",
+     "location": "Ulan-Ude, Russia"
+    },
+    {
+     "day": 8,
+     "item_type": "transport",
+     "name": "Train: Ulan-Ude to Vladivostok",
+     "location": "Russia"
+    },
+    {
+     "day": 11,
+     "item_type": "activity",
+     "name": "Vladivostok stopover",
+     "location": "Vladivostok, Russia"
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Russian visa logistics (pre-trip)",
+     "location": "Russia"
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Suggested additional stops: Kazan and Yekaterinburg",
+     "location": "Russia"
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "batch": 2,
+   "handle": "@nomadicmatt",
+   "platform": "instagram",
+   "title": "Croatia: A One-Week Itinerary",
+   "destination": "Croatia (Split, Hvar, Vis/Korcula/Mljet, Dubrovnik)",
+   "country": "Croatia",
+   "days": 7,
+   "summary": "Matt Kepnes' suggested one-week Croatia route: start in Split, island-hop through Hvar and a day-trip island, then finish in Dubrovnik. He also outlines two-week, three-week, and one-month extensions in the same guide. Budget-focused, with shoulder-season advice and explicit admission prices.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.nomadicmatt.com/travel-blogs/croatia-itinerary/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Diocletian's Palace",
+     "location": "Split"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "St. Duje's Cathedral",
+     "location": "Split"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Klis Fortress",
+     "location": "Split"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Museum of Croatian Archaeological Monuments",
+     "location": "Split"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Carpe Diem",
+     "location": "Hvar Town, Hvar"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Stari Grad",
+     "location": "Hvar"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Vis / Korcula / Mljet day trip",
+     "location": "Dalmatian islands"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Dubrovnik city walls",
+     "location": "Dubrovnik"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Mt. Srd cable car",
+     "location": "Dubrovnik"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "17th-century cathedral and 15th-century clock tower",
+     "location": "Dubrovnik"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Lokrum island day trip",
+     "location": "off Dubrovnik"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Split to Dubrovnik sailing trip",
+     "location": "Dalmatian Coast"
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "batch": 2,
+   "handle": "@roadtripusa",
+   "platform": "instagram",
+   "title": "Utah Road Trip: 9 Days in the Parks",
+   "destination": "Utah's national parks",
+   "country": "United States",
+   "days": 9,
+   "summary": "Nine-day road trip through Utah's national parks from the roadtripusa.com site: Moab to Arches, Canyonlands' Island in the Sky and Needles districts, Natural Bridges, Capitol Reef, the scenic Highway 12 to Escalante, Bryce Canyon and Zion. Written by Moon Utah authors W.C. McRae and Judy Jewell; full day-by-day drive routes with campsite guidance - a classic structured road-trip itinerary.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.roadtripusa.com/trip-idea/utah-road-trip-9-days-parks"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Arches National Park (Delicate Arch)",
+     "location": "Arches National Park, Utah"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Island in the Sky and Dead Horse Point",
+     "location": "Canyonlands / Dead Horse Point, Utah"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Needles District and Natural Bridges",
+     "location": "Needles District / Natural Bridges, Utah"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Capitol Reef",
+     "location": "Capitol Reef National Park, Utah"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Highway 12 and Escalante Canyons",
+     "location": "Escalante, Utah"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Devil's Garden and slot canyons",
+     "location": "Escalante, Utah"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Bryce Canyon",
+     "location": "Bryce Canyon National Park, Utah"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Bryce to Zion",
+     "location": "Zion National Park, Utah"
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "batch": 2,
+   "handle": "@thebrokebackpacker",
+   "platform": "instagram",
+   "title": "1-Month Southeast Asia Itinerary: Digging in Deeper",
+   "destination": "Southeast Asia",
+   "country": "Thailand, Cambodia, Vietnam",
+   "days": 30,
+   "summary": "The Broke Backpacker's 1-month route digging deeper into Southeast Asia: Bangkok, the Thai islands (Koh Tao, Koh Phangan, Koh Lanta), then Cambodia (Siem Reap/Angkor Wat, Phnom Penh, Koh Rong) and Vietnam (Ho Chi Minh City, Hoi An, Da Nang, Hanoi, the Ha Giang motorbike loop and Ha Long Bay). Route-level itinerary with named stops, not day-by-day; Laos can be swapped in.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.thebrokebackpacker.com/backpacking-southeast-asia-travel-guide/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Bangkok",
+     "location": "Bangkok, Thailand"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Thai islands: Koh Tao, Koh Phangan, Koh Lanta",
+     "location": "Southern Thailand"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Siem Reap and Angkor Wat",
+     "location": "Siem Reap, Cambodia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Phnom Penh",
+     "location": "Phnom Penh, Cambodia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Koh Rong",
+     "location": "Cambodia"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Bus into Vietnam",
+     "location": "Phnom Penh to Vietnam"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Ho Chi Minh City (two days)",
+     "location": "Ho Chi Minh City, Vietnam"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Hoi An",
+     "location": "Hoi An, Vietnam"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Da Nang",
+     "location": "Da Nang, Vietnam"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Hanoi",
+     "location": "Hanoi, Vietnam"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Ha Giang motorbike loop",
+     "location": "Ha Giang, Vietnam"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Ha Long Bay or Cat Ba",
+     "location": "Northern Vietnam"
+    }
+   ]
+  },
+  {
+   "id": 55,
+   "batch": 2,
+   "handle": "@wildweroam",
+   "platform": "instagram",
+   "title": "Cinque Terre Day Plan (Levanto Base)",
+   "destination": "Cinque Terre",
+   "country": "Italy",
+   "days": 1,
+   "summary": "A structured one-day plan for Cinque Terre based in Levanto: hike the quiet coastal trail from Levanto to Monterosso, use the Cinque Terre day card trains between towns, hike the paid Monterosso-to-Vernazza trail, and take the ferry to Riomaggiore. Visited in mid-April when crowds were manageable.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.wildweroam.com/blog/2019/05/07/travel-journal-cinque-terre-italy"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Camping Acqua Dolce",
+     "location": "Levanto"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Coastal hike Levanto to Monterosso",
+     "location": "Levanto to Monterosso"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Cinque Terre day pass trains",
+     "location": "Cinque Terre"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Paid coastal trail hike",
+     "location": "Monterosso to Vernazza"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Ferry to Riomaggiore",
+     "location": "Cinque Terre coast"
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "batch": 3,
+   "handle": "@hudsonandemily",
+   "platform": "tiktok",
+   "title": "Iceland Ring Road Highlights \u2014 Perfect 1-2 Week Itinerary",
+   "destination": "Iceland",
+   "country": "Iceland",
+   "days": null,
+   "summary": "The creators label this a 'perfect 1-2 week itinerary' of Ring Road highlights in Iceland, listing key stops along the Ring Road. It is a structured destination list tied to their trip rather than a day-by-day plan.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.tiktok.com/@hudsonandemily/video/7619036734390553874?_r=1&_d=secCgYIASAHKAESPgo8ovXHD7NaPo7riw5R7iWLZyHpzGuBlmmhFccgpnHwo84XV7mk23r%2FWdbI745LVuemWk%2FqnKJ7s70FETfdGgA%3D&_svg=1&checksum=0cb32fccaa648231d422b40f0d0eb980ede8084b3747b2783f5ac3a262e4b6e7&item_author_type=2&link_reflow_popup_iteration_s"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sk\u00f3gafoss Waterfall",
+     "location": "South Coast, Iceland"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Vatnaj\u00f6kull Glacier",
+     "location": "Southeast Iceland"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Strokkur Geyser",
+     "location": "Golden Circle, Iceland"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Landmannalaugar",
+     "location": "Highlands, Iceland"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Kirkjufell",
+     "location": "Sn\u00e6fellsnes Peninsula, Iceland"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Blue Lagoon",
+     "location": "Grindav\u00edk, Iceland"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Fagradalsfjall",
+     "location": "Reykjanes Peninsula, Iceland"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sundhn\u00fakur Crater Row",
+     "location": "Reykjanes Peninsula, Iceland"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "M\u00falaglj\u00fafur Canyon",
+     "location": "Southeast Iceland"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "batch": 4,
+   "handle": "@onegirlwandering",
+   "platform": "tiktok",
+   "title": "The Perfect Two Week Itinerary For Your First Trip to Japan",
+   "destination": "Tokyo, Kyoto, Osaka (Japan)",
+   "country": "Japan",
+   "days": 14,
+   "summary": "Lindsay's 14-day first-timer Japan itinerary from five visits: Tokyo (days 1-3, 11-14), Kyoto (days 4-6, with Nara day trip), Osaka (days 7-10, with Kobe day trip). Includes day-by-day costs, restaurant picks, and hotel recommendations per city. Bullet train between cities; day trips to Nara, Kobe, Nikko optional.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.onegirlwandering.com/2023/06/25/the-perfect-two-week-itinerary-for-your-first-trip-to-japan/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Hotel in Shinjuku or Asakusa",
+     "location": "Shinjuku or Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Shibuya Sky",
+     "location": "Shibuya, Tokyo"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Senso-ji Temple and Nakamise Shopping Street",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 2,
+     "item_type": "other",
+     "name": "Tokyo Kimono Shoes",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Tokyo Skytree",
+     "location": "Tokyo"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Isetan department store food hall",
+     "location": "Tokyo"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Izakaya in Shinjuku",
+     "location": "Shinjuku, Tokyo"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Tsukiji Fish Market",
+     "location": "Tokyo"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Imperial Palace gardens",
+     "location": "Tokyo"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Tokyo Tower",
+     "location": "Tokyo"
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "Bullet train Tokyo to Kyoto",
+     "location": "Tokyo to Kyoto"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Fushimi Inari Taisha Shrine",
+     "location": "Kyoto"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Kiyomizu-dera Temple",
+     "location": "Higashiyama, Kyoto"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Arashiyama Bamboo Grove",
+     "location": "Kyoto"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Nishiki Market food tour",
+     "location": "Kyoto"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Kinkaku-ji Temple (Golden Pavilion) and Ryoan-ji Temple",
+     "location": "Kyoto"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Maiko Dinner experience",
+     "location": "Gion, Kyoto"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Todai-ji Temple",
+     "location": "Nara"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Nara Park",
+     "location": "Nara"
+    },
+    {
+     "day": 6,
+     "item_type": "other",
+     "name": "Nakatanidou",
+     "location": "Nara"
+    },
+    {
+     "day": 7,
+     "item_type": "transport",
+     "name": "Train Kyoto to Osaka",
+     "location": "Kyoto to Osaka"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Osaka Castle",
+     "location": "Osaka"
+    },
+    {
+     "day": 7,
+     "item_type": "restaurant",
+     "name": "Dotonbori street food",
+     "location": "Dotonbori, Osaka"
+    },
+    {
+     "day": 8,
+     "item_type": "restaurant",
+     "name": "Shinsekai street food",
+     "location": "Shinsekai, Osaka"
+    },
+    {
+     "day": 8,
+     "item_type": "other",
+     "name": "Tower Knives",
+     "location": "Shinsekai, Osaka"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Osaka Aquarium Kaiyukan",
+     "location": "Osaka"
+    },
+    {
+     "day": 9,
+     "item_type": "transport",
+     "name": "Train Osaka to Kobe",
+     "location": "Osaka to Kobe"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "Kobe Harborland",
+     "location": "Kobe"
+    },
+    {
+     "day": 9,
+     "item_type": "restaurant",
+     "name": "Tor Road Steak Aoyama",
+     "location": "Kobe"
+    },
+    {
+     "day": 9,
+     "item_type": "restaurant",
+     "name": "Wakkoqu",
+     "location": "Kobe"
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "Shitenno-ji Temple",
+     "location": "Osaka"
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "Shinsaibashi-Suji Shopping Street",
+     "location": "Osaka"
+    },
+    {
+     "day": 11,
+     "item_type": "transport",
+     "name": "Bullet train Osaka to Tokyo",
+     "location": "Osaka to Tokyo"
+    },
+    {
+     "day": 12,
+     "item_type": "activity",
+     "name": "teamLab Borderless / teamLab Planets",
+     "location": "Tokyo"
+    },
+    {
+     "day": 12,
+     "item_type": "activity",
+     "name": "Tokyo Disneyland or DisneySea",
+     "location": "Tokyo"
+    },
+    {
+     "day": 13,
+     "item_type": "activity",
+     "name": "Nikko day trip",
+     "location": "Nikko"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Maguroya Kurogin",
+     "location": "Tsukiji, Tokyo"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Gonpachi",
+     "location": "Tokyo"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Ichiran Ramen",
+     "location": "Tokyo"
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Gogyo Ramen",
+     "location": "Kyoto"
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Katsukura",
+     "location": "Kyoto"
+    },
+    {
+     "day": 7,
+     "item_type": "restaurant",
+     "name": "Chibo Okonomiyaki",
+     "location": "Osaka"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Park Hyatt Tokyo",
+     "location": "Shinjuku, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "APA Hotel Asakusa Kaminarimon",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "The Ritz-Carlton Kyoto",
+     "location": "Kyoto"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Hyatt Regency Kyoto",
+     "location": "Higashiyama, Kyoto"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Dormy Inn Premium Kyoto Ekimae",
+     "location": "Kyoto"
+    },
+    {
+     "day": 7,
+     "item_type": "hotel",
+     "name": "Swissotel Nankai Osaka",
+     "location": "Namba, Osaka"
+    },
+    {
+     "day": 7,
+     "item_type": "hotel",
+     "name": "Dormy Inn Osaka Tanimachi",
+     "location": "Osaka"
+    }
+   ]
+  },
+  {
+   "id": 82,
+   "batch": 4,
+   "handle": "@sightsofsara",
+   "platform": "tiktok",
+   "title": "Epic Iceland Road Trip Guide - South Coast Mini Guide",
+   "destination": "Iceland (South Coast)",
+   "country": "Iceland",
+   "days": null,
+   "summary": "Her own 'mini guide' from her summer 2021 South Coast Iceland road trip, which she called one of the best experiences of her life. Tip-by-tip list rather than day-by-day; no hotel names (camper van).",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.lemon8-app.com/sightsofsara/7220679971399287301?region=us"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Camper van rental",
+     "location": "Iceland"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Seljalandsfoss",
+     "location": "South Coast"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Fjaorar gljufur Canyon",
+     "location": "South Coast"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Jokulsarlon Glacial Lagoon",
+     "location": "South Coast"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Vestrahorn",
+     "location": "South Coast"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Skogafoss",
+     "location": "South Coast"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Reykjavik city centre",
+     "location": "Reykjavik"
+    }
+   ]
+  },
+  {
+   "id": 91,
+   "batch": 4,
+   "handle": "@wheelaroundtheworld",
+   "platform": "tiktok",
+   "title": "Wheel Around Taiwan \u2014 wheelchair accessibility road journey",
+   "destination": "Taiwan",
+   "country": "Taiwan",
+   "days": null,
+   "summary": "Wheelchair adventurer Shane Hryhorec's documented multi-episode Taiwan trip (YouTube series 'Wheel Around Taiwan' + TikTok @wheelaroundtheworld), traveling from Taipei south down the island and back via the east. Structured route with named hotels, transport, and accessibility-tested activities; day count not stated. Day order inferred from episode sequence.",
+   "confidence": "low",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=mYBNRbDhO_o",
+    "https://www.youtube.com/watch?v=y_maOz6qpbY",
+    "https://www.youtube.com/watch?v=e4r0khsE8hQ",
+    "https://www.youtube.com/watch?v=7gIimcGyMoU",
+    "https://www.youtube.com/watch?v=E_QHaXiCrZo"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Shilin Night Market",
+     "location": "Taipei, Taiwan"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Repurposed pier with bars and food stalls",
+     "location": "Taipei, Taiwan"
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Bullet train Taipei to Taichung",
+     "location": "Taipei to Taichung, Taiwan"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Rainbow Village",
+     "location": "Taichung, Taiwan"
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Kaohsiung Grand Hotel",
+     "location": "Kaohsiung, Taiwan"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Fo Guang Shan Buddha",
+     "location": "Kaohsiung, Taiwan"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Southern tip of Taiwan",
+     "location": "Taiwan"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Shifen Old Street sky lantern release",
+     "location": "Yilan County / Shifen, Taiwan"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Taipei 101 observatory",
+     "location": "Taipei, Taiwan"
+    },
+    {
+     "day": 5,
+     "item_type": "other",
+     "name": "7-Eleven culture ('711 things you can do at 7-Eleven')",
+     "location": "Taiwan"
+    }
+   ]
+  }
+ ]
+}

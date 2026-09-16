@@ -1,0 +1,1538 @@
+{
+ "check_date_utc": "2026-09-16",
+ "packets": [
+  {
+   "id": 8,
+   "batch": 1,
+   "handle": "@budgettraveller",
+   "platform": "instagram",
+   "title": "How to Visit 15 European Cities for less than $350/\u00a3300 - Europe 1 month itinerary",
+   "destination": "15 European cities: London, Paris, Amsterdam, Rotterdam, Ghent, Leuven, Cologne, Berlin, Budapest, Venice, Milan, Bologna, Florence, Rome, Athens",
+   "country": "Multiple (UK, France, Netherlands, Belgium, Germany, Hungary, Italy, Greece)",
+   "days": 30,
+   "summary": "A priced 1-month Eurotrip across 15 cities (mid-September to mid-October 2024) with every intercity transport leg booked 2 months ahead via Skyscanner and Omio. Transport total: \u20ac286 (~\u00a3246/$313) using budget flights, Flixbus/BlaBlaCar buses and advance train tickets. Each city stop includes his personal hotel/hostel picks and top free-or-cheap things to do.",
+   "confidence": "high",
+   "source_urls": [
+    "https://budgettraveller.org/how-to-visit-15-european-cities-for-less-than-250/"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "day": null,
+     "item_type": "transport",
+     "name": "London to Paris (16 Sep 2024)",
+     "location": "London to Paris",
+     "details": "Via Vueling, booked via Skyscanner"
+    },
+    {
+     "n": 2,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Wombats City Hostel London",
+     "location": "London, UK",
+     "details": "His favourite hostel in London; converted seaman's hostel with bar, courtyard, lockers, linen, welcome drink, Wi-Fi, city map"
+    },
+    {
+     "n": 3,
+     "day": null,
+     "item_type": "transport",
+     "name": "Paris to Amsterdam (18 Sep 2024)",
+     "location": "Paris to Amsterdam",
+     "details": "BlaBlaCar bus via Omio; 7h56, departs 8:05 arrives 16:01. Quicker alternative named: Eurostar \u20ac35 (Paris Gare du Nord 8:25 to Amsterdam Centraal 11:53)"
+    },
+    {
+     "n": 4,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Les Piaules Hostel Paris",
+     "location": "Belleville, Paris, France",
+     "details": "Favourite place to stay in Paris; also recommends Generator Paris as decent"
+    },
+    {
+     "n": 5,
+     "day": null,
+     "item_type": "transport",
+     "name": "Amsterdam to Rotterdam (20 Sep 2024)",
+     "location": "Amsterdam to Rotterdam",
+     "details": "BlaBlaCar bus via Omio; 55 min"
+    },
+    {
+     "n": 6,
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Vishuisje",
+     "location": "Herengracht, Amsterdam, Netherlands",
+     "details": "Herring stand: herring with pickles and onions"
+    },
+    {
+     "n": 7,
+     "day": null,
+     "item_type": "transport",
+     "name": "Rotterdam to Ghent (23 Sep 2024)",
+     "location": "Rotterdam to Ghent",
+     "details": "Flixbus; 2h55"
+    },
+    {
+     "n": 8,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Hostel Uppelink",
+     "location": "Ghent, Belgium",
+     "details": "Family-run hostel in the centre with canal views; helpful staff; free walking tours 10am and 1pm (English/Spanish); free beer tastings Tue/Thu 6pm"
+    },
+    {
+     "n": 9,
+     "day": null,
+     "item_type": "transport",
+     "name": "Ghent to Leuven (25 Sep 2024)",
+     "location": "Ghent to Leuven",
+     "details": "Flixbus; 2 hours"
+    },
+    {
+     "n": 10,
+     "day": null,
+     "item_type": "hotel",
+     "name": "HI De Blauwput Hostel",
+     "location": "Leuven, Belgium",
+     "details": "Top pick; behind the train station; onsite bar, clean comfortable rooms, buffet breakfast included, friendly staff"
+    },
+    {
+     "n": 11,
+     "day": null,
+     "item_type": "transport",
+     "name": "Leuven to Cologne (27 Sep 2024)",
+     "location": "Leuven to Cologne",
+     "details": "Deutsche Bahn train via bahn.com"
+    },
+    {
+     "n": 12,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Die Wohngemeinschaft Cologne",
+     "location": "Cologne, Germany",
+     "details": "Top pick for Cologne; alternative: Cologne Downtown Hostel"
+    },
+    {
+     "n": 13,
+     "day": null,
+     "item_type": "transport",
+     "name": "Cologne to Berlin (30 Sep 2024)",
+     "location": "Cologne to Berlin",
+     "details": "Deutsche Bahn via Omio"
+    },
+    {
+     "n": 14,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Circus Berlin Hostel",
+     "location": "Berlin, Germany",
+     "details": "Pictured as his Berlin stay pick"
+    },
+    {
+     "n": 15,
+     "day": null,
+     "item_type": "transport",
+     "name": "Berlin to Budapest (2 Oct 2024)",
+     "location": "Berlin to Budapest",
+     "details": "Deutsche Bahn; 11h12"
+    },
+    {
+     "n": 16,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Wombats City Hostel Budapest",
+     "location": "Budapest, Hungary",
+     "details": "Full breakfast, free Wi-Fi, good location, welcoming staff, good common areas"
+    },
+    {
+     "n": 17,
+     "day": null,
+     "item_type": "transport",
+     "name": "Budapest to Venice (5 Oct 2024)",
+     "location": "Budapest to Venice",
+     "details": "\u00d6BB Railjet via Omio; 12h10 with change in Vienna"
+    },
+    {
+     "n": 18,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Generator Venice",
+     "location": "Venice, Italy",
+     "details": "His pick for Venice on a budget"
+    },
+    {
+     "n": 19,
+     "day": null,
+     "item_type": "transport",
+     "name": "Venice to Milan (7 Oct 2024)",
+     "location": "Venice to Milan",
+     "details": "Trenitalia via Omio app"
+    },
+    {
+     "n": 20,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Ostello Bello Milan",
+     "location": "Milan, Italy",
+     "details": "Favourite place to stay in Milan; free Wi-Fi, cosy common room, Mediterranean-style breakfast on demand, ping pong, library; also Ostello Bello Grande Milan and Ostello Bello Lake Como named"
+    },
+    {
+     "n": 21,
+     "day": null,
+     "item_type": "transport",
+     "name": "Milan to Bologna (9 Oct 2024)",
+     "location": "Milan to Bologna",
+     "details": "Trenitalia via Omio"
+    },
+    {
+     "n": 22,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Dopa Hostel Bologna",
+     "location": "Bologna, Italy",
+     "details": "Recommended stay; 99% handmade furnishings in an old downtown building (only hostel in the area); modern spacious bathrooms; each bed has power outlet, curtain, light and coat hook"
+    },
+    {
+     "n": 23,
+     "day": null,
+     "item_type": "transport",
+     "name": "Bologna to Florence (11 Oct 2024)",
+     "location": "Bologna to Florence",
+     "details": "Trenitalia via Omio app"
+    },
+    {
+     "n": 24,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Ostello Bello Florence",
+     "location": "Florence, Italy",
+     "details": "Top pick; onsite bar, lovely helpful staff, good breakfast, terrace, self-catering kitchen, events schedule; also Plus Florence named (restaurant, pools, Turkish bath, sauna, rooftop terrace, free Wi-Fi)"
+    },
+    {
+     "n": 25,
+     "day": null,
+     "item_type": "transport",
+     "name": "Florence to Rome (14 Oct 2024)",
+     "location": "Florence to Rome",
+     "details": "Italo via Omio app"
+    },
+    {
+     "n": 26,
+     "day": null,
+     "item_type": "hotel",
+     "name": "The Beehive",
+     "location": "Rome, Italy",
+     "details": "Favourite budget stay in Rome; also The YellowSquare named (party hostel for younger flashpackers)"
+    },
+    {
+     "n": 27,
+     "day": null,
+     "item_type": "transport",
+     "name": "Rome to Athens (17 Oct 2024)",
+     "location": "Rome to Athens",
+     "details": "Ryanair via Skyscanner"
+    },
+    {
+     "n": 28,
+     "day": null,
+     "item_type": "hotel",
+     "name": "City Circus Athens Hostel",
+     "location": "Athens, Greece",
+     "details": "One of Europe's coolest design hostels; fun place, restaurant, beautiful rooms"
+    },
+    {
+     "n": 29,
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Kostas",
+     "location": "Athens, Greece",
+     "details": "Souvlaki served for 65 years, described as probably the best souvlaki in town"
+    },
+    {
+     "n": 30,
+     "day": null,
+     "item_type": "other",
+     "name": "Trip transport grand total",
+     "location": "Europe (15 cities)",
+     "details": "All 14 intercity legs total \u20ac286 (~\u00a3246/$313); excludes luggage fees and airport-to-city-centre transfers; optional Naples add-on +\u20ac45 or Ancona ferry to Split/Zadar +\u20ac100; 2-month Eurail pass alternative (15 travel days) \u20ac394"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "batch": 2,
+   "handle": "@nomadicmatt",
+   "platform": "instagram",
+   "title": "A 10-Day Itinerary Down Sweden's Coast",
+   "destination": "Northern Sweden: Lule\u00e5, Ume\u00e5, \u00d6rnsk\u00f6ldsvik, Skuleskogen National Park, Sundsvall, Uppsala",
+   "country": "Sweden",
+   "days": 10,
+   "summary": "Nomadic Matt's off-the-beaten-path 10-day northern Sweden route, worked south down the coast from Lule\u00e5 to Uppsala. He emphasizes doing the trip by car (train/bus possible), with named hotels, restaurants, hikes, and admission-free nature stops throughout.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.nomadicmatt.com/travel-blogs/sweden-coast-itinerary/"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Clarion Hotel Sense",
+     "location": "Lule\u00e5",
+     "details": "Affordable hotel in town center; comfy rooms, big breakfast buffet, gym"
+    },
+    {
+     "n": 2,
+     "day": 1,
+     "item_type": "activity",
+     "name": "Lule\u00e5 Archipelago",
+     "location": "Lule\u00e5",
+     "details": "Summer hotspot; beaches, sea kayaking, boating, hiking; popular islands Kluntarna, Br\u00e4nd\u00f6sk\u00e4r, Junk\u00f6n, Sm\u00e5sk\u00e4r"
+    },
+    {
+     "n": 3,
+     "day": 1,
+     "item_type": "activity",
+     "name": "Gammelstad Church Town",
+     "location": "Lule\u00e5",
+     "details": "Over 400 red wooden cottages around a 15th-century church; glimpse of Sweden's rural past"
+    },
+    {
+     "n": 4,
+     "day": 1,
+     "item_type": "activity",
+     "name": "Gammelstadsviken nature reserve",
+     "location": "Lule\u00e5",
+     "details": "One of Sweden's best birdwatching spots; 80+ species, trails and a large freshwater lake"
+    },
+    {
+     "n": 5,
+     "day": 1,
+     "item_type": "activity",
+     "name": "Norrbotten Museum",
+     "location": "Lule\u00e5",
+     "details": "Small free museum on Sami culture and industrial heritage (note: reported closed until further notice)"
+    },
+    {
+     "n": 6,
+     "day": 1,
+     "item_type": "activity",
+     "name": "Hiking around Lule\u00e5",
+     "location": "Lule\u00e5",
+     "details": "Suggested hikes: Herts\u00f6leden (easy, 8km), F\u00e4bodaleden (intermediate, 10km), Vit\u00e5n (challenging, 12km); hiking guide at Visit Lule\u00e5"
+    },
+    {
+     "n": 7,
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Bistron",
+     "location": "Lule\u00e5 harbor",
+     "details": "Harbor restaurant Matt particularly enjoyed"
+    },
+    {
+     "n": 8,
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Hotell Bj\u00f6rken",
+     "location": "Ume\u00e5",
+     "details": "Next to the university, 5-minute drive to central station; stylish, modern, won't break the bank"
+    },
+    {
+     "n": 9,
+     "day": 3,
+     "item_type": "activity",
+     "name": "V\u00e4sterbottens Museum",
+     "location": "Ume\u00e5",
+     "details": "Cultural and natural history of the V\u00e4sterbotten region, plus open-air historic buildings"
+    },
+    {
+     "n": 10,
+     "day": 3,
+     "item_type": "activity",
+     "name": "Guitars the Museum",
+     "location": "Ume\u00e5",
+     "details": "One of the world's largest private guitar collections; guided tours recommended"
+    },
+    {
+     "n": 11,
+     "day": 3,
+     "item_type": "activity",
+     "name": "Kulturv\u00e4ven",
+     "location": "Ume\u00e5",
+     "details": "Cultural hub with concerts, art exhibitions, library, cinema"
+    },
+    {
+     "n": 12,
+     "day": 3,
+     "item_type": "activity",
+     "name": "Umedalens Skulpturpark",
+     "location": "Ume\u00e5",
+     "details": "Free outdoor sculpture park in meadows and forest"
+    },
+    {
+     "n": 13,
+     "day": 3,
+     "item_type": "activity",
+     "name": "Strandpromenaden",
+     "location": "Ume\u00e5",
+     "details": "Relaxing riverside walkway with benches and cafes; pretty at sunset"
+    },
+    {
+     "n": 14,
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Bodegan and Eljest",
+     "location": "Ume\u00e5",
+     "details": "Restaurant picks for eating out in Ume\u00e5"
+    },
+    {
+     "n": 15,
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Facit Bar",
+     "location": "Ume\u00e5",
+     "details": "Great spot for inventive drinks"
+    },
+    {
+     "n": 16,
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Elite Hotel",
+     "location": "\u00d6rnsk\u00f6ldsvik",
+     "details": "Beautiful hotel on the harbor with huge delicious breakfast"
+    },
+    {
+     "n": 17,
+     "day": 5,
+     "item_type": "hotel",
+     "name": "FriluftsByn",
+     "location": "near \u00d6rnsk\u00f6ldsvik",
+     "details": "Expansive campsite out of town with restaurant and bar; hotspot for campers and roadtrippers"
+    },
+    {
+     "n": 18,
+     "day": 5,
+     "item_type": "activity",
+     "name": "High Coast Trail",
+     "location": "\u00d6rnsk\u00f6ldsvik",
+     "details": "130km trail (5-7 days full), or hike sections; scenic mountains, rugged coastlines, forests"
+    },
+    {
+     "n": 19,
+     "day": 5,
+     "item_type": "activity",
+     "name": "Kayaking",
+     "location": "\u00d6rnsk\u00f6ldsvik archipelago",
+     "details": "Calm waters; two-hour rental 300 SEK, tandem kayak 400 SEK"
+    },
+    {
+     "n": 20,
+     "day": 5,
+     "item_type": "activity",
+     "name": "Gullviks havsbad",
+     "location": "\u00d6rnsk\u00f6ldsvik",
+     "details": "Best beach in the area; sandy beach with volleyball nets, food, BBQ area"
+    },
+    {
+     "n": 21,
+     "day": 6,
+     "item_type": "activity",
+     "name": "Skuleskogen National Park",
+     "location": "High Coast, 30 min south of \u00d6rnsk\u00f6ldsvik",
+     "details": "7,400-acre wilderness of birch/pine forest, marshes, granite mountains, Baltic shoreline; highlight is Sl\u00e5ttdalsskrevan rock crevice (200m long, 30m deep)"
+    },
+    {
+     "n": 22,
+     "day": 7,
+     "item_type": "hotel",
+     "name": "Lilla Hotellet",
+     "location": "Sundsvall",
+     "details": "Affordable locally-owned three-star hotel; quiet, cozy breakfast nook"
+    },
+    {
+     "n": 23,
+     "day": 7,
+     "item_type": "activity",
+     "name": "Kulturmagasinet",
+     "location": "Sundsvall",
+     "details": "Cultural center in converted harbor warehouses: museum, library, art space"
+    },
+    {
+     "n": 24,
+     "day": 7,
+     "item_type": "activity",
+     "name": "Norra Berget",
+     "location": "Sundsvall",
+     "details": "Open-air museum and park on a hill with 40 historic buildings; good with kids"
+    },
+    {
+     "n": 25,
+     "day": 7,
+     "item_type": "activity",
+     "name": "Himlabadet Water Park",
+     "location": "Sundsvall",
+     "details": "Family-friendly indoor pools, saunas, slides, surfing simulator"
+    },
+    {
+     "n": 26,
+     "day": 7,
+     "item_type": "activity",
+     "name": "Sidsj\u00f6n Lake",
+     "location": "Sundsvall",
+     "details": "Peaceful lake 10 min from city center; swim, fish, paddle, walk/cycle trails"
+    },
+    {
+     "n": 27,
+     "day": 7,
+     "item_type": "activity",
+     "name": "Aln\u00f6n Island",
+     "location": "Sundsvall",
+     "details": "Bridge-connected island day trip: sandy beaches, volcanic geology, small villages, scenic drives"
+    },
+    {
+     "n": 28,
+     "day": 9,
+     "item_type": "hotel",
+     "name": "Uppsala City Hostel",
+     "location": "Uppsala",
+     "details": "Best hostel in the city per Matt; basic bunks, great location"
+    },
+    {
+     "n": 29,
+     "day": 9,
+     "item_type": "hotel",
+     "name": "Botanika Uppsala",
+     "location": "Uppsala",
+     "details": "Hotel next to Sweden's oldest botanical garden"
+    },
+    {
+     "n": 30,
+     "day": 9,
+     "item_type": "activity",
+     "name": "Uppsala Cathedral (Domkyrkan)",
+     "location": "Uppsala",
+     "details": "Scandinavia's largest church; 13th-century Gothic, tombs of King Gustav Vasa and Carl Linnaeus"
+    },
+    {
+     "n": 31,
+     "day": 9,
+     "item_type": "activity",
+     "name": "Gustavianum",
+     "location": "Uppsala University",
+     "details": "Museum of Sweden's oldest university (1477) with Viking treasures"
+    },
+    {
+     "n": 32,
+     "day": 9,
+     "item_type": "activity",
+     "name": "Uppsala Castle",
+     "location": "Uppsala",
+     "details": "Renaissance-era castle with museums and exhibitions"
+    },
+    {
+     "n": 33,
+     "day": 9,
+     "item_type": "activity",
+     "name": "Botanical Garden & Linnaeus Garden",
+     "location": "Uppsala",
+     "details": "Sweden's largest botanical garden of its kind; Linnaeus's reconstructed 18th-century teaching garden"
+    },
+    {
+     "n": 34,
+     "day": 9,
+     "item_type": "activity",
+     "name": "Gamla Uppsala",
+     "location": "north of Uppsala",
+     "details": "Viking burial mounds, museum, and pagan-era church; key political/spiritual site of the Viking Age"
+    },
+    {
+     "n": 35,
+     "day": 9,
+     "item_type": "activity",
+     "name": "Carolina Rediviva Library",
+     "location": "Uppsala",
+     "details": "One of Scandinavia's largest research libraries; houses the Codex Argenteus"
+    },
+    {
+     "n": 36,
+     "day": 1,
+     "item_type": "transport",
+     "name": "Rental car for northern Sweden",
+     "location": "Lule\u00e5 to Uppsala",
+     "details": "Trip best done by car; Skuleskogen has no public transport options; discovercars.com linked as rental resource"
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "batch": 2,
+   "handle": "@oneikathetraveller",
+   "platform": "instagram",
+   "title": "How to Spend Two Weeks in South Africa, Zambia, and Botswana",
+   "destination": "Johannesburg, Kruger, Blyde River Canyon, Livingstone, Kasane, Cape Town",
+   "country": "South Africa / Zambia / Botswana",
+   "days": 14,
+   "summary": "Oneika and her partner Liebling's own 14-day Southern Africa route: 2 days Johannesburg, 2 days Kruger safari, 1 day Blyde River Canyon, 4 days Livingstone (Zambia) and Kasane (Botswana), 5 days Cape Town. Named hotels, safari lodge, restaurants, and prices throughout; she hiked Table Mountain, swam at the edge of Victoria Falls, and did game drives in Sabi Sands and Chobe.",
+   "confidence": "high",
+   "source_urls": [
+    "http://www.oneikathetraveller.com/south-africa-botswana-zambia-itinerary.html"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "day": 1,
+     "item_type": "activity",
+     "name": "Constitution Hill",
+     "location": "Johannesburg",
+     "details": "What they saw/did in Joburg"
+    },
+    {
+     "n": 2,
+     "day": 1,
+     "item_type": "activity",
+     "name": "Apartheid Museum",
+     "location": "Johannesburg",
+     "details": "An absolute MUST per Oneika"
+    },
+    {
+     "n": 3,
+     "day": 2,
+     "item_type": "activity",
+     "name": "Soweto and Mandela House",
+     "location": "Johannesburg",
+     "details": "Nelson Mandela's residence 1946-1962"
+    },
+    {
+     "n": 4,
+     "day": 2,
+     "item_type": "activity",
+     "name": "Maboneng and Melrose Arch",
+     "location": "Johannesburg",
+     "details": "Funky Maboneng neighbourhood of black creatives; swanky Melrose Arch gated community with cafes and restaurant patios"
+    },
+    {
+     "n": 5,
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Protea Fire & Ice Melrose Arch",
+     "location": "Johannesburg",
+     "details": "Hollywood-themed, clean and modern; a steal at $100 USD/night for a king room (no breakfast)"
+    },
+    {
+     "n": 6,
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "The Grillhouse",
+     "location": "Sandton, Johannesburg",
+     "details": "Steakhouse highly recommended; Liebling enjoyed his filet"
+    },
+    {
+     "n": 7,
+     "day": 3,
+     "item_type": "activity",
+     "name": "Safari game drives",
+     "location": "Sabi Sands Game Reserve (borders Kruger)",
+     "details": "Saw the Big Five on the very first drive; four drives total with varied wildlife"
+    },
+    {
+     "n": 8,
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Elephant Plains Lodge",
+     "location": "Sabi Sands Game Reserve",
+     "details": "Villa plus 2 daily game drives and all meals (not beverages), all-inclusive; one of the cheapest lodges in the area"
+    },
+    {
+     "n": 9,
+     "day": 5,
+     "item_type": "activity",
+     "name": "Blyde River Canyon Nature Reserve",
+     "location": "Drakensberg, 3h outside Johannesburg",
+     "details": "God's Window, Bourke's Luck Potholes, The Three Rondavels"
+    },
+    {
+     "n": 10,
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Premier Hotel OR Tambo",
+     "location": "next to Johannesburg airport",
+     "details": "Stayed before morning flight to Zambia; massive modern room, great value"
+    },
+    {
+     "n": 11,
+     "day": 6,
+     "item_type": "activity",
+     "name": "Swim on the edge of Victoria Falls",
+     "location": "Livingstone, Zambia",
+     "details": "Devil's Pool-style swim at the falls' edge"
+    },
+    {
+     "n": 12,
+     "day": 6,
+     "item_type": "activity",
+     "name": "Victoria Falls Bridge jump",
+     "location": "Livingstone, Zambia",
+     "details": "Bungee/jump from the Victoria Falls Bridge"
+    },
+    {
+     "n": 13,
+     "day": 8,
+     "item_type": "activity",
+     "name": "Chobe National Park safari",
+     "location": "Kasane, Botswana",
+     "details": "2-day, 1-night safari; Chobe known for huge elephant population"
+    },
+    {
+     "n": 14,
+     "day": 6,
+     "item_type": "activity",
+     "name": "Livingstone Museum",
+     "location": "Livingstone, Zambia",
+     "details": "Learned about Zambian history"
+    },
+    {
+     "n": 15,
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Green Tree Lodge",
+     "location": "Livingstone",
+     "details": "Fairly basic and expensive, but lovely owner Andrew"
+    },
+    {
+     "n": 16,
+     "day": 8,
+     "item_type": "hotel",
+     "name": "Jollyboys Backpackers",
+     "location": "Livingstone",
+     "details": "Lodge and camp run by Canucks Kim and John; also a tour operator that organized their Victoria Falls excursions and Kalahari Tours safari; double ensuite simple but spotless"
+    },
+    {
+     "n": 17,
+     "day": 8,
+     "item_type": "activity",
+     "name": "Kalahari Tours",
+     "location": "Chobe, Botswana",
+     "details": "Tour operator for the safari, arranged through Jollyboys"
+    },
+    {
+     "n": 18,
+     "day": 10,
+     "item_type": "activity",
+     "name": "Table Mountain hike",
+     "location": "Cape Town",
+     "details": "Hiked up the mountain"
+    },
+    {
+     "n": 19,
+     "day": 10,
+     "item_type": "activity",
+     "name": "Robben Island Prison Museum",
+     "location": "Cape Town",
+     "details": "A heart-wrenching must"
+    },
+    {
+     "n": 20,
+     "day": 10,
+     "item_type": "activity",
+     "name": "Bo-Kaap",
+     "location": "Cape Town",
+     "details": "Multicultural area known for brightly coloured houses"
+    },
+    {
+     "n": 21,
+     "day": 11,
+     "item_type": "activity",
+     "name": "V&A Waterfront",
+     "location": "Cape Town",
+     "details": "Visited during Cape Town stay"
+    },
+    {
+     "n": 22,
+     "day": 11,
+     "item_type": "activity",
+     "name": "Stellenbosch",
+     "location": "Cape Town",
+     "details": "Renowned wine region visit"
+    },
+    {
+     "n": 23,
+     "day": 12,
+     "item_type": "activity",
+     "name": "Cape of Good Hope / Cape Point",
+     "location": "Cape Town",
+     "details": "Visited"
+    },
+    {
+     "n": 24,
+     "day": 12,
+     "item_type": "activity",
+     "name": "Boulder's Beach and Betty's Bay",
+     "location": "Cape Town",
+     "details": "Where you can see African penguins"
+    },
+    {
+     "n": 25,
+     "day": 12,
+     "item_type": "activity",
+     "name": "Chapman's Peak, Hout Bay, Camps Bay, Hermanus scenic drives",
+     "location": "Cape Town",
+     "details": "Scenic drives done in Cape Town"
+    },
+    {
+     "n": 26,
+     "day": 10,
+     "item_type": "hotel",
+     "name": "Radisson Blu Le Vendome",
+     "location": "Cape Town",
+     "details": "Older but spotless; best accommodation deal of the trip \u2014 huge room"
+    },
+    {
+     "n": 27,
+     "day": 10,
+     "item_type": "restaurant",
+     "name": "Nelson's Eye, NV-80, Hussar",
+     "location": "Cape Town",
+     "details": "Top-rated steakhouses around the city"
+    },
+    {
+     "n": 28,
+     "day": 12,
+     "item_type": "restaurant",
+     "name": "Biesmallah",
+     "location": "Bo-Kaap, Cape Town",
+     "details": "Cape Malay cuisine; mash-up of Southeast Asian and Indian flavours; great taste and hearty portions"
+    },
+    {
+     "n": 29,
+     "day": 1,
+     "item_type": "transport",
+     "name": "Rental car in Cape Town and Johannesburg",
+     "location": "South Africa",
+     "details": "Best decision of the trip \u2014 convenient, saved loads of time; public transport not great"
+    },
+    {
+     "n": 30,
+     "day": 5,
+     "item_type": "flight",
+     "name": "Low-cost carriers around the region",
+     "location": "Southern Africa",
+     "details": "No-frills airlines Safair, Mango, and Kulula are an inexpensive way to get around if short on time"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "batch": 2,
+   "handle": "@theblondeabroad",
+   "platform": "instagram",
+   "title": "Itinerary for Two Weeks in Morocco",
+   "destination": "Morocco",
+   "country": "Morocco",
+   "days": 15,
+   "summary": "Kiersten Rich's full day-by-day plan for two weeks in Morocco: 4 nights in Marrakech (Riad Yasmine, La Mamounia), 2 nights glamping in the Sahara Desert, 1 night in the Skoura Valley Oasis, 2 nights in Essaouira, the overnight train to Tangier, 2 nights in Chefchaouen, 1 night in Fes and a final night in Casablanca. Every stop pairs named hotels and restaurants with the specific activities she did there, plus real transport legs and costs.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.theblondeabroad.com/itinerary-two-weeks-morocco/comment-page-13/"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "day": 1,
+     "item_type": "transport",
+     "name": "Fly into Marrakech Menara Airport",
+     "location": "Marrakech",
+     "details": "Fly into Marrakech to start the trip"
+    },
+    {
+     "n": 2,
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Riad Yasmine",
+     "location": "Marrakech",
+     "details": "Gorgeous riad; two-night stay covering Days 1-2; described as one of Instagram's most famous hotels"
+    },
+    {
+     "n": 3,
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "NOMAD",
+     "location": "Marrakech",
+     "details": "Cool fusion restaurant for dinner on the first night; great food and an epic sunset view"
+    },
+    {
+     "n": 4,
+     "day": 2,
+     "item_type": "activity",
+     "name": "Ben Youssef Madrasa and Bahia Palace",
+     "location": "Marrakech",
+     "details": "Both perfect for photo ops"
+    },
+    {
+     "n": 5,
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Le Jardin",
+     "location": "Marrakech",
+     "details": "Green oasis in the middle of the city; perfect midday break; pop-up shop inside"
+    },
+    {
+     "n": 6,
+     "day": 2,
+     "item_type": "other",
+     "name": "Buy a local Maroc SIM card",
+     "location": "Marrakech",
+     "details": "Maroc SIM card: 40 dirham (~$4 USD) plus 100 dirham (~$10 USD) for 10GB of data"
+    },
+    {
+     "n": 7,
+     "day": 2,
+     "item_type": "activity",
+     "name": "Shop Jemaa el Fna markets",
+     "location": "Marrakech",
+     "details": "Shopping at Jemaa el Fna - noted as overly touristy with aggressive vendors"
+    },
+    {
+     "n": 8,
+     "day": 3,
+     "item_type": "hotel",
+     "name": "La Mamounia",
+     "location": "Marrakech",
+     "details": "Famous luxury hotel for the last couple of nights in the city (Days 3-4); a place to unwind and indulge"
+    },
+    {
+     "n": 9,
+     "day": 5,
+     "item_type": "transport",
+     "name": "Drive Marrakech to the Sahara Desert",
+     "location": "Marrakech to Sahara Desert",
+     "details": "Approx. 10-hour drive; driver booked through the desert camp"
+    },
+    {
+     "n": 10,
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Sahara Desert Luxury Camp",
+     "location": "Sahara Desert",
+     "details": "Two unforgettable nights of glamping (Days 5-6); travel/driver included in the glamping package"
+    },
+    {
+     "n": 11,
+     "day": 7,
+     "item_type": "transport",
+     "name": "Transfer from Sahara Desert Camp to Skoura Valley Oasis",
+     "location": "Skoura Valley",
+     "details": "5-hour transfer in a 4x4 with the private driver from the desert camp"
+    },
+    {
+     "n": 12,
+     "day": 7,
+     "item_type": "hotel",
+     "name": "L'ma Lodge",
+     "location": "Skoura Valley Oasis",
+     "details": "One-night stay (Days 7-8)"
+    },
+    {
+     "n": 13,
+     "day": 8,
+     "item_type": "transport",
+     "name": "Drive to Essaouira",
+     "location": "Skoura Valley Oasis to Essaouira",
+     "details": "Approx. 7-hour drive with the driver from the desert camp"
+    },
+    {
+     "n": 14,
+     "day": 8,
+     "item_type": "hotel",
+     "name": "Villa Maroc",
+     "location": "Essaouira",
+     "details": "Two-night stay (Days 8-9); book a massage and spend time in their hammam"
+    },
+    {
+     "n": 15,
+     "day": 8,
+     "item_type": "activity",
+     "name": "Explore the Medina and souks",
+     "location": "Essaouira",
+     "details": "Endless souks - schedule time and budget for shopping"
+    },
+    {
+     "n": 16,
+     "day": 9,
+     "item_type": "activity",
+     "name": "Stroll the port and fish market",
+     "location": "Essaouira",
+     "details": "Huge port with bright blue boats; head to the bustling fish market afterwards"
+    },
+    {
+     "n": 17,
+     "day": 9,
+     "item_type": "activity",
+     "name": "Take a cooking class",
+     "location": "Essaouira",
+     "details": "Learn to make traditional Moroccan dishes; offered by Villa Maroc"
+    },
+    {
+     "n": 18,
+     "day": 9,
+     "item_type": "restaurant",
+     "name": "La Licorne",
+     "location": "Essaouira",
+     "details": "Fine dining experience; try their tajin and couscous dishes"
+    },
+    {
+     "n": 19,
+     "day": 10,
+     "item_type": "transport",
+     "name": "Taxi to Marrakech",
+     "location": "Essaouira to Marrakech",
+     "details": "Taxi to Marrakech paid approx. $90 USD"
+    },
+    {
+     "n": 20,
+     "day": 10,
+     "item_type": "transport",
+     "name": "Overnight train from Marrakech to Tangier",
+     "location": "Marrakech to Tangier",
+     "details": "Overnight train, one night; a great way to see the landscape between cities"
+    },
+    {
+     "n": 21,
+     "day": 11,
+     "item_type": "transport",
+     "name": "Taxi to Chefchaouen",
+     "location": "Tangier to Chefchaouen",
+     "details": "Just over two hours; $60 USD"
+    },
+    {
+     "n": 22,
+     "day": 11,
+     "item_type": "hotel",
+     "name": "Dar Baibou",
+     "location": "Chefchaouen",
+     "details": "Two-night stay (Days 11-13); quaint hotel with traditional Moroccan style and great amenities"
+    },
+    {
+     "n": 23,
+     "day": null,
+     "item_type": "hotel",
+     "name": "Casa Perleta (alternative)",
+     "location": "Chefchaouen",
+     "details": "Alternative top-rated hotel with Andalusian style; very popular so book early; beignet stand right next door"
+    },
+    {
+     "n": 24,
+     "day": 12,
+     "item_type": "activity",
+     "name": "Hike to the Spanish Mosque",
+     "location": "Chefchaouen",
+     "details": "Overlooking Chefchaouen; plan a couple of hours to hike up and explore the abandoned mosque"
+    },
+    {
+     "n": 25,
+     "day": 12,
+     "item_type": "restaurant",
+     "name": "Le Lamp Magique at Aladins",
+     "location": "Chefchaouen",
+     "details": "Popular for classic lunch dishes and one of the prime places in Chefchaouen to watch the sunset; favourite shop nearby was La Botica de la Abuela Aladdin for homemade soaps"
+    },
+    {
+     "n": 26,
+     "day": 13,
+     "item_type": "transport",
+     "name": "Taxi to Fes",
+     "location": "Chefchaouen to Fes",
+     "details": "Approx. 3.5 hours"
+    },
+    {
+     "n": 27,
+     "day": 13,
+     "item_type": "activity",
+     "name": "Visit the tanneries",
+     "location": "Fes",
+     "details": "Very sensory tour of the famous leather tanneries (lots of strong smells); beautiful handmade leather pieces; best overhead view of the souk and tanneries from the stairs of Shop 64"
+    },
+    {
+     "n": 28,
+     "day": 13,
+     "item_type": "activity",
+     "name": "Explore Al Attarine Madrasa",
+     "location": "Fes",
+     "details": "Educational institute in the heart of the medina; interesting history and intricate architecture; worth the quick tour"
+    },
+    {
+     "n": 29,
+     "day": 13,
+     "item_type": "hotel",
+     "name": "Dar Seffarine",
+     "location": "Fes",
+     "details": "Oldest hotel in the medina with just six guest rooms; intimate feel and a nice escape from the busy streets"
+    },
+    {
+     "n": 30,
+     "day": 14,
+     "item_type": "transport",
+     "name": "Train to Casablanca",
+     "location": "Fes to Casablanca",
+     "details": "Less than four hours; $12 to $25 USD depending on seats"
+    },
+    {
+     "n": 31,
+     "day": 14,
+     "item_type": "hotel",
+     "name": "Mogador Marina",
+     "location": "Casablanca",
+     "details": "One-night stay (Days 14-15)"
+    },
+    {
+     "n": 32,
+     "day": 14,
+     "item_type": "restaurant",
+     "name": "Rick's Cafe",
+     "location": "Casablanca",
+     "details": "A classic; they make a great Negroni"
+    },
+    {
+     "n": 33,
+     "day": 14,
+     "item_type": "activity",
+     "name": "Visit the Hassan II Mosque",
+     "location": "Casablanca",
+     "details": "Incredible mosque sitting above the Atlantic Ocean, visible through one room's glass floor"
+    },
+    {
+     "n": 34,
+     "day": 14,
+     "item_type": "restaurant",
+     "name": "Bennis Habous pastry shop",
+     "location": "Casablanca",
+     "details": "Located near the old medina; often considered one of the best pastry shops in the country; try the hornes des gazelles"
+    },
+    {
+     "n": 35,
+     "day": 14,
+     "item_type": "restaurant",
+     "name": "Resto Zayna",
+     "location": "Casablanca",
+     "details": "Very traditional Moroccan experience and a taste of the country's traditional cuisine"
+    },
+    {
+     "n": 36,
+     "day": 14,
+     "item_type": "activity",
+     "name": "Stroll through Parc de La Ligue Arabe",
+     "location": "Casablanca",
+     "details": "Peaceful area full of greenery; ideal spot for a walk"
+    }
+   ]
+  },
+  {
+   "id": 73,
+   "batch": 4,
+   "handle": "@onegirlwandering",
+   "platform": "tiktok",
+   "title": "The Perfect Two Week Itinerary For Your First Trip to Japan",
+   "destination": "Tokyo, Kyoto, Osaka (Japan)",
+   "country": "Japan",
+   "days": 14,
+   "summary": "Lindsay's 14-day first-timer Japan itinerary from five visits: Tokyo (days 1-3, 11-14), Kyoto (days 4-6, with Nara day trip), Osaka (days 7-10, with Kobe day trip). Includes day-by-day costs, restaurant picks, and hotel recommendations per city. Bullet train between cities; day trips to Nara, Kobe, Nikko optional.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.onegirlwandering.com/2023/06/25/the-perfect-two-week-itinerary-for-your-first-trip-to-japan/"
+   ],
+   "items": [
+    {
+     "n": 1,
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Hotel in Shinjuku or Asakusa",
+     "location": "Shinjuku or Asakusa, Tokyo",
+     "details": "Recommends staying in Shinjuku or Asakusa for a first visit"
+    },
+    {
+     "n": 2,
+     "day": 1,
+     "item_type": "activity",
+     "name": "Shibuya Sky",
+     "location": "Shibuya, Tokyo",
+     "details": "Sunset viewpoint; buy tickets in advance. Free crossing view from 2nd-floor Starbucks"
+    },
+    {
+     "n": 3,
+     "day": 2,
+     "item_type": "activity",
+     "name": "Senso-ji Temple and Nakamise Shopping Street",
+     "location": "Asakusa, Tokyo",
+     "details": "Historic Asakusa district visit"
+    },
+    {
+     "n": 4,
+     "day": 2,
+     "item_type": "other",
+     "name": "Tokyo Kimono Shoes",
+     "location": "Asakusa, Tokyo",
+     "details": "Souvenir sneakers made from kimono fabric"
+    },
+    {
+     "n": 5,
+     "day": 2,
+     "item_type": "activity",
+     "name": "Tokyo Skytree",
+     "location": "Tokyo",
+     "details": "Views of the city; Mt. Fuji visible on clear days"
+    },
+    {
+     "n": 6,
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Isetan department store food hall",
+     "location": "Tokyo",
+     "details": "Basement food hall visit"
+    },
+    {
+     "n": 7,
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Izakaya in Shinjuku",
+     "location": "Shinjuku, Tokyo",
+     "details": "Dinner at a Japanese pub; stroll neon nightlife, Godzilla head, 3D cat billboard"
+    },
+    {
+     "n": 8,
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Tsukiji Fish Market",
+     "location": "Tokyo",
+     "details": "Fresh sushi for breakfast or lunch"
+    },
+    {
+     "n": 9,
+     "day": 3,
+     "item_type": "activity",
+     "name": "Imperial Palace gardens",
+     "location": "Tokyo",
+     "details": "Peaceful gardens visit after Ginza"
+    },
+    {
+     "n": 10,
+     "day": 3,
+     "item_type": "activity",
+     "name": "Tokyo Tower",
+     "location": "Tokyo",
+     "details": "Evening visit after Roppongi dinner/nightlife"
+    },
+    {
+     "n": 11,
+     "day": 4,
+     "item_type": "transport",
+     "name": "Bullet train Tokyo to Kyoto",
+     "location": "Tokyo to Kyoto",
+     "details": "2.5 hours; request window seat on the Fuji side"
+    },
+    {
+     "n": 12,
+     "day": 4,
+     "item_type": "activity",
+     "name": "Fushimi Inari Taisha Shrine",
+     "location": "Kyoto",
+     "details": "Thousands of red torii gates; kimono rental suggested"
+    },
+    {
+     "n": 13,
+     "day": 4,
+     "item_type": "activity",
+     "name": "Kiyomizu-dera Temple",
+     "location": "Higashiyama, Kyoto",
+     "details": "Historic Higashiyama district temple"
+    },
+    {
+     "n": 14,
+     "day": 5,
+     "item_type": "activity",
+     "name": "Arashiyama Bamboo Grove",
+     "location": "Kyoto",
+     "details": "Go at sunrise to avoid tourists; also Tenryu-ji Temple"
+    },
+    {
+     "n": 15,
+     "day": 5,
+     "item_type": "activity",
+     "name": "Nishiki Market food tour",
+     "location": "Kyoto",
+     "details": "Guided food tour of Nishiki Market"
+    },
+    {
+     "n": 16,
+     "day": 5,
+     "item_type": "activity",
+     "name": "Kinkaku-ji Temple (Golden Pavilion) and Ryoan-ji Temple",
+     "location": "Kyoto",
+     "details": "Golden Pavilion + rock garden"
+    },
+    {
+     "n": 17,
+     "day": 5,
+     "item_type": "activity",
+     "name": "Maiko Dinner experience",
+     "location": "Gion, Kyoto",
+     "details": "Once-in-a-lifetime geiko/maiko dinner in Gion"
+    },
+    {
+     "n": 18,
+     "day": 6,
+     "item_type": "activity",
+     "name": "Todai-ji Temple",
+     "location": "Nara",
+     "details": "Day trip to Nara; Great Buddha statue"
+    },
+    {
+     "n": 19,
+     "day": 6,
+     "item_type": "activity",
+     "name": "Nara Park",
+     "location": "Nara",
+     "details": "Feed the friendly deer"
+    },
+    {
+     "n": 20,
+     "day": 6,
+     "item_type": "other",
+     "name": "Nakatanidou",
+     "location": "Nara",
+     "details": "Watch mochi made the traditional way"
+    },
+    {
+     "n": 21,
+     "day": 7,
+     "item_type": "transport",
+     "name": "Train Kyoto to Osaka",
+     "location": "Kyoto to Osaka",
+     "details": "30 minutes"
+    },
+    {
+     "n": 22,
+     "day": 7,
+     "item_type": "activity",
+     "name": "Osaka Castle",
+     "location": "Osaka",
+     "details": "Castle and surrounding park; she found the interior underwhelming"
+    },
+    {
+     "n": 23,
+     "day": 7,
+     "item_type": "restaurant",
+     "name": "Dotonbori street food",
+     "location": "Dotonbori, Osaka",
+     "details": "Street food and neon signs"
+    },
+    {
+     "n": 24,
+     "day": 8,
+     "item_type": "restaurant",
+     "name": "Shinsekai street food",
+     "location": "Shinsekai, Osaka",
+     "details": "Takoyaki and kushikatsu in historic district"
+    },
+    {
+     "n": 25,
+     "day": 8,
+     "item_type": "other",
+     "name": "Tower Knives",
+     "location": "Shinsekai, Osaka",
+     "details": "Authentic Japanese knife souvenir"
+    },
+    {
+     "n": 26,
+     "day": 8,
+     "item_type": "activity",
+     "name": "Osaka Aquarium Kaiyukan",
+     "location": "Osaka",
+     "details": "One of the largest aquariums in the world"
+    },
+    {
+     "n": 27,
+     "day": 9,
+     "item_type": "transport",
+     "name": "Train Osaka to Kobe",
+     "location": "Osaka to Kobe",
+     "details": "30 minutes, day trip"
+    },
+    {
+     "n": 28,
+     "day": 9,
+     "item_type": "activity",
+     "name": "Kobe Harborland",
+     "location": "Kobe",
+     "details": "Scenic harbor views"
+    },
+    {
+     "n": 29,
+     "day": 9,
+     "item_type": "restaurant",
+     "name": "Tor Road Steak Aoyama",
+     "location": "Kobe",
+     "details": "Kobe beef lunch; reserve well in advance via Facebook Messenger"
+    },
+    {
+     "n": 30,
+     "day": 9,
+     "item_type": "restaurant",
+     "name": "Wakkoqu",
+     "location": "Kobe",
+     "details": "High-quality Kobe beef (alternate recommendation)"
+    },
+    {
+     "n": 31,
+     "day": 10,
+     "item_type": "activity",
+     "name": "Shitenno-ji Temple",
+     "location": "Osaka",
+     "details": "One of Japan's oldest Buddhist temples"
+    },
+    {
+     "n": 32,
+     "day": 10,
+     "item_type": "activity",
+     "name": "Shinsaibashi-Suji Shopping Street",
+     "location": "Osaka",
+     "details": "High-end second-hand shops, tax free"
+    },
+    {
+     "n": 33,
+     "day": 11,
+     "item_type": "transport",
+     "name": "Bullet train Osaka to Tokyo",
+     "location": "Osaka to Tokyo",
+     "details": "2.5 hours"
+    },
+    {
+     "n": 34,
+     "day": 12,
+     "item_type": "activity",
+     "name": "teamLab Borderless / teamLab Planets",
+     "location": "Tokyo",
+     "details": "Immersive digital art exhibitions"
+    },
+    {
+     "n": 35,
+     "day": 12,
+     "item_type": "activity",
+     "name": "Tokyo Disneyland or DisneySea",
+     "location": "Tokyo",
+     "details": "Optional extra days activity"
+    },
+    {
+     "n": 36,
+     "day": 13,
+     "item_type": "activity",
+     "name": "Nikko day trip",
+     "location": "Nikko",
+     "details": "Optional day trip from Tokyo (UNESCO shrines); she has a separate Nikko guide"
+    },
+    {
+     "n": 37,
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Maguroya Kurogin",
+     "location": "Tsukiji, Tokyo",
+     "details": "Restaurant recommendation in Tsukiji Fish Market"
+    },
+    {
+     "n": 38,
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Gonpachi",
+     "location": "Tokyo",
+     "details": "Inspiration for the Kill Bill restaurant scene"
+    },
+    {
+     "n": 39,
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Ichiran Ramen",
+     "location": "Tokyo",
+     "details": "Unique solo-dining ramen experience"
+    },
+    {
+     "n": 40,
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Gogyo Ramen",
+     "location": "Kyoto",
+     "details": "Burnt miso ramen"
+    },
+    {
+     "n": 41,
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Katsukura",
+     "location": "Kyoto",
+     "details": "Tonkatsu"
+    },
+    {
+     "n": 42,
+     "day": 7,
+     "item_type": "restaurant",
+     "name": "Chibo Okonomiyaki",
+     "location": "Osaka",
+     "details": "Osaka-style okonomiyaki"
+    },
+    {
+     "n": 43,
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Park Hyatt Tokyo",
+     "location": "Shinjuku, Tokyo",
+     "details": "Luxury; skyline views, impeccable service"
+    },
+    {
+     "n": 44,
+     "day": 1,
+     "item_type": "hotel",
+     "name": "APA Hotel Asakusa Kaminarimon",
+     "location": "Asakusa, Tokyo",
+     "details": "Business-style budget hotel she adores; Asakusa location"
+    },
+    {
+     "n": 45,
+     "day": 4,
+     "item_type": "hotel",
+     "name": "The Ritz-Carlton Kyoto",
+     "location": "Kyoto",
+     "details": "Luxury on the Kamogawa River"
+    },
+    {
+     "n": 46,
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Hyatt Regency Kyoto",
+     "location": "Higashiyama, Kyoto",
+     "details": "Near Kyoto Station, elegant"
+    },
+    {
+     "n": 47,
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Dormy Inn Premium Kyoto Ekimae",
+     "location": "Kyoto",
+     "details": "Great breakfast, late-night noodle bar, sauna"
+    },
+    {
+     "n": 48,
+     "day": 7,
+     "item_type": "hotel",
+     "name": "Swissotel Nankai Osaka",
+     "location": "Namba, Osaka",
+     "details": "Upscale, heart of Namba"
+    },
+    {
+     "n": 49,
+     "day": 7,
+     "item_type": "hotel",
+     "name": "Dormy Inn Osaka Tanimachi",
+     "location": "Osaka",
+     "details": "Near Osaka Castle; hot spring public bath (onsen)"
+    }
+   ]
+  }
+ ]
+}

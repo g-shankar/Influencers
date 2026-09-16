@@ -1,1 +1,1012 @@
-{"batch":3,"extractions":[{"handle":"@_abbyvogel","itineraries":[],"notes":"No structured itinerary found. Creator focuses on budget travel/WWOOF content; searches surfaced no creator-authored day plans, destination guides, or trip-tied recommendations.","platform":"tiktok"},{"handle":"@adrian.baias","itineraries":[],"notes":"No itinerary found attributable to this handle. Searches surfaced unrelated luxury-travel accounts under a similar name; no creator-authored trip plans, guides, or recommendation lists.","platform":"tiktok"},{"handle":"@alvatheexplorer","itineraries":[],"notes":"No structured itinerary found. Search results returned itineraries from other creators, none authored by @alvatheexplorer.","platform":"tiktok"},{"handle":"@bodiek","itineraries":[],"notes":"No structured itinerary found. Searches returned Philippines/Bali plans from other creators, not authored by @bodiek.","platform":"tiktok"},{"handle":"@claireandpeter","itineraries":[{"confidence":"high","country":"Jordan","days":10,"destination":"Jordan","items":[{"booking_link":null,"day":null,"details":"Visited during the 10-day Jordan leg of the world trip","item_type":"activity","location":"Madaba, Jordan","name":"Madaba","price_hint":null},{"booking_link":null,"day":null,"details":"Visited during the 10-day Jordan leg","item_type":"activity","location":"Dead Sea, Jordan","name":"Dead Sea","price_hint":null},{"booking_link":null,"day":null,"details":"Hotel stay named in the Jordan itinerary","item_type":"hotel","location":"Jordan","name":"Hilton Hotel","price_hint":null},{"booking_link":null,"day":null,"details":"Desert stop on the Jordan itinerary","item_type":"activity","location":"Wadi Rum, Jordan","name":"Wadi Rum","price_hint":null},{"booking_link":null,"day":null,"details":"Desert camp stay in Wadi Rum","item_type":"hotel","location":"Wadi Rum, Jordan","name":"Aladdin Camp","price_hint":null},{"booking_link":null,"day":null,"details":"Desert tour taken during the trip","item_type":"activity","location":"Wadi Rum, Jordan","name":"Wadi Rum Desert Tour","price_hint":null},{"booking_link":null,"day":null,"details":"Airbnb stay in Wadi Rum","item_type":"hotel","location":"Wadi Rum, Jordan","name":"Wadi Rum Airbnb","price_hint":null},{"booking_link":null,"day":null,"details":"Site visited at Petra","item_type":"activity","location":"Petra, Jordan","name":"Petra Monastery","price_hint":null},{"booking_link":null,"day":null,"details":"Site visited at Petra","item_type":"activity","location":"Petra, Jordan","name":"Petra Treasury","price_hint":null},{"booking_link":null,"day":null,"details":"Hotel stay at Petra","item_type":"hotel","location":"Wadi Musa, Jordan","name":"Petra Guests Hotel","price_hint":null},{"booking_link":null,"day":null,"details":"Arrival into Jordan from Egypt to begin the leg","item_type":"transport","location":null,"name":"Egypt-to-Jordan travel","price_hint":null},{"booking_link":null,"day":null,"details":"Departure from Jordan onward to Bangkok","item_type":"transport","location":null,"name":"Amman-to-Bangkok travel","price_hint":null}],"source_urls":["https://www.claireandpeter.com/world-trip/jordan-itinerary/"],"summary":"Day-by-day guide covering the creators' 10-day trip through Jordan from March 14 to March 23, 2022, including Madaba, the Dead Sea, Wadi Rum and Petra. Includes named stays such as Aladdin Camp in Wadi Rum, a Wadi Rum Airbnb, and Petra Guests Hotel.","title":"Jordan Itinerary"},{"confidence":"high","country":"Egypt","days":12,"destination":"Egypt","items":[{"booking_link":null,"day":null,"details":"Trip start and end point; includes museum visit and final dinner","item_type":"activity","location":"Cairo, Egypt","name":"Cairo","price_hint":null},{"booking_link":null,"day":null,"details":"Hotel stay in Cairo","item_type":"hotel","location":"Cairo, Egypt","name":"Golden Pyramid Inn","price_hint":null},{"booking_link":null,"day":null,"details":"Visited with the Sphinx","item_type":"activity","location":"Giza, Egypt","name":"Great Pyramids","price_hint":null},{"booking_link":null,"day":null,"details":"Visited with the Great Pyramids","item_type":"activity","location":"Giza, Egypt","name":"Sphinx","price_hint":null},{"booking_link":null,"day":null,"details":"Day visit from Cairo","item_type":"activity","location":"Saqqara, Egypt","name":"Saqqara","price_hint":null},{"booking_link":null,"day":null,"details":"Internal flight to continue the trip south","item_type":"transport","location":"Cairo to Aswan, Egypt","name":"Flight to Aswan","price_hint":null},{"booking_link":null,"day":null,"details":"Traditional sailing boat ride on the Nile","item_type":"activity","location":"Aswan, Egypt","name":"Felucca ride","price_hint":null},{"booking_link":null,"day":null,"details":"Temple visit in Aswan","item_type":"activity","location":"Aswan, Egypt","name":"Temple of Philae","price_hint":null},{"booking_link":null,"day":null,"details":"Nile cruise ship from Aswan to Luxor","item_type":"hotel","location":"Nile River, Egypt","name":"Moondance Nile cruise ship","price_hint":null},{"booking_link":null,"day":null,"details":"Temple stop on the Nile cruise","item_type":"activity","location":"Kom Ombo, Egypt","name":"Kom Ombo Temple","price_hint":null},{"booking_link":null,"day":null,"details":"Visited from Luxor","item_type":"activity","location":"Luxor, Egypt","name":"Valley of the Kings","price_hint":null},{"booking_link":null,"day":null,"details":"Visited from Luxor","item_type":"activity","location":"Luxor, Egypt","name":"Temple of Hatshepsut","price_hint":null},{"booking_link":null,"day":null,"details":"Visited in Luxor","item_type":"activity","location":"Luxor, Egypt","name":"Karnak Temple","price_hint":null},{"booking_link":null,"day":null,"details":"Visited in Luxor","item_type":"activity","location":"Luxor, Egypt","name":"Luxor Temple","price_hint":null}],"source_urls":["https://www.claireandpeter.com/world-trip/egypt-cruise-the-nile/"],"summary":"Twelve-day daily itinerary through Egypt covering Cairo, the Giza pyramids, Saqqara, Aswan, a Nile cruise to Luxor, and a return to Cairo. Names the Golden Pyramid Inn, the Moondance Nile cruise ship, and major temples including Karnak, Luxor, Kom Ombo and the Valley of the Kings.","title":"Egypt Daily Itinerary"},{"confidence":"high","country":"Georgia","days":23,"destination":"Georgia","items":[{"booking_link":null,"day":null,"details":"Capital stop on the Georgia itinerary","item_type":"activity","location":"Tbilisi, Georgia","name":"Tbilisi","price_hint":null},{"booking_link":null,"day":null,"details":"Mountain stop on the Georgia itinerary","item_type":"activity","location":"Kazbegi, Georgia","name":"Kazbegi","price_hint":null},{"booking_link":null,"day":null,"details":"Wine region leg of the trip","item_type":"activity","location":"Kakheti, Georgia","name":"Kakheti / Telavi","price_hint":null},{"booking_link":null,"day":null,"details":"Winery visited in Kakheti","item_type":"activity","location":"Kakheti, Georgia","name":"Marani Milorauli","price_hint":null},{"booking_link":null,"day":null,"details":"Winery visited in Kakheti","item_type":"activity","location":"Kakheti, Georgia","name":"Sesikeli","price_hint":null},{"booking_link":null,"day":null,"details":"Winery visited in Kakheti","item_type":"activity","location":"Kakheti, Georgia","name":"Zurab Kviriashvili","price_hint":null},{"booking_link":null,"day":null,"details":"Winery harvest experience","item_type":"activity","location":"Kakheti, Georgia","name":"N1 Winery Harvest Experience","price_hint":null},{"booking_link":null,"day":null,"details":"Stop on the Georgia itinerary","item_type":"activity","location":"Borjomi, Georgia","name":"Borjomi","price_hint":null},{"booking_link":null,"day":null,"details":"Stop on the Georgia itinerary","item_type":"activity","location":"Kutaisi, Georgia","name":"Kutaisi","price_hint":null},{"booking_link":null,"day":null,"details":"Mountain stop on the Georgia itinerary","item_type":"activity","location":"Mestia, Georgia","name":"Mestia","price_hint":null},{"booking_link":null,"day":null,"details":"Novelty accommodation stay in Guria","item_type":"hotel","location":"Guria, Georgia","name":"Wine-barrel Airbnb","price_hint":null},{"booking_link":null,"day":null,"details":"Coastal stop on the Georgia itinerary","item_type":"activity","location":"Batumi, Georgia","name":"Batumi","price_hint":null}],"source_urls":["https://www.claireandpeter.com/world-trip/georgia-itinerary/"],"summary":"Twenty-three-day itinerary (days 193-215 of the creators' world trip) across Georgia, covering Tbilisi, Kazbegi, the Kakheti wine region, Borjomi, Kutaisi, Mestia, Guria and Batumi. Names specific wineries including Marani Milorauli, Sesikeli and Zurab Kviriashvili, plus a wine-barrel Airbnb in Guria.","title":"Georgia Itinerary"}],"notes":"Richest source in batch: the creators' around-the-world index states its linked itineraries cover all 365 days and include hotels, excursions, tours and operator contacts (https://www.claireandpeter.com/world-trip-categories/around-the-world-trip-itinerary/). Individual item day numbers were not extracted because the day-by-day mapping for each named item was not verified; itinerary-level day counts come from the sources.","platform":"tiktok"},{"handle":"@courtandnate","itineraries":[],"notes":"No structured itinerary found. Their site (https://www.courtandnate.com/) offers an unnamed favorites map and van-build resources, but no extractable named trip, day plan, or trip-tied recommendation list.","platform":"tiktok"},{"handle":"@danidboyy1","itineraries":[],"notes":"No structured itinerary found. Content is Emirates flight-attendant advice/vlogs, not trip plans or destination guides.","platform":"tiktok"},{"handle":"@danmaniel","itineraries":[],"notes":"No structured itinerary found. Content is primarily school-bus conversion/build advice, not trip plans.","platform":"tiktok"},{"handle":"@dinasarraj","itineraries":[],"notes":"No structured itinerary found. Content describes luxury hotels and slow travel, but no creator-authored day plans or trip-tied guides surfaced.","platform":"tiktok"},{"handle":"@emmaexpedition","itineraries":[],"notes":"No structured itinerary found. Content is scenic West Coast/Namibia/Utah photography and travel clips, not structured plans.","platform":"tiktok"},{"handle":"@erikakullberg","itineraries":[],"notes":"No structured itinerary found. Content is travel-rights, airline-compensation and credit-card advice, not trip plans.","platform":"tiktok"},{"handle":"@footluce","itineraries":[],"notes":"No structured itinerary found. Creator posts Southeast Asia budget/solo travel content, but no structured creator-authored itinerary surfaced.","platform":"tiktok"},{"handle":"@heyshetravels","itineraries":[],"notes":"No structured itinerary found. Layla AI pages incorporate captions attributed to this handle, but those itineraries appear AI-generated/third-party, not creator-authored. No direct creator source independently supports a structured itinerary, so none was extracted.","platform":"tiktok"},{"handle":"@hudsonandemily","itineraries":[{"confidence":"medium","country":"Iceland","days":null,"destination":"Iceland","items":[{"booking_link":null,"day":null,"details":"Named Ring Road highlight","item_type":"activity","location":"South Coast, Iceland","name":"Skógafoss Waterfall","price_hint":null},{"booking_link":null,"day":null,"details":"Named Ring Road highlight","item_type":"activity","location":"Southeast Iceland","name":"Vatnajökull Glacier","price_hint":null},{"booking_link":null,"day":null,"details":"Named Ring Road highlight","item_type":"activity","location":"Golden Circle, Iceland","name":"Strokkur Geyser","price_hint":null},{"booking_link":null,"day":null,"details":"Named Ring Road highlight","item_type":"activity","location":"Highlands, Iceland","name":"Landmannalaugar","price_hint":null},{"booking_link":null,"day":null,"details":"Named Ring Road highlight","item_type":"activity","location":"Snæfellsnes Peninsula, Iceland","name":"Kirkjufell","price_hint":null},{"booking_link":null,"day":null,"details":"Named Ring Road highlight","item_type":"activity","location":"Grindavík, Iceland","name":"Blue Lagoon","price_hint":null},{"booking_link":null,"day":null,"details":"Volcanic activity site named in the itinerary","item_type":"activity","location":"Reykjanes Peninsula, Iceland","name":"Fagradalsfjall","price_hint":null},{"booking_link":null,"day":null,"details":"Volcanic activity site named in the itinerary","item_type":"activity","location":"Reykjanes Peninsula, Iceland","name":"Sundhnúkur Crater Row","price_hint":null},{"booking_link":null,"day":null,"details":"Canyon featured in the video","item_type":"activity","location":"Southeast Iceland","name":"Múlagljúfur Canyon","price_hint":null}],"source_urls":["https://www.tiktok.com/@hudsonandemily/video/7619036734390553874?_r=1&_d=secCgYIASAHKAESPgo8ovXHD7NaPo7riw5R7iWLZyHpzGuBlmmhFccgpnHwo84XV7mk23r%2FWdbI745LVuemWk%2FqnKJ7s70FETfdGgA%3D&_svg=1&checksum=0cb32fccaa648231d422b40f0d0eb980ede8084b3747b2783f5ac3a262e4b6e7&item_author_type=2&link_reflow_popup_iteration_s"],"summary":"The creators label this a 'perfect 1-2 week itinerary' of Ring Road highlights in Iceland, listing key stops along the Ring Road. It is a structured destination list tied to their trip rather than a day-by-day plan.","title":"Iceland Ring Road Highlights — Perfect 1-2 Week Itinerary"}],"notes":"Days recorded as null because '1-2 weeks' is a range, not a single integer. A Palau ocean-highlights post by the same creators was found but excluded because its only retrievable source URL was truncated and could not be reproduced exactly.","platform":"tiktok"},{"handle":"@itsjustgizem","itineraries":[],"notes":"No structured itinerary found. Gizem posts solo travel vlogs (e.g., Berlin), but no creator-authored day plans or destination guides surfaced.","platform":"tiktok"},{"handle":"@jacob","itineraries":[],"notes":"No structured itinerary found. Jacob Riglin posts scenic photography/adventure videos with no structured trip plans or guides.","platform":"tiktok"},{"handle":"@jordentually","itineraries":[{"confidence":"high","country":"United Kingdom","days":7,"destination":"Scotland","items":[{"booking_link":null,"day":1,"details":"Day 1 stop on the North Coast 500","item_type":"activity","location":"Caithness, Scotland","name":"Whaligoe Steps","price_hint":null},{"booking_link":null,"day":1,"details":"Day 1 stop on the North Coast 500","item_type":"activity","location":"Caithness, Scotland","name":"Duncansby Head","price_hint":null},{"booking_link":null,"day":2,"details":"Day 2 stop on the North Coast 500","item_type":"activity","location":"Durness, Scotland","name":"Smoo Cave","price_hint":null},{"booking_link":null,"day":2,"details":"Day 2 stop on the North Coast 500","item_type":"activity","location":"North Coast, Scotland","name":"Chocolate Mountain","price_hint":null},{"booking_link":null,"day":3,"details":"Day 3 stop on the North Coast 500","item_type":"activity","location":"Sutherland, Scotland","name":"Sandwood Bay Beach","price_hint":null},{"booking_link":null,"day":3,"details":"Day 3 stop on the North Coast 500","item_type":"activity","location":"Sutherland, Scotland","name":"Kylesku Bridge","price_hint":null},{"booking_link":null,"day":3,"details":"Day 3 stop on the North Coast 500","item_type":"activity","location":"Sutherland, Scotland","name":"Achmelvich Bay","price_hint":null},{"booking_link":null,"day":4,"details":"Day 4 stop on the North Coast 500","item_type":"activity","location":"Assynt, Scotland","name":"Stac Pollaidh","price_hint":null},{"booking_link":null,"day":4,"details":"Day 4 stop on the North Coast 500","item_type":"activity","location":"Applecross, Scotland","name":"Applecross Pass","price_hint":null},{"booking_link":null,"day":4,"details":"Day 4 stop on the North Coast 500","item_type":"activity","location":"Wester Ross, Scotland","name":"Loch Carron","price_hint":null},{"booking_link":null,"day":5,"details":"Day 5 stop on the Isle of Skye","item_type":"activity","location":"Isle of Skye, Scotland","name":"Old Man of Storr","price_hint":null},{"booking_link":null,"day":5,"details":"Day 5 stops on the Isle of Skye","item_type":"activity","location":"Isle of Skye, Scotland","name":"Kilt Rock and The Quiraing","price_hint":null},{"booking_link":null,"day":6,"details":"Day 6 stop on the Isle of Skye","item_type":"activity","location":"Isle of Skye, Scotland","name":"Fairy Pools","price_hint":null},{"booking_link":null,"day":7,"details":"Day 7 stops on the Isle of Skye","item_type":"activity","location":"Isle of Skye, Scotland","name":"Neist Point Lighthouse and Coral Beach","price_hint":null},{"booking_link":null,"day":7,"details":"Day 7 stop","item_type":"activity","location":"Fort William, Scotland","name":"Ben Nevis","price_hint":null},{"booking_link":null,"day":7,"details":"Day 7 stop","item_type":"activity","location":"Lochaber, Scotland","name":"Glenfinnan Viaduct","price_hint":null}],"source_urls":["https://www.youtube.com/watch?v=6E62FzhNyU4"],"summary":"Creator-authored 7-day road trip itinerary through the North Coast 500 and the Isle of Skye, with each day naming specific stops. The video description includes a day-by-day location list with video timestamps and a Google Maps pin list.","title":"The Best North Coast 500 + Isle of Skye Travel Guide (7 Day Itinerary)"}],"notes":"Source is the creator's own YouTube travel guide (Jorden Tually's channel, identified via his nordvpn.com/jordentually link and Jorden social links in the description). Day numbers are taken directly from the creator's day-by-day chapter list.","platform":"tiktok"},{"handle":"@kelseyinlondon","itineraries":[{"confidence":"high","country":"United Kingdom","days":4,"destination":"Cornwall","items":[{"booking_link":null,"day":null,"details":"Recommended base for the 4-day trip","item_type":"hotel","location":"St Mabyn, Cornwall, United Kingdom","name":"Hoburne St Mabyn","price_hint":null},{"booking_link":null,"day":null,"details":"Suggested relaxing activity","item_type":"activity","location":"Cornwall, United Kingdom","name":"Beach yoga","price_hint":null},{"booking_link":null,"day":null,"details":"Suggested relaxing activity","item_type":"activity","location":"Cornwall, United Kingdom","name":"Nature walks","price_hint":null},{"booking_link":null,"day":null,"details":"Foodie suggestion for the trip","item_type":"restaurant","location":"Cornwall, United Kingdom","name":"Fresh seafood dining","price_hint":null},{"booking_link":null,"day":null,"details":"Suggested relaxing activity","item_type":"activity","location":"Cornwall, United Kingdom","name":"Cocktails with ocean views","price_hint":null},{"booking_link":null,"day":null,"details":"Day 1 is largely the commute; 5-6 hour scenic drive from London, or train from London Paddington to Bodmin Parkway (3h45m)","item_type":"transport","location":"London to Cornwall, United Kingdom","name":"Drive from London","price_hint":null}],"source_urls":["https://kelseyinlondon.com/cornwall-itinerary/"],"summary":"Creator-authored 4-day Cornwall itinerary based on her stay at Hoburne St Mabyn, positioned as a slow, relaxing escape for Londoners. Covers day-by-day activity, adventure and foodie suggestions including beach yoga, nature walks, cocktails with ocean views and fresh seafood.","title":"The Perfect 4-day Cornwall Itinerary"}],"notes":"The creator also publishes a broader London travel guide with example itineraries (https://kelseyinlondon.com/london-travel-guide/), but the Cornwall page is the cleanest single structured itinerary and was extracted as the representative item. Individual item day numbers were not assigned because per-day detail was not fully verified.","platform":"tiktok"},{"handle":"@kenxtori","itineraries":[],"notes":"No structured itinerary found. Ken and Tori post international couple/new-parent travel tips and destination clips (e.g., Mallorca, St. John beaches), but no creator-authored day plans or trip-tied guides surfaced.","platform":"tiktok"},{"handle":"@laxtoluxury","itineraries":[{"confidence":"high","country":"United States","days":4,"destination":"Vermont and New Hampshire","items":[{"booking_link":null,"day":1,"details":"Redeye from the West Coast or first morning flight; rental car pickup","item_type":"transport","location":"Boston, Massachusetts, United States","name":"Fly into Boston","price_hint":null},{"booking_link":null,"day":1,"details":"Apple cider donuts breakfast stop; opens 7am","item_type":"restaurant","location":"New Hampshire, United States","name":"Smolak Farms","price_hint":null},{"booking_link":null,"day":1,"details":"Alternative apple cider donuts breakfast stop; opens 9am","item_type":"restaurant","location":"New Hampshire, United States","name":"Russell Orchards","price_hint":null},{"booking_link":null,"day":1,"details":"34.5-mile scenic byway from Lincoln to Conway with viewpoints, state parks and hikes","item_type":"activity","location":"White Mountains, New Hampshire, United States","name":"Kancamagus Highway","price_hint":null},{"booking_link":null,"day":1,"details":"Sunset with a drink on the wraparound porch","item_type":"hotel","location":"White Mountains, New Hampshire, United States","name":"Omni Mount Washington Resort","price_hint":null},{"booking_link":null,"day":1,"details":"Dinner spot in the White Mountains area","item_type":"restaurant","location":"White Mountains, New Hampshire, United States","name":"Inn at Thorn Hill","price_hint":null}],"source_urls":["https://laxtoluxury.com/four-day-fall-foliage-itinerary/"],"summary":"Creator-authored 4-day fall-foliage itinerary across Vermont and New Hampshire on the LAX to Luxury blog. Day 1 covers flying into Boston, apple-cider donuts at Smolak Farms or Russell Orchards, the Kancamagus Highway, and sunset at the Omni Mount Washington Resort.","title":"A Leaf-Peeper's Paradise: Four Days of Fall Foliage Fun in Vermont and New Hampshire"}],"notes":"Extraction covers day 1 in full; the source page contains further days. Only facts verified from the fetched snippet were recorded — no details were invented for days 2-4.","platform":"tiktok"},{"handle":"@limsawkward","itineraries":[],"notes":"No structured itinerary found. Alexa Moore posts travel tips and story-style recommendations, but no structured day plans or trip-tied itinerary content surfaced.","platform":"tiktok"},{"handle":"@lindsaypaigestein","itineraries":[],"notes":"No structured itinerary found. She is a freelance travel writer/PR creator; a TikTok post mentions North and South Island New Zealand itineraries, but no exact retrievable source URL was available, so nothing was extracted.","platform":"tiktok"},{"handle":"@lu_madeline","itineraries":[],"notes":"No structured itinerary found. Madeline posts family travel tips highlighting hotels, foods and experiences, but no structured day plans or trip-tied guides surfaced.","platform":"tiktok"},{"handle":"@madelinestraveling","itineraries":[],"notes":"No structured itinerary found attributable to this handle. Search results surfaced itineraries from other creators named Madeline, none tied to @madelinestraveling.","platform":"tiktok"},{"handle":"@madlennaa2","itineraries":[],"notes":"No structured itinerary found. No matching creator-authored itinerary content surfaced for this handle.","platform":"tiktok"}]}
+{
+ "batch": 3,
+ "extractions": [
+  {
+   "handle": "@_abbyvogel",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Creator focuses on budget travel/WWOOF content; searches surfaced no creator-authored day plans, destination guides, or trip-tied recommendations.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@adrian.baias",
+   "itineraries": [],
+   "notes": "No itinerary found attributable to this handle. Searches surfaced unrelated luxury-travel accounts under a similar name; no creator-authored trip plans, guides, or recommendation lists.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@alvatheexplorer",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Search results returned itineraries from other creators, none authored by @alvatheexplorer.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@bodiek",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Searches returned Philippines/Bali plans from other creators, not authored by @bodiek.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@claireandpeter",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Jordan",
+     "days": 10,
+     "destination": "Jordan",
+     "items": [
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Visited during the 10-day Jordan leg of the world trip",
+       "item_type": "activity",
+       "location": "Madaba, Jordan",
+       "name": "Madaba",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Visited during the 10-day Jordan leg",
+       "item_type": "activity",
+       "location": "Dead Sea, Jordan",
+       "name": "Dead Sea",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Hotel stay named in the Jordan itinerary",
+       "item_type": "hotel",
+       "location": "Jordan",
+       "name": "Hilton Hotel",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Desert stop on the Jordan itinerary",
+       "item_type": "activity",
+       "location": "Wadi Rum, Jordan",
+       "name": "Wadi Rum",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Desert camp stay in Wadi Rum",
+       "item_type": "hotel",
+       "location": "Wadi Rum, Jordan",
+       "name": "Aladdin Camp",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Desert tour taken during the trip",
+       "item_type": "activity",
+       "location": "Wadi Rum, Jordan",
+       "name": "Wadi Rum Desert Tour",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Airbnb stay in Wadi Rum",
+       "item_type": "hotel",
+       "location": "Wadi Rum, Jordan",
+       "name": "Wadi Rum Airbnb",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Site visited at Petra",
+       "item_type": "activity",
+       "location": "Petra, Jordan",
+       "name": "Petra Monastery",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Site visited at Petra",
+       "item_type": "activity",
+       "location": "Petra, Jordan",
+       "name": "Petra Treasury",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Hotel stay at Petra",
+       "item_type": "hotel",
+       "location": "Wadi Musa, Jordan",
+       "name": "Petra Guests Hotel",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Arrival into Jordan from Egypt to begin the leg",
+       "item_type": "transport",
+       "location": null,
+       "name": "Egypt-to-Jordan travel",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Departure from Jordan onward to Bangkok",
+       "item_type": "transport",
+       "location": null,
+       "name": "Amman-to-Bangkok travel",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.claireandpeter.com/world-trip/jordan-itinerary/"
+     ],
+     "summary": "Day-by-day guide covering the creators' 10-day trip through Jordan from March 14 to March 23, 2022, including Madaba, the Dead Sea, Wadi Rum and Petra. Includes named stays such as Aladdin Camp in Wadi Rum, a Wadi Rum Airbnb, and Petra Guests Hotel.",
+     "title": "Jordan Itinerary"
+    },
+    {
+     "confidence": "high",
+     "country": "Egypt",
+     "days": 12,
+     "destination": "Egypt",
+     "items": [
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Trip start and end point; includes museum visit and final dinner",
+       "item_type": "activity",
+       "location": "Cairo, Egypt",
+       "name": "Cairo",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Hotel stay in Cairo",
+       "item_type": "hotel",
+       "location": "Cairo, Egypt",
+       "name": "Golden Pyramid Inn",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Visited with the Sphinx",
+       "item_type": "activity",
+       "location": "Giza, Egypt",
+       "name": "Great Pyramids",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Visited with the Great Pyramids",
+       "item_type": "activity",
+       "location": "Giza, Egypt",
+       "name": "Sphinx",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Day visit from Cairo",
+       "item_type": "activity",
+       "location": "Saqqara, Egypt",
+       "name": "Saqqara",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Internal flight to continue the trip south",
+       "item_type": "transport",
+       "location": "Cairo to Aswan, Egypt",
+       "name": "Flight to Aswan",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Traditional sailing boat ride on the Nile",
+       "item_type": "activity",
+       "location": "Aswan, Egypt",
+       "name": "Felucca ride",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Temple visit in Aswan",
+       "item_type": "activity",
+       "location": "Aswan, Egypt",
+       "name": "Temple of Philae",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Nile cruise ship from Aswan to Luxor",
+       "item_type": "hotel",
+       "location": "Nile River, Egypt",
+       "name": "Moondance Nile cruise ship",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Temple stop on the Nile cruise",
+       "item_type": "activity",
+       "location": "Kom Ombo, Egypt",
+       "name": "Kom Ombo Temple",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Visited from Luxor",
+       "item_type": "activity",
+       "location": "Luxor, Egypt",
+       "name": "Valley of the Kings",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Visited from Luxor",
+       "item_type": "activity",
+       "location": "Luxor, Egypt",
+       "name": "Temple of Hatshepsut",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Visited in Luxor",
+       "item_type": "activity",
+       "location": "Luxor, Egypt",
+       "name": "Karnak Temple",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Visited in Luxor",
+       "item_type": "activity",
+       "location": "Luxor, Egypt",
+       "name": "Luxor Temple",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.claireandpeter.com/world-trip/egypt-cruise-the-nile/"
+     ],
+     "summary": "Twelve-day daily itinerary through Egypt covering Cairo, the Giza pyramids, Saqqara, Aswan, a Nile cruise to Luxor, and a return to Cairo. Names the Golden Pyramid Inn, the Moondance Nile cruise ship, and major temples including Karnak, Luxor, Kom Ombo and the Valley of the Kings.",
+     "title": "Egypt Daily Itinerary"
+    },
+    {
+     "confidence": "high",
+     "country": "Georgia",
+     "days": 23,
+     "destination": "Georgia",
+     "items": [
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Capital stop on the Georgia itinerary",
+       "item_type": "activity",
+       "location": "Tbilisi, Georgia",
+       "name": "Tbilisi",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Mountain stop on the Georgia itinerary",
+       "item_type": "activity",
+       "location": "Kazbegi, Georgia",
+       "name": "Kazbegi",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Wine region leg of the trip",
+       "item_type": "activity",
+       "location": "Kakheti, Georgia",
+       "name": "Kakheti / Telavi",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Winery visited in Kakheti",
+       "item_type": "activity",
+       "location": "Kakheti, Georgia",
+       "name": "Marani Milorauli",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Winery visited in Kakheti",
+       "item_type": "activity",
+       "location": "Kakheti, Georgia",
+       "name": "Sesikeli",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Winery visited in Kakheti",
+       "item_type": "activity",
+       "location": "Kakheti, Georgia",
+       "name": "Zurab Kviriashvili",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Winery harvest experience",
+       "item_type": "activity",
+       "location": "Kakheti, Georgia",
+       "name": "N1 Winery Harvest Experience",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Stop on the Georgia itinerary",
+       "item_type": "activity",
+       "location": "Borjomi, Georgia",
+       "name": "Borjomi",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Stop on the Georgia itinerary",
+       "item_type": "activity",
+       "location": "Kutaisi, Georgia",
+       "name": "Kutaisi",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Mountain stop on the Georgia itinerary",
+       "item_type": "activity",
+       "location": "Mestia, Georgia",
+       "name": "Mestia",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Novelty accommodation stay in Guria",
+       "item_type": "hotel",
+       "location": "Guria, Georgia",
+       "name": "Wine-barrel Airbnb",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Coastal stop on the Georgia itinerary",
+       "item_type": "activity",
+       "location": "Batumi, Georgia",
+       "name": "Batumi",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.claireandpeter.com/world-trip/georgia-itinerary/"
+     ],
+     "summary": "Twenty-three-day itinerary (days 193-215 of the creators' world trip) across Georgia, covering Tbilisi, Kazbegi, the Kakheti wine region, Borjomi, Kutaisi, Mestia, Guria and Batumi. Names specific wineries including Marani Milorauli, Sesikeli and Zurab Kviriashvili, plus a wine-barrel Airbnb in Guria.",
+     "title": "Georgia Itinerary"
+    }
+   ],
+   "notes": "Richest source in batch: the creators' around-the-world index states its linked itineraries cover all 365 days and include hotels, excursions, tours and operator contacts (https://www.claireandpeter.com/world-trip-categories/around-the-world-trip-itinerary/). Individual item day numbers were not extracted because the day-by-day mapping for each named item was not verified; itinerary-level day counts come from the sources.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@courtandnate",
+   "itineraries": [
+    {
+     "title": "Oregon to California Costal Road Trip",
+     "destination": "Portland, Oregon to Sacramento, California (coastal route)",
+     "country": "United States",
+     "days": 4,
+     "summary": "A 4-day road trip from Portland, OR to Sacramento, CA via the southern Oregon and northern California coasts, sharing favorite stops along the way. [Found in documented re-search 2026-09-16; missed by the original 2026-09-15 extraction. Source page verified live 2026-09-16.]",
+     "source_urls": [
+      "https://www.courtandnate.com/blog/oregon-to-california"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Florence Dunes",
+       "location": null,
+       "details": "First stop; dog-friendly dunes/beach.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Humbug Mountain State Park",
+       "location": null,
+       "details": "Hiking, campground, water fill and dump station.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Arizona Beach State Recreation Site",
+       "location": null,
+       "details": "Picnic areas, beach parking; lunch/yoga stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "restaurant",
+       "name": "Eureka Natural Foods",
+       "location": null,
+       "details": "Their usual first stop once in California.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Bruhel Point",
+       "location": null,
+       "details": "Overnight parking; coastal trail/views.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Jug Handle State Natural Reserve",
+       "location": null,
+       "details": "Trails and scenic walk.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Mendocino",
+       "location": null,
+       "details": "Neighborhood walk; Corners of the Mouth; Good Life Cafe.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Point Arena Lighthouse",
+       "location": null,
+       "details": "Scenery; dinner and sunset.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ],
+   "notes": "No structured itinerary found. Their site (https://www.courtandnate.com/) offers an unnamed favorites map and van-build resources, but no extractable named trip, day plan, or trip-tied recommendation list. | Re-search 2026-09-16 found a genuine itinerary missed originally: 'Oregon to California Costal Road Trip' (4 days, 8 stops) on courtandnate.com, verified live.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@danidboyy1",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Content is Emirates flight-attendant advice/vlogs, not trip plans or destination guides.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@danmaniel",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Content is primarily school-bus conversion/build advice, not trip plans.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@dinasarraj",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Content describes luxury hotels and slow travel, but no creator-authored day plans or trip-tied guides surfaced.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@emmaexpedition",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Content is scenic West Coast/Namibia/Utah photography and travel clips, not structured plans.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@erikakullberg",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Content is travel-rights, airline-compensation and credit-card advice, not trip plans.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@footluce",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Creator posts Southeast Asia budget/solo travel content, but no structured creator-authored itinerary surfaced.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@heyshetravels",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Layla AI pages incorporate captions attributed to this handle, but those itineraries appear AI-generated/third-party, not creator-authored. No direct creator source independently supports a structured itinerary, so none was extracted.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@hudsonandemily",
+   "itineraries": [
+    {
+     "confidence": "medium",
+     "country": "Iceland",
+     "days": null,
+     "destination": "Iceland",
+     "items": [
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Named Ring Road highlight",
+       "item_type": "activity",
+       "location": "South Coast, Iceland",
+       "name": "Skógafoss Waterfall",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Named Ring Road highlight",
+       "item_type": "activity",
+       "location": "Southeast Iceland",
+       "name": "Vatnajökull Glacier",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Named Ring Road highlight",
+       "item_type": "activity",
+       "location": "Golden Circle, Iceland",
+       "name": "Strokkur Geyser",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Named Ring Road highlight",
+       "item_type": "activity",
+       "location": "Highlands, Iceland",
+       "name": "Landmannalaugar",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Named Ring Road highlight",
+       "item_type": "activity",
+       "location": "Snæfellsnes Peninsula, Iceland",
+       "name": "Kirkjufell",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Named Ring Road highlight",
+       "item_type": "activity",
+       "location": "Grindavík, Iceland",
+       "name": "Blue Lagoon",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Volcanic activity site named in the itinerary",
+       "item_type": "activity",
+       "location": "Reykjanes Peninsula, Iceland",
+       "name": "Fagradalsfjall",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Volcanic activity site named in the itinerary",
+       "item_type": "activity",
+       "location": "Reykjanes Peninsula, Iceland",
+       "name": "Sundhnúkur Crater Row",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Canyon featured in the video",
+       "item_type": "activity",
+       "location": "Southeast Iceland",
+       "name": "Múlagljúfur Canyon",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@hudsonandemily/video/7619036734390553874?_r=1&_d=secCgYIASAHKAESPgo8ovXHD7NaPo7riw5R7iWLZyHpzGuBlmmhFccgpnHwo84XV7mk23r%2FWdbI745LVuemWk%2FqnKJ7s70FETfdGgA%3D&_svg=1&checksum=0cb32fccaa648231d422b40f0d0eb980ede8084b3747b2783f5ac3a262e4b6e7&item_author_type=2&link_reflow_popup_iteration_s"
+     ],
+     "summary": "The creators label this a 'perfect 1-2 week itinerary' of Ring Road highlights in Iceland, listing key stops along the Ring Road. It is a structured destination list tied to their trip rather than a day-by-day plan.",
+     "title": "Iceland Ring Road Highlights — Perfect 1-2 Week Itinerary"
+    }
+   ],
+   "notes": "Days recorded as null because '1-2 weeks' is a range, not a single integer. A Palau ocean-highlights post by the same creators was found but excluded because its only retrievable source URL was truncated and could not be reproduced exactly.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@itsjustgizem",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Gizem posts solo travel vlogs (e.g., Berlin), but no creator-authored day plans or destination guides surfaced.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@jacob",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Jacob Riglin posts scenic photography/adventure videos with no structured trip plans or guides.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@jordentually",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "United Kingdom",
+     "days": 7,
+     "destination": "Scotland",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Day 1 stop on the North Coast 500",
+       "item_type": "activity",
+       "location": "Caithness, Scotland",
+       "name": "Whaligoe Steps",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Day 1 stop on the North Coast 500",
+       "item_type": "activity",
+       "location": "Caithness, Scotland",
+       "name": "Duncansby Head",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Day 2 stop on the North Coast 500",
+       "item_type": "activity",
+       "location": "Durness, Scotland",
+       "name": "Smoo Cave",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Day 2 stop on the North Coast 500",
+       "item_type": "activity",
+       "location": "North Coast, Scotland",
+       "name": "Chocolate Mountain",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Day 3 stop on the North Coast 500",
+       "item_type": "activity",
+       "location": "Sutherland, Scotland",
+       "name": "Sandwood Bay Beach",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Day 3 stop on the North Coast 500",
+       "item_type": "activity",
+       "location": "Sutherland, Scotland",
+       "name": "Kylesku Bridge",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Day 3 stop on the North Coast 500",
+       "item_type": "activity",
+       "location": "Sutherland, Scotland",
+       "name": "Achmelvich Bay",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Day 4 stop on the North Coast 500",
+       "item_type": "activity",
+       "location": "Assynt, Scotland",
+       "name": "Stac Pollaidh",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Day 4 stop on the North Coast 500",
+       "item_type": "activity",
+       "location": "Applecross, Scotland",
+       "name": "Applecross Pass",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Day 4 stop on the North Coast 500",
+       "item_type": "activity",
+       "location": "Wester Ross, Scotland",
+       "name": "Loch Carron",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Day 5 stop on the Isle of Skye",
+       "item_type": "activity",
+       "location": "Isle of Skye, Scotland",
+       "name": "Old Man of Storr",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Day 5 stops on the Isle of Skye",
+       "item_type": "activity",
+       "location": "Isle of Skye, Scotland",
+       "name": "Kilt Rock and The Quiraing",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Day 6 stop on the Isle of Skye",
+       "item_type": "activity",
+       "location": "Isle of Skye, Scotland",
+       "name": "Fairy Pools",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Day 7 stops on the Isle of Skye",
+       "item_type": "activity",
+       "location": "Isle of Skye, Scotland",
+       "name": "Neist Point Lighthouse and Coral Beach",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Day 7 stop",
+       "item_type": "activity",
+       "location": "Fort William, Scotland",
+       "name": "Ben Nevis",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Day 7 stop",
+       "item_type": "activity",
+       "location": "Lochaber, Scotland",
+       "name": "Glenfinnan Viaduct",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.youtube.com/watch?v=6E62FzhNyU4"
+     ],
+     "summary": "Creator-authored 7-day road trip itinerary through the North Coast 500 and the Isle of Skye, with each day naming specific stops. The video description includes a day-by-day location list with video timestamps and a Google Maps pin list.",
+     "title": "The Best North Coast 500 + Isle of Skye Travel Guide (7 Day Itinerary)"
+    }
+   ],
+   "notes": "Source is the creator's own YouTube travel guide (Jorden Tually's channel, identified via his nordvpn.com/jordentually link and Jorden social links in the description). Day numbers are taken directly from the creator's day-by-day chapter list.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@kelseyinlondon",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "United Kingdom",
+     "days": 4,
+     "destination": "Cornwall",
+     "items": [
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Recommended base for the 4-day trip",
+       "item_type": "hotel",
+       "location": "St Mabyn, Cornwall, United Kingdom",
+       "name": "Hoburne St Mabyn",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Suggested relaxing activity",
+       "item_type": "activity",
+       "location": "Cornwall, United Kingdom",
+       "name": "Beach yoga",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Suggested relaxing activity",
+       "item_type": "activity",
+       "location": "Cornwall, United Kingdom",
+       "name": "Nature walks",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Foodie suggestion for the trip",
+       "item_type": "restaurant",
+       "location": "Cornwall, United Kingdom",
+       "name": "Fresh seafood dining",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Suggested relaxing activity",
+       "item_type": "activity",
+       "location": "Cornwall, United Kingdom",
+       "name": "Cocktails with ocean views",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Day 1 is largely the commute; 5-6 hour scenic drive from London, or train from London Paddington to Bodmin Parkway (3h45m)",
+       "item_type": "transport",
+       "location": "London to Cornwall, United Kingdom",
+       "name": "Drive from London",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://kelseyinlondon.com/cornwall-itinerary/"
+     ],
+     "summary": "Creator-authored 4-day Cornwall itinerary based on her stay at Hoburne St Mabyn, positioned as a slow, relaxing escape for Londoners. Covers day-by-day activity, adventure and foodie suggestions including beach yoga, nature walks, cocktails with ocean views and fresh seafood.",
+     "title": "The Perfect 4-day Cornwall Itinerary"
+    }
+   ],
+   "notes": "The creator also publishes a broader London travel guide with example itineraries (https://kelseyinlondon.com/london-travel-guide/), but the Cornwall page is the cleanest single structured itinerary and was extracted as the representative item. Individual item day numbers were not assigned because per-day detail was not fully verified.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@kenxtori",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Ken and Tori post international couple/new-parent travel tips and destination clips (e.g., Mallorca, St. John beaches), but no creator-authored day plans or trip-tied guides surfaced.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@laxtoluxury",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "United States",
+     "days": 4,
+     "destination": "Vermont and New Hampshire",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Redeye from the West Coast or first morning flight; rental car pickup",
+       "item_type": "transport",
+       "location": "Boston, Massachusetts, United States",
+       "name": "Fly into Boston",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Apple cider donuts breakfast stop; opens 7am",
+       "item_type": "restaurant",
+       "location": "New Hampshire, United States",
+       "name": "Smolak Farms",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Alternative apple cider donuts breakfast stop; opens 9am",
+       "item_type": "restaurant",
+       "location": "New Hampshire, United States",
+       "name": "Russell Orchards",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "34.5-mile scenic byway from Lincoln to Conway with viewpoints, state parks and hikes",
+       "item_type": "activity",
+       "location": "White Mountains, New Hampshire, United States",
+       "name": "Kancamagus Highway",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Sunset with a drink on the wraparound porch",
+       "item_type": "hotel",
+       "location": "White Mountains, New Hampshire, United States",
+       "name": "Omni Mount Washington Resort",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Dinner spot in the White Mountains area",
+       "item_type": "restaurant",
+       "location": "White Mountains, New Hampshire, United States",
+       "name": "Inn at Thorn Hill",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://laxtoluxury.com/four-day-fall-foliage-itinerary/"
+     ],
+     "summary": "Creator-authored 4-day fall-foliage itinerary across Vermont and New Hampshire on the LAX to Luxury blog. Day 1 covers flying into Boston, apple-cider donuts at Smolak Farms or Russell Orchards, the Kancamagus Highway, and sunset at the Omni Mount Washington Resort.",
+     "title": "A Leaf-Peeper's Paradise: Four Days of Fall Foliage Fun in Vermont and New Hampshire"
+    }
+   ],
+   "notes": "Extraction covers day 1 in full; the source page contains further days. Only facts verified from the fetched snippet were recorded — no details were invented for days 2-4.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@limsawkward",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Alexa Moore posts travel tips and story-style recommendations, but no structured day plans or trip-tied itinerary content surfaced.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@lindsaypaigestein",
+   "itineraries": [],
+   "notes": "No structured itinerary found. She is a freelance travel writer/PR creator; a TikTok post mentions North and South Island New Zealand itineraries, but no exact retrievable source URL was available, so nothing was extracted.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@lu_madeline",
+   "itineraries": [],
+   "notes": "No structured itinerary found. Madeline posts family travel tips highlighting hotels, foods and experiences, but no structured day plans or trip-tied guides surfaced.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@madelinestraveling",
+   "itineraries": [],
+   "notes": "No structured itinerary found attributable to this handle. Search results surfaced itineraries from other creators named Madeline, none tied to @madelinestraveling.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@madlennaa2",
+   "itineraries": [],
+   "notes": "No structured itinerary found. No matching creator-authored itinerary content surfaced for this handle.",
+   "platform": "tiktok"
+  }
+ ]
+}

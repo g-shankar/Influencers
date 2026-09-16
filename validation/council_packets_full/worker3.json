@@ -1,0 +1,913 @@
+{
+ "worker": 3,
+ "check_date_utc": "2026-09-16",
+ "packets": [
+  {
+   "id": 3,
+   "batch": 1,
+   "handle": "@asiatravel",
+   "platform": "instagram",
+   "title": "Royal Trek - 7 Days",
+   "destination": "Pokhara region",
+   "country": "Nepal",
+   "days": 7,
+   "summary": "A 7-day easy-grade guided trek in the Pokhara region: arrival in Kathmandu, travel to Pokhara, then a 4-day village-to-village trek through Kalikasthan, Syaklung and Chisapani Danda with a return via Begnas Tal. Full day-by-day route with elevations, included guide/porter/permits/meals listed; specific trek lodges not named, so confidence is medium.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://asiatravel.com.np/Trekking/Royal_Trek_-_7_Days.htm"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Arrival and hotel transfer",
+     "location": "Kathmandu"
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Travel to Pokhara",
+     "location": "Kathmandu -> Pokhara"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Trek Pokhara to Kalikasthan",
+     "location": "Kalikasthan"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Trek to Syaklung",
+     "location": "Syaklung"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Trek to Chisapani Danda",
+     "location": "Chisapani Danda"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Trek to Begnas Tal, return to Pokhara",
+     "location": "Begnas Tal -> Pokhara"
+    },
+    {
+     "day": 7,
+     "item_type": "transport",
+     "name": "Return to Kathmandu",
+     "location": "Pokhara -> Kathmandu"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Package inclusions",
+     "location": "Nepal"
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "batch": 1,
+   "handle": "@finduslost",
+   "platform": "instagram",
+   "title": "Cotswolds, England: 7-Day Itinerary for First-Time Visitors",
+   "destination": "Cotswolds, England",
+   "country": "United Kingdom",
+   "days": 7,
+   "summary": "Selena Taylor's full 7-day Cotswolds itinerary for first-time visitors, based on Chipping Campden as home base. Covers village-by-village day plans (Bourton-on-the-Water, the Slaughters, Bibury, Burford, Castle Combe, Snowshill, Broadway), named hotels and Airbnbs, pubs and tea rooms, gardens, and family activities, with practical tips on airports, rental car and timing.",
+   "confidence": "high",
+   "source_urls": [
+    "https://finduslost.com/cotswolds-england-7-day-itinerary-first-time-visitors/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Arrive + rental car",
+     "location": "Cotswolds"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Chipping Campden base stay",
+     "location": "Chipping Campden"
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "High street stroll + dinner",
+     "location": "Chipping Campden"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Bourton-on-the-Water morning",
+     "location": "Bourton-on-the-Water"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Upper + Lower Slaughter",
+     "location": "The Slaughters"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Stow-on-the-Wold (optional)",
+     "location": "Stow-on-the-Wold"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Bibury + Arlington Row",
+     "location": "Bibury"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Burford",
+     "location": "Burford"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Castle Combe (Option A)",
+     "location": "Castle Combe"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Blockley + Moreton-in-Marsh (Option B)",
+     "location": "Blockley, Moreton-in-Marsh"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Snowshill Manor and Gardens",
+     "location": "Snowshill"
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Snowshill Arms",
+     "location": "Snowshill"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Broadway + Broadway Tower",
+     "location": "Broadway, Stanton"
+    },
+    {
+     "day": 6,
+     "item_type": "restaurant",
+     "name": "Daylesford Organic",
+     "location": "Daylesford"
+    },
+    {
+     "day": 6,
+     "item_type": "other",
+     "name": "Revisit/catch-up day",
+     "location": "Cotswolds"
+    },
+    {
+     "day": 7,
+     "item_type": "other",
+     "name": "Last morning + depart",
+     "location": "Chipping Campden"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Dream stays shortlist",
+     "location": "Cotswolds"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "The Bull / Pit Kitchen",
+     "location": "Charlbury"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Family activities",
+     "location": "Cotswolds"
+    }
+   ]
+  },
+  {
+   "id": 21,
+   "batch": 1,
+   "handle": "@lostleblanc",
+   "platform": "instagram",
+   "title": "How To Travel Milos (Greece's Hidden Gem)",
+   "destination": "Milos",
+   "country": "Greece",
+   "days": null,
+   "summary": "Recommendation list tied to his 2022 Milos trip from his YouTube video description: the best things to do on Milos including Sarakiniko and Kleftiko beaches, restaurants in Plaka, and the Noma Milos hotel.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=_qMcEMjLYhw"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sarakiniko beach",
+     "location": "Milos"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Kleftiko beach",
+     "location": "Milos"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Best Milos restaurants in Plaka",
+     "location": "Plaka, Milos"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Noma Milos",
+     "location": "Milos"
+    }
+   ]
+  },
+  {
+   "id": 30,
+   "batch": 2,
+   "handle": "@oneikathetraveller",
+   "platform": "instagram",
+   "title": "The Ultimate One-Week Ghana Itinerary",
+   "destination": "Accra, Kumasi, and Cape Coast",
+   "country": "Ghana",
+   "days": 7,
+   "summary": "Oneika Raymond's own one-week Ghana trip with girlfriends (she notes they actually spent eight days): four days in Accra, two in Kumasi, two on the Cape Coast. Day-by-day structure with named hotels, restaurants, activities, and prices \u2014 flight cost, visa fees, cooking class, driver costs, and hotel prices all stated explicitly.",
+   "confidence": "high",
+   "source_urls": [
+    "http://www.oneikathetraveller.com/why-you-should-go-to-ghana-one-week-ghana-itinerary-travel-guide.html"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "flight",
+     "name": "New York City to Accra return",
+     "location": "Accra (Kotoka Airport)"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Kwame Nkrumah Memorial Park and Mausoleum",
+     "location": "Accra"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Black Star Square",
+     "location": "Accra"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Makola Market",
+     "location": "Accra"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Centre for National Culture",
+     "location": "Accra"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Sandbox Beach Bar",
+     "location": "Labadi Beach, Accra"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Boti Falls",
+     "location": "Eastern Region, 2h drive from Accra"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Buka",
+     "location": "Accra"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Chez Clarisse",
+     "location": "Accra"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Manhyia Palace",
+     "location": "Kumasi"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Adanwomase Kente Cloth and Tourism village",
+     "location": "Kumasi"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Adinkra stamping tour",
+     "location": "Kumasi"
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Villa Sankofa",
+     "location": "Kumasi"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Cape Coast Castle and Elmina Castle",
+     "location": "Cape Coast"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Ghanaian cooking workshop with Auntie Esi",
+     "location": "Cape Coast"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Kakum National Park",
+     "location": "Cape Coast"
+    },
+    {
+     "day": 7,
+     "item_type": "hotel",
+     "name": "Ridge Royal Hotel",
+     "location": "Cape Coast"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Hired driver for the week",
+     "location": "Ghana"
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Ghana tourist visa",
+     "location": "Ghanaian consulate, Manhattan"
+    }
+   ]
+  },
+  {
+   "id": 39,
+   "batch": 2,
+   "handle": "@sorelleamore",
+   "platform": "instagram",
+   "title": "Mysterious Mongolia: self-drive 4x4 adventure with Follow The Tracks",
+   "destination": "Mongolia",
+   "country": "Mongolia",
+   "days": null,
+   "summary": "Sorelle experienced Mongolia with Follow The Tracks, billed as the first self-drive 4x4 trip through the country, focused on getting off the tourist track and immersed in local culture rather than Instagram-famous spots. The trip included stays with local nomad families, Eagle Hunting families and camel-breeding families, plus the Gobi Desert, White Stupa and Flaming Cliffs. Not day-by-day, so days and per-day sequencing are unknown.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.sorelleamore.com/blog/2020/7/12/mysterious-mongolia-eagle-hunters-nomads-deserts-and-extreme-4wd-travel-for-adventurous-tourists"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Self-drive 4x4 Mongolia trip (Follow The Tracks)",
+     "location": "Mongolia"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Local nomad family homestay",
+     "location": "Mongolia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Visit Eagle Hunting families",
+     "location": "Mongolia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Gobi Desert",
+     "location": "Mongolia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "White Stupa",
+     "location": "Mongolia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Flaming Cliffs",
+     "location": "Mongolia"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Camel-breeding Mongolian family homestay",
+     "location": "Mongolia"
+    }
+   ]
+  },
+  {
+   "id": 48,
+   "batch": 2,
+   "handle": "@thebucketlistfamily",
+   "platform": "instagram",
+   "title": "Utah Valley Adventures",
+   "destination": "Utah Valley, Utah",
+   "country": "United States",
+   "days": null,
+   "summary": "A family recommendation list tied to their Utah Valley trip (their hometown, explored over a few days with Explore Utah Valley): Sundance chairlift, Fifth Water Hot Springs hike, SUP at Payson Lakes, Rowley's Red Barn, Thanksgiving Point's Holdman Studios/Farm Country/Light of the World Garden, and dinner at Aubergine restaurant. Not day-by-day, but genuine named stops from their own trip journal.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.thebucketlistfamily.com/united-states-of-america"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sundance",
+     "location": "Utah Valley"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Fifth Water Hot Springs hike",
+     "location": "Diamond Fork Canyon, Utah"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Stand-up paddle boarding at Payson Lakes",
+     "location": "Payson Canyon, Utah"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Rowley's Red Barn",
+     "location": "Utah Valley"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Holdman Studios",
+     "location": "Thanksgiving Point, Utah"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Farm Country",
+     "location": "Thanksgiving Point, Utah"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "The Light of the World Garden",
+     "location": "Thanksgiving Point, Utah"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Aubergine restaurant",
+     "location": "Utah Valley"
+    }
+   ]
+  },
+  {
+   "id": 57,
+   "batch": 2,
+   "handle": "@yachtlife",
+   "platform": "instagram",
+   "title": "Windward Islands 7-Day Yachting Itinerary",
+   "destination": "Windward Islands",
+   "country": "Caribbean (St. Lucia, St. Vincent & the Grenadines)",
+   "days": 7,
+   "summary": "A sample 7-day luxury yachting itinerary through the Windward Islands: boarding in Castries, St. Lucia, then cruising to Marigot Bay and the Pitons, Bequia, Union Island, Tobago Cays, Mustique and Young Island, returning via the Soufriere volcano. Each day pairs a cruise leg with snorkeling, diving or beach time.",
+   "confidence": "high",
+   "source_urls": [
+    "https://Www.yachtlife.com/itineraries/windward-islands"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Cruise to Marigot Bay (1 hour)",
+     "location": "Castries to Marigot Bay, St. Lucia"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Pitons",
+     "location": "St. Lucia"
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Cruise to Bequia (4 hours)",
+     "location": "Castries to Bequia"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Bequia snorkeling and diving",
+     "location": "Bequia"
+    },
+    {
+     "day": 3,
+     "item_type": "transport",
+     "name": "Cruise to Union Island (2 hours)",
+     "location": "Bequia to Union Island"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Union Island beaches",
+     "location": "Union Island"
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "Cruise to Tobago Cays (30 min)",
+     "location": "Union Island to Tobago Cays"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Tobago Cays snorkeling and diving",
+     "location": "Tobago Cays"
+    },
+    {
+     "day": 5,
+     "item_type": "transport",
+     "name": "Cruise to Mustique (1 hour)",
+     "location": "Tobago Cays to Mustique"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Mustique horseback riding and hiking",
+     "location": "Mustique"
+    },
+    {
+     "day": 6,
+     "item_type": "transport",
+     "name": "Cruise to Young Island (6 hours)",
+     "location": "Mustique to Young Island"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Young Island private beaches",
+     "location": "Young Island"
+    },
+    {
+     "day": 7,
+     "item_type": "transport",
+     "name": "Cruise back to Castries (6 hours)",
+     "location": "Young Island to Castries"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Soufriere volcano",
+     "location": "St. Lucia"
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "batch": 3,
+   "handle": "@kelseyinlondon",
+   "platform": "tiktok",
+   "title": "The Perfect 4-day Cornwall Itinerary",
+   "destination": "Cornwall",
+   "country": "United Kingdom",
+   "days": 4,
+   "summary": "Creator-authored 4-day Cornwall itinerary based on her stay at Hoburne St Mabyn, positioned as a slow, relaxing escape for Londoners. Covers day-by-day activity, adventure and foodie suggestions including beach yoga, nature walks, cocktails with ocean views and fresh seafood.",
+   "confidence": "high",
+   "source_urls": [
+    "https://kelseyinlondon.com/cornwall-itinerary/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Hoburne St Mabyn",
+     "location": "St Mabyn, Cornwall, United Kingdom"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Beach yoga",
+     "location": "Cornwall, United Kingdom"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Nature walks",
+     "location": "Cornwall, United Kingdom"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Fresh seafood dining",
+     "location": "Cornwall, United Kingdom"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Cocktails with ocean views",
+     "location": "Cornwall, United Kingdom"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Drive from London",
+     "location": "London to Cornwall, United Kingdom"
+    }
+   ]
+  },
+  {
+   "id": 75,
+   "batch": 4,
+   "handle": "@packslight",
+   "platform": "tiktok",
+   "title": "Spring Break in Puerto Rico: Free Itinerary and Budget Breakdown",
+   "destination": "San Juan, Puerto Rico",
+   "country": "Puerto Rico",
+   "days": 6,
+   "summary": "Gabby Beckford's 6-day/5-night budget spring break in Puerto Rico with friend Hannah, staying in an Old San Juan Airbnb. Day-by-day itinerary with exact costs; total trip ~$786.30 per person (flight $290.30, Airbnb $289, local expenses $207.30). No US passport needed for Americans.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.packslight.com/puerto-rico-spring-break/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Taxi from Luis Munoz Marin Airport to Old San Juan",
+     "location": "San Juan"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Sunset guided tour through Old Town",
+     "location": "Old San Juan"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Moreno Spot",
+     "location": "Old San Juan"
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Airbnb in Old San Juan",
+     "location": "Old San Juan"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Castillo El Morro",
+     "location": "Old San Juan"
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Ferry to Catano",
+     "location": "Old San Juan to Catano"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Bacardi Factory tour",
+     "location": "Catano"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Ron del Barralito Distillery tour (alternative)",
+     "location": "Puerto Rico"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "NoNo's",
+     "location": "Old San Juan"
+    },
+    {
+     "day": 3,
+     "item_type": "transport",
+     "name": "Taxi OSJ to El Condado Beach",
+     "location": "San Juan"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "El Condado Beach",
+     "location": "San Juan"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Bun's Burger Shop",
+     "location": "El Condado"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Senor Frog's Ladies Night",
+     "location": "San Juan"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Museo de Las Americas",
+     "location": "Old San Juan"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Castillo San Cristobal",
+     "location": "Old San Juan"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "La Factoria",
+     "location": "Old San Juan"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Salsa lessons / Latin club night",
+     "location": "Old San Juan"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Naranjito hike and hidden lagoon",
+     "location": "Naranjito"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "La Placita de Santurce",
+     "location": "Santurce, San Juan"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "El Yunque National Park",
+     "location": "Eastern Puerto Rico"
+    },
+    {
+     "day": 6,
+     "item_type": "flight",
+     "name": "Return flight home",
+     "location": "San Juan to home"
+    }
+   ]
+  },
+  {
+   "id": 84,
+   "batch": 4,
+   "handle": "@sonia.c.mota",
+   "platform": "tiktok",
+   "title": "A Perfect Day in Lisbon",
+   "destination": "Lisbon",
+   "country": "Portugal",
+   "days": 1,
+   "summary": "From her own 'A New Life Chapter in Lisbon' video: a full slow-travel day plan through Chiado, Carmo ruins, lunch at Dear Breakfast, the Sao Pedro de Alcantara miradouro, pasteis de nata at Manteigaria, and sunset at Cais do Sodre.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=9hPvsyVCksg"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Perfect slow day in Lisbon",
+     "location": "Lisbon"
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "batch": 4,
+   "handle": "@wheretofindme",
+   "platform": "tiktok",
+   "title": "Perfect day in Asakusa, Tokyo \u2014 10 best things to do",
+   "destination": "Asakusa, Tokyo",
+   "country": "Japan",
+   "days": 1,
+   "summary": "Maz's structured one-day Asakusa plan from her TikTok: morning matcha/coffee, Sens\u014d-ji and Nakamise-d\u014dri, craft shopping, local lunch picks, strongest matcha ice cream, Kappabashi kitchenware street, free observation view, and an underground bar to end the day. All venues named in the post.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.tiktok.com/@wheretofindme/video/7572322138586107139?_r=1&_d=secCgYIASAHKAESPgo8KVJrJ%2F8N7Wbd1KYKnaQV4wZuF%2BkDhzkdfXg81xkSES0E7AKYc7VxUdhZ7jtOe10qiWthmgj33eMwXojwGgA%3D&_svg=3&checksum=188cd14ac182f274820a8d28191d1a8f3712da6b8abd2f63a45c4baa0f58bc6c&link_reflow_popup_iteration_sharer=%7B%22follow_to_play_duration%22%3A1%2C%22click_empty_to_play%22%3A1%2C%22profile_clickable%22%3A1%7D&preview_pb=0&reflow_page_type=1&sec_user_id=MS4wLjABAAAAkzMagdOlBJlgUCcM3WyfZYmdSGPBwC1yK2Pn8Llljp2-QTcipmAr&share_app_id=1233&share_item_id=7572322138586107139&share_link_id=ED94A348-8DB7-42D1-9FC8-D908A8549567&share_region=US&share_scene=2&sharer_language=en&social_share_type=0&source=h5_m&timestamp=1773256256&tt_from=facebook&u_code=d81e14e47c08l6&ug_btm=b2878&user_id=6729324644249863173&utm_campaign=client_share&utm_medium=ios&utm_source=facebook"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Hatoya",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Mamekokoro or HATCOFFEE",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Sens\u014d-ji Temple",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Nakamise-d\u014dri",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Y\u016bzen Morita",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "D.Anda",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Nakasei",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Asakusa Sarashinatenko",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Asakusa Imahan",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Suzukien",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Kappabashi Street",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Asakusa Culture Tourist Information Centre",
+     "location": "Asakusa, Tokyo"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Drive in DenDen",
+     "location": "Asakusa, Tokyo"
+    }
+   ]
+  }
+ ]
+}

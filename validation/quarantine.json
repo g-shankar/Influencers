@@ -1,60 +1,70 @@
 {
-  "quarantine": [
-    {
-      "added": "2026-09-15",
-      "handle": "@africansafari",
-      "platform": "instagram",
-      "reason": "May be a brand/tour-operator account rather than an individual creator. Verify account nature before any attribution or outreach.",
-      "status": "quarantined"
-    },
-    {
-      "added": "2026-09-15",
-      "handle": "@limsawkward",
-      "platform": "tiktok",
-      "reason": "Possible source-list typo; handle may not exist. Re-verify against the source publication before use.",
-      "status": "quarantined"
-    },
-    {
-      "added": "2026-09-15",
-      "handle": "@marklharriosn",
-      "platform": "tiktok",
-      "reason": "Possible source-list typo ('harrison'?). Re-verify against the source publication before use.",
-      "status": "quarantined"
-    },
-    {
-      "handle": "@nastasiawong",
-      "platform": "instagram",
-      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
-      "status": "quarantined",
-      "added": "2026-09-15"
-    },
-    {
-      "handle": "@nomadicmovement",
-      "platform": "instagram",
-      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
-      "status": "quarantined",
-      "added": "2026-09-15"
-    },
-    {
-      "handle": "@oceanwanderer",
-      "platform": "instagram",
-      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
-      "status": "quarantined",
-      "added": "2026-09-15"
-    },
-    {
-      "handle": "@rachid_dahnoun",
-      "platform": "instagram",
-      "reason": "Flagged by batch-2 extraction: Morocco itineraries found belong to a same-named tour operator, not this creator. Do not attribute operator content to the creator.",
-      "status": "quarantined",
-      "added": "2026-09-15"
-    },
-    {
-      "handle": "@sidewalkerdaily",
-      "platform": "tiktok",
-      "reason": "Flagged by batch-4 extraction: influencer-marketing consultancy, not a travel creator. Exclude from itinerary attribution unless re-verified.",
-      "status": "quarantined",
-      "added": "2026-09-15"
-    }
-  ]
+ "quarantine": [
+  {
+   "added": "2026-09-15",
+   "handle": "@africansafari",
+   "platform": "instagram",
+   "reason": "May be a brand/tour-operator account rather than an individual creator. Verify account nature before any attribution or outreach.",
+   "status": "quarantined"
+  },
+  {
+   "added": "2026-09-15",
+   "handle": "@limsawkward",
+   "platform": "tiktok",
+   "reason": "Handle confirmed real: EF travel blog explicitly names @limsawkward (Alexa, DC travel creator); the Elon Edge roundup spelling @lilmsawkward was the typo source, not this handle. Documented re-search 2026-09-16 found no itinerary content. Stays quarantined: nothing to attribute.",
+   "status": "quarantined",
+   "evidence_update": "2026-09-16"
+  },
+  {
+   "added": "2026-09-15",
+   "handle": "@marklharriosn",
+   "platform": "tiktok",
+   "reason": "Possible source-list typo ('harrison'?). Re-verify against the source publication before use.",
+   "status": "quarantined"
+  },
+  {
+   "handle": "@nastasiawong",
+   "platform": "instagram",
+   "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+   "status": "quarantined",
+   "added": "2026-09-15"
+  },
+  {
+   "handle": "@nomadicmovement",
+   "platform": "instagram",
+   "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+   "status": "quarantined",
+   "added": "2026-09-15"
+  },
+  {
+   "handle": "@oceanwanderer",
+   "platform": "instagram",
+   "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+   "status": "quarantined",
+   "added": "2026-09-15"
+  },
+  {
+   "handle": "@rachid_dahnoun",
+   "platform": "instagram",
+   "reason": "Flagged by batch-2 extraction: Morocco itineraries found belong to a same-named tour operator, not this creator. Do not attribute operator content to the creator.",
+   "status": "quarantined",
+   "added": "2026-09-15"
+  },
+  {
+   "handle": "@sidewalkerdaily",
+   "platform": "tiktok",
+   "reason": "Flagged by batch-4 extraction: influencer-marketing consultancy, not a travel creator. Exclude from itinerary attribution unless re-verified.",
+   "status": "quarantined",
+   "added": "2026-09-15"
+  },
+  {
+   "added": "2026-09-16",
+   "handle": "@thenationalparktravelers",
+   "platform": "tiktok",
+   "itinerary_title": "Columbia River Gorge Waterfall Drive",
+   "reason": "Full re-verification 2026-09-16 (worker7): UNVERIFIABLE. TikTok video URL unfetchable (rate-limited) with no indexed caption found anywhere; AFAR article's mention of the account could not be confirmed. Independent re-check confirmed no trace of the video caption. Excluded from DB load via --exclude-json. Do not attribute until a reachable source is produced.",
+   "status": "quarantined",
+   "scope": "itinerary"
+  }
+ ]
 }

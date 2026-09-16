@@ -1,0 +1,16 @@
+{
+ "applied_at": "2026-09-16",
+ "corrections": [
+  "id32: Grand Mosque day 1->2, Sand Boarding day 2->1",
+  "id34: Lanikai Beach day null->2",
+  "id54: hotel named 'Sunnymead Hotel (Aireys Inlet)'",
+  "id47: days 3->null",
+  "id56: retitled; summary separates 2016 Armona and 2018 Berlengas fragments",
+  "id30: days 7->8, item day-numbers nulled, confidence high->medium",
+  "id78: days 10->8",
+  "id8: summary booking channels corrected (Flixbus x2, bahn.com x1)",
+  "id41: Taxi to Marrakech ~$90 price removed (misattributed)",
+  "id73: 15 recommendation-row days nulled"
+ ],
+ "note": "id 88 (@thenationalparktravelers, UNVERIFIABLE) is excluded at load time via --exclude-json and recorded in quarantine.json, not edited here."
+}

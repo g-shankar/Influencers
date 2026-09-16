@@ -1,0 +1,765 @@
+{
+ "worker": 7,
+ "check_date_utc": "2026-09-16",
+ "packets": [
+  {
+   "id": 7,
+   "batch": 1,
+   "handle": "@budgettraveller",
+   "platform": "instagram",
+   "title": "3 days in Phuket - Rainy day itinerary",
+   "destination": "Phuket, Thailand (Phuket Old Town, Chalong, Patong, Nai Harn)",
+   "country": "Thailand",
+   "days": 3,
+   "summary": "A 3-day Phuket itinerary built for rainy days, planned with HipTraveler's itinerary planner, spotlighting lesser-known corners of the island. Day 1 explores Phuket Old Town's Sino-Portuguese architecture, museums and Michelin-recognised Southern Thai food. Day 2 covers a responsible elephant sanctuary, Wat Chalong temple, the island's only rum distillery and a Muay Thai boxing night. Day 3 is relaxation at Nai Harn and Kata beaches.",
+   "confidence": "high",
+   "source_urls": [
+    "https://budgettraveller.org/what-to-do-phuket-rainy-day/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Sri the Shophouse Cafe",
+     "location": "125 Soi Soon Utis, Phuket Old Town, Thailand"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Phuket Thai Hua Museum",
+     "location": "28 Krabi Rd, Phuket Old Town, Thailand"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "One Chun Cafe & Restaurant",
+     "location": "48/1 Thep Krasattri Rd, Phuket Old Town, Thailand"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Khao Rang Viewpoint (Monkey Hill)",
+     "location": "Phuket Town, Thailand"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "The Memory at ON ON Hotel",
+     "location": "19 Phangnga Rd, Phuket Old Town, Thailand"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Naya Restaurant & Bar, Rawai",
+     "location": "Rawai, Phuket, Thailand"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Hidden Garden Elephant Sanctuary",
+     "location": "Chalong, Phuket, Thailand"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Wat Chalong Temple (Wat Chaiyathararam)",
+     "location": "Chalong, Phuket, Thailand"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "The Distillery Phuket - Chalong Bay",
+     "location": "14/2 Soi Palai, Chalong, Phuket, Thailand"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Patong Muay Thai Boxing",
+     "location": "2/59 Sainamyen Rd, Patong, Phuket, Thailand"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Nai Harn Beach",
+     "location": "Nai Harn, Rawai, Phuket, Thailand"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Kata Beach and Promthep Cape",
+     "location": "Kata / southern tip, Phuket, Thailand"
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Nai Harn Collective",
+     "location": "Rawai, Phuket, Thailand"
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "batch": 1,
+   "handle": "@johnnyjet",
+   "platform": "instagram",
+   "title": "3 Days at Sonoma Wine Country Weekend",
+   "destination": "Sonoma, California",
+   "country": "United States",
+   "days": 3,
+   "summary": "Day-by-day account of the 3-day Sonoma Wine Country Weekend (Labor Day weekend) as covered for JohnnyJet.com: fly into Santa Rosa, base at The Fairmont Sonoma Mission Inn & Spa, and attend the weekend's ticketed events \u2014 kickoff party and Sonoma Starlight at Coppola Winery (Day 1), Taste of Sonoma and the Buena Vista gala dinner (Day 2), and the Sonoma Harvest Wine Auction at Chateau St. Jean (Day 3).",
+   "confidence": "high",
+   "source_urls": [
+    "https://johnnyjet.com/3-days-sonoma-wine-country-weekend/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "flight",
+     "name": "Alaska Airlines to Santa Rosa",
+     "location": "Los Angeles (LAX) to Sonoma County Airport (STS), Santa Rosa"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Car rental at Sonoma County Airport",
+     "location": "Santa Rosa airport to Sonoma"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "The Fairmont Sonoma Mission Inn & Spa",
+     "location": "Sonoma, CA"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Willow Stream Spa",
+     "location": "The Fairmont Sonoma Mission Inn & Spa"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Sonoma Wine Country Weekend kickoff party",
+     "location": "Atwood Ranch, Sonoma County"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Sonoma Starlight",
+     "location": "Francis Ford Coppola Winery, Geyserville"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Taste of Sonoma",
+     "location": "MacMurray Estate Vineyards, Russian River Valley"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Gala dinner at Buena Vista Winery",
+     "location": "Buena Vista Winery, Sonoma"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Sonoma Harvest Wine Auction",
+     "location": "Chateau St. Jean, Kenwood"
+    }
+   ]
+  },
+  {
+   "id": 25,
+   "batch": 1,
+   "handle": "@migrationology",
+   "platform": "instagram",
+   "title": "Top 10 Things to Do in Luang Prabang [Your Perfect One Day Itinerary]",
+   "destination": "Luang Prabang",
+   "country": "Laos",
+   "days": 1,
+   "summary": "Mark Wiens's hour-by-hour one-day DIY tour of Luang Prabang: sunrise at Phou Si Mountain (6 AM), morning market snacking (7 AM), khao soi breakfast (9 AM), temples (10 AM), som tam lunch (12 PM), coffee at Saffron (2 PM), sai oua sausage (4 PM), dinner decision (6:30 PM), night market stroll (8 PM), BeerLao (9 PM).",
+   "confidence": "high",
+   "source_urls": [
+    "https://migrationology.com/things-to-do-luang-prabang/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Apple Guest House",
+     "location": "Luang Prabang"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Sunrise at Phou Si Mountain (6 AM)",
+     "location": "Phou Si Mountain"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Luang Prabang Morning Market (7 AM)",
+     "location": "Luang Prabang"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Khao Soi breakfast (9 AM)",
+     "location": "Luang Prabang"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Visit Wat Xieng Thong temple (10 AM)",
+     "location": "Wat Xieng Thong"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Som Tam lunch (12 PM)",
+     "location": "Kounxoua road"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Saffron Coffee (2 PM)",
+     "location": "Mekong River"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Sai Oua sausage (4 PM)",
+     "location": "Kounxoua road"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Dinner decision (6:30 PM)",
+     "location": "Luang Prabang"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Luang Prabang Night Market (8 PM)",
+     "location": "Sisavangvong Road"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "BeerLao riverside (9 PM)",
+     "location": "Luang Prabang"
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "batch": 2,
+   "handle": "@pilotmadeleine",
+   "platform": "instagram",
+   "title": "Hawaii Travel Diary: Oahu Days 1 & 2",
+   "destination": "Oahu, Hawaii",
+   "country": "United States",
+   "days": null,
+   "summary": "Day-by-day travel diary from Madeleine's Hawaii trip: arriving in Honolulu, driving a rental Mustang to Waikiki Beach, dinner at Duke's with Pok\u00e9, then an early-morning kayak from Kualoa Regional Park to Chinaman's Hat. The series continued with more Oahu days and on to Maui; total day count is not stated in the posts I read.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.pilotmadeleine.de/2016/02/07/waikiki-beach-chinamans-heat-hawaii-reisetagebuch-tag-1-2/?lang=en"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "flight",
+     "name": "Arrival at Honolulu International Airport",
+     "location": "Honolulu, Oahu"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Rental car",
+     "location": "Honolulu"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Duke's",
+     "location": "Waikiki Beach"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Kayak to Chinaman's Hat",
+     "location": "Kualoa Regional Park, Oahu"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Lanikai Beach",
+     "location": "Oahu"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Onward to Maui",
+     "location": "Hawaii"
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "batch": 2,
+   "handle": "@theblondeabroad",
+   "platform": "instagram",
+   "title": "The Ultimate 7-Day Cotswolds Itinerary",
+   "destination": "Cotswolds, England",
+   "country": "United Kingdom",
+   "days": 7,
+   "summary": "A week spent exploring the Cotswolds with a girlfriend in November: picturesque villages, rolling green hills, iconic gardens and farm-to-table dining, with cozy autumn vibes and early Christmas charm. Day-by-day overview covers Castle Combe, Bath, the Slaughters, Chipping Campden, Broadway, Cirencester and Bibury, with a hired driver throughout.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.theblondeabroad.com/ultimate-cotswolds-itinerary/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Hired driver for the week",
+     "location": "Cotswolds, England"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Castle Combe",
+     "location": "Cotswolds, England"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Bath, Corsham and Lacock",
+     "location": "Cotswolds, England"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Bourton-on-the-Water, The Slaughters and Stow-on-the-Wold",
+     "location": "Cotswolds, England"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Daylesford and Chipping Campden",
+     "location": "Cotswolds, England"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Broadway and Snowshill",
+     "location": "Cotswolds, England"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Cirencester",
+     "location": "Cotswolds, England"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Bibury",
+     "location": "Cotswolds, England"
+    }
+   ]
+  },
+  {
+   "id": 52,
+   "batch": 2,
+   "handle": "@theplanetd",
+   "platform": "instagram",
+   "title": "The Ultimate Seoul Itinerary - 3 Days in Seoul",
+   "destination": "Seoul",
+   "country": "South Korea",
+   "days": 3,
+   "summary": "A 3-day Seoul itinerary blending must-do sightseeing with casual wandering and unmissable food stops: day 1 is Gyeongbokgung Palace, Bukchon Hanok Village and Insadong; day 2 is Inwangsan Peak, Gwangjang Market, Myeongdong and N-Seoul Tower; day 3 is Changdeokgung, Dongdaemun Design Plaza, Gangnam and Common Ground. The guide includes a saveable itinerary map and transit-card tips.",
+   "confidence": "high",
+   "source_urls": [
+    "https://theplanetd.com/the-ultimate-seoul-itinerary-3-days-in-seoul/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Gyeongbokgung Palace, Bukchon Hanok Village, Insadong",
+     "location": "Seoul"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Inwangsan Peak, Gwangjang Market, Myeongdong, N-Seoul Tower",
+     "location": "Seoul"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Changdeokgung, Dongdaemun Design Plaza, Gangnam, Common Ground",
+     "location": "Seoul"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Seoul transit cards",
+     "location": "Seoul"
+    }
+   ]
+  },
+  {
+   "id": 61,
+   "batch": 3,
+   "handle": "@claireandpeter",
+   "platform": "tiktok",
+   "title": "Jordan Itinerary",
+   "destination": "Jordan",
+   "country": "Jordan",
+   "days": 10,
+   "summary": "Day-by-day guide covering the creators' 10-day trip through Jordan from March 14 to March 23, 2022, including Madaba, the Dead Sea, Wadi Rum and Petra. Includes named stays such as Aladdin Camp in Wadi Rum, a Wadi Rum Airbnb, and Petra Guests Hotel.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.claireandpeter.com/world-trip/jordan-itinerary/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Madaba",
+     "location": "Madaba, Jordan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Dead Sea",
+     "location": "Dead Sea, Jordan"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Hilton Hotel",
+     "location": "Jordan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Wadi Rum",
+     "location": "Wadi Rum, Jordan"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Aladdin Camp",
+     "location": "Wadi Rum, Jordan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Wadi Rum Desert Tour",
+     "location": "Wadi Rum, Jordan"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Wadi Rum Airbnb",
+     "location": "Wadi Rum, Jordan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Petra Monastery",
+     "location": "Petra, Jordan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Petra Treasury",
+     "location": "Petra, Jordan"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Petra Guests Hotel",
+     "location": "Wadi Musa, Jordan"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Egypt-to-Jordan travel",
+     "location": null
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Amman-to-Bangkok travel",
+     "location": null
+    }
+   ]
+  },
+  {
+   "id": 70,
+   "batch": 4,
+   "handle": "@marissadaily_",
+   "platform": "tiktok",
+   "title": "24 Hours in Osaka",
+   "destination": "Osaka, Japan",
+   "country": "Japan",
+   "days": 1,
+   "summary": "One-day Osaka sprint: morning at Osaka Castle and Kuromon Ichiba Market (wagyu, Kobe beef burgers, oysters), afternoon-to-evening in Dotonbori (canal boat, Glico Man photo), sunset at Tsutenkaku Tower and retro Shinsekai, late night bar hopping inside the Misono Building. Framed as 'if you only had ONE day in this electric city'.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.tiktok.com/@marissadaily_/video/7605292254936288543"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Osaka Castle",
+     "location": "Osaka"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Kuromon Ichiba Market",
+     "location": "Osaka"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Dotonbori canal boat",
+     "location": "Dotonbori, Osaka"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Tsutenkaku Tower",
+     "location": "Shinsekai, Osaka"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Misono Building bars",
+     "location": "Osaka"
+    }
+   ]
+  },
+  {
+   "id": 79,
+   "batch": 4,
+   "handle": "@shetravelledtheworld",
+   "platform": "tiktok",
+   "title": "Northern Italy: Travel Guide and Itinerary",
+   "destination": "Northern Italy",
+   "country": "Italy",
+   "days": 13,
+   "summary": "Her own published Northern Italy route: 6 stops over 12-14 days - Florence (3 nights), Bologna (2), Milan (1-2), Lake Como (2-3), Verona (2), Venice (2) - with per-city activities, restaurants and hotels she personally tried. She suggests a EUR 50-70/day spending budget.",
+   "confidence": "high",
+   "source_urls": [
+    "https://shetravelledtheworld.com/northern-italy-travel-guide-itinerary/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Duomo (Cathedral of Santa Maria del Fiore)",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Ponte Vecchio",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Piazzale Michelangelo",
+     "location": "Oltrarno, Florence"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "San Miniato al Monte",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Pasta and gelato making class",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Tuscany wine tasting excursion",
+     "location": "Tuscan countryside"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Uffizi Gallery",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Accademia Gallery",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Wine windows",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Il Gelato di Filo",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Festival del Gelato",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Vecchio Forno",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Forno Gastronomia Sopr'Arno",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Mister Pizza",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Residenza Conte di Cavour",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "PLUS hostel",
+     "location": "Florence"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Piazza Maggiore",
+     "location": "Bologna"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Bolognese cooking class",
+     "location": "Bologna"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Guided traditional food tour",
+     "location": "Bologna"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Train",
+     "location": "Florence to Bologna"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Trainline",
+     "location": "Italy-wide"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Trenitalia / Italiarail",
+     "location": "Italy-wide"
+    }
+   ]
+  },
+  {
+   "id": 88,
+   "batch": 4,
+   "handle": "@thenationalparktravelers",
+   "platform": "tiktok",
+   "title": "Columbia River Gorge Waterfall Drive",
+   "destination": "Columbia River Gorge, Oregon (near Portland)",
+   "country": "USA",
+   "days": 1,
+   "summary": "Historic Columbia River Highway 30 road-trip route covering 7-8 waterfall hikes in the Columbia River Gorge. Not a multi-day plan; a one-day drive-with-stops recommendation list from their TikTok caption, quoted by AFAR.",
+   "confidence": "low",
+   "source_urls": [
+    "https://www.tiktok.com/@thenationalparktravelers/video/7305560011382476075",
+    "https://www.afar.com/magazine/9-tiktok-accounts-giving-smart-useful-travel-advice"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Historic Columbia River Highway 30",
+     "location": "Columbia River Gorge, OR"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Multnomah Falls",
+     "location": "Columbia River Gorge, OR"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Horsetail Falls",
+     "location": "Columbia River Gorge, OR"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Wahkeena Falls",
+     "location": "Columbia River Gorge, OR"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Bridal Veil Falls",
+     "location": "Columbia River Gorge, OR"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Latourell Falls",
+     "location": "Columbia River Gorge, OR"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Wahclella Falls",
+     "location": "Columbia River Gorge, OR"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Panther Creek Falls",
+     "location": "Near Columbia River Gorge, OR"
+    }
+   ]
+  }
+ ]
+}

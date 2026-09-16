@@ -1,0 +1,963 @@
+{
+ "worker": 4,
+ "check_date_utc": "2026-09-16",
+ "packets": [
+  {
+   "id": 4,
+   "batch": 1,
+   "handle": "@backpackersteve",
+   "platform": "instagram",
+   "title": "Lapland, Finland - 7-Day Winter Road Trip",
+   "destination": "Lapland",
+   "country": "Finland",
+   "days": 7,
+   "summary": "BackPacker Steve's 7-day Lapland winter road trip (rental car, self-planned itinerary): Rovaniemi to Yllas and Kittila with named hotels (Sokos Hotel Vaakuna, Aurora Estate) and named tour operators for snowmobiling, reindeer and huskie safaris. Source is his YouTube video description listing all places visited; not a strict day-by-day, so confidence is medium.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=Baj-TL-DKGU"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Sokos Hotel Vaakuna",
+     "location": "Rovaniemi"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Aurora Estate",
+     "location": "Yllas"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Santa Claus Village & Snowman World",
+     "location": "Rovaniemi"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Snowmobile tour with Lapland Safaris",
+     "location": "Rovaniemi"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Snow Village, Kittila",
+     "location": "Kittila"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Yllas Ski Resort",
+     "location": "Yllas"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Reindeer safari with Safartica",
+     "location": "Kittila"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Huskie safari with Rami's Huskies",
+     "location": "Kittila"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Snowshoeing",
+     "location": "Akaslompolo"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sauna Gondola, Yllas",
+     "location": "Yllas"
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "batch": 1,
+   "handle": "@finduslost",
+   "platform": "instagram",
+   "title": "New England Fall Road Trip: 7 Days in Vermont & New Hampshire",
+   "destination": "New Hampshire & Vermont (New England fall road trip)",
+   "country": "USA",
+   "days": 7,
+   "summary": "Selena Taylor's 7-day New England fall foliage road trip: 4 nights in New Hampshire's White Mountains (Omni Mount Washington base, Kancamagus Highway, Artist's Bluff, Polly's Pancake Parlor) then west to Woodstock, Vermont (Cloudland Road, Sugarbush Farm, Simon Pearce, apple picking at Green Mountain Orchard). Includes her booking tips (book the Omni and Woodstock Inn 3-4 months out) and peak-foliage timing guidance.",
+   "confidence": "high",
+   "source_urls": [
+    "https://finduslost.com/new-england-fall-road-trip/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Drive up + farm stops",
+     "location": "Boston to White Mountains NH"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Flume Gorge / Blair Covered Bridge (optional)",
+     "location": "Near Bretton Woods NH"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Omni Mount Washington",
+     "location": "Bretton Woods, NH"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Artist's Bluff",
+     "location": "Franconia Notch, NH"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Littleton town afternoon",
+     "location": "Littleton, NH"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Kancamagus Highway",
+     "location": "White Mountain National Forest, NH"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "White Mountain Cider Co.",
+     "location": "North Conway, NH"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Polly's Pancake Parlor",
+     "location": "Sugar Hill, NH"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Skyway Gondola / Cog Railway",
+     "location": "Bretton Woods / Mount Washington, NH"
+    },
+    {
+     "day": 5,
+     "item_type": "transport",
+     "name": "Drive to Vermont via Cloudland Road",
+     "location": "NH to Woodstock, VT"
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Woodstock Inn & Resort",
+     "location": "Woodstock, VT"
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Oakes & Evelyn",
+     "location": "Woodstock, VT"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Sugarbush Farm",
+     "location": "Near Woodstock, VT"
+    },
+    {
+     "day": 6,
+     "item_type": "restaurant",
+     "name": "Abracadabra Coffee Co.",
+     "location": "Near Woodstock, VT"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Downtown Woodstock afternoon",
+     "location": "Woodstock, VT"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Simon Pearce",
+     "location": "Quechee, VT"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Green Mountain Orchard",
+     "location": "Putney, VT"
+    }
+   ]
+  },
+  {
+   "id": 22,
+   "batch": 1,
+   "handle": "@lostleblanc",
+   "platform": "instagram",
+   "title": "How To Travel Bali \u2013 14 Days in Paradise",
+   "destination": "Bali",
+   "country": "Indonesia",
+   "days": 12,
+   "summary": "12-day Bali itinerary from his 2020 YouTube travel video (described by a third-party writeup): a couple of days to get over jet lag at the start, visiting Canggu, Berawa Beach, Uluwatu and Ubud, with highlights including waterfalls, cuisine and adults-only resorts. He also recommends Nusa Penida as a hidden gem off the mainland.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.nomadicnews.com/lost-leblanc/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Canggu",
+     "location": "Bali"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Berawa Beach",
+     "location": "Bali"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Uluwatu",
+     "location": "Bali"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Ubud",
+     "location": "Bali"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Waterfalls",
+     "location": "Bali"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Nusa Penida",
+     "location": "Bali"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Adults-only resorts",
+     "location": "Bali"
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "batch": 2,
+   "handle": "@oneikathetraveller",
+   "platform": "instagram",
+   "title": "How to Spend Two Weeks in South Africa, Zambia, and Botswana",
+   "destination": "Johannesburg, Kruger, Blyde River Canyon, Livingstone, Kasane, Cape Town",
+   "country": "South Africa / Zambia / Botswana",
+   "days": 14,
+   "summary": "Oneika and her partner Liebling's own 14-day Southern Africa route: 2 days Johannesburg, 2 days Kruger safari, 1 day Blyde River Canyon, 4 days Livingstone (Zambia) and Kasane (Botswana), 5 days Cape Town. Named hotels, safari lodge, restaurants, and prices throughout; she hiked Table Mountain, swam at the edge of Victoria Falls, and did game drives in Sabi Sands and Chobe.",
+   "confidence": "high",
+   "source_urls": [
+    "http://www.oneikathetraveller.com/south-africa-botswana-zambia-itinerary.html"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Constitution Hill",
+     "location": "Johannesburg"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Apartheid Museum",
+     "location": "Johannesburg"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Soweto and Mandela House",
+     "location": "Johannesburg"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Maboneng and Melrose Arch",
+     "location": "Johannesburg"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Protea Fire & Ice Melrose Arch",
+     "location": "Johannesburg"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "The Grillhouse",
+     "location": "Sandton, Johannesburg"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Safari game drives",
+     "location": "Sabi Sands Game Reserve (borders Kruger)"
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Elephant Plains Lodge",
+     "location": "Sabi Sands Game Reserve"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Blyde River Canyon Nature Reserve",
+     "location": "Drakensberg, 3h outside Johannesburg"
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Premier Hotel OR Tambo",
+     "location": "next to Johannesburg airport"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Swim on the edge of Victoria Falls",
+     "location": "Livingstone, Zambia"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Victoria Falls Bridge jump",
+     "location": "Livingstone, Zambia"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Chobe National Park safari",
+     "location": "Kasane, Botswana"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Livingstone Museum",
+     "location": "Livingstone, Zambia"
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Green Tree Lodge",
+     "location": "Livingstone"
+    },
+    {
+     "day": 8,
+     "item_type": "hotel",
+     "name": "Jollyboys Backpackers",
+     "location": "Livingstone"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Kalahari Tours",
+     "location": "Chobe, Botswana"
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "Table Mountain hike",
+     "location": "Cape Town"
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "Robben Island Prison Museum",
+     "location": "Cape Town"
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "Bo-Kaap",
+     "location": "Cape Town"
+    },
+    {
+     "day": 11,
+     "item_type": "activity",
+     "name": "V&A Waterfront",
+     "location": "Cape Town"
+    },
+    {
+     "day": 11,
+     "item_type": "activity",
+     "name": "Stellenbosch",
+     "location": "Cape Town"
+    },
+    {
+     "day": 12,
+     "item_type": "activity",
+     "name": "Cape of Good Hope / Cape Point",
+     "location": "Cape Town"
+    },
+    {
+     "day": 12,
+     "item_type": "activity",
+     "name": "Boulder's Beach and Betty's Bay",
+     "location": "Cape Town"
+    },
+    {
+     "day": 12,
+     "item_type": "activity",
+     "name": "Chapman's Peak, Hout Bay, Camps Bay, Hermanus scenic drives",
+     "location": "Cape Town"
+    },
+    {
+     "day": 10,
+     "item_type": "hotel",
+     "name": "Radisson Blu Le Vendome",
+     "location": "Cape Town"
+    },
+    {
+     "day": 10,
+     "item_type": "restaurant",
+     "name": "Nelson's Eye, NV-80, Hussar",
+     "location": "Cape Town"
+    },
+    {
+     "day": 12,
+     "item_type": "restaurant",
+     "name": "Biesmallah",
+     "location": "Bo-Kaap, Cape Town"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Rental car in Cape Town and Johannesburg",
+     "location": "South Africa"
+    },
+    {
+     "day": 5,
+     "item_type": "flight",
+     "name": "Low-cost carriers around the region",
+     "location": "Southern Africa"
+    }
+   ]
+  },
+  {
+   "id": 40,
+   "batch": 2,
+   "handle": "@taramilktea",
+   "platform": "instagram",
+   "title": "Tara Milk Tea's Europe trip highlights (Mykonos and Budva)",
+   "destination": "Europe (Greece and Montenegro highlights)",
+   "country": "Greece, Montenegro",
+   "days": null,
+   "summary": "From a Qantas Travel Insider interview, Tara Whiteman shared favourite discoveries from her Europe jaunt (Spain, Greece, Dubrovnik, Montenegro): a four-night stay at Cavo Tagoo in Mykonos and late afternoons at Dukely Beach Lounge in Budva. Fragmentary recommendations from a third-party interview, not her own itinerary post - her taramilktea.com blog is offline (domain is for sale on GoDaddy), so no fuller itinerary could be reconstructed.",
+   "confidence": "low",
+   "source_urls": [
+    "https://www.qantas.com/travelinsider/en/explore/europe/travelling-in-europe-with-instagram-star-tara-milk-tea.html",
+    "https://taramilktea.com/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Cavo Tagoo",
+     "location": "Mykonos, Greece"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Dukely Beach Lounge",
+     "location": "Budva, Montenegro"
+    }
+   ]
+  },
+  {
+   "id": 49,
+   "batch": 2,
+   "handle": "@thecommonwanderer",
+   "platform": "instagram",
+   "title": "7-Day Faroe Islands Road Trip Itinerary",
+   "destination": "Faroe Islands",
+   "country": "Faroe Islands (Denmark)",
+   "days": 7,
+   "summary": "A detailed 7-day DIY road trip around the Faroe Islands based on the couple's own 2018 trip: Vagar (Mulafossur, Bour) on day 1, a puffin day trip to Mykines on day 2, kayaking and Kalsoy's lighthouse on day 3, Nolsoy and Torshavn on day 4, Vagar plus Michelin-starred KOKS on day 5, Streymoy (Saksun, Fossa, Tjornuvik) on day 6, and Eysturoy (Gj\u00f3gv, Funningur) on day 7, with two Torshavn hotels named.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.thecommonwanderer.com/blog/faroe-islands-itinerary"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Toyota Yaris rental car",
+     "location": "Vagar Airport pickup"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Bour village",
+     "location": "Vagar"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Mulafossur Waterfall",
+     "location": "Gasadalur, Vagar"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Gasadalsgardurin Guesthouse",
+     "location": "Gasadalur, Vagar"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Cafe Fjorooy",
+     "location": "Gasadalur, Vagar"
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Mykines ferry",
+     "location": "Sorvagur to Mykines"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Mykines Island puffins and lighthouse",
+     "location": "Mykines"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "North Atlantic kayaking + Kalsoy hiking",
+     "location": "Kalsoy"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Kallurin Lighthouse",
+     "location": "Kalsoy"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Nolsoy Island",
+     "location": "Nolsoy"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Torshavn old town (Tinganes)",
+     "location": "Torshavn"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Lake Sorvagsvatn and Tr\u00e6lanipa",
+     "location": "Vagar"
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "KOKS",
+     "location": "Faroe Islands"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Saksun",
+     "location": "Streymoy"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Fossa waterfall and Tjornuvik",
+     "location": "Streymoy"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Gj\u00f3gv gorge",
+     "location": "Eysturoy"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Funningur",
+     "location": "Eysturoy"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Hotel Torshavn",
+     "location": "Torshavn"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Havgrim Seaside Hotel",
+     "location": "Torshavn"
+    }
+   ]
+  },
+  {
+   "id": 58,
+   "batch": 2,
+   "handle": "@yachtlife",
+   "platform": "instagram",
+   "title": "Southern California 7-Day Yachting Itinerary",
+   "destination": "Southern California",
+   "country": "USA",
+   "days": 7,
+   "summary": "A sample 7-day luxury yachting itinerary along Southern California: Newport Beach to Catalina Island, Marina del Rey and the Venice boardwalk, lunch at Nobu in Malibu, Oxnard, Santa Barbara (jet skiing, whale watching, dinner at The Lark), a Santa Ynez Valley winery day, and Channel Islands National Park before returning to Newport Beach.",
+   "confidence": "high",
+   "source_urls": [
+    "https://Www.Yachtlife.com/itineraries/southern-california"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Cruise to Catalina Island (2 hours)",
+     "location": "Newport Beach to Catalina Island"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Two Harbors snorkeling, jet ski and Descanso Beach",
+     "location": "Catalina Island"
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Cruise to Marina del Rey (5 hours)",
+     "location": "Catalina Island to Marina del Rey"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Venice boardwalk stroll",
+     "location": "Venice, Los Angeles"
+    },
+    {
+     "day": 3,
+     "item_type": "transport",
+     "name": "Cruise to Oxnard via Malibu (4 hours)",
+     "location": "Marina del Rey to Oxnard via Malibu"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Nobu",
+     "location": "Malibu"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Oxnard beach kayaking and wine cellars",
+     "location": "Oxnard"
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "Cruise to Santa Barbara (3 hours)",
+     "location": "Oxnard to Santa Barbara"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Jet skiing, whale watching and State Street",
+     "location": "Santa Barbara"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "The Lark",
+     "location": "Santa Barbara"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Santa Ynez Valley wineries or Santa Barbara Botanic Garden/Zoo",
+     "location": "Santa Ynez Valley / Santa Barbara"
+    },
+    {
+     "day": 6,
+     "item_type": "transport",
+     "name": "Cruise to Channel Islands (6 hours)",
+     "location": "Santa Barbara to Channel Islands"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Channel Islands wildlife cruising",
+     "location": "Channel Islands National Park"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Snorkeling and sea cave kayaking",
+     "location": "Channel Islands"
+    },
+    {
+     "day": 7,
+     "item_type": "transport",
+     "name": "Cruise back to Newport Beach (6 hours)",
+     "location": "Channel Islands to Newport Beach"
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "batch": 3,
+   "handle": "@laxtoluxury",
+   "platform": "tiktok",
+   "title": "A Leaf-Peeper's Paradise: Four Days of Fall Foliage Fun in Vermont and New Hampshire",
+   "destination": "Vermont and New Hampshire",
+   "country": "United States",
+   "days": 4,
+   "summary": "Creator-authored 4-day fall-foliage itinerary across Vermont and New Hampshire on the LAX to Luxury blog. Day 1 covers flying into Boston, apple-cider donuts at Smolak Farms or Russell Orchards, the Kancamagus Highway, and sunset at the Omni Mount Washington Resort.",
+   "confidence": "high",
+   "source_urls": [
+    "https://laxtoluxury.com/four-day-fall-foliage-itinerary/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Fly into Boston",
+     "location": "Boston, Massachusetts, United States"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Smolak Farms",
+     "location": "New Hampshire, United States"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Russell Orchards",
+     "location": "New Hampshire, United States"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Kancamagus Highway",
+     "location": "White Mountains, New Hampshire, United States"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Omni Mount Washington Resort",
+     "location": "White Mountains, New Hampshire, United States"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Inn at Thorn Hill",
+     "location": "White Mountains, New Hampshire, United States"
+    }
+   ]
+  },
+  {
+   "id": 76,
+   "batch": 4,
+   "handle": "@postcardsfromayana",
+   "platform": "tiktok",
+   "title": "French Polynesia Group Trip (Sept 17-24, 2027) with Wander",
+   "destination": "Tahiti, Mo'orea, Bora Bora",
+   "country": "France (French Polynesia)",
+   "days": 8,
+   "summary": "Hosted group trip with @Wander Where Adventures, Sept 17-24, 2027: Tahiti, Mo'orea, Bora Bora. Package $2999 ($399 deposit, payment plan available) includes all accommodations, daily breakfast, 24/7 support, ferry to Mo'orea, inter-island flight to Bora Bora, and a list of bucket-list activities. Presale list via link in bio.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.tiktok.com/@postcardsfromayana/video/7647181012379782413"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Package accommodations",
+     "location": "Tahiti, Mo'orea, Bora Bora"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Daily breakfast (package included)",
+     "location": "French Polynesia"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Ferry to Mo'orea",
+     "location": "Tahiti to Mo'orea"
+    },
+    {
+     "day": null,
+     "item_type": "flight",
+     "name": "Inter-island flight (package included)",
+     "location": "Mo'orea to Bora Bora"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "6-Hour Mo'orea Lagoon Cruise",
+     "location": "Mo'orea"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Bora Bora Island Safari Tour",
+     "location": "Bora Bora"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Polynesian Buffet & Cultural Show",
+     "location": "Bora Bora"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Magic Mountain Hike",
+     "location": "Mo'orea"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Mo'orea Land Tour",
+     "location": "Mo'orea"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Swim with Sharks & Rays",
+     "location": "Bora Bora"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Flower Crown Making",
+     "location": "French Polynesia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Tahitian Dance Class",
+     "location": "French Polynesia"
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "batch": 4,
+   "handle": "@storyofsavannah",
+   "platform": "tiktok",
+   "title": "3-Week West Coast USA Road Trip Hotel Itinerary",
+   "destination": "US West Coast (Southwest + California road trip)",
+   "country": "USA",
+   "days": 21,
+   "summary": "Her own published full itinerary of every hotel booked on a 3-week Southwest/California road trip: LA, Las Vegas, Grand Canyon, Page, Bryce Canyon, Zion, Death Valley, South Lake Tahoe, Yosemite, San Francisco, Monterey, Santa Barbara, Huntington Beach - with star ratings and honest reviews. She says all her hotel links are Trip.com affiliate links, but the fetched page only exposed the generic Trip.com link, not per-hotel URLs, so booking_link is null.",
+   "confidence": "high",
+   "source_urls": [
+    "https://info606777.wixsite.com/storyofsavannah/post/3-week-west-coast-usa-road-trip-hotel-itinerary"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Tommie Hollywood",
+     "location": "Los Angeles, CA"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "New York-New York Hotel & Casino",
+     "location": "Las Vegas, NV"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Yavapai Lodge",
+     "location": "Grand Canyon"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Best Western View of Lake Powell",
+     "location": "Page, AZ"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "The Lodge at Bryce Canyon",
+     "location": "Bryce Canyon National Park"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Zion Lodge",
+     "location": "Zion National Park"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "The Ranch at Death Valley",
+     "location": "Death Valley"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Station House Inn",
+     "location": "South Lake Tahoe"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Tenaya at Yosemite",
+     "location": "Fish Camp (Yosemite)"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Hyatt Centric Fisherman's Wharf",
+     "location": "San Francisco, CA"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Holiday Inn Express - Cannery Row",
+     "location": "Monterey, CA"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Unnamed 2-star hotel (Santa Barbara)",
+     "location": "Santa Barbara, CA"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Unnamed 4-star boutique hotel (Huntington Beach)",
+     "location": "Huntington Beach, CA"
+    }
+   ]
+  }
+ ]
+}

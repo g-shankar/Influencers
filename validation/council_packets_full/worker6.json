@@ -1,0 +1,986 @@
+{
+ "worker": 6,
+ "check_date_utc": "2026-09-16",
+ "packets": [
+  {
+   "id": 6,
+   "batch": 1,
+   "handle": "@budgettraveller",
+   "platform": "instagram",
+   "title": "BudgetTraveller's Guide to Vorarlberg: A 5 day itinerary",
+   "destination": "Vorarlberg, Austria (Bregenzerwald + Lech am Arlberg)",
+   "country": "Austria",
+   "days": 5,
+   "summary": "A free 5-day miniguide to Austria's westernmost state, Vorarlberg, built around wooden-architecture villages, alpine hikes and mountain huts. Base 1: Bregenz on Lake Constance, then 4 nights in the village of Mellau exploring the Bregenzerwald, finishing in the mountain resort of Lech am Arlberg with cable-car hikes to R\u00fcfikopf and Oberlech. Includes per-stop restaurants, museum ticket prices, and free-transit guest cards (Bregenzerwald Guest Card, Lech Card).",
+   "confidence": "high",
+   "source_urls": [
+    "https://budgettraveller.org/best-things-to-do-vorarlberg/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Bregenz floating lakeside stage",
+     "location": "Bregenz, Lake Constance, Austria"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Pf\u00e4nderbahn cable car",
+     "location": "Bregenz, Austria"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Pier 69",
+     "location": "Bregenz, Austria"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Kunsthaus Bregenz (KUB)",
+     "location": "Bregenz, Austria"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "vorarlberg museum",
+     "location": "Bregenz, Austria"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Bus 37 or 35, Bregenz to Mellau",
+     "location": "Bregenz to Mellau, Austria"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Hotel B\u00e4ren, Mellau",
+     "location": "Mellau, Bregenzerwald, Austria"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Umgang Bregenzerwald guided village trail",
+     "location": "Schoppernau, Austria"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Villa Maund",
+     "location": "Schoppernau, Austria"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Alphof Rossstelle",
+     "location": "Schoppernau, Austria"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "BUS:STOP Krumbach",
+     "location": "Krumbach, Bregenzerwald, Austria"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Gasthof Adler, Lingenau",
+     "location": "Lingenau, Austria"
+    },
+    {
+     "day": 3,
+     "item_type": "transport",
+     "name": "Bus 40 Mellau to Bezau; Bezau Seilbahn gondola",
+     "location": "Bezau, Austria"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Baumgarten panorama hike",
+     "location": "Baumgarten (above Bezau), Austria"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Bergrestaurant Niedere",
+     "location": "Above Andelsbuch, Austria"
+    },
+    {
+     "day": 3,
+     "item_type": "transport",
+     "name": "Nostalgic chairlift down to Andelsbuch",
+     "location": "Andelsbuch, Austria"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Werkraumhaus Bregenzerwald",
+     "location": "Andelsbuch, Austria"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "J\u00f6slar Inn",
+     "location": "Andelsbuch, Austria"
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "Bus 40 Mellau Zentrum to Lech Schlosskopf",
+     "location": "Mellau to Lech am Arlberg, Austria"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Haus Braunarl",
+     "location": "Lech am Arlberg, Austria"
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "Lech Card",
+     "location": "Lech am Arlberg, Austria"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Formarinsee Lake hike to Freiburger H\u00fctte",
+     "location": "Zugertal valley, Lech am Arlberg, Austria"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Freiburger H\u00fctte",
+     "location": "Above Lech am Arlberg, Austria"
+    },
+    {
+     "day": 5,
+     "item_type": "transport",
+     "name": "Cable car Lech to R\u00fcfikopf (2350m)",
+     "location": "Lech am Arlberg, Austria"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "R\u00fcfikopf hikes and Monzabonsee lake",
+     "location": "R\u00fcfikopf, Lech am Arlberg, Austria"
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "R\u00fcfikopf panorama restaurant",
+     "location": "R\u00fcfikopf, Austria"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Gipsl\u00f6cher nature reserve, Oberlech",
+     "location": "Oberlech, Austria"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Skyspace Lech",
+     "location": "Oberlech, Austria"
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "batch": 1,
+   "handle": "@girlvsglobe",
+   "platform": "instagram",
+   "title": "11 Things To Do In Menorca",
+   "destination": "Menorca, Balearic Islands",
+   "country": "Spain",
+   "days": null,
+   "summary": "Sabrina Iovino's list of her 11 favorite things to do in Menorca after her trip: Mahon and its harbour, beaches (Cavalleria, Binidali), Ciutadella, Binibeca, El Toro, Binifadet winery and the Cova d'en Xoroi cave bar. A recommendation list tied to her trip rather than a day-by-day plan.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://girlvsglobe.com/things-to-do-in-menorca/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Mahon",
+     "location": "Menorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Mahon Harbour + Isla del Lazareto",
+     "location": "Menorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Playa de Cavalleria",
+     "location": "Menorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Binidali",
+     "location": "Menorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Ciutadella",
+     "location": "Menorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Binibeca",
+     "location": "Menorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "El Toro",
+     "location": "Menorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "S'Algar / Cala Alcaufar",
+     "location": "Menorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Binifadet Winery",
+     "location": "Menorca"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Cova d'en Xoroi",
+     "location": "Menorca"
+    }
+   ]
+  },
+  {
+   "id": 24,
+   "batch": 1,
+   "handle": "@migrationology",
+   "platform": "instagram",
+   "title": "Karakoram Mountains of Pakistan - Guide to the Khunjerab Pass",
+   "destination": "Karakoram Highway (Gilgit - Hunza - Khunjerab Pass)",
+   "country": "Pakistan",
+   "days": 4,
+   "summary": "Mark Wiens's day-by-day driving itinerary along the Karakoram Highway: day 1 drive Gilgit to Karimabad/Hunza, day 2 Attabad Lake, Sost lunch, and the climb to the Khunjerab Pass (Pakistan-China border, 4,800m), with hotel tips for Serena Hotels in Gilgit and Karimabad and food stops like chapshoro meat pies and dud pathi milk tea.",
+   "confidence": "high",
+   "source_urls": [
+    "https://migrationology.com/journey-to-the-khunjerab-pass/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Serena Hotel",
+     "location": "Gilgit"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Drive Gilgit to Karimabad (Hunza Valley)",
+     "location": "Hunza Valley"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Eagle's Nest viewpoint and Mt. Rakaposhi",
+     "location": "Hunza Valley"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Serena Hotel",
+     "location": "Karimabad, Hunza Valley"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Attabad Lake",
+     "location": "Attabad Lake"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Vegetarian restaurant in Sost",
+     "location": "Sost"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "The Final Climb to Khunjerab Pass",
+     "location": "Khunjerab Pass"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Dinner with a local Pamiri family",
+     "location": "Village before Sost"
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "batch": 2,
+   "handle": "@pilotmadeleine",
+   "platform": "instagram",
+   "title": "New Zealand: Nelson & Abel Tasman Travel Tips",
+   "destination": "Nelson and Abel Tasman National Park",
+   "country": "New Zealand",
+   "days": null,
+   "summary": "Madeleine's New Zealand trip segment: flying Auckland to Nelson, eating at the harbour-side Boat Shed, then two days in Abel Tasman National Park - one night at Abel Tasman Marahau Lodge and a second night aboard the Aqua Packers boat hostel near Anchorage Beach, with hiking, a full-day kayaking tour and the water taxi between beaches. Recommendation-style post, not a strict day-by-day plan.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.pilotmadeleine.de/2016/03/13/neuseeland-fototagebuch-reisetipps-nelson-inkl-abel-tasman-national-park/?lang=en"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "flight",
+     "name": "Air New Zealand",
+     "location": "Auckland to Nelson"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Boat Shed",
+     "location": "Nelson harbour"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "World of Wearable Art museum",
+     "location": "Nelson"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Nelson city and sailing harbour",
+     "location": "Nelson"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Abel Tasman Marahau Lodge",
+     "location": "Marahau, Abel Tasman"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Cullans Point Lookout hike",
+     "location": "Anchorage Beach, Abel Tasman National Park"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Kayaking with Abel Tasman Kayaks",
+     "location": "Abel Tasman National Park"
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "Aqua Packers",
+     "location": "Anchorage Beach, Abel Tasman"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Water Taxi",
+     "location": "Abel Tasman National Park"
+    }
+   ]
+  },
+  {
+   "id": 42,
+   "batch": 2,
+   "handle": "@theblondeabroad",
+   "platform": "instagram",
+   "title": "The Ultimate Oregon Adventure Road Trip Itinerary",
+   "destination": "Oregon",
+   "country": "United States",
+   "days": 7,
+   "summary": "A 7-day adventure road trip through western Oregon built around one moderately strenuous hike per day, based in Bend (Days 1-4) then Portland (Days 5-7): Benham Falls, Tumalo Mountain, Sparks Lake, Tumalo Falls, Silver Falls State Park and Ramona Falls. Includes practical driving distances, named dinner spots and a high-clearance car recommendation. Published on theblondeabroad.com (guest-written by Sara Pardej).",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.theblondeabroad.com/ultimate-adventurous-oregon-road-trip-itinerary/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Rental car for the week",
+     "location": "Oregon"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Farm stay in Deschutes National Forest",
+     "location": "Near Bend"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Benham Falls Trail",
+     "location": "Near Bend"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Laughing Planet",
+     "location": "Bend"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Dump City Dumplings",
+     "location": "Bend"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Climb Tumalo Mountain",
+     "location": "Near Bend"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Mt. Bachelor scenic lift rides",
+     "location": "Mount Bachelor"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Sparks Lake",
+     "location": "Near Bend"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Tumalo Falls Trail",
+     "location": "Near Bend"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Silver Falls State Park",
+     "location": "Near Silverton"
+    },
+    {
+     "day": 5,
+     "item_type": "transport",
+     "name": "Drive to Portland",
+     "location": "Silver Falls to Portland"
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Airbnb in Portland",
+     "location": "Portland"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Ramona Falls Trail",
+     "location": "Mount Hood National Forest"
+    },
+    {
+     "day": 6,
+     "item_type": "restaurant",
+     "name": "Clyde Common",
+     "location": "Portland"
+    },
+    {
+     "day": 6,
+     "item_type": "restaurant",
+     "name": "Navarre",
+     "location": "Portland"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Blue Star Donuts / Voodoo Donuts",
+     "location": "Portland"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Mount St. Helens (optional add-on)",
+     "location": "Washington"
+    }
+   ]
+  },
+  {
+   "id": 51,
+   "batch": 2,
+   "handle": "@theplanetd",
+   "platform": "instagram",
+   "title": "3 Days in Istanbul Itinerary",
+   "destination": "Istanbul",
+   "country": "Turkey",
+   "days": 3,
+   "summary": "The perfect 3 days in Istanbul: day 1 covers Sultanahmet's historic core (Hagia Sophia, Blue Mosque, Sultanahmet Square, Basilica Cistern, Topkapi Palace) ending with a sunset Bosphorus dinner cruise; day 2 is the Grand Bazaar, Spice Bazaar, lunch at Sehzade Cag Kebap in Eminonu, Galata Bridge, Galata Tower and Istiklal Street; day 3 is a hammam plus Kadikoy, Camlica Mosque and Uskudar on the Asian side. Co-written with The Turkey Traveler.",
+   "confidence": "high",
+   "source_urls": [
+    "https://theplanetd.com/3-days-in-istanbul-itinerary/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Traditional Turkish breakfast (kahvalti)",
+     "location": "Istanbul"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Hagia Sophia",
+     "location": "Sultanahmet"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Blue Mosque",
+     "location": "Sultanahmet"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Sultanahmet Square",
+     "location": "Sultanahmet"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Basilica Cistern",
+     "location": "Sultanahmet"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Topkapi Palace",
+     "location": "Sultanahmet"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Sunset Bosphorus dinner cruise",
+     "location": "Bosphorus Strait"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Grand Bazaar",
+     "location": "Istanbul"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Spice Bazaar",
+     "location": "Eminonu"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Sehzade Cag Kebap",
+     "location": "Eminonu"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Galata Bridge",
+     "location": "Golden Horn"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Galata Tower",
+     "location": "Beyoglu"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Istiklal Street and Taksim",
+     "location": "Istanbul"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Turkish bath (Hammam)",
+     "location": "Istanbul"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Kadikoy",
+     "location": "Asian side"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Camlica Mosque and Uskudar",
+     "location": "Uskudar"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Istanbul Card",
+     "location": "Istanbul"
+    }
+   ]
+  },
+  {
+   "id": 60,
+   "batch": 2,
+   "handle": "@youngadventuress",
+   "platform": "instagram",
+   "title": "South Island Road Trip - Part 2 (North Coast & Wine Country)",
+   "destination": "South Island (north coast)",
+   "country": "New Zealand",
+   "days": null,
+   "summary": "A road trip up the South Island's north coast and top of the island by campervan: Christchurch, hot air ballooning in Darfield, whale watching and albatross tours in Kaikoura, kayaking the Marlborough Sounds, two days of wine touring around Blenheim, thermal pools and quad biking in Hanmer Springs, and a final Waipara Valley lunch.",
+   "confidence": "high",
+   "source_urls": [
+    "https://youngadventuress.com/2015/08/road-trip-new-zealand-south-island.html"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "flight",
+     "name": "Flight to Christchurch",
+     "location": "Queenstown to Christchurch"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Commodore Hotel",
+     "location": "Christchurch"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Britz Campervan (5-day rental)",
+     "location": "Christchurch"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Ballooning Canterbury",
+     "location": "Darfield, Canterbury"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Whale Watch Kaikoura",
+     "location": "Kaikoura"
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "White Morph",
+     "location": "Kaikoura"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Albatross Encounter",
+     "location": "Kaikoura"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Wilderness Guides kayak",
+     "location": "Picton / Marlborough Sounds"
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Raetihi Lodge",
+     "location": "Marlborough Sounds"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Omaka Aviation Heritage Museum",
+     "location": "Blenheim"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Marlborough Vintners Hotel",
+     "location": "Blenheim"
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "Wine Tours By Bike",
+     "location": "Blenheim"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Wairau River Wines",
+     "location": "Blenheim"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Yealands winery",
+     "location": "Blenheim"
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Heritage Hotel",
+     "location": "Hanmer Springs"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Hanmer Adventure quad bikes",
+     "location": "Hanmer Springs"
+    },
+    {
+     "day": 7,
+     "item_type": "restaurant",
+     "name": "Black Estate",
+     "location": "Waipara Valley"
+    }
+   ]
+  },
+  {
+   "id": 69,
+   "batch": 4,
+   "handle": "@marissadaily_",
+   "platform": "tiktok",
+   "title": "10 Days in Egypt: Cairo, Nile Cruise & the Red Sea",
+   "destination": "Egypt (Cairo, Aswan, Luxor, Hurghada)",
+   "country": "Egypt",
+   "days": 10,
+   "summary": "10-day Egypt route flying in and out of Cairo, balancing history, culture, adventure, and relaxation. Days 1-2: Cairo & Giza (pyramids, Sphinx, Saqqara, Nile dinner). Days 3-4: fly to Aswan (Philae Temple, Nubian village) then board a Nile cruise with Kom Ombo at sunset. Days 5-6: Luxor (Edfu/Karnak/Luxor temples, sunrise hot air balloon, Valley of the Kings, Nile-front resort). Days 7-9: Hurghada Red Sea beach/snorkel days. Day 10: fly back to Cairo for the GEM, Khan El Khalili, then fly home. Caption credits the route as '[planned by The World Within Us Travels]' - her promotion/repost of that agency's itinerary.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.tiktok.com/@marissadaily_/video/7643900020395232543"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Great Pyramids of Giza & Sphinx",
+     "location": "Giza"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Saqqara Step Pyramid",
+     "location": "Saqqara"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Nile-view dinner",
+     "location": "Cairo"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Philae Temple",
+     "location": "Aswan"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Nubian Village",
+     "location": "Aswan"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Nile River cruise",
+     "location": "Nile"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Abu Simbel (optional excursion)",
+     "location": "Abu Simbel"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Edfu, Karnak & Luxor Temples",
+     "location": "Luxor"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Luxor hot air balloon",
+     "location": "Luxor"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Valley of the Kings",
+     "location": "Luxor"
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Nile-front resort (unnamed)",
+     "location": "Luxor"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Red Sea resorts & snorkeling",
+     "location": "Hurghada"
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "Grand Egyptian Museum (GEM)",
+     "location": "Cairo"
+    },
+    {
+     "day": 10,
+     "item_type": "restaurant",
+     "name": "Khan El Khalili & koshari",
+     "location": "Cairo"
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "batch": 4,
+   "handle": "@rileejsmith",
+   "platform": "tiktok",
+   "title": "Croatia: Hvar & Dubrovnik - Favorite Restaurants",
+   "destination": "Hvar and Dubrovnik, Croatia",
+   "country": "Croatia",
+   "days": 10,
+   "summary": "From her honeymoon Croatia guide: favorite restaurants on Hvar and in Dubrovnik. Her detailed 8-day Hvar + Dubrovnik itinerary is a paid ($5) download (10 Days in Croatia listing), so only free restaurant content extracted; confidence medium, items from the search excerpt of her Croatia guide page.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://rileejsmith.com/guide/croatia"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Black Pepper",
+     "location": "Hvar"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "fig",
+     "location": "Hvar"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Panorama Restaurant",
+     "location": "Mount Srd, Dubrovnik"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Gradska Kavana Arsenal",
+     "location": "Dubrovnik"
+    }
+   ]
+  },
+  {
+   "id": 87,
+   "batch": 4,
+   "handle": "@themomtrotter",
+   "platform": "tiktok",
+   "title": "St. Croix Family Itinerary",
+   "destination": "St. Croix, US Virgin Islands",
+   "country": "USA",
+   "days": 6,
+   "summary": "Her suggested St. Croix itinerary (6-day structure; she says the family itself spent 4 days). Day-by-day plan with restaurants she names and an oceanfront hotel. Sponsored by Visit St. Croix.",
+   "confidence": "high",
+   "source_urls": [
+    "https://themomtrotter.com/things-to-do-in-st-croix/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "The Buccaneer",
+     "location": "Christiansted, St. Croix"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Buck Island snorkeling tour",
+     "location": "St. Croix"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Virgin Islands food tour",
+     "location": "St. Croix"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Horseback riding at Rainbow Beach",
+     "location": "St. Croix"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Point Udall",
+     "location": "St. Croix"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Frederiksted Fort",
+     "location": "Frederiksted, St. Croix"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Caribbean Museum of the Arts",
+     "location": "St. Croix"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "The Domino Club",
+     "location": "St. Croix"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Jet skiing at Rainbow Beach",
+     "location": "St. Croix"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Rum tour",
+     "location": "St. Croix"
+    },
+    {
+     "day": 6,
+     "item_type": "other",
+     "name": "Travel home",
+     "location": "St. Croix"
+    }
+   ]
+  }
+ ]
+}

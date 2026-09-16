@@ -1,0 +1,171 @@
+{
+  "business_ready": true,
+  "confidence": {
+    "high": 54,
+    "medium": 35,
+    "low": 5
+  },
+  "coverage": {
+    "destinations": 85,
+    "items": 1155,
+    "longest_days": 90,
+    "shortest_days": 1,
+    "sources": 106,
+    "trips_7_days_or_more": 47
+  },
+  "creators": {
+    "instagram": 50,
+    "tiktok": 50,
+    "total": 100,
+    "unknown_followers": 27,
+    "with_itineraries": 53,
+    "with_known_followers": 73
+  },
+  "flagship_itineraries": [
+    {
+      "handle": "@onegirlwandering",
+      "title": "The Perfect Two Week Itinerary For Your First Trip to Japan",
+      "destination": "Tokyo, Kyoto, Osaka (Japan)",
+      "days": 14,
+      "items": 49,
+      "confidence": "high",
+      "platform": "tiktok",
+      "source": "https://www.onegirlwandering.com/2023/06/25/the-perfect-two-week-itinerary-for-your-first-trip-to-japan/"
+    },
+    {
+      "handle": "@theblondeabroad",
+      "title": "Itinerary for Two Weeks in Morocco",
+      "destination": "Morocco",
+      "days": 15,
+      "items": 36,
+      "confidence": "high",
+      "platform": "instagram",
+      "source": "https://www.theblondeabroad.com/itinerary-two-weeks-morocco/comment-page-13/"
+    },
+    {
+      "handle": "@nomadicmatt",
+      "title": "A 10-Day Itinerary Down Sweden's Coast",
+      "destination": "Northern Sweden: Luleå to Uppsala",
+      "days": 10,
+      "items": 36,
+      "confidence": "high",
+      "platform": "instagram",
+      "source": "https://www.nomadicmatt.com/travel-blogs/sweden-coast-itinerary/"
+    },
+    {
+      "handle": "@budgettraveller",
+      "title": "15 European Cities for less than $350 — 1 month itinerary",
+      "destination": "15 European cities",
+      "days": 30,
+      "items": 30,
+      "confidence": "high",
+      "platform": "instagram",
+      "source": "https://budgettraveller.org/how-to-visit-15-european-cities-for-less-than-250/"
+    },
+    {
+      "handle": "@oneikathetraveller",
+      "title": "Two Weeks in South Africa, Zambia, and Botswana",
+      "destination": "Johannesburg, Kruger, Livingstone, Cape Town",
+      "days": 14,
+      "items": 30,
+      "confidence": "high",
+      "platform": "instagram",
+      "source": "http://www.oneikathetraveller.com/south-africa-botswana-zambia-itinerary.html"
+    }
+  ],
+  "itineraries": {
+    "total": 94,
+    "yield_per_creator": 0.94
+  },
+  "packing_model": {
+    "activities": "Viator Partner Program",
+    "dining": "OpenTable Partner API",
+    "flights": "Duffel",
+    "hotels": [
+      "Booking.com Affiliate (via CJ)",
+      "Expedia TAAP",
+      "Hotelbeds"
+    ]
+  },
+  "scale_path": "100 -> 1,000 creators",
+  "top_creators_by_reach": [
+    {
+      "handle": "@erikakullberg",
+      "platform": "tiktok",
+      "followers": "9.3M",
+      "profile": "https://www.tiktok.com/@erikakullberg",
+      "itineraries": 0
+    },
+    {
+      "handle": "@muradosmann",
+      "platform": "instagram",
+      "followers": "4.3M",
+      "profile": "https://www.instagram.com/muradosmann",
+      "itineraries": 2
+    },
+    {
+      "handle": "@jordentually",
+      "platform": "tiktok",
+      "followers": "3.7M",
+      "profile": "https://www.tiktok.com/@jordentually",
+      "itineraries": 1
+    },
+    {
+      "handle": "@thegermantravelguy",
+      "platform": "tiktok",
+      "followers": "3.1M",
+      "profile": "https://www.tiktok.com/@thegermantravelguy",
+      "itineraries": 0
+    },
+    {
+      "handle": "@doyoutravel",
+      "platform": "instagram",
+      "followers": "2.9M",
+      "profile": "https://www.instagram.com/doyoutravel",
+      "itineraries": 0
+    },
+    {
+      "handle": "@thebucketlistfamily",
+      "platform": "instagram",
+      "followers": "2.6M",
+      "profile": "https://www.instagram.com/thebucketlistfamily",
+      "itineraries": 2
+    },
+    {
+      "handle": "@drewbinsky",
+      "platform": "instagram",
+      "followers": "2.4M",
+      "profile": "https://www.instagram.com/drewbinsky",
+      "itineraries": 0
+    },
+    {
+      "handle": "@danmaniel",
+      "platform": "tiktok",
+      "followers": "2.4M",
+      "profile": "https://www.tiktok.com/@danmaniel",
+      "itineraries": 0
+    },
+    {
+      "handle": "@highonlifee",
+      "platform": "instagram",
+      "followers": "2.1M",
+      "profile": "https://www.instagram.com/highonlifee",
+      "itineraries": 0
+    },
+    {
+      "handle": "@gypsea_lust",
+      "platform": "instagram",
+      "followers": "1.8M",
+      "profile": "https://www.instagram.com/gypsea_lust",
+      "itineraries": 0
+    }
+  ],
+  "trust_line": "Every itinerary links back to its live public source. Nothing invented, nothing estimated.",
+  "validation": {
+    "audit": "PASS (evidence-only audit 2026-09-16; one finding fixed and re-verified)",
+    "evidence_council": "93/93 itineraries independently verified 2026-09-16 (see VERIFICATION_LOG_FULL.md)",
+    "gates": "all 7 PASS (original) + strengthened re-verification",
+    "quarantined": 8,
+    "corrections_applied": "see QC_REPORT_STRENGTHENED.md"
+  }
+}

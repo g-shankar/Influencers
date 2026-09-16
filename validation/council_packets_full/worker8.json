@@ -1,0 +1,1035 @@
+{
+ "worker": 8,
+ "check_date_utc": "2026-09-16",
+ "packets": [
+  {
+   "id": 8,
+   "batch": 1,
+   "handle": "@budgettraveller",
+   "platform": "instagram",
+   "title": "How to Visit 15 European Cities for less than $350/\u00a3300 - Europe 1 month itinerary",
+   "destination": "15 European cities: London, Paris, Amsterdam, Rotterdam, Ghent, Leuven, Cologne, Berlin, Budapest, Venice, Milan, Bologna, Florence, Rome, Athens",
+   "country": "Multiple (UK, France, Netherlands, Belgium, Germany, Hungary, Italy, Greece)",
+   "days": 30,
+   "summary": "A priced 1-month Eurotrip across 15 cities (mid-September to mid-October 2024) with every intercity transport leg booked 2 months ahead via Skyscanner and Omio. Transport total: \u20ac286 (~\u00a3246/$313) using budget flights, Flixbus/BlaBlaCar buses and advance train tickets. Each city stop includes his personal hotel/hostel picks and top free-or-cheap things to do.",
+   "confidence": "high",
+   "source_urls": [
+    "https://budgettraveller.org/how-to-visit-15-european-cities-for-less-than-250/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "London to Paris (16 Sep 2024)",
+     "location": "London to Paris"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Wombats City Hostel London",
+     "location": "London, UK"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Paris to Amsterdam (18 Sep 2024)",
+     "location": "Paris to Amsterdam"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Les Piaules Hostel Paris",
+     "location": "Belleville, Paris, France"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Amsterdam to Rotterdam (20 Sep 2024)",
+     "location": "Amsterdam to Rotterdam"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Vishuisje",
+     "location": "Herengracht, Amsterdam, Netherlands"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Rotterdam to Ghent (23 Sep 2024)",
+     "location": "Rotterdam to Ghent"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Hostel Uppelink",
+     "location": "Ghent, Belgium"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Ghent to Leuven (25 Sep 2024)",
+     "location": "Ghent to Leuven"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "HI De Blauwput Hostel",
+     "location": "Leuven, Belgium"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Leuven to Cologne (27 Sep 2024)",
+     "location": "Leuven to Cologne"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Die Wohngemeinschaft Cologne",
+     "location": "Cologne, Germany"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Cologne to Berlin (30 Sep 2024)",
+     "location": "Cologne to Berlin"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Circus Berlin Hostel",
+     "location": "Berlin, Germany"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Berlin to Budapest (2 Oct 2024)",
+     "location": "Berlin to Budapest"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Wombats City Hostel Budapest",
+     "location": "Budapest, Hungary"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Budapest to Venice (5 Oct 2024)",
+     "location": "Budapest to Venice"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Generator Venice",
+     "location": "Venice, Italy"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Venice to Milan (7 Oct 2024)",
+     "location": "Venice to Milan"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Ostello Bello Milan",
+     "location": "Milan, Italy"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Milan to Bologna (9 Oct 2024)",
+     "location": "Milan to Bologna"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Dopa Hostel Bologna",
+     "location": "Bologna, Italy"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Bologna to Florence (11 Oct 2024)",
+     "location": "Bologna to Florence"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Ostello Bello Florence",
+     "location": "Florence, Italy"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Florence to Rome (14 Oct 2024)",
+     "location": "Florence to Rome"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "The Beehive",
+     "location": "Rome, Italy"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Rome to Athens (17 Oct 2024)",
+     "location": "Rome to Athens"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "City Circus Athens Hostel",
+     "location": "Athens, Greece"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Kostas",
+     "location": "Athens, Greece"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Trip transport grand total",
+     "location": "Europe (15 cities)"
+    }
+   ]
+  },
+  {
+   "id": 17,
+   "batch": 1,
+   "handle": "@johnnyjet",
+   "platform": "instagram",
+   "title": "3 Beautiful Bermuda Beaches in 3 Days",
+   "destination": "Bermuda",
+   "country": "Bermuda",
+   "days": 3,
+   "summary": "Leisurely 3-day Bermuda beach itinerary published on JohnnyJet.com (writer visited April 18-21): one beach per day \u2014 Horseshoe Bay Beach (Day 1), Warwick Long Bay Beach (Day 2), and the private Fairmont Southampton Beach Club with watersports and a $11 daiquiri (Day 3), plus a bonus dinner at Lido on Elbow Beach. Trip sponsored by the Bermuda Department of Tourism.",
+   "confidence": "high",
+   "source_urls": [
+    "https://johnnyjet.com/3-beautiful-bermuda-beaches-in-3-days/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Horseshoe Bay Beach",
+     "location": "South shore, main island"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Warwick Long Bay Beach",
+     "location": "Warwick Parish, south shore"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Fairmont Southampton private Beach Club",
+     "location": "Southampton, south shore"
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "The Fairmont Hamilton Princess",
+     "location": "Hamilton, Bermuda"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Lido restaurant",
+     "location": "Elbow Beach, Paget Parish"
+    }
+   ]
+  },
+  {
+   "id": 26,
+   "batch": 1,
+   "handle": "@muradosmann",
+   "platform": "instagram",
+   "title": "Taiwan travel recommendations (Nataly & Murad Osmann)",
+   "destination": "Taiwan",
+   "country": "Taiwan",
+   "days": null,
+   "summary": "Interview feature in which Nataly and Murad Osmann share their favorite spots from their Taiwan trip (a fashion shoot and FollowMeTo exhibition visit): temples, Taroko National Park, the Alishan region's mountains and forests, and emerald tea plantations with traditional tea ceremonies.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://farfetch.com/me/style-guide/destination-style/travelling-to-taiwan-with-nataly-murad-osmann/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Toroko National Park",
+     "location": "Taiwan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Fo Guang temple",
+     "location": "Taiwan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Alishan region",
+     "location": "Taiwan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Emerald tea plantations and tea houses",
+     "location": "Taiwan"
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "batch": 2,
+   "handle": "@ricksteves",
+   "platform": "instagram",
+   "title": "Best of Europe in 21 Days Tour",
+   "destination": "Best of Europe (Netherlands, Germany, Austria, Italy, Switzerland, France)",
+   "country": "Netherlands / Germany / Austria / Italy / Switzerland / France",
+   "days": 21,
+   "summary": "Rick Steves' flagship 21-day guided tour: Netherlands to Paris across six countries (Amsterdam, Rhine Valley, Rothenburg, Salzburg, Venice, Florence, Rome, Cinque Terre, Swiss Alps, Burgundy, Paris). Full day-by-day itinerary from ricksteves.com; from $7,145 per person + air (single supplement $1,260), 20 nights' accommodation, 32+ group sightseeing events, all breakfasts and half the dinners included. It is a commercial group tour, but the named day-by-day itinerary is his flagship promoted route.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.ricksteves.com/tours/europe/europe-21-days"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Welcome to the Netherlands",
+     "location": "Haarlem, Netherlands"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Progressive, Artistic Amsterdam",
+     "location": "Amsterdam"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Dutch Treats and Rhine Views",
+     "location": "Arnhem / Rhine Valley"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Rhine Castles and a River Cruise",
+     "location": "Rhine Valley, Germany"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Medieval Rothenburg",
+     "location": "Rothenburg, Germany"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Dachau and Salzburg",
+     "location": "Dachau / Salzburg"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Salzburg and Strudel",
+     "location": "Salzburg, Austria"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Italy's Incomparable Venice",
+     "location": "Venice, Italy"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "The Art of Wandering in Venice",
+     "location": "Venice"
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "Florence and Michelangelo's David",
+     "location": "Florence, Italy"
+    },
+    {
+     "day": 11,
+     "item_type": "activity",
+     "name": "Wonders of Renaissance Florence",
+     "location": "Florence"
+    },
+    {
+     "day": 12,
+     "item_type": "activity",
+     "name": "A Walk Through Caesar's Rome",
+     "location": "Rome, Italy"
+    },
+    {
+     "day": 13,
+     "item_type": "activity",
+     "name": "Vatican City and St. Peter's Basilica",
+     "location": "Rome / Vatican City"
+    },
+    {
+     "day": 14,
+     "item_type": "activity",
+     "name": "To Italy's Cinque Terre",
+     "location": "Cinque Terre, Italy"
+    },
+    {
+     "day": 15,
+     "item_type": "activity",
+     "name": "Free Day in the Cinque Terre",
+     "location": "Cinque Terre"
+    },
+    {
+     "day": 16,
+     "item_type": "activity",
+     "name": "To the Heart of the Swiss Alps",
+     "location": "Lauterbrunnen Valley, Switzerland"
+    },
+    {
+     "day": 17,
+     "item_type": "activity",
+     "name": "Free Day in the Alps",
+     "location": "Swiss Alps"
+    },
+    {
+     "day": 18,
+     "item_type": "activity",
+     "name": "A Hearty Taste of Burgundy",
+     "location": "Beaune, Burgundy, France"
+    },
+    {
+     "day": 19,
+     "item_type": "activity",
+     "name": "Historic and Neighborhood Paris",
+     "location": "Paris, France"
+    },
+    {
+     "day": 20,
+     "item_type": "activity",
+     "name": "Parisian Cityscapes and Masterpieces",
+     "location": "Paris"
+    },
+    {
+     "day": 21,
+     "item_type": "other",
+     "name": "Tour ends",
+     "location": "Paris"
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "batch": 2,
+   "handle": "@thebrokebackpacker",
+   "platform": "instagram",
+   "title": "3-Month Southeast Asia Itinerary: The Banana Pancake Trail",
+   "destination": "Southeast Asia",
+   "country": "Thailand, Cambodia, Laos, Vietnam",
+   "days": 90,
+   "summary": "The Broke Backpacker's flagship 3-month route through the heart of the Banana Pancake Trail: Bangkok, northern Thailand (Chiang Mai, Pai), the slow boat to Luang Prabang, Laos (Vang Vieng, Tad Lo, Don Det), Vietnam, then Cambodia (Angkor Wat) and back to Thailand's southern beaches for the finale. A route-level itinerary with named stops, not day-by-day. Regional daily budget reality stated as $20-$40 USD.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.thebrokebackpacker.com/backpacking-southeast-asia-travel-guide/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Fly into Bangkok",
+     "location": "Bangkok, Thailand"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Northern Thailand: Chiang Mai and Pai",
+     "location": "Chiang Mai and Pai, Thailand"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Slow boat to Luang Prabang",
+     "location": "Chiang Mai to Luang Prabang"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Climb Mount Phousi",
+     "location": "Luang Prabang, Laos"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Vang Vieng",
+     "location": "Vang Vieng, Laos"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Tad Lo Waterfall and Don Det",
+     "location": "Laos"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Vietnam by motorbike",
+     "location": "Vietnam"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Angkor Wat",
+     "location": "Siem Reap, Cambodia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Full moon party or Indonesia beaches finale",
+     "location": "Thailand / Indonesia"
+    }
+   ]
+  },
+  {
+   "id": 53,
+   "batch": 2,
+   "handle": "@theslowtraveler",
+   "platform": "instagram",
+   "title": "Airlie Beach to Port Douglas Road Trip: 9-Day Itinerary",
+   "destination": "North Queensland (Airlie Beach to Port Douglas)",
+   "country": "Australia",
+   "days": 9,
+   "summary": "Carolyn and Anh's own 9-day North Queensland loop: day 1 transfer from Hamilton Island to Proserpine Airport, Europcar rental and cheap stop at Townsville's Hotel Allen; day 2 waterfalls (Crystal Creek, Cardwell State Forest, Alligators Nest) to Innisfail; day 3 Josephine Falls and Babinda Boulders, then the Sheraton Mirage Port Douglas; day 4 Daintree (croc cruise, beach horse riding, boardwalks); day 5 lazy lagoon-pool day; day 6 Great Barrier Reef scuba/snorkel; days 7-8 Atherton Tablelands and Magnetic Island; day 9 back to Proserpine.",
+   "confidence": "high",
+   "source_urls": [
+    "https://theslowtraveler.net/airlie-beach-to-port-douglas-road-trip/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Ferry and bus to Proserpine Airport",
+     "location": "Hamilton Island to Proserpine"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Europcar rental",
+     "location": "Proserpine Airport"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Hotel Allen",
+     "location": "Townsville"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Crystal Creek",
+     "location": "near Townsville"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Cardwell State Forest waterfalls",
+     "location": "Cardwell"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Alligators Nest",
+     "location": "near Innisfail"
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "Cheap motel in Innisfail",
+     "location": "Innisfail"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Josephine Falls",
+     "location": "near Innisfail"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Babinda Boulders",
+     "location": "near Cairns"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Skyrail Rainforest Cableway (skipped)",
+     "location": "Cairns"
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Sheraton Mirage Port Douglas",
+     "location": "Port Douglas"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Daintree crocodile cruise",
+     "location": "Daintree Rainforest"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Beach horse riding",
+     "location": "Cape Tribulation"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Daintree boardwalk hikes",
+     "location": "Daintree"
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Sheraton Mirage lagoon pool day",
+     "location": "Port Douglas"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Four Mile Beach walk",
+     "location": "Port Douglas"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Barrier Reef scuba and snorkel boat trip",
+     "location": "Great Barrier Reef (Port Douglas)"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Atherton Tablelands",
+     "location": "Queensland"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Magnetic Island",
+     "location": "Magnetic Island"
+    },
+    {
+     "day": 9,
+     "item_type": "transport",
+     "name": "Return drive to Proserpine Airport",
+     "location": "Townsville to Proserpine"
+    }
+   ]
+  },
+  {
+   "id": 62,
+   "batch": 3,
+   "handle": "@claireandpeter",
+   "platform": "tiktok",
+   "title": "Egypt Daily Itinerary",
+   "destination": "Egypt",
+   "country": "Egypt",
+   "days": 12,
+   "summary": "Twelve-day daily itinerary through Egypt covering Cairo, the Giza pyramids, Saqqara, Aswan, a Nile cruise to Luxor, and a return to Cairo. Names the Golden Pyramid Inn, the Moondance Nile cruise ship, and major temples including Karnak, Luxor, Kom Ombo and the Valley of the Kings.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.claireandpeter.com/world-trip/egypt-cruise-the-nile/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Cairo",
+     "location": "Cairo, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Golden Pyramid Inn",
+     "location": "Cairo, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Great Pyramids",
+     "location": "Giza, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sphinx",
+     "location": "Giza, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Saqqara",
+     "location": "Saqqara, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Flight to Aswan",
+     "location": "Cairo to Aswan, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Felucca ride",
+     "location": "Aswan, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Temple of Philae",
+     "location": "Aswan, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Moondance Nile cruise ship",
+     "location": "Nile River, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Kom Ombo Temple",
+     "location": "Kom Ombo, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Valley of the Kings",
+     "location": "Luxor, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Temple of Hatshepsut",
+     "location": "Luxor, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Karnak Temple",
+     "location": "Luxor, Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Luxor Temple",
+     "location": "Luxor, Egypt"
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "batch": 4,
+   "handle": "@mgtenazas",
+   "platform": "tiktok",
+   "title": "Maldives on a Budget: Local-Island Stays",
+   "destination": "Maldives",
+   "country": "Maldives",
+   "days": null,
+   "summary": "Budget-Maldives guide from his TikTok caption: skip the ultra-luxurious resorts and stay in guesthouses on inhabited islands or city hotels in the urban centers. Many guesthouses run all-inclusive rates covering meals plus diving/snorkeling excursions, so under $150/day per atoll gets you snorkeling with manta rays, whale sharks, nurse sharks, and visits like the Keyodhoo shipwreck. 'Can you stay in the Maldives on a budget? The answer is yes definitely.'",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.tiktok.com/@mgtenazas/video/7298644410747620641",
+    "https://izea.com/resources/tiktok-travel-influencers/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Local-island guesthouses (unnamed)",
+     "location": "Maldives inhabited islands"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "City hotels in Male (unnamed)",
+     "location": "Male / urban centers"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Snorkeling/diving with manta rays, whale sharks, nurse sharks",
+     "location": "Maldives"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Under-$150/day Maldives budget",
+     "location": "Maldives"
+    }
+   ]
+  },
+  {
+   "id": 80,
+   "batch": 4,
+   "handle": "@shetravelledtheworld",
+   "platform": "tiktok",
+   "title": "Kyrgyzstan Itinerary: The Perfect 2 Week Trip",
+   "destination": "Kyrgyzstan",
+   "country": "Kyrgyzstan",
+   "days": 14,
+   "summary": "Her own published 'perfect 2 week' Kyrgyzstan itinerary: Bishkek (2n), Burana Tower day stop, Issyk-Kul/Bokonbayevo (3n), Jyrgalan (3n), Naryn (1n), Tash Rabat (2n) - done by rented 4x4, with named hotels, restaurants and activity prices she paid.",
+   "confidence": "high",
+   "source_urls": [
+    "https://shetravelledtheworld.com/kyrgyzstan-itinerary-the-perfect-2-week-trip/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "flight",
+     "name": "Pegasus Airlines",
+     "location": "London to Bishkek"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Pamir Jeep Rentals (car rental)",
+     "location": "Kyrgyzstan"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Golden Hotel",
+     "location": "Bishkek"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "City sightseeing / day trips to Ala Archa National Park",
+     "location": "Bishkek"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Navat Teahouse",
+     "location": "Bishkek"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Five Resto",
+     "location": "Bishkek"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Burana Tower",
+     "location": "Burana"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Lake Issyk-Kul",
+     "location": "Issyk-Kul"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Guesthouse Gulmira",
+     "location": "Bokonbayevo"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Eagle hunting show",
+     "location": "Bokonbayevo"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Mountain hiking",
+     "location": "Jyrgalan"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Mine Hostel",
+     "location": "Jyrgalan"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Kezgin Guesthouse",
+     "location": "Naryn"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Tash Rabat yurt camps / Stone Rabat",
+     "location": "Tash Rabat"
+    }
+   ]
+  },
+  {
+   "id": 89,
+   "batch": 4,
+   "handle": "@theworldpursuit",
+   "platform": "tiktok",
+   "title": "Yukon Road Trip: Klondike Kluane Loop",
+   "destination": "Yukon Territory, Canada (Whitehorse > Dawson City > Tombstone > Dempster > Alaska > Kluane > Whitehorse)",
+   "country": "Canada",
+   "days": 8,
+   "summary": "Day-by-day Klondike-Kluane loop road trip from their own blog: Whitehorse, Dawson City, Tombstone Territorial Park, Dempster Highway, Top of the World Highway to Chicken (Alaska), Alaska Highway to Beaver Creek, Kluane National Park / Haines Junction, return to Whitehorse. Vehicle: Overland Yukon jeep with rooftop tent. Page title says 7 days but content runs Day 1-8 (with two Day 5 sections); recorded as 8.",
+   "confidence": "high",
+   "source_urls": [
+    "https://theworldpursuit.com/yukon-road-trip/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Whitehorse sightseeing",
+     "location": "Whitehorse, YT"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Miner's Daughter / Dirty Northern",
+     "location": "Whitehorse, YT"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Midnight Sun Coffee Roasters",
+     "location": "Whitehorse, YT"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Coast High Country Inn",
+     "location": "Whitehorse, YT"
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Whitehorse to Dawson City drive",
+     "location": "YT"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Dawson City",
+     "location": "Dawson City, YT"
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "Yukon River Campground",
+     "location": "Dawson City, YT"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Sourdough Saloon (Downtown Hotel)",
+     "location": "Dawson City, YT"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Alchemy / Drunken Goat Tavern",
+     "location": "Dawson City, YT"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Tombstone Territorial Park",
+     "location": "YT"
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Tombstone campground",
+     "location": "Tombstone Territorial Park, YT"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Dempster Highway drive",
+     "location": "YT"
+    },
+    {
+     "day": 5,
+     "item_type": "transport",
+     "name": "Top of the World Highway",
+     "location": "Dawson City, YT to Chicken, AK"
+    },
+    {
+     "day": 5,
+     "item_type": "transport",
+     "name": "Alaska Highway to Beaver Creek",
+     "location": "Chicken, AK to Beaver Creek, YT"
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Discovery Yukon Lodgings",
+     "location": "Beaver Creek, YT"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Kluane National Park",
+     "location": "YT"
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Mount Logan Lodge",
+     "location": "Haines Junction, YT"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Kluane glacier flightseeing tour",
+     "location": "Haines Junction, YT"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Kluane day hike",
+     "location": "Haines Junction, YT"
+    },
+    {
+     "day": 8,
+     "item_type": "restaurant",
+     "name": "The Village Bakery",
+     "location": "Haines Junction, YT"
+    },
+    {
+     "day": 8,
+     "item_type": "transport",
+     "name": "Haines Junction to Whitehorse",
+     "location": "YT"
+    },
+    {
+     "day": 8,
+     "item_type": "hotel",
+     "name": "Coast High Country Inn",
+     "location": "Whitehorse, YT"
+    }
+   ]
+  }
+ ]
+}

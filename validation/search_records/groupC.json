@@ -1,0 +1,214 @@
+[
+ {
+  "extraction": null,
+  "handle": "@terrilyne",
+  "name": "Terri Lyne",
+  "notes": "Four exact queries run 2026-09-16 UTC. Exact-handle queries returned unrelated 'Terri'/'Terri-Lynn' creators, generic itinerary pages, and unrelated TikTok videos \u2014 nothing attributable to @terrilyne. Name queries were dominated by jazz musician Terri Lyne Carrington plus unrelated Tripadvisor/Rick Steves users. No travel itinerary attributable to the creator was found. Fail-closed: profile/bio-link check incomplete (no live-browser capability in this pass), so the record is quarantined. Search sessions: 7126980862384904133, 8521176572620535944, 7145630180495959082, 6775998798850640005. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag for unverified profiles; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Profile/bio-link unverifiability is a method limit, recorded in notes, not a quarantine.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.instagram.com/terrilyne/",
+    "what_it_contained": "required profile target; not successfully fetched/inspected \u2014 page-text retrieval of the Instagram profile failed on 2026-09-16, so bio links were not verified"
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": false,
+  "queries_run": [
+   "\"@terrilyne\" itinerary",
+   "\"@terrilyne\" travel guide",
+   "Terri Lyne itinerary",
+   "Terri Lyne travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchC",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@thesolosociety",
+  "name": "The Solo Society",
+  "notes": "Four exact queries run 2026-09-16 UTC. Exact-handle queries returned generic solo-travel material and unrelated Solos Holidays pages. Name queries returned itineraries from other organizations with no evidence tying them to this handle. No travel itinerary attributable to the creator was found. Fail-closed: profile/bio-link check incomplete, so the record is quarantined. Search sessions: 5445552416437622384, 3920579180723659803, 8370411919862628269, 2434417386074804153. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag for unverified profiles; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Profile/bio-link unverifiability is a method limit, recorded in notes, not a quarantine.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.instagram.com/thesolosociety/",
+    "what_it_contained": "required profile target; not successfully fetched/inspected \u2014 Instagram profile and bio links could not be verified without live-browser navigation"
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": false,
+  "queries_run": [
+   "\"@thesolosociety\" itinerary",
+   "\"@thesolosociety\" travel guide",
+   "The Solo Society itinerary",
+   "The Solo Society travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchC",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@thexblondex",
+  "name": "Kaylah Burton",
+  "notes": "Four exact queries run 2026-09-16 UTC. Handle searches returned unrelated 'blonde' travel blogs. Name search surfaced Kaylah Burton's Positano wedding coverage (The Knot wedding album), which is not a travel itinerary. 'Kaylah Burton travel guide blog' returned unrelated creator Kylah and other Kayla/Kaylah results. No travel itinerary attributable to the creator was found. Fail-closed: profile/bio-link check incomplete, so the record is quarantined. Search sessions: 4228180856965695747, 4273683026827731992, 5987071459756662808, 120585572845059830. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag for unverified profiles; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Profile/bio-link unverifiability is a method limit, recorded in notes, not a quarantine.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.instagram.com/thexblondex/",
+    "what_it_contained": "required profile target; not successfully fetched/inspected \u2014 Instagram profile and bio links could not be verified without live-browser navigation"
+   },
+   {
+    "url": "https://www.theknot.com/real-weddings/classic-amalfi-coast-positano-wedding-album",
+    "what_it_contained": "Kaylah Burton's Positano wedding coverage \u2014 a wedding album page, not a travel itinerary authored by or tied to @thexblondex"
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": false,
+  "queries_run": [
+   "\"@thexblondex\" itinerary",
+   "\"@thexblondex\" travel guide",
+   "Kaylah Burton itinerary",
+   "Kaylah Burton travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchC",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@vanlifeeurope",
+  "name": "Vanlife Europe",
+  "notes": "Four exact queries run 2026-09-16 UTC. Many genuine vanlife itineraries appeared (e.g. a seven-day Slovenia road trip), but 'vanlifeeurope' occurred only generically/as a hashtag \u2014 no result established authorship or identity linkage to Instagram account @vanlifeeurope. Unrelated itineraries were deliberately NOT extracted merely because they matched the generic phrase. No travel itinerary attributable to the creator was found. Fail-closed: profile/bio-link check incomplete, so the record is quarantined. Search sessions: 2328382303369246933, 3971447854235249409, 2637636132182017170, 9002883114978464398. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag for unverified profiles; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Profile/bio-link unverifiability is a method limit, recorded in notes, not a quarantine.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.instagram.com/vanlifeeurope/",
+    "what_it_contained": "required profile target; not successfully fetched/inspected \u2014 Instagram profile and bio links could not be verified without live-browser navigation"
+   },
+   {
+    "url": "https://www.youtube.com/shorts/qf2_ndhaV-U",
+    "what_it_contained": "a seven-day Slovenia vanlife road trip video \u2014 a genuine vanlife itinerary but with no established authorship or identity linkage to Instagram account @vanlifeeurope; not extracted"
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": false,
+  "queries_run": [
+   "\"@vanlifeeurope\" itinerary",
+   "\"@vanlifeeurope\" travel guide",
+   "Vanlife Europe itinerary",
+   "Vanlife Europe travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchC",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@_abbyvogel",
+  "name": "Abby Vogel",
+  "notes": "Four exact queries run 2026-09-16 UTC. Exact-handle searches yielded no attributable creator result. Name searches returned unrelated Abby/Abigail Vogel records \u2014 wedding pages, the 'Abby Organizes' YouTube channel, user-generated Plantrip pages ('Abby's Ideal Week in Seattle'), and a Blackburn student \u2014 with no evidence tying any of them to TikTok @_abbyvogel. No travel itinerary attributable to the creator was found. Fail-closed: profile/bio-link check incomplete, so the record is quarantined. Search sessions: 7641660415747577389, 7601731852865822658, 2236423700031041288, 7668854697335425022. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag for unverified profiles; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Profile/bio-link unverifiability is a method limit, recorded in notes, not a quarantine.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@_abbyvogel",
+    "what_it_contained": "required profile target; not successfully fetched/inspected \u2014 TikTok profile and bio links could not be verified without live-browser navigation"
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@_abbyvogel\" itinerary",
+   "\"@_abbyvogel\" travel guide",
+   "Abby Vogel itinerary",
+   "Abby Vogel travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchC",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@adrian.baias",
+  "name": "Adrian Baias",
+  "notes": "Four exact queries run 2026-09-16 UTC. Results collided with unrelated Adrians: Adriana Travel (Croatia tour company) PDFs, National Geographic 'Adrian's Bucharest' (different Adrian), Tripadvisor Bucharest walking tours by a tour guide named Adrian, and a Cozumel tour operator named Adrian. No result established identity linkage to TikTok @adrian.baias. No travel itinerary attributable to the creator was found. Fail-closed: profile/bio-link check incomplete, so the record is quarantined. Search sessions: 3520336875580836670, 2476233263633627251, 9090270421661540162, 4975362360662380092. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag for unverified profiles; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Profile/bio-link unverifiability is a method limit, recorded in notes, not a quarantine.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@adrian.baias",
+    "what_it_contained": "required profile target; not successfully fetched/inspected \u2014 TikTok profile and bio links could not be verified without live-browser navigation"
+   },
+   {
+    "url": "https://www.nationalgeographic.com/travel/article/i-heart-my-city-adrians-bucharest",
+    "what_it_contained": "National Geographic 'Adrian's Bucharest' \u2014 about a different Adrian, no identity linkage to TikTok @adrian.baias"
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@adrian.baias\" itinerary",
+   "\"@adrian.baias\" travel guide",
+   "Adrian Baias itinerary",
+   "Adrian Baias travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchC",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@alvatheexplorer",
+  "name": "Alva Vaz",
+  "notes": "Four exact queries run 2026-09-16 UTC. Exact-handle queries returned generic explorer-travel material and user-generated Plantrip itineraries (Alberta, Algarve, Alabama) with no creator attribution. One page (izea.com Gen Z travel influencers) confirms the identity 'Alva Vaz \u2014 alvatheexplorer' as a TikTok creator but carries no itinerary authored by him. Name queries collided with place names (Elvas, Rui Vaz, Agualva, river Alva, Ant\u00e3o Vaz wine) and unrelated results. No travel itinerary attributable to the creator was found. Fail-closed: profile/bio-link check incomplete, so the record is quarantined. Search sessions: 4969215365834330462, 4088084817294444758, 6718642099723288882, 8123042557841775816. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag for unverified profiles; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Profile/bio-link unverifiability is a method limit, recorded in notes, not a quarantine.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@alvatheexplorer",
+    "what_it_contained": "required profile target; not successfully fetched/inspected \u2014 TikTok profile and bio links could not be verified without live-browser navigation"
+   },
+   {
+    "url": "https://izea.com/resources/gen-z-travel-influencers/amp/",
+    "what_it_contained": "iZea 'Travel The World With These Gen Z Travel Influencers' \u2014 confirms the identity 'Alva Vaz \u2014 alvatheexplorer' as a TikTok creator (budget expeditions: Dead Sea in Israel, Albania, Mexico top sites); the page contains no travel itinerary authored by him"
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@alvatheexplorer\" itinerary",
+   "\"@alvatheexplorer\" travel guide",
+   "Alva Vaz itinerary",
+   "Alva Vaz travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchC",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@bodiek",
+  "name": "Bodie",
+  "notes": "Four exact queries run 2026-09-16 UTC. Exact-handle queries surfaced layla.ai and airial.travel AI-generated pages that EMBED @bodiek's TikTok clips (Rome, Amsterdam, Bout du Lac, St. Anton, Radical Bay, San Domenico Arezzo, Namibia Botanical Garden, Via Roma Monterosso) \u2014 but the itinerary/guide content on those pages is third-party AI output, not a structured itinerary authored by @bodiek; single video captions do not meet the itinerary definition. The Namibia caption snippet was truncated and unverifiable inside a third-party aggregator, not the creator's own page. Name queries collided with Bodie, California (ghost town). No travel itinerary attributable to the creator was found. Fail-closed: profile/bio-link check incomplete, so the record is quarantined. Search sessions: 6952152868811700454, 1351905204710595588, 3432738523664945996, 2435973952285511889. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag for unverified profiles; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Profile/bio-link unverifiability is a method limit, recorded in notes, not a quarantine.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@bodiek",
+    "what_it_contained": "required profile target; not successfully fetched/inspected \u2014 TikTok profile and bio links could not be verified without live-browser navigation"
+   },
+   {
+    "url": "https://airial.travel/attractions/namibia/windhoek/national-botanical-garden-namibia-kCD8ymQ2",
+    "what_it_contained": "airial.travel AI-generated attraction guide that embeds a @bodiek TikTok clip; quotes a truncated caption snippet ('Namibia Roadtrip ... Our exact itinerary: Day 1 \u2013 Okonjima Nature Reserve ... Day 2-3 \u2013 Etosha National Park') \u2014 partial, unverifiable, third-party aggregator content, not the creator's own page; rejected as itinerary evidence fail-closed"
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@bodiek\" itinerary",
+   "\"@bodiek\" travel guide",
+   "\"Bodie\" \"bodiek\" itinerary",
+   "\"Bodie\" \"bodiek\" travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchC",
+  "search_date": "2026-09-16"
+ }
+]

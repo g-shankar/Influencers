@@ -1,0 +1,784 @@
+{
+ "worker": 9,
+ "check_date_utc": "2026-09-16",
+ "packets": [
+  {
+   "id": 9,
+   "batch": 1,
+   "handle": "@cheaprvliving",
+   "platform": "instagram",
+   "title": "Incredible Beauty: The Grand Circle",
+   "destination": "The Grand Circle (Southern Utah, Northern Arizona, SW Colorado)",
+   "country": "USA",
+   "days": null,
+   "summary": "Bob Wells's overview of the 'Grand Circle' \u2014 the commonly understood RV/vanlife travel route through the national parks of the Southwest \u2014 expanded with Colorado and extra Northern Arizona stops. 15 named stops starting and ending in Flagstaff, AZ, with fly-in alternatives and his recommended Southwest guidebooks. No day-by-day breakdown is given; it is a route loop rather than a dated plan.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://cheaprvliving.com/kb/incredible-beauty-the-grand-circle/?seq_no=2"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Flagstaff (loop start/end)",
+     "location": "Flagstaff, AZ, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Grand Canyon NP",
+     "location": "Arizona, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Antelope Canyon",
+     "location": "Arizona, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "The Wave",
+     "location": "Arizona, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Zion NP",
+     "location": "Utah, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Bryce Canyon NP",
+     "location": "Utah, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Capitol Reef NP",
+     "location": "Utah, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Arches NP",
+     "location": "Utah, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Canyonlands NP",
+     "location": "Utah, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Ouray and Silverton",
+     "location": "Colorado, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Mesa Verde NP",
+     "location": "Colorado, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Monument Valley National Monument",
+     "location": "Arizona, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Canyon de Chelly National Monument",
+     "location": "Arizona, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Petrified Forest NP",
+     "location": "Arizona, USA"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "'The Photographer's Guide to the Southwest' by Laurent Martres",
+     "location": "N/A"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Benchmark road atlases",
+     "location": "N/A"
+    }
+   ]
+  },
+  {
+   "id": 18,
+   "batch": 1,
+   "handle": "@karaandnate",
+   "platform": "instagram",
+   "title": "Italy Vespa Tour (Le Marche, Italy)",
+   "destination": "Le Marche region, Italy (based around Ripatransone)",
+   "country": "Italy",
+   "days": 7,
+   "summary": "A hosted 7-day / 6-night group Vespa tour through the Le Marche countryside (based on Kara and Nate's own 10 days in Ripatransone). Guests stay in one private villa with pool, 7 bedrooms, marble-island kitchen; days are suggestion-style with open afternoons. Published trip cost was $2,800 per person (flights not included), covering accommodations, every meal, unlimited local wine at the villa, Vespa + insurance + helmets. Registration sold out for three trips.",
+   "confidence": "high",
+   "source_urls": [
+    "https://karaandnate.com/italy-vespa-tour/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Private group villa (Le Marche, near Ripatransone)",
+     "location": "Le Marche region, Italy"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Vespa orientation and settle in",
+     "location": "Le Marche, Italy"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Medieval Hill Towns exploration",
+     "location": "Le Marche, Italy"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Favorite local restaurant (lunch)",
+     "location": "Le Marche, Italy"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Beach Day",
+     "location": "Adriatic coast, Le Marche, Italy"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Seafood lunch (Adriatic coast)",
+     "location": "Adriatic coast, Le Marche, Italy"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Local Delicacies day",
+     "location": "Le Marche, Italy"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Winery dinner",
+     "location": "Le Marche, Italy"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Day 5 - TBD (winery tour likely)",
+     "location": "Le Marche, Italy"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Pizza Party day",
+     "location": "Le Marche, Italy"
+    },
+    {
+     "day": 7,
+     "item_type": "transport",
+     "name": "Departure: return Vespa, transfer to train station/airport",
+     "location": "Le Marche, Italy"
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "batch": 1,
+   "handle": "@muradosmann",
+   "platform": "instagram",
+   "title": "Egypt group trip via #FollowMeToTour travel club",
+   "destination": "Egypt",
+   "country": "Egypt",
+   "days": null,
+   "summary": "In a Travel + Leisure India interview, Murad Osmann describes his bespoke #FollowMeToTour travel club ('where we take a group with us on our travels') and its Egypt trip, for which they arranged private access to the pyramids and the Sphinx plus a night tour of an Egyptian museum. No day-by-day structure, hotels, or prices were given.",
+   "confidence": "low",
+   "source_urls": [
+    "https://www.travelandleisureasia.com/in/people/interview-with-murad-and-nataly-osmann-of-followmeto-series/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Private access to the pyramids and the Sphinx",
+     "location": "Egypt"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Night tour of an Egyptian museum",
+     "location": "Egypt"
+    }
+   ]
+  },
+  {
+   "id": 36,
+   "batch": 2,
+   "handle": "@ricksteves",
+   "platform": "instagram",
+   "title": "Rick's Best Three-Week Trip to England by Public Transportation",
+   "destination": "England",
+   "country": "United Kingdom",
+   "days": 21,
+   "summary": "Rick Steves' free self-guided 21-day England itinerary by public transportation: Bath, Oxford, Cotswolds, Stratford, Liverpool, Lake District, Hadrian's Wall, Durham, York and London - each day's destination, transit and overnight town specified. A 20-day by-car variant and an 11-day South England Drive are also on the same page.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.ricksteves.com/europe/england/itinerary"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Arrival, to Bath",
+     "location": "London / Bath"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Bath",
+     "location": "Bath"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Stonehenge and Avebury",
+     "location": "Wiltshire"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "To Oxford",
+     "location": "Oxford"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Blenheim Palace",
+     "location": "Oxford"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "To the Cotswolds",
+     "location": "Cotswolds"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Cotswolds exploration",
+     "location": "Cotswolds"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "To Stratford",
+     "location": "Stratford-upon-Avon"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "To Liverpool",
+     "location": "Liverpool"
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "To the Lake District",
+     "location": "Lake District"
+    },
+    {
+     "day": 11,
+     "item_type": "activity",
+     "name": "North Lake District",
+     "location": "Lake District"
+    },
+    {
+     "day": 12,
+     "item_type": "activity",
+     "name": "Hadrian's Wall",
+     "location": "Hadrian's Wall"
+    },
+    {
+     "day": 13,
+     "item_type": "activity",
+     "name": "Durham and Beamish Museum",
+     "location": "Durham"
+    },
+    {
+     "day": 14,
+     "item_type": "activity",
+     "name": "To York",
+     "location": "York"
+    },
+    {
+     "day": 15,
+     "item_type": "activity",
+     "name": "York",
+     "location": "York"
+    },
+    {
+     "day": 16,
+     "item_type": "activity",
+     "name": "To London",
+     "location": "London"
+    },
+    {
+     "day": 17,
+     "item_type": "activity",
+     "name": "London",
+     "location": "London"
+    },
+    {
+     "day": 18,
+     "item_type": "activity",
+     "name": "London",
+     "location": "London"
+    },
+    {
+     "day": 19,
+     "item_type": "activity",
+     "name": "Day trip from London",
+     "location": "London"
+    },
+    {
+     "day": 20,
+     "item_type": "activity",
+     "name": "London",
+     "location": "London"
+    },
+    {
+     "day": 21,
+     "item_type": "other",
+     "name": "Whew!",
+     "location": "England"
+    }
+   ]
+  },
+  {
+   "id": 45,
+   "batch": 2,
+   "handle": "@thebrokebackpacker",
+   "platform": "instagram",
+   "title": "2-Week Southeast Asia Itinerary: An Epic Getaway",
+   "destination": "Southeast Asia",
+   "country": "Thailand, Cambodia",
+   "days": 14,
+   "summary": "The Broke Backpacker's recommended 2-week route for travellers short on time: Bangkok, Chiang Mai and Pai (or Krabi and Koh Tao for islands), with an optional swap to Cambodia for Angkor Wat and the Cambodian islands. Route-level guidance with named stops, not day-by-day; the guide's pro-tip is less-is-more on a short trip.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.thebrokebackpacker.com/backpacking-southeast-asia-travel-guide/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Bangkok (a few days)",
+     "location": "Bangkok, Thailand"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Ayutthaya and Sukhothai temple ruins",
+     "location": "Near Bangkok, Thailand"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Chiang Mai and Pai",
+     "location": "Chiang Mai and Pai, Thailand"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Angkor Wat and Cambodian islands (optional swap)",
+     "location": "Cambodia / Southern Thailand"
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "batch": 2,
+   "handle": "@theslowtraveler",
+   "platform": "instagram",
+   "title": "Epic 3-Day Road Trip along the Great Ocean Road",
+   "destination": "Great Ocean Road, Victoria",
+   "country": "Australia",
+   "days": 3,
+   "summary": "Carolyn's 3-day Great Ocean Road road trip: day 1 covers Melbourne to Aireys Inlet via Bells Beach, the Great Ocean Road Chocolaterie and Ice Creamery, and the Anglesea Lookout, with an overnight stay in Aireys Inlet. Published on her own guide with a video version; only day-1 detail was captured in the source read, so confidence is medium.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://theslowtraveler.net/epic-3-day-road-trip-along-the-great-ocean-road/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Drive Melbourne to Aireys Inlet",
+     "location": "Melbourne to Aireys Inlet"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Bells Beach",
+     "location": "near Torquay"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Great Ocean Road Chocolaterie and Ice Creamery",
+     "location": "Great Ocean Road"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Anglesea Lookout",
+     "location": "Anglesea"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Hotel in Aireys Inlet (unnamed)",
+     "location": "Aireys Inlet"
+    }
+   ]
+  },
+  {
+   "id": 63,
+   "batch": 3,
+   "handle": "@claireandpeter",
+   "platform": "tiktok",
+   "title": "Georgia Itinerary",
+   "destination": "Georgia",
+   "country": "Georgia",
+   "days": 23,
+   "summary": "Twenty-three-day itinerary (days 193-215 of the creators' world trip) across Georgia, covering Tbilisi, Kazbegi, the Kakheti wine region, Borjomi, Kutaisi, Mestia, Guria and Batumi. Names specific wineries including Marani Milorauli, Sesikeli and Zurab Kviriashvili, plus a wine-barrel Airbnb in Guria.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.claireandpeter.com/world-trip/georgia-itinerary/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Tbilisi",
+     "location": "Tbilisi, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Kazbegi",
+     "location": "Kazbegi, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Kakheti / Telavi",
+     "location": "Kakheti, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Marani Milorauli",
+     "location": "Kakheti, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sesikeli",
+     "location": "Kakheti, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Zurab Kviriashvili",
+     "location": "Kakheti, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "N1 Winery Harvest Experience",
+     "location": "Kakheti, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Borjomi",
+     "location": "Borjomi, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Kutaisi",
+     "location": "Kutaisi, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Mestia",
+     "location": "Mestia, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Wine-barrel Airbnb",
+     "location": "Guria, Georgia"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Batumi",
+     "location": "Batumi, Georgia"
+    }
+   ]
+  },
+  {
+   "id": 72,
+   "batch": 4,
+   "handle": "@nikkionherway",
+   "platform": "tiktok",
+   "title": "The Perfect One Week Slovenia Itinerary: Europe's Hidden Gem",
+   "destination": "Slovenia",
+   "country": "Slovenia",
+   "days": 7,
+   "summary": "Nikki Gibson's 7-day Slovenia itinerary compressed from her 11-day solo trip: 2 days Ljubljana with a day trip to Postojna, 2 days Lake Bohinj, 2 days Lake Bled, final day Kranj or depart. Best time late summer to fall (August-September). Public transport/buses recommended; rental car optional.",
+   "confidence": "high",
+   "source_urls": [
+    "https://nikkionherway.com/slovenia-itinerary/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "flight",
+     "name": "Flight to Ljubljana Airport",
+     "location": "Ljubljana Airport"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Ljubljanica River boat ride",
+     "location": "Ljubljana Old Town"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Ljubljana Castle",
+     "location": "Ljubljana"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Grajska Vinoteka",
+     "location": "Ljubljana Castle"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Dragon Bridge (Zmajski Most)",
+     "location": "Ljubljana"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Tivoli Park",
+     "location": "Ljubljana"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Central Market / Open Kitchen",
+     "location": "Ljubljana"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Julija",
+     "location": "Ljubljana"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Postojna Caves",
+     "location": "Postojna"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Predjama Castle",
+     "location": "Predjama"
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Bus Ljubljana to Postojna",
+     "location": "Ljubljana to Postojna"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Vogel Mountain cable car",
+     "location": "Lake Bohinj"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Savica waterfall hike (Slap Savica)",
+     "location": "Lake Bohinj"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Swim in Lake Bohinj",
+     "location": "Lake Bohinj"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Divja Jaga",
+     "location": "Lake Bohinj"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Swim in Lake Bled",
+     "location": "Lake Bled"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Rowboat rental on Lake Bled",
+     "location": "Lake Bled"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Pletna boat to Bled Island",
+     "location": "Lake Bled"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Vintgar Gorge",
+     "location": "near Lake Bled"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Summer toboggan at Straza",
+     "location": "Lake Bled"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Mala Osojnica viewpoint",
+     "location": "Lake Bled"
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Hotel Triglav",
+     "location": "Lake Bled"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Kranj",
+     "location": "Kranj"
+    }
+   ]
+  },
+  {
+   "id": 81,
+   "batch": 4,
+   "handle": "@sightsofsara",
+   "platform": "tiktok",
+   "title": "Tour du Mont Blanc - Day-by-Day Trek Series",
+   "destination": "Tour du Mont Blanc",
+   "country": "France/Italy/Switzerland",
+   "days": null,
+   "summary": "Sara's own day-by-day Tour du Mont Blanc series (100 mi / 165km trek around the Mont Blanc massif through France, Italy and Switzerland), with route stats, distances, ascents and the refuges she slept in. Only days 1-2 were published so far; total trip length not stated.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.tiktok.com/@sightsofsara/video/7602636029870361887",
+    "https://www.tiktok.com/@sightsofsara/video/7603038544512175391"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "TMB Day 1: Les Houches to Les Contamines",
+     "location": "France"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Camping le Pontet",
+     "location": "Les Contamines, France"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "TMB Day 2: Les Contamines-Montjoie to Croix du Bonhomme",
+     "location": "France"
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "Refuge de la Croix du Bonhomme",
+     "location": "France"
+    }
+   ]
+  },
+  {
+   "id": 90,
+   "batch": 4,
+   "handle": "@travelwithjaro",
+   "platform": "tiktok",
+   "title": "How far does $100 get you in Lombok",
+   "destination": "Lombok (Kuta area), Indonesia",
+   "country": "Indonesia",
+   "days": 1,
+   "summary": "Single-day budget breakdown from his TikTok video: how far $100 stretches in a day in Lombok, naming where he stayed and what he booked. Not a multi-day itinerary; a budget trip report with named hotels/tours.",
+   "confidence": "low",
+   "source_urls": [
+    "https://www.tiktok.com/@travelwithjaro/video/7471887027437423880",
+    "https://neoreach.com/tiktok-travel/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "The Kebon",
+     "location": "Kuta, Lombok, Indonesia"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "The Power Of Local Women Lombok",
+     "location": "Lombok, Indonesia"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Olea Villas",
+     "location": "Kuta, Lombok, Indonesia"
+    }
+   ]
+  }
+ ]
+}

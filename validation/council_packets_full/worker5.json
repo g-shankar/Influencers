@@ -1,0 +1,963 @@
+{
+ "worker": 5,
+ "check_date_utc": "2026-09-16",
+ "packets": [
+  {
+   "id": 5,
+   "batch": 1,
+   "handle": "@backpackersteve",
+   "platform": "instagram",
+   "title": "Faroe Islands - 7-Day Itinerary",
+   "destination": "Faroe Islands",
+   "country": "Faroe Islands",
+   "days": 7,
+   "summary": "Steve's 7-day Faroe Islands itinerary listing every place he visited: Traelanipa hike with Reika Adventures, Torshavn, Gasadalur/Mulafossur, sea kayaking with NEX, Mykines puffins and lighthouse, Tjornuvik, Gjogv, Vidareidi and Cape Enniberg, Gota, the G! Festival, and an Atlantic Airways helicopter flight. Source is his YouTube video description; a tied-to-the-trip list rather than day-by-day, so confidence is medium.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=BV7Phig5jn0"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Traelanipa hike with Reika Adventures",
+     "location": "Vagar"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Explore Torshavn",
+     "location": "Torshavn"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Gasadalur & Mulafossur",
+     "location": "Vagar"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sea kayaking with NEX",
+     "location": "Hoyvik"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Mykines puffins & lighthouse hike",
+     "location": "Mykines"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Tjornuvik",
+     "location": "Tjornuvik"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Gj\u00f3gv",
+     "location": "Gj\u00f3gv"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Vidareidi & Cape Enniberg",
+     "location": "Vidareidi"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Helicopter flight with Atlantic Airways",
+     "location": "Faroe Islands"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "G! Festival",
+     "location": "Gota"
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "batch": 1,
+   "handle": "@girlvsglobe",
+   "platform": "instagram",
+   "title": "Things To Do in Segovia in 48 Hours",
+   "destination": "Segovia, Spain",
+   "country": "Spain",
+   "days": 2,
+   "summary": "Sabrina Iovino's (Girl vs Globe) 48-hour Segovia itinerary, split into two days: Day 1 in the old city (cathedral, vegan lunch at La Almuzara, Alcazar, Church of Vera Cruz, Casa de la Moneda museum, dinner at Parador de Segovia) and Day 2 at La Granja de San Ildefonso palace, lunch at La Huerta De San Lorenzo, the Roman aqueduct and the Jewish Quarter. Written for solo travelers with veggie-friendly restaurant picks.",
+   "confidence": "high",
+   "source_urls": [
+    "https://girlvsglobe.com/things-to-do-in-segovia-48-hours/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Segovia Cathedral",
+     "location": "Segovia"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "La Almuzara",
+     "location": "Segovia"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Alcazar of Segovia",
+     "location": "Segovia"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Church of Vera Cruz",
+     "location": "Segovia"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Casa de la Moneda Museum",
+     "location": "Segovia"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Parador de Segovia",
+     "location": "Segovia"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "La Granja de San Ildefonso",
+     "location": "Near Segovia"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "La Huerta De San Lorenzo",
+     "location": "Segovia"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Aqueduct of Segovia",
+     "location": "Segovia"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Jewish Quarter (La Juderia)",
+     "location": "Segovia"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "El Fogon Sefardi",
+     "location": "Segovia"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Madrid train",
+     "location": "Madrid to Segovia"
+    }
+   ]
+  },
+  {
+   "id": 23,
+   "batch": 1,
+   "handle": "@migrationology",
+   "platform": "instagram",
+   "title": "Ghorepani Poon Hill Trek - Ultimate Guide and Itinerary",
+   "destination": "Annapurna Range (Ghorepani Poon Hill Trek)",
+   "country": "Nepal",
+   "days": 5,
+   "summary": "Mark Wiens's day-by-day itinerary for his 5-day Ghorepani Poon Hill trek (mid-March 2013) starting from Pokhara: Nayapul to Tikhedunga, up to Ghorepani, sunrise at Poon Hill then on to Gandruk, Gandruk to Deurali, and back to Pokhara. Includes the lodges they stayed in, meals eaten, and costs, plus prep/permit/gear guidance.",
+   "confidence": "high",
+   "source_urls": [
+    "https://migrationology.com/ghorepani-poon-hill-trek-ultimate-guide/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Marigold Hotel (Amrit Tours)",
+     "location": "Pokhara"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Taxi from Pokhara to Nayapul",
+     "location": "Pokhara"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Green Land Restaurant",
+     "location": "Near Tikhedunga"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Tikhedunga Guest House",
+     "location": "Tikhedunga"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Hike Tikhedunga to Ghorepani",
+     "location": "Ghorepani"
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "Dhaulagiri Lodge",
+     "location": "Ghorepani"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Sunrise at Poon Hill summit",
+     "location": "Poon Hill"
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Muna Hotel",
+     "location": "Gandruk"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Hike Gandruk to Deurali",
+     "location": "Deurali"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Hotel Trekkers Inn",
+     "location": "Deurali"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Hike Deurali to Pothana, taxi to Pokhara",
+     "location": "Pokhara"
+    }
+   ]
+  },
+  {
+   "id": 32,
+   "batch": 2,
+   "handle": "@pilotmadeleine",
+   "platform": "instagram",
+   "title": "Abu Dhabi Travel Diary - 3 Days",
+   "destination": "Abu Dhabi",
+   "country": "United Arab Emirates",
+   "days": 3,
+   "summary": "Madeleine's three full days in Abu Dhabi: camel kisses, desert safari with sand boarding and a city tour on day one; the Grand Mosque at sunset and Yas Mall on day two; the Formula 1 race, fireworks and Cheesecake Factory on day three, flying home at 6am the next morning. Her Top 10 tips add practical detail (Ferrari World, taxi/cash rules) and note the trip ran through LTUR.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.pilotmadeleine.de/2015/12/02/abu-dhabi-reisetipps/?lang=en",
+    "https://www.pilotmadeleine.de/category/travel-en/page/18/?lang=en"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "flight",
+     "name": "Air Berlin",
+     "location": "Duesseldorf to Abu Dhabi"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Desert Safari",
+     "location": "Abu Dhabi desert"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Sheikh Zayed Grand Mosque",
+     "location": "Abu Dhabi"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Sand Boarding",
+     "location": "Abu Dhabi desert"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Ferrari World",
+     "location": "Yas Island, Abu Dhabi"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Yas Mall shopping",
+     "location": "Abu Dhabi"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Formula 1 race with evening fireworks",
+     "location": "Abu Dhabi"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Cheesecake Factory",
+     "location": "Yas Mall, Abu Dhabi"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Taxis (cash only)",
+     "location": "Abu Dhabi"
+    }
+   ]
+  },
+  {
+   "id": 41,
+   "batch": 2,
+   "handle": "@theblondeabroad",
+   "platform": "instagram",
+   "title": "Itinerary for Two Weeks in Morocco",
+   "destination": "Morocco",
+   "country": "Morocco",
+   "days": 15,
+   "summary": "Kiersten Rich's full day-by-day plan for two weeks in Morocco: 4 nights in Marrakech (Riad Yasmine, La Mamounia), 2 nights glamping in the Sahara Desert, 1 night in the Skoura Valley Oasis, 2 nights in Essaouira, the overnight train to Tangier, 2 nights in Chefchaouen, 1 night in Fes and a final night in Casablanca. Every stop pairs named hotels and restaurants with the specific activities she did there, plus real transport legs and costs.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.theblondeabroad.com/itinerary-two-weeks-morocco/comment-page-13/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Fly into Marrakech Menara Airport",
+     "location": "Marrakech"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Riad Yasmine",
+     "location": "Marrakech"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "NOMAD",
+     "location": "Marrakech"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Ben Youssef Madrasa and Bahia Palace",
+     "location": "Marrakech"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Le Jardin",
+     "location": "Marrakech"
+    },
+    {
+     "day": 2,
+     "item_type": "other",
+     "name": "Buy a local Maroc SIM card",
+     "location": "Marrakech"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Shop Jemaa el Fna markets",
+     "location": "Marrakech"
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "La Mamounia",
+     "location": "Marrakech"
+    },
+    {
+     "day": 5,
+     "item_type": "transport",
+     "name": "Drive Marrakech to the Sahara Desert",
+     "location": "Marrakech to Sahara Desert"
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Sahara Desert Luxury Camp",
+     "location": "Sahara Desert"
+    },
+    {
+     "day": 7,
+     "item_type": "transport",
+     "name": "Transfer from Sahara Desert Camp to Skoura Valley Oasis",
+     "location": "Skoura Valley"
+    },
+    {
+     "day": 7,
+     "item_type": "hotel",
+     "name": "L'ma Lodge",
+     "location": "Skoura Valley Oasis"
+    },
+    {
+     "day": 8,
+     "item_type": "transport",
+     "name": "Drive to Essaouira",
+     "location": "Skoura Valley Oasis to Essaouira"
+    },
+    {
+     "day": 8,
+     "item_type": "hotel",
+     "name": "Villa Maroc",
+     "location": "Essaouira"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Explore the Medina and souks",
+     "location": "Essaouira"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "Stroll the port and fish market",
+     "location": "Essaouira"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "Take a cooking class",
+     "location": "Essaouira"
+    },
+    {
+     "day": 9,
+     "item_type": "restaurant",
+     "name": "La Licorne",
+     "location": "Essaouira"
+    },
+    {
+     "day": 10,
+     "item_type": "transport",
+     "name": "Taxi to Marrakech",
+     "location": "Essaouira to Marrakech"
+    },
+    {
+     "day": 10,
+     "item_type": "transport",
+     "name": "Overnight train from Marrakech to Tangier",
+     "location": "Marrakech to Tangier"
+    },
+    {
+     "day": 11,
+     "item_type": "transport",
+     "name": "Taxi to Chefchaouen",
+     "location": "Tangier to Chefchaouen"
+    },
+    {
+     "day": 11,
+     "item_type": "hotel",
+     "name": "Dar Baibou",
+     "location": "Chefchaouen"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Casa Perleta (alternative)",
+     "location": "Chefchaouen"
+    },
+    {
+     "day": 12,
+     "item_type": "activity",
+     "name": "Hike to the Spanish Mosque",
+     "location": "Chefchaouen"
+    },
+    {
+     "day": 12,
+     "item_type": "restaurant",
+     "name": "Le Lamp Magique at Aladins",
+     "location": "Chefchaouen"
+    },
+    {
+     "day": 13,
+     "item_type": "transport",
+     "name": "Taxi to Fes",
+     "location": "Chefchaouen to Fes"
+    },
+    {
+     "day": 13,
+     "item_type": "activity",
+     "name": "Visit the tanneries",
+     "location": "Fes"
+    },
+    {
+     "day": 13,
+     "item_type": "activity",
+     "name": "Explore Al Attarine Madrasa",
+     "location": "Fes"
+    },
+    {
+     "day": 13,
+     "item_type": "hotel",
+     "name": "Dar Seffarine",
+     "location": "Fes"
+    },
+    {
+     "day": 14,
+     "item_type": "transport",
+     "name": "Train to Casablanca",
+     "location": "Fes to Casablanca"
+    },
+    {
+     "day": 14,
+     "item_type": "hotel",
+     "name": "Mogador Marina",
+     "location": "Casablanca"
+    },
+    {
+     "day": 14,
+     "item_type": "restaurant",
+     "name": "Rick's Cafe",
+     "location": "Casablanca"
+    },
+    {
+     "day": 14,
+     "item_type": "activity",
+     "name": "Visit the Hassan II Mosque",
+     "location": "Casablanca"
+    },
+    {
+     "day": 14,
+     "item_type": "restaurant",
+     "name": "Bennis Habous pastry shop",
+     "location": "Casablanca"
+    },
+    {
+     "day": 14,
+     "item_type": "restaurant",
+     "name": "Resto Zayna",
+     "location": "Casablanca"
+    },
+    {
+     "day": 14,
+     "item_type": "activity",
+     "name": "Stroll through Parc de La Ligue Arabe",
+     "location": "Casablanca"
+    }
+   ]
+  },
+  {
+   "id": 50,
+   "batch": 2,
+   "handle": "@thecommonwanderer",
+   "platform": "instagram",
+   "title": "2-Day Great Ocean Road Itinerary",
+   "destination": "Great Ocean Road, Victoria",
+   "country": "Australia",
+   "days": 2,
+   "summary": "The couple's two-day Great Ocean Road itinerary: day 1 runs Melbourne to Lorne via Torquay (Pond Cafe brunch), Bells Beach, the memorial arch, Split Point lighthouse, Fairhaven beach, the Aireys Inlet pub and Erskine Falls. Published as a tried-and-tested route; only day-1 detail was captured in the source read, so confidence is medium.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.thecommonwanderer.com/blog/great-ocean-road-itinerary"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Drive Melbourne to the Great Ocean Road",
+     "location": "Melbourne"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Pond Cafe",
+     "location": "Torquay"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Bells Beach",
+     "location": "Victoria"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Great Ocean Road sights: memorial arch, Split Point lighthouse, Fairhaven beach, Aireys Inlet pub",
+     "location": "Victoria"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Erskine Falls",
+     "location": "Lorne"
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "batch": 2,
+   "handle": "@youngadventuress",
+   "platform": "instagram",
+   "title": "South Island Road Trip - Part 1 (Christchurch to Queenstown)",
+   "destination": "South Island",
+   "country": "New Zealand",
+   "days": 7,
+   "summary": "A week-long South Island road trip by campervan starting in Christchurch and ending in Queenstown, with highlights including Castle Hill's Narnia boulders, Arthur's Pass, a Greymouth brewery tour, the glaciers of Franz Josef and Fox, a luxury night at Whare Kea Chalet above Wanaka, and a 4WD trip near Arrowtown.",
+   "confidence": "high",
+   "source_urls": [
+    "https://youngadventuress.com/2015/03/instagram-new-zealand.html"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "flight",
+     "name": "Flight to Christchurch",
+     "location": "Queenstown to Christchurch"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Britz Campervan",
+     "location": "Christchurch airport"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "The Clink",
+     "location": "Sumner, Christchurch"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Castle Hill",
+     "location": "Castle Hill, Canterbury"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Devil's Punchbowl falls and kea spotting",
+     "location": "Arthur's Pass"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Monteith's Brewery tour",
+     "location": "Greymouth, West Coast"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Te Waonui Forest Retreat",
+     "location": "Franz Josef"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Canopy Restaurant",
+     "location": "Franz Josef"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Glacier helicopter scenic flight and landing",
+     "location": "Fox Glacier / Franz Josef"
+    },
+    {
+     "day": 6,
+     "item_type": "transport",
+     "name": "Haast Pass drive",
+     "location": "Fox Glacier to Wanaka via Haast Pass"
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Whare Kea Chalet",
+     "location": "Wanaka"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Nomad Safaris Macetown trip",
+     "location": "Arrowtown"
+    },
+    {
+     "day": 7,
+     "item_type": "restaurant",
+     "name": "Amisfield winery",
+     "location": "Queenstown"
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "batch": 4,
+   "handle": "@marissadaily_",
+   "platform": "tiktok",
+   "title": "10 Days in Japan: First-Timers Route",
+   "destination": "Japan (Tokyo, Hakone, Kyoto, Osaka)",
+   "country": "Japan",
+   "days": 10,
+   "summary": "10-day first-timers route for travelers flying round-trip through Tokyo: Tokyo start (buzzing neighborhoods, iconic sights), Hakone (hot springs, slower mornings), Kyoto (calm, historic, early mornings, ancient streets), Osaka (food-forward nightlife), then back to Tokyo for a final night of shopping and revisiting favorites. Positioned for first-time Japan visitors who want highlights and variety without chaos.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.tiktok.com/@marissadaily_/video/7603514904640851230"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Tokyo first-timer sights",
+     "location": "Tokyo"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Hakone pause stop",
+     "location": "Hakone"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Kyoto historic quarter",
+     "location": "Kyoto"
+    },
+    {
+     "day": 8,
+     "item_type": "restaurant",
+     "name": "Osaka food scene",
+     "location": "Osaka"
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "batch": 4,
+   "handle": "@rileejsmith",
+   "platform": "tiktok",
+   "title": "Barcelona: Tapas & Traditions - Favorite Spots",
+   "destination": "Barcelona, Spain",
+   "country": "Spain",
+   "days": null,
+   "summary": "Rilee Smith's free Barcelona guide page: favorite restaurants and sights from her trip, plus a tip to book a walking food tour the first night. Her full 4-day Barcelona itinerary is a paid ($5) download, so only the free recommendation content is extracted here (not day-by-day).",
+   "confidence": "medium",
+   "source_urls": [
+    "https://rileejsmith.com/guide/barcelona"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Brunch & Cake",
+     "location": "Barcelona"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Mercat de la Boqueria",
+     "location": "Barcelona"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "La Tasqueta de Blai",
+     "location": "Barcelona"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Casa Lolea Barcelona",
+     "location": "Barcelona"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Palau de la Musica Catalana",
+     "location": "Barcelona"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sagrada Familia",
+     "location": "Barcelona"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Herboristeria del Rei",
+     "location": "Barcelona"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Gothic Quarter",
+     "location": "Barcelona"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "El Pont del Bisbe",
+     "location": "Barcelona"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Tapas + Wine Walking Tour",
+     "location": "Barcelona"
+    }
+   ]
+  },
+  {
+   "id": 86,
+   "batch": 4,
+   "handle": "@themomtrotter",
+   "platform": "tiktok",
+   "title": "Utah National Parks + Southwest RV Road Trip with Kids",
+   "destination": "Utah, Nevada, Arizona, California (American Southwest loop)",
+   "country": "USA",
+   "days": 10,
+   "summary": "Family RV road trip starting and ending in Los Angeles, CA: Lake Mead, Valley of Fire, Zion, Bryce Canyon, Capitol Reef, Canyonlands, Arches, Monument Valley, Forrest Gump Point, Antelope Canyon, Horseshoe Bend, Grand Canyon (South Rim), Joshua Tree. RV rented on Outdoorsy; day-by-day drives, RV parks, park activities, and full trip cost ($4,793.10) all from her own post. Days are numbered 1-10 on the page (with a Day 0 prep day).",
+   "confidence": "high",
+   "source_urls": [
+    "https://themomtrotter.com/utah-national-parks-southwest-road-trip/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Outdoorsy RV rental",
+     "location": "Los Angeles, CA"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Lake Mead RV Village",
+     "location": "Boulder City, NV"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Valley of Fire State Park",
+     "location": "Overton, NV"
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "Zion River RV Resort",
+     "location": "Virgin, UT"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Zion National Park",
+     "location": "Springdale, UT"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Bryce Canyon National Park",
+     "location": "Bryce Canyon City, UT"
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Fremont River RV Park",
+     "location": "Loa, UT"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Capitol Reef National Park",
+     "location": "Torrey, UT"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Canyonlands National Park",
+     "location": "Moab, UT"
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Moab Valley RV Resort",
+     "location": "Moab, UT"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Arches National Park",
+     "location": "Moab, UT"
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Monument Valley KOA Journey",
+     "location": "Oljato-Monument Valley, UT"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Monument Valley Navajo Tribal Park guided tour",
+     "location": "Oljato-Monument Valley, AZ"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Forrest Gump Point",
+     "location": "Mexican Hat, AZ"
+    },
+    {
+     "day": 7,
+     "item_type": "hotel",
+     "name": "Page Lake Powell Campground",
+     "location": "Page, AZ"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Lower Antelope Canyon tour",
+     "location": "Page, AZ"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Horseshoe Bend",
+     "location": "Page, AZ"
+    },
+    {
+     "day": 8,
+     "item_type": "hotel",
+     "name": "Trailer Village RV Park",
+     "location": "Grand Canyon Village, AZ"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "Grand Canyon National Park (South Rim)",
+     "location": "Grand Canyon Village, AZ"
+    },
+    {
+     "day": 9,
+     "item_type": "hotel",
+     "name": "Joshua Tree Lake RV & Campground",
+     "location": "Joshua Tree, CA"
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "Joshua Tree National Park",
+     "location": "Twentynine Palms, CA"
+    }
+   ]
+  }
+ ]
+}

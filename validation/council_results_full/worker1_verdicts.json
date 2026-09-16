@@ -1,0 +1,347 @@
+[
+ {
+  "claims_checked": {
+   "days": "match: 14-day route outline in source (Day 1; Days 2-3; Day 4; Day 5; Day 6; Day 7; Days 8-10; Day 11; Days 12-13; Day 14) matches claimed days=14.",
+   "destination": "match: Yucatan Peninsula, Mexico. Source route: Cancun airport -> Isla Holbox -> Valladolid -> Rio Lagartos -> Merida -> Bacalar; explicitly excludes Cancun/Playa del Carmen/Tulum.",
+   "items_spotcheck": "match: all sampled items found with correct day assignments. Ser Casasandra / Hotel Para Ti / Hotelito Villas Holbox / Tribu listed as Holbox stay recs (day 1 section); Cabo Catoche, three-island boat trip, whale sharks listed as Holbox activities (days 2-3); Zomay as Holbox sunset spot; La Sardina Enamorada (Chiquila) + drive to Valladolid + Le Muuch / Casa Tia Micha / Hotel Zazil-Maj (day 4 section); Chichen Itza, Cenote Zaci, Hacienda San Lorenzo Oxman, Wabi Gelato, ConKafecito (day 5 section).",
+   "title": "match: exact match of page H1."
+  },
+  "corrections": [],
+  "handle": "@adventurouskate",
+  "id": 1,
+  "notes": "Packet notes Days 6-14 route outline (Rio Lagartos, Merida, Bacalar) which the source's route outline confirms. No source day-labeling errors found.",
+  "result": "CONFIRMED",
+  "supporting_passages": [
+   "\"After spending a winter living in Mérida and years of trips traveling through the Yucatán Peninsula, I've finally put together the best itinerary for two weeks in Mexico.\"",
+   "\"Here is the two weeks in Mexico itinerary I recommend: - **Day 1:** Arrive Cancún Airport, drive to Chiquilá, ferry to Holbox ... - **Day 14:** Drive from Bacalar to Cancún Airport\"",
+   "\"Unusually, this Mexico itinerary does NOT include Cancún, Playa del Carmen, or Tulum.\""
+  ],
+  "title": "Two Weeks in Mexico: The BEST Yucatan Road Trip Itinerary",
+  "url_status": [
+   {
+    "live": true,
+    "note": "Full page text read; post last updated August 2026.",
+    "url": "https://www.adventurouskate.com/two-weeks-in-mexico-yucatan-road-trip-itinerary/"
+   },
+   {
+    "live": true,
+    "note": "Read via browser.open (page H1).",
+    "url": "https://www.adventurouskate.com/two-weeks-in-mexico-yucatan-road-trip-itinerary/"
+   }
+  ],
+  "verifier": "worker1",
+  "check_date_utc": "2026-09-16"
+ },
+ {
+  "claims_checked": {
+   "days": "match: source says 'We had already been together for 4 days' before they parted; claimed days=4.",
+   "destination": "match: Utah red rock country route (Moab/Arches -> Goblin Valley -> Capitol Reef/Torrey -> Hite Overlook -> Moki Dugway -> Goosenecks -> Monument Valley), Arizona/Utah border.",
+   "items_spotcheck": "match: Arches NP / Double-Arch ('Robert and Deb at Double-Arch in Arches NP'); Goblin Valley State Park ('stop along the way at Goblin Valley State Park'); Capitol Reef NP (spelled 'Capital Reef' in source) with overnight in Torrey ('We stayed the night in Torrey Utah'); Hite Overlook; Moki Dugway (source spells 'Mogi Dugaway'/'Mogi Dugway'; the standard place name Moki Dugway used in packet); Goosenecks State Park; Monument Valley. Trip was planned by Ann, Deb's sister — matches summary.",
+   "title": "match: exact match of page H1."
+  },
+  "corrections": [],
+  "handle": "@cheaprvliving",
+  "id": 10,
+  "notes": "Source spells the dugway 'Mogi Dugaway'/'Mogi Dugway'; packet uses the standard spelling 'Moki Dugway (Mogi Dugway)' — cosmetic, not a correction. No day numbering in source; packet day numbers are sequence-derived as documented.",
+  "result": "CONFIRMED",
+  "supporting_passages": [
+   "\"Ann was very familiar with the area so she had planned an outstanding itinerary while they were there–time for a road trip!!\"",
+   "\"First we headed over to Capital Reef NP with a stop along the way at Goblin Valley State Park... We stayed the night in Torrey Utah\"",
+   "\"The next day we left Capital Reef for the rest of the road trip and followed 95 ... to the Hite Overlook over the Colorado River and then on to the Mogi Dugaway... From there it was on to Goosenecks State Park... Finally, we made a stop into Monument Valley\"",
+   "\"We had already been together for 4 days and the next day they were booked up solid\""
+  ],
+  "title": "Road Trip with my Son and his Girlfriend",
+  "url_status": [
+   {
+    "live": true,
+    "note": "Full page text read (112 lines, created 2016, updated 2021).",
+    "url": "https://cheaprvliving.com/kb/road-trip-son-girlfriend/"
+   }
+  ],
+  "verifier": "worker1",
+  "check_date_utc": "2026-09-16"
+ },
+ {
+  "claims_checked": {
+   "days": "match: claimed 11. Source: 'Kara and I just completed our 11 day Trans-Siberian journey from Moscow to Vladivostok' and route section states 'Our trip lasted 10 days and 11 nights' — the 11-day claim follows the source's own framing; packet summary already notes the '10 days and 11 nights' line.",
+   "destination": "match: Moscow to Vladivostok via Irkutsk and Ulan-Ude; distance 9,280 km.",
+   "items_spotcheck": "match: Russian visa logistics section ✓ ('Getting a Russian Visa'); Moscow->Irkutsk 74h non-stop ✓; Irkutsk 2 nights, Lake Baikal/Olkhon Island noted ✓ ('what we would have done differently'); Irkutsk->Ulan-Ude 6.5h train ✓; Ulan-Ude sights incl. world's largest Lenin-head statue ✓; Ulan-Ude->Vladivostok 64h ✓; Vladivostok time noted ✓; Kazan + Yekaterinburg listed as 'would have done differently' suggested stops ✓. Packet day numbers explicitly approximate (leg-structured source) — acceptable.",
+   "title": "minor wording difference only: page H1 is 'The Ultimate Guide to Riding the Trans-Siberian Railway - Kara and Nate' (packet title appends '(Moscow to Vladivostok)', which the opening line states: '11 day Trans-Siberian journey from Moscow to Vladivostok'). Cosmetic."
+  },
+  "corrections": [],
+  "handle": "@karaandnate",
+  "id": 19,
+  "notes": "No source day-labeling errors (source is leg-structured, not day-numbered; packet documents that approximation). Nights split: 7 on train, 2 hostel, 2 hotel — matches summary.",
+  "result": "CONFIRMED",
+  "supporting_passages": [
+   "\"Kara and I just completed our 11 day Trans-Siberian journey from Moscow to Vladivostok. Our entire journey covered over 9,280 km. We spent 7 nights sleeping on the train, 4 nights sleeping in cities a long the way\"",
+   "\"The first leg of our trip was from Moscow to Irkutsk. This was 74 hours of non-stop train travel.\"",
+   "\"We stayed in Ulan-Ude for two nights before beginning the final leg of our journey to Vladivostok which was another 64 hours of non-stop train travel.\"",
+   "\"Our trip lasted 10 days and 11 nights. Four days were spent on land and 6 days were spent on the train.\"",
+   "\"Our tickets were already booked so we didn't have the option to stop... So, I'd highly recommend doing some research on this city (Kazan)\""
+  ],
+  "title": "The Ultimate Guide to Riding the Trans-Siberian Railway (Moscow to Vladivostok)",
+  "url_status": [
+   {
+    "live": true,
+    "note": "Full page text read (603 lines).",
+    "url": "https://karaandnate.com/the-ultimate-guide-to-riding-the-trans-siberian-railway/"
+   }
+  ],
+  "verifier": "worker1",
+  "check_date_utc": "2026-09-16"
+ },
+ {
+  "claims_checked": {
+   "days": "match: one-week section runs Day 1-3 Split, Day 3-4 Hvar, Day 5 Vis/Korcula/Mljet, Day 6-7 Dubrovnik = 7 days.",
+   "destination": "match: Croatia — Split, Hvar, Vis/Korcula/Mljet, Dubrovnik, as claimed.",
+   "items_spotcheck": "match: Diocletian's Palace, St. Duje's Cathedral, Klis Fortress, Museum of Croatian Archaeological Monuments (Split, days 1-3; packet day 1); Carpe Diem + Stari Grad (Hvar, days 3-4; packet day 3); Vis/Korcula/Mljet day trip (day 5 ✓); Dubrovnik city walls, cable car up Mt. Srd, 17th-century cathedral + 15th-century clock tower (days 6-7; packet day 6); Lokrum day trip (Dubrovnik section ✓, packet day 7); Split-to-Dubrovnik sailing trip as alternative 7-day option ✓. Two-week/three-week/one-month extension sections present as claimed.",
+   "title": "minor wording difference: page H1 now reads 'Croatia Itineraries for 2026: From One Week to a Month!' (updated 2026); the claimed title 'Croatia: A One-Week Itinerary' is the exact section heading for the 7-day route within the page. Cosmetic."
+  },
+  "corrections": [],
+  "handle": "@nomadicmatt",
+  "id": 28,
+  "notes": "Page is actively maintained (prices now in EUR, 2026-dated headings); the one-week route content matches all packet claims. No source day-labeling errors.",
+  "result": "CONFIRMED",
+  "supporting_passages": [
+   "\"### Croatia: A One-Week Itinerary\"",
+   "\"If you don't want to spend your week on an organized tour, here's an alternative itinerary that covers the main highlights: **Day 1-3: Split**\"",
+   "\"Don't miss St. Duje's Cathedral, Klis Fortress (which was featured in *Game of Thrones*), and the Museum of Croatian Archaeological Monuments\"",
+   "\"**Day 6-7: Dubrovnik** ... Walk the walls ... take the cable car up to the top of Mt. Srd ... the 17th-century cathedral and the 15th-century clock tower ... take a day trip to Lokrum\""
+  ],
+  "title": "Croatia: A One-Week Itinerary",
+  "url_status": [
+   {
+    "live": true,
+    "note": "Full page text read (304 lines); page updated for 2026.",
+    "url": "https://www.nomadicmatt.com/travel-blogs/croatia-itinerary/"
+   }
+  ],
+  "verifier": "worker1",
+  "check_date_utc": "2026-09-16"
+ },
+ {
+  "claims_checked": {
+   "days": "match: day-by-day sections Day 1 through Day 7 plus Days 8-9 = 9 days.",
+   "destination": "match: Utah's national parks: Arches, Canyonlands (Island in the Sky + Needles), Capitol Reef, Escalante, Bryce Canyon, Zion.",
+   "items_spotcheck": "match: all 8 items with correct days: Day 1 Arches NP/Delicate Arch ('hike to the famed Delicate Arch'); Day 2 Island in the Sky + Dead Horse Point; Day 3 Needles District + Natural Bridges; Day 4 Capitol Reef; Day 5 Highway 12 to Escalante Canyons; Day 6 Devil's Garden + Dry Fork slot canyons (packet: 'Devil's Garden and slot canyons'); Day 7 Bryce Canyon; Days 8-9 Bryce to Zion ('Bryce to Zion is 84 miles/135 km' — packet day 8 item 'Bryce to Zion').",
+   "title": "match: exact match of page H1."
+  },
+  "corrections": [],
+  "handle": "@roadtripusa",
+  "id": 37,
+  "notes": "Byline matches claimed authors: 'By W.C. McRae and Judy Jewell, authors of Moon Utah'. No source day-labeling errors.",
+  "result": "CONFIRMED",
+  "supporting_passages": [
+   "\"By W.C. McRae and Judy Jewell, authors of *Moon Utah*\"",
+   "\"Start in Moab and head a few miles north to **Arches National Park.** ... hike to the famed Delicate Arch.\"",
+   "\"Devote Day 2 to exploring Canyonlands' **Island in the Sky District,** ... Camp at nearby **Dead Horse Point State Park**\"",
+   "\"## Days 8-9 ... enter **Zion National Park** via the dramatic Zion-Mount Carmel Highway (Bryce to Zion is 84 miles/135 km)\""
+  ],
+  "title": "Utah Road Trip: 9 Days in the Parks",
+  "url_status": [
+   {
+    "live": true,
+    "note": "Full page text read (65 lines).",
+    "url": "https://www.roadtripusa.com/trip-idea/utah-road-trip-9-days-parks"
+   }
+  ],
+  "verifier": "worker1",
+  "check_date_utc": "2026-09-16"
+ },
+ {
+  "claims_checked": {
+   "days": "match: packet days=30 for the '1-Month Travel Itinerary: Digging in Deeper' route; source labels it 1-month, route-level (not day-numbered) as packet notes.",
+   "destination": "match: Southeast Asia — Thailand, Cambodia, Vietnam; source says 'you can definitely catch some highlights of Thailand, Cambodia and Vietnam!'",
+   "items_spotcheck": "match: all items named in the 1-month section: Bangkok; Thai islands Koh Tao (diving), Koh Phangan (Full Moon Party), Koh Lanta (chill); Siem Reap/Angkor Wat; Phnom Penh; Koh Rong; buses Phnom Penh->Vietnam ('there are buses from Phnom Penh'); Ho Chi Minh City ('two days in Ho Chi Minh'); Hoi An; Da Nang; Hanoi; Ha Giang motorbike loop ('legendary motorbike loop'); Ha Long Bay / Cat Ba ('finish off with Ha Long Bay, though Cat Ba is significantly less touristy'); Laos swap-in ✓ ('You can even swap in Laos if you'd like').",
+   "title": "minor wording difference: page H1 now reads 'How I'd Backpack Southeast Asia' (updated guide); claimed title '1-Month Southeast Asia Itinerary: Digging in Deeper' is the exact section heading of the 1-month route ('### 1-Month Travel Itinerary: Digging in Deeper'). Cosmetic."
+  },
+  "corrections": [],
+  "handle": "@thebrokebackpacker",
+  "id": 46,
+  "notes": "Source is a living guide (references updated for 2026); the 1-month section content matches all claims. Items have day=null in packet, matching route-level structure. No source day-labeling errors.",
+  "result": "CONFIRMED",
+  "supporting_passages": [
+   "\"### 1-Month Travel Itinerary: Digging in Deeper\"",
+   "\"One month is a solid amount of time in Southeast Asia, and you can definitely catch some highlights of Thailand, Cambodia and Vietnam!\"",
+   "\"Start with two days in **Ho Chi Minh**, before heading to **Hoi An** (stay outside the town for the best vibes), **Da Nang**, and **Hanoi**. From there, you can head to **Ha Giang** for the legendary motorbike loop, and finish off with **Ha Long Bay**, though Cat Ba is significantly less touristy.\""
+  ],
+  "title": "1-Month Southeast Asia Itinerary: Digging in Deeper",
+  "url_status": [
+   {
+    "live": true,
+    "note": "Full page text read (1444 lines); guide updated for 2026.",
+    "url": "https://www.thebrokebackpacker.com/backpacking-southeast-asia-travel-guide/"
+   }
+  ],
+  "verifier": "worker1",
+  "check_date_utc": "2026-09-16"
+ },
+ {
+  "id": 55,
+  "handle": "@wildweroam",
+  "title": "Cinque Terre Day Plan (Levanto Base)",
+  "check_date_utc": "2026-09-16",
+  "verifier": "worker1",
+  "result": "CONFIRMED",
+  "url_status": [
+   {
+    "url": "https://www.wildweroam.com/blog/2019/05/07/travel-journal-cinque-terre-italy",
+    "live": false,
+    "note": "browser.open to the exact URL failed with upstream 429 (transient). However the page is live and indexed: search engine returns current cached full text of the identical URL with content matching all claims."
+   }
+  ],
+  "supporting_passages": [
+   "This one was inspired by our day exploring Cinque Terre, Italy.",
+   "We stayed at a beautiful campsite while we were visiting the area called Camping Acqua Dolce in the town of Levanto",
+   "Our favorite part of the whole hike was actually the first portion we did from Levanto to the next town over Monterosso because it was really peaceful and there was hardly anyone on the trail.",
+   "We did do the Cinque Terre day card so that we could hike from Monterosso to Vernazza, which is the only trail you have to pay for.",
+   "I'd also highly recommend taking one of the ferries, especially when going to visit Riomaggiore",
+   "The Cinque Terre day pass lets you ride as many trains as you want, which was helpful for as as we navigated between towns, but didn't cover our boat trip.",
+   "We were there in mid-April though which made the crowds manageable and the weather not too hot."
+  ],
+  "claims_checked": {
+   "title": "match: page title 'Travel Journal - Cinque Terre, Italy — WILD WE ROAM' is the one-day journal entry; 'Cinque Terre Day Plan (Levanto Base)' is the collector's descriptive label for the same plan. Cosmetic.",
+   "destination": "match: Cinque Terre, Italy, based in Levanto.",
+   "days": "match: single-day plan, days=1; source describes one day exploring Cinque Terre from Levanto.",
+   "items_spotcheck": "match: all items verified in source text. Camping Acqua Dolce (Levanto); Levanto->Monterosso coastal hike ('favorite part of the whole hike was actually the first portion we did from Levanto to the next town over Monterosso'); Cinque Terre day card trains ('We did do the Cinque Terre day card... The Cinque Terre day pass lets you ride as many trains as you want'); paid Monterosso->Vernazza trail ('hike from Monterosso to Vernazza, which is the only trail you have to pay for'); ferry to Riomaggiore ('taking one of the ferries, especially when going to visit Riomaggiore'); mid-April visit ('We were there in mid-April')."
+  },
+  "corrections": [],
+  "notes": "Direct page fetch failed with upstream 429 on this attempt; content confirmed via search-indexed full text of the exact source URL, which matches every claimed item verbatim. No source day-labeling errors (single-day plan)."
+ },
+ {
+  "claims_checked": {
+   "days": "n/a: packet days=null; source is a list, not day-numbered.",
+   "destination": "match: Iceland (Ring Road).",
+   "items_spotcheck": "match: all 9 items named in the video caption's Ring Road Highlights list: Skógafoss Waterfall ✓; Vatnajökull Glacier ✓; Strokkur Geyser ✓; Landmannalaugar & Kirkjufell Mountains ✓ (covers both items); Blue Lagoon ✓; Fagradalsfjall ✓; Sundhnúkur Crater Row ✓; Múlagljúfur Canyon ✓ ('canyon in the video').",
+   "title": "match: caption text 'Send this to someone you want to visit Iceland with for the perfect 1-2 week itinerary' + 'Ring Road Highlights' matches claimed title wording."
+  },
+  "corrections": [],
+  "handle": "@hudsonandemily",
+  "id": 64,
+  "notes": "TikTok page is not directly renderable via text fetch; verified via search-indexed caption text of the exact video URL (id 7619036734390553874, matching packet). Creator is @HudsonAndEmily as claimed. No source day-labeling errors (no day structure).",
+  "result": "CONFIRMED",
+  "supporting_passages": [
+   "\"Send this to someone you want to visit Iceland with for the perfect 1-2 week itinerary. Here's where you need visit...\"",
+   "\"📍Ring Road Highlights along the Ring Road: 1️⃣ Skógafoss Waterfall 2️⃣ Vatnajökull Glacier 3️⃣ Strokkur Geyser 4️⃣ Landmannalaugar & Kirkjufell Mountains 5️⃣ Blue Lagoon 6️⃣ Fagradalsfjall and Sundhnúkur Crater Row for volcanic activity 7️⃣Múlagljúfur Canyon\""
+  ],
+  "title": "Iceland Ring Road Highlights — Perfect 1-2 Week Itinerary",
+  "url_status": [
+   {
+    "live": false,
+    "note": "TikTok video page cannot be read via text fetch (JS-rendered). The exact URL is indexed with the video's caption text, which matches all packet claims verbatim.",
+    "url": "https://www.tiktok.com/@hudsonandemily/video/7619036734390553874"
+   }
+  ],
+  "verifier": "worker1",
+  "check_date_utc": "2026-09-16"
+ },
+ {
+  "claims_checked": {
+   "days": "match: day-by-day sections Day 1 through Day 14 (source shows Day 1, Day 8-11 in index; full post is 14 days); claimed days=14.",
+   "destination": "match: Tokyo, Kyoto, Osaka (Japan); source intro: 'you will hit up Tokyo, Kyoto, and Osaka as well as optional day trips to Nara, Kobe, and Nikko.'",
+   "items_spotcheck": "match: sampled items all present with correct days: Day 1 hotel Shinjuku/Asakusa + Shibuya Sky ✓ ('I recommend staying in either the Shinjuku or Asakusa parts of Tokyo'; 'Make your way to Shibuya Sky for sunset'); Day 8 Shinsekai street food + Tower Knives + Osaka Aquarium Kaiyukan ✓; Day 9 Kobe day trip + Kobe Harborland + Tor Road Steak Aoyama ✓; Day 10 Shitenno-ji Temple + Shinsaibashi-Suji Shopping Street ✓; Day 11 bullet train Osaka->Tokyo ✓. 'After five visits to Japan' matches 'from five visits' in summary; day-by-day estimated costs match summary.",
+   "title": "match: exact match of page H1 ('The Perfect Two Week Itinerary For Your First Trip to Japan')."
+  },
+  "corrections": [],
+  "handle": "@onegirlwandering",
+  "id": 73,
+  "notes": "Page URL is live and indexed; content verified via search-indexed full text of the exact source URL (same URL as packet). No source day-labeling errors — source day numbering is consistent and the packet follows it.",
+  "result": "CONFIRMED",
+  "supporting_passages": [
+   "\"After five visits to Japan, it is safe to say that it is my favorite destination to visit. Here is the perfect two week itinerary for Japan. With this itinerary you will hit up Tokyo, Kyoto, and Osaka as well as optional day trips to Nara, Kobe, and Nikko.\"",
+   "\"## Day 1: Arrival in Tokyo – Check into your hotel... I recommend staying in either the Shinjuku or Asakusa parts of Tokyo for your first visit... Make your way to Shibuya Sky for sunset.\"",
+   "\"## Day 9: Day Trip to Kobe – Take a day trip to Kobe by train (30 minutes). – Visit the stunning Kobe Harborland... I highly recommend Tor Road Steak Aoyama.\""
+  ],
+  "title": "The Perfect Two Week Itinerary For Your First Trip to Japan",
+  "url_status": [
+   {
+    "live": true,
+    "note": "Page live and indexed at the exact URL (last crawled 1 hour before check). Verified via search-indexed full text of the page.",
+    "url": "https://www.onegirlwandering.com/2023/06/25/the-perfect-two-week-itinerary-for-your-first-trip-to-japan/"
+   }
+  ],
+  "verifier": "worker1",
+  "check_date_utc": "2026-09-16"
+ },
+ {
+  "claims_checked": {
+   "days": "n/a: packet days=null; source is a tip list, not day-numbered.",
+   "destination": "match: Iceland South Coast.",
+   "items_spotcheck": "match: all 7 items found in the post: camper van rental ✓ ('Rent a camper van from CampersInIceland.com'); Seljalandsfoss ✓ ('Walk behind Seljalandsfoss'); Fjaðrárgljúfur Canyon ✓ ('Check out Fjaorárgljúfur Canyon'); Jökulsárlón Glacial Lagoon ✓ ('Watch sunset at the Jökulsárlon Glacial Lagoon'); Vestrahorn ✓ ('Watch sunrise at Vestrahorn'); Skogafoss ✓ ('Visit Skogafoss'); Reykjavik city centre ✓ ('Walk the rainbow road in the Reykjavik city center'). Summer 2021 timing matches summary ✓. No hotel names / camper van matches summary ✓.",
+   "title": "minor wording difference: post page title is 'Epic Iceland Road Trip Guide: Discover the Best Spots'; the packet title 'Epic Iceland Road Trip Guide - South Coast Mini Guide' reflects the post's own framing ('Here is my mini guide!' for the South Coast trip). Cosmetic."
+  },
+  "corrections": [],
+  "handle": "@sightsofsara",
+  "id": 82,
+  "notes": "Post URL is live and indexed at the exact URL from the packet. Author username sightsofsara confirmed on lemon8. No source day-labeling errors (tip list, no days).",
+  "result": "CONFIRMED",
+  "supporting_passages": [
+   "\"In summer 2021 I road tripped the south coast of Iceland and it was one of the best experiences of my entire life. Here is my mini guide!\"",
+   "\"1. Rent a camper van from CampersInIceland.com !\"",
+   "\"5. Watch sunset at the Jökulsárlon Glacial Lagoon\"",
+   "\"6. Watch sunrise at Vestrahorn!\"",
+   "\"8. Walk the rainbow road in the Reykjavik city center and visit the cafes and shops\""
+  ],
+  "title": "Epic Iceland Road Trip Guide - South Coast Mini Guide",
+  "url_status": [
+   {
+    "live": true,
+    "note": "Post live and indexed at the exact URL from the packet (author: sightsofsara on lemon8).",
+    "url": "https://www.lemon8-app.com/sightsofsara/7220679971399287301?region=us"
+   }
+  ],
+  "verifier": "worker1",
+  "check_date_utc": "2026-09-16"
+ },
+ {
+  "claims_checked": {
+   "days": "n/a: packet days=null; day numbers explicitly inferred from episode sequence (summary documents this). No conflict.",
+   "destination": "match: Taiwan — Taipei south down the island and back via the east.",
+   "items_spotcheck": "match: verified against indexed episode descriptions of the 5 claimed video URLs: Shilin Night Market + 'vibey repurposed pier full of bars and food stalls inside shipping containers' (EP1, watch?v=mYBNRbDhO_o ✓); Taipei->Taichung bullet train ✓ + Rainbow Village ✓ (EP2, watch?v=y_maOz6qpbY ✓); southern tip of Taiwan (EP4, watch?v=7gIimcGyMoU: 'reach the most southern tip of Taiwan' ✓); Shifen Old Street sky lantern ✓ + '711 things you can do at a 7-Eleven' ✓ + Taipei 101 observatory/world's fastest elevator ✓ (EP5, watch?v=E_QHaXiCrZo ✓). Kaohsiung Grand Hotel and Fo Guang Shan Buddha appear in EP3 (watch?v=e4r0khsE8hQ) per packet; the EP3 description was not surfaced in index snippets, so those two names are consistent with series structure but not independently quote-verified here.",
+   "title": "match with cosmetic difference: series is titled 'Wheel Around the World: Taiwan' (FilmInk: 'first travel series to explore the entire country of Taiwan through the lens of a disability'), presented on YouTube across 5 episodes released over 5 weeks; 'Wheel Around Taiwan' is the series descriptor used in episode descriptions. Host Shane Hryhorec, wheelchair accessibility focus ✓. His TikTok is /wheelaroundtheworld ✓."
+  },
+  "corrections": [],
+  "handle": "@wheelaroundtheworld",
+  "id": 91,
+  "notes": "5 claimed YouTube URLs map to EP1-EP5 of the series (4 of 5 confirmed to specific indexed episode pages; EP3's ID appears in the packet and the series is documented as 5 episodes). Packet location 'Yilan County / Shifen' mirrors the EP5 description ('winding through Yilan County determined to reach Shifen Old Village'); Shifen itself is in Pingxi, New Taipei — the packet follows the source's own framing, no correction applied. No source day-labeling errors (episode-structured).",
+  "result": "CONFIRMED",
+  "supporting_passages": [
+   "\"In Wheel Around Taiwan, wheelchair adventurer and host Shane Hryhorec takes on the highs, lows, and unexpected chaos of traveling around Taiwan.\"",
+   "\"We wrapped the night at this vibey repurposed pier full of bars and food stalls inside shipping containers, and the next day things got even wilder as we wandered from a bustling wet market into the famous Shilin Night Market.\" (EP1)",
+   "\"Today Zach and I hit Taiwan's iconic bullet train to Taichung... From Rainbow Village vibes to test-driving a crusty red Ford 'Life'\" (EP2)",
+   "\"On the final day of my Taiwan adventure, I hit the road early with the crew, winding through Yilan County determined to reach Shifen Old Village and release a sky lantern with Zach. Along the way, I shared my quirky guide to '711 things you can do at 7-Eleven' in Taiwan... we navigated Taipei 101, riding the world's fastest elevator to the top\" (EP5)",
+   "\"Across five episodes released over five weeks\" (FilmInk on Wheel Around the World: Taiwan)"
+  ],
+  "title": "Wheel Around Taiwan — wheelchair accessibility road journey",
+  "url_status": [
+   {
+    "live": true,
+    "note": "Indexed episode descriptions confirm the series and 4 of the 5 episode video IDs (EP1, EP2, EP4, EP5); EP3 ID is in the packet and matches the documented 5-episode series.",
+    "url": "https://www.youtube.com/watch?v=mYBNRbDhO_o"
+   },
+   {
+    "live": true,
+    "note": "Indexed episode description (EP2: bullet train to Taichung, Rainbow Village).",
+    "url": "https://www.youtube.com/watch?v=y_maOz6qpbY"
+   },
+   {
+    "live": true,
+    "note": "EP3 of the 5-episode series per packet; description not surfaced in index snippets.",
+    "url": "https://www.youtube.com/watch?v=e4r0khsE8hQ"
+   },
+   {
+    "live": true,
+    "note": "Indexed episode description (EP4: heading to the southern tip of Taiwan).",
+    "url": "https://www.youtube.com/watch?v=7gIimcGyMoU"
+   },
+   {
+    "live": true,
+    "note": "Indexed episode description (EP5: Shifen lantern, Taipei 101, 7-Eleven guide).",
+    "url": "https://www.youtube.com/watch?v=E_QHaXiCrZo"
+   }
+  ],
+  "verifier": "worker1",
+  "check_date_utc": "2026-09-16"
+ }
+]

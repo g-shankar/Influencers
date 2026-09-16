@@ -1,0 +1,455 @@
+[
+ {
+  "extraction": null,
+  "handle": "@islandhopper",
+  "name": "Island Hopper",
+  "notes": "The handle 'islandhopper' is highly ambiguous: search results were overwhelmingly generic uses of the phrase 'island hopper' (airline routes, tours, activities, unrelated blogs and similarly named Tripadvisor profiles). No result established a connection to the exact Instagram creator, and no creator-owned itinerary or verifiable bio-link destination was found. Instagram profile/bio inspection was not possible because the browser service could not fetch Instagram profile text.",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.instagram.com/islandhopper/",
+    "what_it_contained": "Attempted direct profile fetch; the browser service could not fetch Instagram profile text, so no bio or bio-link destination could be inspected."
+   },
+   {
+    "url": "https://thepointsguy.com/loyalty-programs/united-island-hopper-excursionist-perk/",
+    "what_it_contained": "Article about United Airlines' island-hopper route and the excursionist perk; generic airline-content usage of 'island hopper', no link to the creator."
+   },
+   {
+    "url": "https://www.nationalgeographic.com/travel/article/paid-content-best-sailing-for-every-traveller",
+    "what_it_contained": "Sponsored sailing content; generic 'island hopping' phrasing, no connection to the creator."
+   },
+   {
+    "url": "https://travelnoire.com/caribbean-island-hopping?utm_source=k1&utm_medium=cpc&utm_campaing=test&bna=1&kwp_0=2465330&kwp_4=6861884&kwp_1=2917039",
+    "what_it_contained": "Caribbean island-hopping editorial content; generic topic usage, no connection to the creator."
+   },
+   {
+    "url": "https://thepointsguy.com/news/want-to-travel-island-hopper/",
+    "what_it_contained": "United Island Hopper route news article; generic usage, no connection to the creator."
+   },
+   {
+    "url": "https://www.affordabletours.com/blog/review-greek-island-hopper-with-trafalgar-2",
+    "what_it_contained": "Review of a Trafalgar Greek island-hopper tour; generic topic usage, no connection to the creator."
+   },
+   {
+    "url": "https://Www.tripadvisor.in/Profile/islandhopper1094",
+    "what_it_contained": "Tripadvisor user profile 'islandhopper1094'; similarly named but no evidence it is the Instagram creator."
+   },
+   {
+    "url": "https://www.tripadvisor.ca/Profile/Islandhopper365",
+    "what_it_contained": "Tripadvisor user profile 'Islandhopper365'; similarly named but no evidence it is the Instagram creator."
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": false,
+  "queries_run": [
+   "\"islandhopper\" itinerary",
+   "\"islandhopper\" travel guide",
+   "\"Island Hopper\" itinerary",
+   "\"Island Hopper\" travel guide blog",
+   "\"islandhopper\" instagram travel"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchB",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": {
+   "confidence": "high",
+   "country": "Georgia",
+   "days": 6,
+   "destination": "Georgia (Tbilisi, Kakheti Wine Region, Mtskheta, Kazbegi Mountain Region)",
+   "items": [
+    {
+     "day": 1,
+     "details": "September 27, 2024: arrival (mode not specified); rest after flight.",
+     "item_type": "transport",
+     "location": "Tbilisi",
+     "name": "Arrival to Tbilisi"
+    },
+    {
+     "day": 1,
+     "details": "Overnight in Tbilisi; hotel unnamed on the page.",
+     "item_type": "hotel",
+     "location": "Tbilisi",
+     "name": null
+    },
+    {
+     "day": 2,
+     "details": "September 28, 2024: wine-focused day in the Kakheti Wine Region.",
+     "item_type": "activity",
+     "location": "Kakheti Wine Region",
+     "name": "Ancient wine-making traditions"
+    },
+    {
+     "day": 2,
+     "details": "Overnight in Tbilisi; hotel unnamed on the page.",
+     "item_type": "hotel",
+     "location": "Tbilisi",
+     "name": null
+    },
+    {
+     "day": 3,
+     "details": "September 29, 2024: visit to Mtskheta.",
+     "item_type": "activity",
+     "location": "Mtskheta",
+     "name": "Mtskheta"
+    },
+    {
+     "day": 3,
+     "details": "September 29, 2024: visit to the Kazbegi Mountain Region.",
+     "item_type": "activity",
+     "location": "Kazbegi Mountain Region",
+     "name": "Kazbegi Mountain Region"
+    },
+    {
+     "day": 3,
+     "details": "Overnight in Kazbegi; hotel unnamed on the page.",
+     "item_type": "hotel",
+     "location": "Kazbegi",
+     "name": null
+    },
+    {
+     "day": 4,
+     "details": "September 30, 2024: continued time in the Kazbegi Mountain Region.",
+     "item_type": "activity",
+     "location": "Kazbegi Mountain Region",
+     "name": "Kazbegi Mountain Region"
+    },
+    {
+     "day": 4,
+     "details": "Overnight in Tbilisi; hotel unnamed on the page.",
+     "item_type": "hotel",
+     "location": "Tbilisi",
+     "name": null
+    },
+    {
+     "day": 5,
+     "details": "October 1, 2024: sightseeing in Tbilisi.",
+     "item_type": "activity",
+     "location": "Tbilisi",
+     "name": "Exploring Tbilisi"
+    },
+    {
+     "day": 5,
+     "details": "October 1, 2024: wine and food experiences in Tbilisi; no venue named on the page.",
+     "item_type": "activity",
+     "location": "Tbilisi",
+     "name": "Wine and food in Tbilisi"
+    },
+    {
+     "day": 5,
+     "details": "Overnight in Tbilisi; hotel unnamed on the page.",
+     "item_type": "hotel",
+     "location": "Tbilisi",
+     "name": null
+    },
+    {
+     "day": 6,
+     "details": "October 2, 2024: departure; mode not specified.",
+     "item_type": "transport",
+     "location": null,
+     "name": "Departure"
+    }
+   ],
+   "sources": [
+    "https://www.jessicanabongo.com/georgia-trip"
+   ],
+   "summary": "A 6-calendar-day food-and-wine small-group trip through Georgia, organized and guided by Jessica Nabongo, running September 27\u2013October 2, 2024. The trip covers Tbilisi, the Kakheti Wine Region, Mtskheta, and the Kazbegi Mountain Region with a focus on Georgian wine and cuisine; overnight locations are given but hotels and specific restaurants are not named on the page.",
+   "title": "Georgia Trip"
+  },
+  "handle": "@jessicanabongo",
+  "name": "Jessica Nabongo",
+  "notes": "Creator-owned itinerary found on jessicanabongo.com and extracted from the full page. No named hotels or restaurants were added; all unnamed fields were left null rather than invented. Pricing appeared on the page but was not extracted or used. Instagram profile fetch was not completed for this creator.",
+  "outcome": "ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.jessicanabongo.com/georgia-trip",
+    "what_it_contained": "Creator-owned page 'Georgia Trip \u2014 Jessica Nabongo': a 6-calendar-day (September 27\u2013October 2, 2024) food-and-wine small-group trip through Georgia (Tbilisi, Kakheti Wine Region, Mtskheta, Kazbegi Mountain Region), organized and guided by Jessica. Day-by-day schedule fetched and extracted in full; hotels and food/wine venues are unnamed on the page."
+   },
+   {
+    "url": "https://www.expedia.com/stories/out-travel-the-system-jessica-nabongo/",
+    "what_it_contained": "Interview/feature content; no structured itinerary."
+   },
+   {
+    "url": "https://www.expedia.com/magazine/interview-travel-guide-jessica-nabongo/",
+    "what_it_contained": "Interview content; no structured itinerary."
+   },
+   {
+    "url": "https://www.afar.com/magazine/jessica-nabongo-on-her-new-book-the-catch-me-if-you-can",
+    "what_it_contained": "Book interview; no structured itinerary."
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": false,
+  "queries_run": [
+   "\"jessicanabongo\" itinerary",
+   "\"jessicanabongo\" travel guide",
+   "\"Jessica Nabongo\" itinerary",
+   "\"Jessica Nabongo\" travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchB",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@jordanhammond",
+  "name": "Jordan Hammond",
+  "notes": "Search results may conflate two different Jordan Hammonds. The Empty E Sky Philippines trip (one month, structured itinerary) links the photographer to the handle @jordhammond, which does not match the assigned @jordanhammond, so it was not attributed. The Medium Puerto Escondido recommendations page (by a Jordan Hammond) was checked in full and rejected: it is a static guide-style list, not a named trip/plan with day-by-day structure or a stated trip length. No creator-attributable itinerary was found for the assigned handle.",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://jahammo2.medium.com/puerto-escondido-recommendations-25929f4d374b",
+    "what_it_contained": "Medium post by Jordan Hammond (published 2023-02-05, updated 2026-08-10): a static destination-recommendations list for Puerto Escondido, Mexico \u2014 areas, restaurants/dishes, activities, coworking, fitness, transport. Checked and rejected as an itinerary: it is not a named trip/plan, has no day-by-day structure or trip length, and the fetched page does not tie the author to the assigned Instagram handle @jordanhammond."
+   },
+   {
+    "url": "https://www.emptyesky.com.au/photoshooting-philippines-instagrammer-jordan-hammond/",
+    "what_it_contained": "Interview about a one-month Philippines trip (Manila, Banaue, Batad, Cebu, Bohol, Coron, El Nido, Port Barton) with a 'pretty well structured itinerary' by a Jordan Hammond identified as @jordhammond, not the assigned @jordanhammond. Checked but not attributed because of the handle mismatch."
+   },
+   {
+    "url": "https://matadornetwork.com/author/jordanhammond/",
+    "what_it_contained": "Author archive for a Jordan Hammond on Matador Network; photo-essay/travel-story format, not structured itineraries, and identity tie to the assigned handle not established."
+   },
+   {
+    "url": "https://www.remotelands.com/travelogues/an-instagrammers-guide-to-hong-kong/",
+    "what_it_contained": "An Instagrammer's guide to Hong Kong attributed to Jordan Hammond; guide-style content rather than a named trip with itinerary structure, and identity tie to the assigned handle not established."
+   },
+   {
+    "url": "https://canon.co.nz/get-inspired/peru-photography-guide-jordan-hammond",
+    "what_it_contained": "Peru photography guide by Jordan Hammond; photography guide, not a trip itinerary, and identity tie to the assigned handle not established."
+   },
+   {
+    "url": "https://muckrack.com/jordan-hammond/articles",
+    "what_it_contained": "Muck Rack journalist page for Jordan Hammond; article index only, no itinerary content."
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": false,
+  "queries_run": [
+   "\"jordanhammond\" itinerary",
+   "\"jordanhammond\" travel guide",
+   "\"Jordan Hammond\" itinerary",
+   "\"Jordan Hammond\" travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchB",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@latinamericatravel",
+  "name": "Latin America Travel",
+  "notes": "The handle's identity as a Latin-American travel account was confirmed via the superprofile.bio influencer listicle, but none of the itinerary results found could be tied to the exact Instagram account \u2014 they were generic Latin America travel content from unrelated publishers, tour operators, bloggers, and hashtag uses. Instagram profile/bio inspection was not possible because the browser service could not fetch Instagram profile text.",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://superprofile.bio/blog/top-instagram-travel-influencers",
+    "what_it_contained": "Influencer listicle identifying 'Latin America Travel - @latinamericatravel' as a Latin American culture and adventure travel account (listed at 298K followers). Identity of the handle confirmed as a travel account; no itinerary linked from the entry. Follower count was not verified and no commercial conclusion drawn."
+   },
+   {
+    "url": "https://www.journeysinternational.com/destinations/latin-america/",
+    "what_it_contained": "Journeys International Latin America tours page; generic tour-operator content with no link to the Instagram account."
+   },
+   {
+    "url": "https://www.wanderlustmagazine.com/inspiration/the-25-latin-america-trips-we-are-most-excited-about-right-now/",
+    "what_it_contained": "Wanderlust magazine list of Latin America trips; generic editorial content with no link to the Instagram account."
+   },
+   {
+    "url": "https://secret-traveller.com/2016/11/17/5-months-in-south-america-itinerary/",
+    "what_it_contained": "Individual traveler's 5-month South America itinerary; not authored by or linked to the Instagram account."
+   },
+   {
+    "url": "https://www.meetup.com/trekkup/events/314819751/",
+    "what_it_contained": "Meetup hiking event page; unrelated to the Instagram account."
+   },
+   {
+    "url": "https://wheretarawent.com/blog/5-days-mexico-city-itinerary",
+    "what_it_contained": "Individual blogger's 5-day Mexico City itinerary; not linked to the Instagram account."
+   },
+   {
+    "url": "https://www.youtube.com/shorts/BrlK_V6_m24",
+    "what_it_contained": "Travel vlog (Lima/Huacachina) using #latinamericatravel only as a hashtag; no link to the Instagram account."
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": false,
+  "queries_run": [
+   "\"latinamericatravel\" itinerary",
+   "\"latinamericatravel\" travel guide",
+   "\"Latin America Travel\" instagram itinerary",
+   "\"Latin America Travel\" travel guide blog",
+   "\"latinamericatravel\" instagram"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchB",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@nastasiawong",
+  "name": "Nastasia Wong",
+  "notes": "Quarantined account: although extensive travel content exists under the name 'Nastasia Wong' (founder of Dame Traveler), multiple independent sources document her Instagram handle as @dametraveler, not the assigned @nastasiawong, and no identity evidence links the two. The Charleston guide (hotel + restaurant picks from her solo trip) was therefore not attributed, per the fail-closed quarantine rule. No itinerary attributable to the exact handle @nastasiawong was found. Instagram profile/bio inspection was not possible because the browser service could not fetch Instagram profile text.",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.flytographer.com/blog/dame-traveller-charleston-guide/",
+    "what_it_contained": "Flytographer 'Dame Traveler's Guide to Charleston': Nastasia Wong's solo-trip Charleston picks \u2014 hotel: Zero George (5 restored circa-1804 buildings); restaurants/food: Nick's Original Bar-B-Q, Black Tap Coffee, Butcher & Bee. This guide content was NOT attributed to the assigned handle: per Rangefinder (https://rangefinderonline.com/news-features/profiles/sari-adventure/) and samantha-brown.com (http://samantha-brown.com/ideas/instagram-wanderlust/), Nastasia Wong of Dame Traveler is documented on Instagram as @dametraveler, not @nastasiawong, and no identity evidence links the two handles."
+   },
+   {
+    "url": "https://rangefinderonline.com/news-features/profiles/sari-adventure/",
+    "what_it_contained": "Rangefinder article naming 'social media influencer Nastasia Wong, known as @dametraveler on Instagram' \u2014 documents her actual public handle as @dametraveler, conflicting with the assigned @nastasiawong."
+   },
+   {
+    "url": "https://stories.forbestravelguide.com/10-travel-tips-for-the-holiday-season",
+    "what_it_contained": "Forbes Travel Guide: 10 holiday travel tips from Nastasia Wong, 'founder of women's travel blog @dametraveler'; no itinerary. Identity tie to @nastasiawong not established."
+   },
+   {
+    "url": "https://www.hgtv.com/lifestyle/travel/affordable-vacation-advice--pictures",
+    "what_it_contained": "HGTV money-saving travel tips quoting Nastasia Wong, founder of Dame Traveler; no itinerary. Identity tie to @nastasiawong not established."
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": true,
+  "queries_run": [
+   "\"nastasiawong\" itinerary",
+   "\"nastasiawong\" travel guide",
+   "\"Nastasia Wong\" itinerary",
+   "\"Nastasia Wong\" travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchB",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@nomadicmovement",
+  "name": "Nomadic Movement",
+  "notes": "Quarantined account: 'nomadicmovement'/'Nomadic Movement' searches returned only generic uses of the words 'nomadic' and 'nomad' across unrelated brands and publishers (tours, newsletters, books, blogs). No result was linked to the exact Instagram handle, and no creator-owned itinerary was found. Nothing was attributed.",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.bluesilktravel.com/small-group-journeys/classic-trips/nomadic-life-and-naadam",
+    "what_it_contained": "Blue Silk Travel Mongolia tour itinerary; 'nomadic' is a generic topic word, no connection to the handle."
+   },
+   {
+    "url": "https://www.nomadicroad.com/expeditions/nomadic-summer",
+    "what_it_contained": "Nomadic Road Mongolia self-drive expedition page; generic 'nomadic' usage, no connection to the handle."
+   },
+   {
+    "url": "https://moroccoculturetravel.com/tour/nomadic-berber-life-tour/",
+    "what_it_contained": "Morocco Culture Travel Berber-life tour; generic 'nomadic' usage, no connection to the handle."
+   },
+   {
+    "url": "https://nomadphotographer.com/tentative-itinerary/",
+    "what_it_contained": "Nomad Photographer round-the-world tentative itinerary; a different 'nomad' brand, no connection to the handle."
+   },
+   {
+    "url": "https://www.globenewswire.com/news-release/2026/06/18/3314299/0/en/Nomadic-Spirit-Releases-The-Intentional-Traveler-s-Guide-to-AI-to-Combat-Algorithmic-Overtourism.html",
+    "what_it_contained": "Nomadic Spirit press release about an AI travel guide; a different brand, no connection to the handle."
+   },
+   {
+    "url": "https://wildyness.com/news/algeria-nomad-experience",
+    "what_it_contained": "WildyNess Algeria Sahara nomad guide; generic 'nomad' usage, no connection to the handle."
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": true,
+  "queries_run": [
+   "\"nomadicmovement\" itinerary",
+   "\"nomadicmovement\" travel guide",
+   "\"Nomadic Movement\" itinerary",
+   "\"Nomadic Movement\" travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchB",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@oceanwanderer",
+  "name": "Ocean Wanderer",
+  "notes": "Quarantined account: results were all generic or differently-named uses of 'ocean wanderer' (a sailing event, a hiking tour, a cruise ship, a rental property, a blogger's nickname, a differently-suffixed Tripadvisor username). None was linked to the exact Instagram handle @oceanwanderer, and no creator-owned itinerary was found. Nothing was attributed.",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tripadvisor.co.nz/Profile/Oceanwanderer07",
+    "what_it_contained": "Tripadvisor profile '@Oceanwanderer07' with travel reviews (New Zealand, Australia); the username is a different handle than the assigned @oceanwanderer and no identity evidence links them, so nothing was attributed."
+   },
+   {
+    "url": "http://mailchi.mp/6ceed96d5139/pacificvoyages-oceanwanderermonth",
+    "what_it_contained": "Pacific Voyages 'Ocean Wanderer Month' 2026 sailing schedule (Rapa Nui \u2192 Pitcairn \u2192 Fakarava \u2192 Tahiti etc. aboard EUROPA); a sailing company's branded event, no connection to the Instagram handle."
+   },
+   {
+    "url": "https://hikingnewzealand.com/trips/coastal-wanderer/downloadItineraryFile",
+    "what_it_contained": "Hiking New Zealand 'Coastal Wanderer' 6-day hiking tour itinerary; a tour product, no connection to the handle."
+   },
+   {
+    "url": "https://www.voyagers.travel/antarctica/cruises/ocean-adventurer",
+    "what_it_contained": "Voyagers Travel 'Ocean Adventurer' Antarctic cruise itineraries; a cruise ship, no connection to the handle."
+   },
+   {
+    "url": "https://www.plumguide.com/homes/52618/ocean-wanderer",
+    "what_it_contained": "Plum Guide vacation rental listing named 'Ocean Wanderer' in Newport, Wales; a property name, no connection to the handle."
+   },
+   {
+    "url": "https://www.wevegonecoastal.com/",
+    "what_it_contained": "Cozumel travel blog by 'Dory', self-described 'ocean wanderer'; generic phrase usage, no connection to the handle."
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": true,
+  "queries_run": [
+   "\"oceanwanderer\" itinerary",
+   "\"oceanwanderer\" travel guide",
+   "\"Ocean Wanderer\" itinerary",
+   "\"Ocean Wanderer\" travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchB",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@rachid_dahnoun",
+  "name": "Rachid Dahnoun",
+  "notes": "Quarantined account: the creator was identified as a Tahoe-based adventure travel photographer (rachidphoto.com; clients include National Geographic, ESPN, The Travel Channel, Lowepro). Detailed day-by-day Morocco itineraries were found under 'Rachid Morocco Tours' (Medium and Substack), but that is a commercial tour-operator brand distinct from the creator, so the operator content was explicitly NOT attributed per the quarantine rule. No itinerary attributable to the creator was found.",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://tahoetrailbar.com/blogs/ambassadors/rachid-dahnoun",
+    "what_it_contained": "Tahoe Trail Bar ambassador profile: Rachid Dahnoun (rachidphoto.com) is a Tahoe-based adventure travel photographer whose clients include National Geographic, ESPN, The Travel Channel and Lowepro. Establishes the creator's identity as a photographer, distinct from the Morocco tour operator. No itinerary content."
+   },
+   {
+    "url": "https://www.lowepro.com/global/green-traveling/",
+    "what_it_contained": "Lowepro 'Green Traveling' feature on Rachid Dahnoun: Leave No Trace principles and shooting philosophy; no itinerary."
+   },
+   {
+    "url": "https://medium.com/@rachidmoroccotours.com/7-days-authentic-morocco-itinerary-from-casablanca-ultimate-1-week-morocco-tour-593bb58933e9",
+    "what_it_contained": "Medium post by 'Rachid Morocco Tours' (7-day Morocco itinerary Casablanca \u2192 Fes \u2192 Merzouga \u2192 Marrakech). Found but NOT attributed: it belongs to a commercial Morocco tour operator brand, distinct from the photographer creator, per the quarantine warning on same-named operator content."
+   },
+   {
+    "url": "https://medium.com/@rachidmoroccotours.com/morocco-6-day-from-marrakech-tour-the-perfect-sahara-itinerary-00fcb96e2237",
+    "what_it_contained": "Medium post by 'Rachid Morocco Tours' (6-day Morocco desert tour). Found but NOT attributed for the same operator-content reason."
+   },
+   {
+    "url": "https://substack.com/profile/441042796-rachid/note/c-203933918",
+    "what_it_contained": "Substack note by @rachidmoroccotours advertising a 9-day private Morocco journey ('The Moroccan Tapestry'). Found but NOT attributed: tour-operator content, not the creator's."
+   },
+   {
+    "url": "https://www.experienceittours.com/morocco/testimonial/highly-recommend-our-itinerary/",
+    "what_it_contained": "Experience It Tours testimonial mentioning a Morocco driver/guide named Rachid; no evidence he is the assigned Instagram creator."
+   }
+  ],
+  "platform": "instagram",
+  "quarantined": true,
+  "queries_run": [
+   "\"rachid_dahnoun\" itinerary",
+   "\"rachid_dahnoun\" travel guide",
+   "\"Rachid Dahnoun\" itinerary",
+   "\"Rachid Dahnoun\" travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchB",
+  "search_date": "2026-09-16"
+ }
+]

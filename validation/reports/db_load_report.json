@@ -2,10 +2,10 @@
   "db": "/home/hatch/workspace/travel-influencer-pilot/pilot.db",
   "status": "loaded",
   "stats": {
-    "itineraries": 93,
-    "items": 1142,
+    "itineraries": 94,
+    "items": 1155,
     "sources": 106,
-    "posts": 93,
+    "posts": 94,
     "skipped_quarantined": [
       {
         "batch": 1,
@@ -16,13 +16,18 @@
         "batch": 1,
         "handle": "@africansafari",
         "title": "4 Days Kenya's Golden Safari Circuit - Rift Valley Lakes & the Wild Mara"
+      },
+      {
+        "batch": 4,
+        "handle": "@thenationalparktravelers",
+        "title": "Columbia River Gorge Waterfall Drive"
       }
     ],
     "skipped_council": []
   },
   "checks": {
     "influencers": 100,
-    "itineraries": 93,
+    "itineraries": 94,
     "orphan_items": 0,
     "orphan_itineraries": 0,
     "itineraries_without_source": 0,

@@ -1,0 +1,1006 @@
+{
+ "worker": 2,
+ "check_date_utc": "2026-09-16",
+ "packets": [
+  {
+   "id": 2,
+   "batch": 1,
+   "handle": "@adventurouskate",
+   "platform": "instagram",
+   "title": "The Best 3 Day Dubrovnik Itinerary",
+   "destination": "Dubrovnik",
+   "country": "Croatia",
+   "days": 3,
+   "summary": "Kate's three-day Dubrovnik itinerary paces Old Town exploration, beach/pool downtime and sunset experiences instead of racing through sights. Day 1 covers the Old City, lunch at her favorite restaurant Proto, the cable car to Mount Srd and dinner at Panorama; Day 2 is sea kayaking, beaches, the City Walls at sunset and a traditional peka feast with locals; Day 3 offers Lokrum Island, Mljet Island, the Red History Museum or a Game of Thrones tour.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.adventurouskate.com/three-days-in-dubrovnik-itinerary/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Explore Dubrovnik Old Town",
+     "location": "Dubrovnik Old City"
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Dubrovnik Pass",
+     "location": "Dubrovnik"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Proto",
+     "location": "Dubrovnik Old City"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Kopun",
+     "location": "Dubrovnik Old City"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Dubrovnik Cable Car",
+     "location": "Mount Srd"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Panorama Restaurant",
+     "location": "Mount Srd"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "D'Vino Wine Bar",
+     "location": "Dubrovnik Old City"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Sea kayaking around the Old City",
+     "location": "Dubrovnik coast"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Beach morning options",
+     "location": "Dubrovnik"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Walk the City Walls at sunset",
+     "location": "Dubrovnik City Walls"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Lunch spots: Kamenice, Bota Sare, Pizzeria Castro, Dolce Vita",
+     "location": "Dubrovnik Old City"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Peka dinner with Marija & Zlatko",
+     "location": "Dubrovnik"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Visit Lokrum Island",
+     "location": "Lokrum Island"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Mljet Island day trip",
+     "location": "Mljet Island"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Red History Museum",
+     "location": "Dubrovnik (Gruz)"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Game of Thrones tour",
+     "location": "Dubrovnik"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "batch": 1,
+   "handle": "@emmett_sparling",
+   "platform": "instagram",
+   "title": "Visit Borneo: Derawan Islands guide by Emmett Sparling",
+   "destination": "Derawan Islands, Borneo",
+   "country": "Indonesia",
+   "days": null,
+   "summary": "Emmett Sparling's guide to the Derawan Islands off Borneo, published in HOLR Magazine: where to stay (overwater homestays), where to eat (warungs), and what to do (Jellyfish Lake on Kakaban Island, snorkelling and free diving, biking Derawan). A recommendation list tied to his photography trip rather than a day-by-day plan, so no day count is stated.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://holrmagazine.com/borneo-emmett-sparling/"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Boat from Tarakan",
+     "location": "Tarakan to Derawan Islands"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Derawan Island homestay",
+     "location": "Derawan Island"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Warungs",
+     "location": "Derawan Island"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Jellyfish Lake",
+     "location": "Kakaban Island"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Snorkelling / free diving",
+     "location": "Derawan Islands"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Bike around Derawan",
+     "location": "Derawan Island"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Light-beam canyon",
+     "location": "Borneo"
+    }
+   ]
+  },
+  {
+   "id": 20,
+   "batch": 1,
+   "handle": "@lostleblanc",
+   "platform": "instagram",
+   "title": "DO NOT GO TO ICELAND... without this itinerary! (9-Day Iceland)",
+   "destination": "Iceland",
+   "country": "Iceland",
+   "days": 9,
+   "summary": "Day-by-day 9-day Iceland road-trip itinerary posted by Christian LeBlanc (@lostleblanc) on his verified TikTok account: Reykjavik and lagoons on day 1, Silfra diving on day 2, the Golden Circle on day 3, horse riding, snowmobiling, glacier caves, canyons and a glacier lagoon boat trip on days 4-8, and departure via Egilssta\u00f0ir Airport or ferry to the Faroe Islands on day 9.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.tiktok.com/@lostleblanc/video/7394475609621056775"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Blue Lagoon or Sky Lagoon",
+     "location": "Reykjavik area"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Hallgr\u00edmskirkja Church",
+     "location": "Reykjavik"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Caf\u00e9 Loki",
+     "location": "Reykjavik"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Diving between the Silfra tectonic plates",
+     "location": "Silfra"
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "Buubble Hotel",
+     "location": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Golden Circle roadtrip",
+     "location": "Golden Circle"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Seljalandfoss waterfall at sunset",
+     "location": "Seljalandfoss"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Hang and horse riding with Mr.Iceland",
+     "location": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Langj\u00f6kull snowmobiles",
+     "location": "Langj\u00f6kull"
+    },
+    {
+     "day": 6,
+     "item_type": "restaurant",
+     "name": "Faxi Bakery",
+     "location": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Katla cave and glacier",
+     "location": "Katla"
+    },
+    {
+     "day": 7,
+     "item_type": "restaurant",
+     "name": "Black Crust Pizza",
+     "location": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Yoda",
+     "location": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Fja\u00f0r\u00e1rglj\u00fafur canyons",
+     "location": "Fja\u00f0r\u00e1rglj\u00fafur"
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Jokulsarlon Glacier Boat trip",
+     "location": "Jokulsarlon"
+    },
+    {
+     "day": 9,
+     "item_type": "transport",
+     "name": "Depart via Egilssta\u00f0ir Airport",
+     "location": "Egilssta\u00f0ir"
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "batch": 2,
+   "handle": "@nomadicmatt",
+   "platform": "instagram",
+   "title": "A 10-Day Itinerary Down Sweden's Coast",
+   "destination": "Northern Sweden: Lule\u00e5, Ume\u00e5, \u00d6rnsk\u00f6ldsvik, Skuleskogen National Park, Sundsvall, Uppsala",
+   "country": "Sweden",
+   "days": 10,
+   "summary": "Nomadic Matt's off-the-beaten-path 10-day northern Sweden route, worked south down the coast from Lule\u00e5 to Uppsala. He emphasizes doing the trip by car (train/bus possible), with named hotels, restaurants, hikes, and admission-free nature stops throughout.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.nomadicmatt.com/travel-blogs/sweden-coast-itinerary/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Clarion Hotel Sense",
+     "location": "Lule\u00e5"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Lule\u00e5 Archipelago",
+     "location": "Lule\u00e5"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Gammelstad Church Town",
+     "location": "Lule\u00e5"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Gammelstadsviken nature reserve",
+     "location": "Lule\u00e5"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Norrbotten Museum",
+     "location": "Lule\u00e5"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Hiking around Lule\u00e5",
+     "location": "Lule\u00e5"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Bistron",
+     "location": "Lule\u00e5 harbor"
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Hotell Bj\u00f6rken",
+     "location": "Ume\u00e5"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "V\u00e4sterbottens Museum",
+     "location": "Ume\u00e5"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Guitars the Museum",
+     "location": "Ume\u00e5"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Kulturv\u00e4ven",
+     "location": "Ume\u00e5"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Umedalens Skulpturpark",
+     "location": "Ume\u00e5"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Strandpromenaden",
+     "location": "Ume\u00e5"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Bodegan and Eljest",
+     "location": "Ume\u00e5"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Facit Bar",
+     "location": "Ume\u00e5"
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "Elite Hotel",
+     "location": "\u00d6rnsk\u00f6ldsvik"
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "FriluftsByn",
+     "location": "near \u00d6rnsk\u00f6ldsvik"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "High Coast Trail",
+     "location": "\u00d6rnsk\u00f6ldsvik"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Kayaking",
+     "location": "\u00d6rnsk\u00f6ldsvik archipelago"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Gullviks havsbad",
+     "location": "\u00d6rnsk\u00f6ldsvik"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Skuleskogen National Park",
+     "location": "High Coast, 30 min south of \u00d6rnsk\u00f6ldsvik"
+    },
+    {
+     "day": 7,
+     "item_type": "hotel",
+     "name": "Lilla Hotellet",
+     "location": "Sundsvall"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Kulturmagasinet",
+     "location": "Sundsvall"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Norra Berget",
+     "location": "Sundsvall"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Himlabadet Water Park",
+     "location": "Sundsvall"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Sidsj\u00f6n Lake",
+     "location": "Sundsvall"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Aln\u00f6n Island",
+     "location": "Sundsvall"
+    },
+    {
+     "day": 9,
+     "item_type": "hotel",
+     "name": "Uppsala City Hostel",
+     "location": "Uppsala"
+    },
+    {
+     "day": 9,
+     "item_type": "hotel",
+     "name": "Botanika Uppsala",
+     "location": "Uppsala"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "Uppsala Cathedral (Domkyrkan)",
+     "location": "Uppsala"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "Gustavianum",
+     "location": "Uppsala University"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "Uppsala Castle",
+     "location": "Uppsala"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "Botanical Garden & Linnaeus Garden",
+     "location": "Uppsala"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "Gamla Uppsala",
+     "location": "north of Uppsala"
+    },
+    {
+     "day": 9,
+     "item_type": "activity",
+     "name": "Carolina Rediviva Library",
+     "location": "Uppsala"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Rental car for northern Sweden",
+     "location": "Lule\u00e5 to Uppsala"
+    }
+   ]
+  },
+  {
+   "id": 38,
+   "batch": 2,
+   "handle": "@sailinglavagabonde",
+   "platform": "instagram",
+   "title": "Sail in the Abaco Islands, Bahamas - 7 Day Itinerary",
+   "destination": "Abaco Islands, Bahamas",
+   "country": "Bahamas",
+   "days": 7,
+   "summary": "A 6-night / 7-day sailing itinerary in the Abaco Islands aboard the Outremer 45 catamaran Falmari, bookable through Vagabonde Adventures - the trip brand promoted in Sailing La Vagabonde's own YouTube episode descriptions ('BOOK A TRIP with VagabondeAdventures'). Day-by-day: Marsh Harbor to Guana Cay, Fowl Cay snorkeling, Hope Town, Little Harbour's Pete's Pub, Sandy Cay reef and Lynyard Cay, then back to Marsh Harbour. Sailing season November-May, 70-78 degF.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.vagabondeadventures.com/outremer-45-falmari"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Sailing yacht Falmari",
+     "location": "Abaco Islands, Bahamas"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Board and sail to Guana Cay",
+     "location": "Marsh Harbor to Guana Cay"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Fowl Cay snorkeling and Man-O-War Cay",
+     "location": "Fowl Cay / Man-O-War Cay"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Firefly restaurant",
+     "location": "Hope Town, Elbow Cay"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Pete's Pub",
+     "location": "Little Harbour"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Sandy Cay reef and Lynyard Cay",
+     "location": "Sandy Cay / Lynyard Cay"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Return to Marsh Harbour",
+     "location": "Lynyard Cay to Marsh Harbour"
+    },
+    {
+     "day": 7,
+     "item_type": "other",
+     "name": "Disembark",
+     "location": "Marsh Harbour"
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "batch": 2,
+   "handle": "@thebucketlistfamily",
+   "platform": "instagram",
+   "title": "Hawaii family stop (Oahu)",
+   "destination": "Oahu, Hawaii",
+   "country": "United States",
+   "days": 3,
+   "summary": "A 3-day family stop on Oahu (September 2015 journal entry). The family stayed at the Kai Nalu House in Haleiwa, took an underwater photography course with Jake Marote, and Garrett spoke to a youth soccer team. Not day-by-day, but a genuine trip record with dates, accommodation and named activities.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.thebucketlistfamily.com/united-states-of-america"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Kai Nalu House",
+     "location": "Haleiwa, Oahu"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Underwater photography course with Jake Marote",
+     "location": "Oahu"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "North Shore",
+     "location": "Oahu"
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "batch": 2,
+   "handle": "@wildweroam",
+   "platform": "instagram",
+   "title": "Two Weeks in Portugal (2016 Trip Fragments)",
+   "destination": "Portugal",
+   "country": "Portugal",
+   "days": 14,
+   "summary": "Dana and Lou (Wild We Roam) spent two weeks in Portugal in 2016. The blog covers fragments rather than a full route: an Airbnb stay on Ilha de Armona in the Algarve (fly to Faro, train to Olhao, ferry to the island) and a 36-hour camping trip on Berlengas with ferry booking details. No day-by-day plan was published.",
+   "confidence": "low",
+   "source_urls": [
+    "https://www.wildweroam.com/blog/2017/11/28/portugal",
+    "https://www.wildweroam.com/blog/2018/09/27/camping-on-berlengas"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "flight",
+     "name": "Flight to Faro",
+     "location": "Berlin to Faro"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Train to Olhao",
+     "location": "Faro to Olhao"
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Ferry to Armona",
+     "location": "Olhao to Ilha de Armona"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Airbnb on Ilha de Armona",
+     "location": "Ilha de Armona, Algarve"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Camping on Berlengas",
+     "location": "Berlengas archipelago (off Peniche)"
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "batch": 3,
+   "handle": "@jordentually",
+   "platform": "tiktok",
+   "title": "The Best North Coast 500 + Isle of Skye Travel Guide (7 Day Itinerary)",
+   "destination": "Scotland",
+   "country": "United Kingdom",
+   "days": 7,
+   "summary": "Creator-authored 7-day road trip itinerary through the North Coast 500 and the Isle of Skye, with each day naming specific stops. The video description includes a day-by-day location list with video timestamps and a Google Maps pin list.",
+   "confidence": "high",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=6E62FzhNyU4"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Whaligoe Steps",
+     "location": "Caithness, Scotland"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Duncansby Head",
+     "location": "Caithness, Scotland"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Smoo Cave",
+     "location": "Durness, Scotland"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Chocolate Mountain",
+     "location": "North Coast, Scotland"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Sandwood Bay Beach",
+     "location": "Sutherland, Scotland"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Kylesku Bridge",
+     "location": "Sutherland, Scotland"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Achmelvich Bay",
+     "location": "Sutherland, Scotland"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Stac Pollaidh",
+     "location": "Assynt, Scotland"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Applecross Pass",
+     "location": "Applecross, Scotland"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Loch Carron",
+     "location": "Wester Ross, Scotland"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Old Man of Storr",
+     "location": "Isle of Skye, Scotland"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Kilt Rock and The Quiraing",
+     "location": "Isle of Skye, Scotland"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Fairy Pools",
+     "location": "Isle of Skye, Scotland"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Neist Point Lighthouse and Coral Beach",
+     "location": "Isle of Skye, Scotland"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Ben Nevis",
+     "location": "Fort William, Scotland"
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Glenfinnan Viaduct",
+     "location": "Lochaber, Scotland"
+    }
+   ]
+  },
+  {
+   "id": 74,
+   "batch": 4,
+   "handle": "@onegirlwandering",
+   "platform": "tiktok",
+   "title": "Banff Winter Bucket List - 4 Night Winter Itinerary",
+   "destination": "Banff, Alberta",
+   "country": "Canada",
+   "days": 5,
+   "summary": "Her exact 4-night winter itinerary for Banff: arrive via Calgary, base at Fairmont Lake Louise, day trips to Yoho National Park and the Icefields Parkway, plus a dogsled tour. Day 5 is departure.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.onegirlwandering.com/2020/01/01/banff-winter-bucket-list/"
+   ],
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Rental car pickup",
+     "location": "Calgary"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Fairmont Lake Louise",
+     "location": "Lake Louise, Banff"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Walliser Stube",
+     "location": "Fairmont Lake Louise"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Emerald Lake Lodge",
+     "location": "Yoho National Park"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Natural Bridge",
+     "location": "Yoho National Park"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Ice skating on Lake Louise",
+     "location": "Lake Louise"
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Fairview Bar and Restaurant",
+     "location": "Fairmont Lake Louise"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Rockies Heli Canada helicopter tour",
+     "location": "Icefields Parkway"
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Alpine Social",
+     "location": "Fairmont Lake Louise"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Roasting marshmallows over the firepit",
+     "location": "Fairmont Lake Louise"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Kingmik Dogsled Tours",
+     "location": "Lake Louise area"
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Fairview Bar and Restaurant - afternoon tea",
+     "location": "Fairmont Lake Louise"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Fairview lookout hike",
+     "location": "Lake Louise"
+    },
+    {
+     "day": 5,
+     "item_type": "transport",
+     "name": "Fly home from Calgary",
+     "location": "Calgary"
+    }
+   ]
+  },
+  {
+   "id": 83,
+   "batch": 4,
+   "handle": "@sonia.c.mota",
+   "platform": "tiktok",
+   "title": "9-Day Mallorca Travel Guide",
+   "destination": "Mallorca",
+   "country": "Spain",
+   "days": 9,
+   "summary": "Sonia (Simply Slow Traveler) sells a 9-day digital Mallorca travel guide with a planned itinerary, favourite beaches, charming villages and local restaurants. Her own 'slow guide to Mallorca's prettiest villages' video names the five villages the guide covers. Full day-by-day detail is behind the paid product.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.youtube.com/watch?v=x6U2Lnb3spU",
+    "https://simply-slow-traveler.com"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "9-Day Mallorca Travel Guide (digital product)",
+     "location": "Mallorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Valldemossa",
+     "location": "Mallorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Deia",
+     "location": "Mallorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Soller and Port de Soller",
+     "location": "Mallorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Santanyi",
+     "location": "Mallorca"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Fornalutx",
+     "location": "Mallorca"
+    }
+   ]
+  },
+  {
+   "id": 92,
+   "batch": 4,
+   "handle": "@wheretofindme",
+   "platform": "tiktok",
+   "title": "Tokyo Guide \u2014 5-day itinerary eBook (400+ locations, 18 neighbourhoods)",
+   "destination": "Tokyo",
+   "country": "Japan",
+   "days": 5,
+   "summary": "Maz's paid 134-page PDF Tokyo guide (GBP 34.99), structured around a five-day trip with 400+ personally tried-and-tested locations across 18 neighbourhoods, with Google Maps links per location. Covers restaurants, cultural sites, viewpoints, accommodation, photo spots, cafes, bars, and essential travel info. Specific venues behind the paid PDF; category structure is from the sales page and her TikTok promos.",
+   "confidence": "medium",
+   "source_urls": [
+    "https://www.wheretofindme.co.uk/tokyo-guide",
+    "https://www.tiktok.com/@wheretofindme/video/7620186592161942806?_r=1&_d=secCgYIASAHKAESPgo8RkziAFTF2oXMoB5cdV8HUsTOeSXcd4Np4qnxcBRSJOz5qgy4B20QUjGw4FYWvN4PMpVcpAh%2FGoaCr7aNGgA%3D&_svg=1&checksum=a569c913e858c4527126cb1985ebb80ebfd717618dfde560291e8ef9c7a4d802&link_reflow_popup_iteration_sharer=%7B%22dynamic_cover%22%3A1%2C%22profile_clickable%22%3A1%2C%22follow_to_play_duration%22%3A-1.0%2C%22profile_clickable%22%3A1%7D&preview_pb=0&reflow_page_type=1&reflow_sign_scene=1&rgssign=2.1.jqMSX8ChwNMtQ2ttn71_Rw&sec_user_id=MS4wLjABAAAAiTJFetKEQkzkNxiTEDQubiGjWN_s-m7qOFx95SyKYaLr7aHnk1Y9m3cZsQIm414W&share_app_id=1233&share_item_id=7620186592161942806&share_link_id=9E0A4456-E83F-47C8-B15C-A78C10B3736C&share_region=AE&share_scene=2&sharer_language=en&social_share_type=0&source=h5_m&timestamp=1778215082&tt_from=messenger&u_code=30ai3fadjha2i&ug_btm=b5836%2Cb2878&user_id=66190846731001856&utm_campaign=client_share&utm_medium=ios&utm_source=messenger"
+   ],
+   "items": [
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Restaurants section of Tokyo guide",
+     "location": "Tokyo, Japan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Cultural sites section of Tokyo guide",
+     "location": "Tokyo, Japan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Viewpoints section of Tokyo guide",
+     "location": "Tokyo, Japan"
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Accommodation section of Tokyo guide",
+     "location": "Tokyo, Japan"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Photo spots section of Tokyo guide",
+     "location": "Tokyo, Japan"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Cafes section of Tokyo guide",
+     "location": "Tokyo, Japan"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Bars section of Tokyo guide",
+     "location": "Tokyo, Japan"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Essential info section of Tokyo guide",
+     "location": "Tokyo, Japan"
+    }
+   ]
+  }
+ ]
+}

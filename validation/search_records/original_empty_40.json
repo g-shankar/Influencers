@@ -1,0 +1,642 @@
+[
+ {
+  "handle": "@_abbyvogel",
+  "name": "Abby Vogel",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Creator focuses on budget travel/WWOOF content; searches surfaced no creator-authored day plans, destination guides, or trip-tied recommendations."
+ },
+ {
+  "handle": "@adrian.baias",
+  "name": "Adrian Baias",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No itinerary found attributable to this handle. Searches surfaced unrelated luxury-travel accounts under a similar name; no creator-authored trip plans, guides, or recommendation lists."
+ },
+ {
+  "handle": "@alvatheexplorer",
+  "name": "Alva Vaz",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Search results returned itineraries from other creators, none authored by @alvatheexplorer."
+ },
+ {
+  "handle": "@bodiek",
+  "name": "Bodie",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Searches returned Philippines/Bali plans from other creators, not authored by @bodiek."
+ },
+ {
+  "handle": "@braidenrex",
+  "name": "Braiden Rex-Johnson",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No extractable itinerary content found for @braidenrex. Searches for the handle and for 'Braiden Rex-Johnson' travel return only her identity as a bestselling author of Pacific Northwest cuisine and wine cookbooks (Pike Place Market Cookbook; Pacific Northwest Wining and Dining), a Seattle Times columnist who retired from food-and-wine writing in 2014 - not a travel itinerary creator. No Instagram itinerary posts, guides or day-by-day trip plans attributable to the handle were found. Per the honesty rule, itineraries left empty rather than forced."
+ },
+ {
+  "handle": "@calsnape",
+  "name": "Callum Snape",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Professional adventure/travel photographer (Vancouver-based). IG feed is single stunning landscape photos with short captions that occasionally include a day-trip tip (e.g. Meteora as a day trip from Athens with an overnight stay tip; Oeschinensee alpine-loop hike clockwise tip with mountain-hut cash tip; Inside Passage cruise mentions). No named trip plans, day-by-day guides, hotel/restaurant lists or structured itineraries were found in web or social search results \u2014 only photos with brief tips. Per honesty rules, no itinerary was forced."
+ },
+ {
+  "handle": "@courtandnate",
+  "name": "Courtnie and Nate",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Their site (https://www.courtandnate.com/) offers an unnamed favorites map and van-build resources, but no extractable named trip, day plan, or trip-tied recommendation list."
+ },
+ {
+  "handle": "@culturalexplorer",
+  "name": "Cultural Explorer",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Sarah writes slow-travel essays on Substack (substack.com/@culturalexplorer), e.g. a piece on ADO bus travel in Mexico (three journeys: Mexico City to Oaxaca, Oaxaca to Puebla, Puebla to the airport, with booking tips via the ADO M\u00f3vil app) and a future-trip sketch (fly to Mexico City for a few nights, time in Oaxaca city, then the coast via the new highway to Puerto Escondido). Well-researched transport commentary but no day-by-day itinerary, hotel/restaurant recommendations or structured trip plan found. Per honesty rules, no itinerary was forced."
+ },
+ {
+  "handle": "@danidboyy1",
+  "name": "Danielle",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Content is Emirates flight-attendant advice/vlogs, not trip plans or destination guides."
+ },
+ {
+  "handle": "@danmaniel",
+  "name": "Daniel Young",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Content is primarily school-bus conversion/build advice, not trip plans."
+ },
+ {
+  "handle": "@dinasarraj",
+  "name": "Dina Sarraj",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Content describes luxury hotels and slow travel, but no creator-authored day plans or trip-tied guides surfaced."
+ },
+ {
+  "handle": "@doyoutravel",
+  "name": "Jack Morris",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Jack Morris's doyoutravel brand is photography/presets-focused (the @doyoutravelpresets account sells Lightroom presets). Web and social search results show stunning travel photos and interviews about photo technique, but no trip plans, guides, named itineraries or structured hotel/activity recommendations. Per honesty rules, no itinerary was forced."
+ },
+ {
+  "handle": "@drewbinsky",
+  "name": "Drew Binsky",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No extractable destination itineraries found. Drew Binsky's public products are general travel-skills, not destination plans: his book 'Just Go: A Globe-Trotting Guide to Travel Like an Expert, Connect Like a Local, and Live the Adventure of a Lifetime' (2024) covers visas, befriending locals and language barriers across 197 countries, and his drewbinsky.com travel course covers general travel hacks/secrets. His YouTube/Instagram content is destination vlog footage (e.g. '$10 in Yemen, Syria, Iran') with no structured day-by-day plans, hotel/activity/restaurant recommendations tied to a reusable trip. A targeted Instagram author-search for his itinerary posts returned zero results. Per honesty rules, no itinerary was forced."
+ },
+ {
+  "handle": "@emmaexpedition",
+  "name": "Emma Expedition",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Content is scenic West Coast/Namibia/Utah photography and travel clips, not structured plans."
+ },
+ {
+  "handle": "@erikakullberg",
+  "name": "Erika Kullberg",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Content is travel-rights, airline-compensation and credit-card advice, not trip plans."
+ },
+ {
+  "handle": "@footluce",
+  "name": "Lucy Josephs",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Creator posts Southeast Asia budget/solo travel content, but no structured creator-authored itinerary surfaced."
+ },
+ {
+  "handle": "@gypsea_lust",
+  "name": "Lauren Bullen (Gypsea Lust)",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No extractable itinerary content. Lauren Bullen's feed and press are photo-first: interviews (Preview.ph, The Asia Collective, FAE) discuss photo editing, packing bikinis and favorite destinations (Samoa, Cappadocia, Greece, Bali) but never day-by-day plans or named hotels/restaurants/activities tied to a trip. Her personal blog GypseaLust (gypsealust.com, est. 2016) appears expired/inactive (domain expired 2022). The most trip-specific quote found (FAE, June 2022: a day at Spiaggia Grande, Positano + an Amalfi coast boat trip) is too fragmentary to constitute an itinerary. Per honesty rules, none was forced."
+ },
+ {
+  "handle": "@heyshetravels",
+  "name": "Maria",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Layla AI pages incorporate captions attributed to this handle, but those itineraries appear AI-generated/third-party, not creator-authored. No direct creator source independently supports a structured itinerary, so none was extracted."
+ },
+ {
+  "handle": "@highonlifee",
+  "name": "High On Life",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Luxury travel Instagram account (~2.1M followers per a 2025 influencer ranking). Public web searches surfaced no blog, guide site, or itinerary-style posts attributable to the account \u2014 content appears to be luxury destination inspiration/repost content, not structured trip plans or guides. No bio-link page reachable via web search (no live browser available). No extractable itinerary found; not forced."
+ },
+ {
+  "handle": "@islandhopper",
+  "name": "Island Hopper",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Beach travel creator on Instagram. Publicly documented work includes a 4-day Phuket FAM trip producing reels/photo packs for a Thai DMC (explera.co.th/collaborations/) \u2014 trade/brand content, not a public day-by-day itinerary. No blog, guide posts, or itinerary-style content found via web search. No extractable itinerary found; not forced."
+ },
+ {
+  "handle": "@itsjustgizem",
+  "name": "Gizem",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Gizem posts solo travel vlogs (e.g., Berlin), but no creator-authored day plans or destination guides surfaced."
+ },
+ {
+  "handle": "@jacob",
+  "name": "Jacob Riglin",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Jacob Riglin posts scenic photography/adventure videos with no structured trip plans or guides."
+ },
+ {
+  "handle": "@jessicanabongo",
+  "name": "Jessica Nabongo",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "First Black woman to visit all 195 UN countries. Her content is a travelogue/blog (thecatchmeifyoucan.com) and the memoir/travel guide 'The Catch Me If You Can' (National Geographic, 100 countries with stories, photos and travel tips) \u2014 no day-by-day itineraries published. The destinations page on her blog is a comment thread, not a guide list. No extractable itinerary found; not forced."
+ },
+ {
+  "handle": "@jordanhammond",
+  "name": "Jordan Hammond",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "British adventure/travel photographer (based career out of China since 2015); content is photography, photo tours, and editing courses. A Canon 'Peru Photography Guide' with his name is a photography packing/safety guide, not a trip itinerary. No day-by-day trip plans or destination guides found via web search. No extractable itinerary found; not forced."
+ },
+ {
+  "handle": "@kenxtori",
+  "name": "Ken and Tori",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Ken and Tori post international couple/new-parent travel tips and destination clips (e.g., Mallorca, St. John beaches), but no creator-authored day plans or trip-tied guides surfaced."
+ },
+ {
+  "handle": "@latinamericatravel",
+  "name": "Latin America Travel",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Assessment: @latinamericatravel (\"Latin America Travel\", ~298K Instagram followers, listed as a regional cultural/adventure travel account) is a brand/thematic account, not an individual creator, and no original itinerary content attributable to it was found. Web searches for the handle plus itinerary/guide keywords returned only unrelated tour-operator itineraries (Wanderlust, Journeys International, Enchanting Travels, Totally Latin America) and YouTube videos by other creators that merely use #latinamericatravel as a hashtag - none of that content belongs to this handle and none was extracted. The account's Instagram profile page itself could not be fetched (Instagram requires login), and no bio-link website, blog, or guides page for this handle surfaced in search. Recommend treating this handle as a repost/aggregator account in the pilot."
+ },
+ {
+  "handle": "@lindsaypaigestein",
+  "name": "Lindsay Paige Stein",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. She is a freelance travel writer/PR creator; a TikTok post mentions North and South Island New Zealand itineraries, but no exact retrievable source URL was available, so nothing was extracted."
+ },
+ {
+  "handle": "@lu_madeline",
+  "name": "Madeline",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. Madeline posts family travel tips highlighting hotels, foods and experiences, but no structured day plans or trip-tied guides surfaced."
+ },
+ {
+  "handle": "@madelinestraveling",
+  "name": "Maddy",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found attributable to this handle. Search results surfaced itineraries from other creators named Madeline, none tied to @madelinestraveling."
+ },
+ {
+  "handle": "@madlennaa2",
+  "name": "Madlenna",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No structured itinerary found. No matching creator-authored itinerary content surfaced for this handle."
+ },
+ {
+  "handle": "@marcoegius",
+  "name": "Marco and Gius",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Real account verified (Marco & Gius, couples travel duo; listed by EF GO Blog as a couple that has visited 40+ countries). Content is cinematic travel reels; no named day-by-day itineraries, 'X days in Y' guides, or structured trip plans found on TikTok or the open web. Search results for itinerary-style content returned other creators (e.g. @marco.miglionico_, @rs_travelss), not @marcoegius. No extractable itinerary."
+ },
+ {
+  "handle": "@maxmilespoints",
+  "name": "Max Miles Points",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Real account verified (@maxmilespoints, covered by AFAR, Explore, Dinogo as a points-and-miles educator). His content is tutorials on using travel credit cards/points for free or discounted flights and hotels, plus flight/hotel deals, points tools, and lounge openings - not destination itineraries. A 2023 podcast mentions an 'around the world trip using just credit card points,' but no day-by-day route, destinations, hotels, or activities were published as an itinerary. No extractable itinerary."
+ },
+ {
+  "handle": "@terrilyne",
+  "name": "Terri Lyne",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Terri Lyne (~189K followers) is a national park explorer and nature photographer. Web searches surfaced only listicle mentions and nature-photography content; no guides, itineraries, day-by-day plans or named-trip posts were found. Social-search attempts timed out (infra error). Recording zero itineraries rather than forcing one."
+ },
+ {
+  "handle": "@thegermantravelguy",
+  "name": "German Travel Guy",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No extractable itinerary found. His official site (thegermantravelguy.com) is a media kit / brand page with no travel guides or day-by-day plans. His output is country-by-country TikTok/YouTube videos (no destination structure), German-language books (Billig Reisen, Jonglieren wie ein Profi, Nordkorea und andere Traumziele), and a budgeting podcast episode - none is a named trip/plan with destination and structure. His group-tour brand Every Country Tours (everycountrytours.com) could not be fetched for itinerary detail. Not forcing an itinerary per the honesty rule."
+ },
+ {
+  "handle": "@thesolosociety",
+  "name": "The Solo Society",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "@thesolosociety (The Solo Society, ~145K followers) is a solo-travel COMMUNITY account focused on group travel content, community inspiration, events and safety guidance \u2014 not personal trip itineraries. Web and social searches found no day-by-day itineraries, travel guides, hotel/activity recommendations tied to a trip, or linked blog with itineraries. Per the honesty rules, no itinerary was forced. If itinerary content exists, it is not publicly extractable."
+ },
+ {
+  "handle": "@thexblondex",
+  "name": "Kaylah Burton",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No extractable itinerary content found. Web search surfaced no blog, guide site, or link-in-bio with trip plans for this handle; Instagram social search returned no itinerary-style posts. The account appears to be a beach-photo account with no structured trip/guide content. Recorded zero itineraries rather than forcing one."
+ },
+ {
+  "handle": "@travelwithpat",
+  "name": "Travel with Pat",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Points-and-miles creator (beginner credit-card comparisons, annual fees/bonuses/transfer partners, airport-lounge access tips). Covered by AFAR, Elite Daily, dinogo as an advice account, not a destination-trip planner. No named trips, day-by-day plans, or hotel/restaurant/activity recommendations tied to a trip found in any source. Nothing extractable as an itinerary, so none recorded. Sources checked: AFAR '9 TikTok Accounts Giving Smart, Useful Travel Advice' (https://www.afar.com/magazine/9-tiktok-accounts-giving-smart-useful-travel-advice), Elite Daily airport-lounge hacks (https://www.elitedaily.com/lifestyle/free-airport-lounge-access-tiktok-travel-hack), dinogo creator roundup (https://dinogo.com/blog/travel/9-tiktok-creators-we-trust-for-top-travel-tips-and-hacks-dinogo). Note: searches also surfaced unrelated accounts (@megsandpat Oman/Banff itineraries, @marco.miglionico_ Patagonia) \u2014 not this creator."
+ },
+ {
+  "handle": "@uzma.mahbub",
+  "name": "Uzma",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "London-based travel creator (luxury/lifestyle, stunning landscapes, travel recommendations). EF GO Blog lists her as an inspo account ('journeys around the globe feature stunning landscapes and travel recommendations'); airial.travel references her viral Nerja Tuesday Market video (287.4K likes). No named destination guides, day-by-day itineraries, or structured trip plans with hotels/restaurants/activities found. Content is inspiration/recommendations, not itineraries, so none recorded. Sources checked: EF GO Blog '5 TikTok accounts to follow for travel inspo' (https://www.ef.com/wwen/blog/language/tiktok-travel-inspo/), airial.travel Nerja Tuesday Market guide (https://airial.travel/attractions/spain/nerja/nerja-tuesday-market-Y--zhTF0). Her viral Nerja video is a single-spot market showcase, not an itinerary."
+ },
+ {
+  "handle": "@vanlifeeurope",
+  "name": "Vanlife Europe",
+  "platform": "instagram",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "No extractable itinerary content found. Web and Instagram social searches found no itineraries authored by this account - results were about other creators' vanlife videos. The account appears to be a vanlife feature/community account rather than an original itinerary creator, and no van-life route plans with structure were found. Recorded zero itineraries rather than forcing one."
+ },
+ {
+  "handle": "@wilderness_addict",
+  "name": "Caroline Foster",
+  "platform": "tiktok",
+  "search_date": "2026-09-15",
+  "researcher": "original-extraction",
+  "record_type": "original extraction record. Per-creator query terms were NOT recorded. Documented method (EXTRACTION_BRIEF.md, 2026-09-15): web search '<handle> itinerary/guide keywords', bio link (Linktree/beacons/blog) check of 1-3 most itinerary-like pages, social.search for the handle. Standard query patterns from the brief: '\"@handle itinerary\"', '\"@handle\" \"7 day\" Japan', '\"@handle\" travel guide'.",
+  "quarantined": false,
+  "queries_run": [
+   "not recorded per creator (see record_type)"
+  ],
+  "pages_checked": [],
+  "outcome": "NO_ITINERARY_FOUND",
+  "extraction": null,
+  "notes": "Caroline Foster, nature/outdoor photographer (later.com cites 816K followers; task CSV says unknown \u2014 left unchanged per brief). Content is scenic inspiration (Iceland, Banff, snow landscapes) with 'practical tips on outdoor travel and capturing nature's beauty' per later.com, and Contiki notes she encourages exploring your own backyard. No named destination guides, day-by-day itineraries, or structured trip plans found \u2014 inspiration clips, not itineraries, so none recorded. Sources checked: Later 'Top 15 Travel Influencers 2025' (https://later.com/blog/top-travel-influencers/), Contiki 'Inspiring women travelers to follow on TikTok' (https://www.contiki.com/six-two/article/inspiring-women-travelers-on-tiktok/), Elite Daily profile (https://nc.elitedaily.com/news/caroline-fosters-wilderness_addict-instagram-account-is-a-wanderlust-dream-22955472)."
+ }
+]

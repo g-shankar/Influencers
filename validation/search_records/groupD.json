@@ -1,0 +1,359 @@
+[
+ {
+  "extraction": {
+   "country": "United States",
+   "destination": "Oregon to California coastal road trip: Portland, Oregon to Sacramento, California",
+   "duration_days": 4,
+   "places": [
+    {
+     "details": "First stop; dog-friendly dunes/beach.",
+     "name": "Florence Dunes"
+    },
+    {
+     "details": "Hiking, campground, water fill and dump station.",
+     "name": "Humbug Mountain State Park"
+    },
+    {
+     "details": "Picnic areas, beach parking; lunch/yoga stop.",
+     "name": "Arizona Beach State Recreation Site"
+    },
+    {
+     "details": "Their usual first stop once in California.",
+     "name": "Eureka Natural Foods"
+    },
+    {
+     "details": "Overnight parking; coastal trail/views.",
+     "name": "Bruhel Point"
+    },
+    {
+     "details": "Trails and scenic walk.",
+     "name": "Jug Handle State Natural Reserve"
+    },
+    {
+     "details": "Neighborhood walk; Corners of the Mouth; Good Life Cafe.",
+     "name": "Mendocino"
+    },
+    {
+     "details": "Scenery; dinner and sunset.",
+     "name": "Point Arena Lighthouse"
+    }
+   ],
+   "source_url": "https://www.courtandnate.com/blog/oregon-to-california",
+   "title": "Oregon to California Costal Road Trip"
+  },
+  "handle": "@courtandnate",
+  "name": "Courtnie and Nate",
+  "notes": "Profile and source page were directly inspected during this 2026-09-16 re-search (TikTok bio confirms Courtnie and Nate as van dwellers living and working on the road). The road trip page names the trip, states an explicit four-day duration, and lists structured favorite stops tied to the trip, so it meets the itinerary definition. No day-by-day assignment is given in the source, so place day values are null rather than invented. Not quarantined because the required profile/bio-link check and source inspection were completed.",
+  "outcome": "ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@courtandnate",
+    "what_it_contained": "TikTok profile successfully opened. Bio: van dwellers & builders / living & working on the road / this is a highlight reel. Bio link: https://m.youtube.com/courtandnate1."
+   },
+   {
+    "url": "https://www.courtandnate.com/blog/oregon-to-california",
+    "what_it_contained": "Named trip 'Oregon to California Costal Road Trip', Portland OR to Sacramento CA, explicit four-day duration, and structured favorite stops tied to the road trip (Florence Dunes; Humbug Mountain State Park; Arizona Beach State Recreation Site; Eureka Natural Foods; Bruhel Point; Jug Handle State Natural Reserve; Mendocino; Point Arena Lighthouse). Used as the extraction source."
+   },
+   {
+    "url": "https://www.courtandnate.com/blog/hole-in-the-rock-road-and-reflection-canyon",
+    "what_it_contained": "Another trip-style blog post found in search results; supplementary evidence of trip write-ups."
+   },
+   {
+    "url": "https://www.courtandnate.com/blog/our-guide-to-portland",
+    "what_it_contained": "City guide post found in search results ('Our Guide to Portland')."
+   },
+   {
+    "url": "https://www.courtandnate.com/home",
+    "what_it_contained": "Creator homepage found in search results."
+   },
+   {
+    "url": "https://www.courtandnate.com/blog",
+    "what_it_contained": "Creator blog index found in search results."
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@courtandnate\" itinerary",
+   "\"@courtandnate\" travel guide",
+   "Courtnie and Nate itinerary",
+   "Courtnie and Nate travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchD",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@danidboyy1",
+  "name": "Danielle",
+  "notes": "UK flight attendant based in Dubai; search results cover her cabin-crew content, packing and travel tips, and uniform facts, but no named destination trip/plan with structure was found. Direct profile/bio-link inspection could not be completed: opening https://www.tiktok.com/@danidboyy1 failed and further browser_open calls were prohibited for this turn. Record remains quarantined. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag where profile inspection was impossible; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Inspection limits remain recorded in notes.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@danidboyy1",
+    "what_it_contained": "Direct profile/bio-link inspection could not be completed: opening this URL failed, and further browser_open calls were prohibited for this turn, so bio and bio link were not checked."
+   },
+   {
+    "url": "https://www.afar.com/magazine/9-tiktok-accounts-giving-smart-useful-travel-advice",
+    "what_it_contained": "Identifies Danielle/@danidboyy1 as a UK flight attendant based in Dubai posting cabin-crew information and travel tips; not a structured trip/itinerary."
+   },
+   {
+    "url": "https://news.repithwin.com/im-a-flight-attendanttheres-a-travel-essential-you-should-never-go-without-i-sleep-so-much-easier-knowing-its-there/",
+    "what_it_contained": "Portable lock, AirTag, suitcase and adapter recommendations; general product/travel tips, not a destination trip."
+   },
+   {
+    "url": "https://www.escape.com.au/news/flight-attendant-reveals-what-you-should-never-do-on-a-plane/news-story/743a40d623e97c899c821335c6546354",
+    "what_it_contained": "General airplane hygiene/safety tips; not an itinerary."
+   },
+   {
+    "url": "https://besttraveltale.com/travel/emirates-flight-attend-lists-the-secrets-behind-her-classy-and-elegan/",
+    "what_it_contained": "Emirates uniform facts; not an itinerary."
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@danidboyy1\" itinerary",
+   "\"@danidboyy1\" travel guide",
+   "Danielle Emirates flight attendant danidboyy1 itinerary travel tips blog",
+   "danidboyy1 Emirates cabin crew Dubai based",
+   "\"danidboyy1\" Danielle Dubai travel"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchD",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@danmaniel",
+  "name": "Daniel Young",
+  "notes": "Daniel Young/@danmaniel is a school-bus conversion / van-life creator; search results document his bus build and how he finds overnight parking spots, but no named destination trip/plan with structure was found. The YouTube overnight-parking video covers a single-location sleeping guide with coordinates, not a structured multi-stop trip. Unrelated Daniel/Danmaniel matches were excluded. Direct profile/bio-link inspection could not be completed because further browser_open calls were prohibited for this turn. Record remains quarantined. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag where profile inspection was impossible; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Inspection limits remain recorded in notes.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@danmaniel",
+    "what_it_contained": "Direct profile/bio-link inspection could not be completed: profile was not opened (further browser_open calls were prohibited for this turn after the earlier TikTok page-open failure)."
+   },
+   {
+    "url": "https://izea.com/resources/top-van-life-influencers/amp/",
+    "what_it_contained": "Identifies Daniel Young/@danmaniel as a school-bus conversion creator documenting travel; no structured trip/itinerary."
+   },
+   {
+    "url": "https://www.covertree.com/mobile-home-influencers-and-the-vanlife-movement/",
+    "what_it_contained": "Bus-conversion instructions and van-life description; no itinerary."
+   },
+   {
+    "url": "https://www.youtube.com/watch?v=XzGhuVVGLKw",
+    "what_it_contained": "'How I Find Places to Sleep Living in a School Bus' - one overnight-parking guide with coordinates; not a named structured destination trip."
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@danmaniel\" itinerary",
+   "\"@danmaniel\" travel guide",
+   "Daniel Young danmaniel school bus itinerary travel",
+   "Daniel Young travel guide blog danmaniel"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchD",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@dinasarraj",
+  "name": "Dina Sarraj",
+  "notes": "Search surfaced only two single TikTok captions (Monet's house in Giverny; a Monaco hotel) plus a niche description (luxury hotels and slow travel) - each caption is a single video/recommendation and is excluded by the definition ('a single video caption is NOT an itinerary'). No named trip/plan with structure was found. Generic Dina/Palestine/Oman results were unrelated and not attributed. Direct profile/bio-link inspection could not be completed because further browser_open calls were prohibited for this turn. Record remains quarantined. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag where profile inspection was impossible; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Inspection limits remain recorded in notes.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@dinasarraj",
+    "what_it_contained": "Direct profile/bio-link inspection could not be completed: profile was not opened (further browser_open calls were prohibited for this turn after the earlier TikTok page-open failure)."
+   },
+   {
+    "url": "https://www.airial.travel/attractions/france/giverny/rue-claude-monet-giverny-wAhHectI",
+    "what_it_contained": "One Dina Sarraj TikTok caption about Monet's house in Giverny - a single attraction/video caption, excluded by definition."
+   },
+   {
+    "url": "https://www.airial.travel/attractions/monaco/monaco/thermes-marins-monte-carlo-MP3-lrV8",
+    "what_it_contained": "One Dina Sarraj TikTok caption about a Monaco hotel - a single recommendation, not a trip itinerary."
+   },
+   {
+    "url": "https://Lefty.io/blog/top-travel-tiktok-influencers-2025",
+    "what_it_contained": "Describes her niche as luxury hotels and slow travel; no structured itinerary."
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@dinasarraj\" itinerary",
+   "\"@dinasarraj\" travel guide",
+   "Dina Sarraj dinasarraj travel guide blog itinerary",
+   "Dina Sarraj itinerary"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchD",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@emmaexpedition",
+  "name": "Emma Kulkarni",
+  "notes": "Emma/@emmaexpedition is an Arizona/Southwest-US-based wildlife photographer and nature creator. Her site's journal ('Postmarked Wild') is trip reports and field notes; her spin-off site The Survey Party advertises field guides of vetted operators and occasional small-group trips, but both the field guide and the group trips were marked 'coming soon' on 2026-09-16, so no named, structured itinerary could be extracted. Direct TikTok profile/bio-link inspection could not be completed because further browser_open calls were prohibited for this turn. Record remains quarantined. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag where profile inspection was impossible; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Inspection limits remain recorded in notes.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@emmaexpedition",
+    "what_it_contained": "Direct profile/bio-link inspection could not be completed: profile was not opened (further browser_open calls were prohibited for this turn after the earlier TikTok page-open failure)."
+   },
+   {
+    "url": "https://thesurveyparty.emmaexpedition.com/",
+    "what_it_contained": "The Survey Party home page (successfully opened): field guides of vetted operators and occasional small-group expeditions, but both the field guide ('view the field guide') and the group trips section show 'coming soon'. No named itinerary with extractable structure."
+   },
+   {
+    "url": "https://emmaexpedition.com/",
+    "what_it_contained": "Creator's own site: wildlife photography, 'Postmarked Wild' trip reports/field notes, conservation stories and intentional travel; no structured named itinerary exposed."
+   },
+   {
+    "url": "https://www.elonedge.com/blog/2022/4/22/travel-tiktokers-you-need-to-follow-right-now",
+    "what_it_contained": "Describes her West Coast landscape/wildlife content; no itinerary."
+   },
+   {
+    "url": "https://www.tooperfectpr.com/best-tiktok-travel-vloggers-around-the-world/",
+    "what_it_contained": "Identifies Emma Kulkarni and describes her Namibia/Utah nature content; no itinerary."
+   },
+   {
+    "url": "https://izea.com/resources/tiktok-travel-influencers/amp/",
+    "what_it_contained": "Describes her Arizona, Utah and Namibia content; no structured plan."
+   },
+   {
+    "url": "https://www.getkobe.com/blog/travel-tiktokers/",
+    "what_it_contained": "Creator profile and landscape inspiration; no itinerary."
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@emmaexpedition\" itinerary",
+   "\"@emmaexpedition\" travel guide tiktok",
+   "Emma Kulkarni emmaexpedition itinerary blog",
+   "emmaexpedition Emma Kulkarni photographer"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchD",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@erikakullberg",
+  "name": "Erika Kullberg",
+  "notes": "Erika Kullberg is a personal-finance/consumer-rights creator whose travel content is flight-rights and money-saving tips, not destination itineraries: her Japan content is a five-tips video (JPY, eSIM, SUICA, bullet-train seat, Tabelog) - a single video/tip list, excluded by definition; her sites cover general family-travel planning advice and airfare tactics, not named trips. No qualifying itinerary found. Unrelated Erika travel-blog and Stockholm results were not attributed. Direct profile/bio-link inspection could not be completed because further browser_open calls were prohibited for this turn. Record remains quarantined. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag where profile inspection was impossible; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Inspection limits remain recorded in notes.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@erikakullberg",
+    "what_it_contained": "Direct profile/bio-link inspection could not be completed: profile was not opened (further browser_open calls were prohibited for this turn after the earlier TikTok page-open failure)."
+   },
+   {
+    "url": "https://www.tiktok.com/@erikakullberg/video/7523222079223745800",
+    "what_it_contained": "Search snippet of her Japan travel tips video (pay in JPY, eSIM, SUICA, bullet-train seat, Tabelog) - a single video/tip list, not an itinerary."
+   },
+   {
+    "url": "https://www.tiktok.com/@erikakullberg/video/7454307439832288518",
+    "what_it_contained": "Search snippet promoting a free airline fine-print/travel-hacks guide; no destination itinerary."
+   },
+   {
+    "url": "https://erika.com/guide-to-planning-family-travel/",
+    "what_it_contained": "General family-travel planning and pacing advice; not a named trip."
+   },
+   {
+    "url": "https://erika.com/cheap-last-minute-flights/",
+    "what_it_contained": "General airfare tactics; not an itinerary."
+   },
+   {
+    "url": "https://dinogo.com/blog/travel/9-tiktok-creators-we-trust-for-top-travel-tips-and-hacks-dinogo",
+    "what_it_contained": "Creator profile emphasizing flight-rights and money-saving tips; no itinerary."
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@erikakullberg\" itinerary",
+   "\"@erikakullberg\" travel guide blog",
+   "Erika Kullberg itinerary travel plans trip",
+   "Erika Kullberg travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchD",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@footluce",
+  "name": "Lucy Josephs",
+  "notes": "Lucy Josephs/@footluce is a UK solo/budget travel TikTok creator with SE Asia and Australia expertise. Her brand-ambassador page describes full-time travel and a planned Sydney group trip, and names regions (Melbourne, Australia's East Coast, Great Barrier Reef, Whitsundays), but provides no structured day plan or named itinerary with detail. No other qualifying itinerary was found in four queries. absolutelylucy.com (Lucy), On the Luce, Foot Luce Walking Tours (Ken and Leah), and other Lucy/Luce results are different creators and were not attributed. Direct profile/bio-link inspection could not be completed because further browser_open calls were prohibited for this turn. Record remains quarantined. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag where profile inspection was impossible; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Inspection limits remain recorded in notes.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@footluce",
+    "what_it_contained": "Direct profile/bio-link inspection could not be completed: profile was not opened (further browser_open calls were prohibited for this turn after the earlier TikTok page-open failure)."
+   },
+   {
+    "url": "https://welcometo.travel/brand-ambassador/footluce/",
+    "what_it_contained": "Brand-ambassador creator page: describes full-time travel and a planned Sydney group trip; mentions Melbourne, Australia's East Coast, Great Barrier Reef and Whitsundays, but gives no structured day plan or sufficiently detailed named itinerary."
+   },
+   {
+    "url": "https://www.thewomenachiever.com/top-10-women-travel-influencers-you-should-follow-now/",
+    "what_it_contained": "Describes Lucy/Footluce as a solo and budget traveler with Southeast Asia advice; no itinerary."
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@footluce\" itinerary",
+   "\"@footluce\" travel guide",
+   "Lucy Josephs footluce itinerary travel blog",
+   "Lucy Josephs footluce TikTok solo travel"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchD",
+  "search_date": "2026-09-16"
+ },
+ {
+  "extraction": null,
+  "handle": "@heyshetravels",
+  "name": "Maria",
+  "notes": "Maria/@heyshetravels is a British Columbia-based outdoor adventure creator (hiking, kayaking, ziplining). The layla.ai trip pages that mention her are third-party AI-generated planners referencing her videos ('if you are here from the reels feed follow @heyshetravels for more') - they are not her own published itineraries. No named trip/plan with structure authored by her was found. Unrelated Maria/heyshetravels results (Tripadvisor profiles, heatheronhertravels, heytraveler) were not attributed. Direct profile/bio-link inspection could not be completed because further browser_open calls were prohibited for this turn. Record remains quarantined. [Coordinator correction 2026-09-16: researcher set quarantined:true as a fail-closed flag where profile inspection was impossible; corrected to false \u2014 this handle is NOT in validation/quarantine.json. Inspection limits remain recorded in notes.]",
+  "outcome": "NO_ITINERARY_FOUND",
+  "pages_checked": [
+   {
+    "url": "https://www.tiktok.com/@heyshetravels",
+    "what_it_contained": "Direct profile/bio-link inspection could not be completed: profile was not opened (further browser_open calls were prohibited for this turn after the earlier TikTok page-open failure)."
+   },
+   {
+    "url": "https://www.ef.com/wwen/blog/language/tiktok-travel-inspo/",
+    "what_it_contained": "EF GO blog: 'Maria @heyshetravels - Based in British Columbia, Maria showcases the very best of her outdoor adventures and travel. Her account shares her passion for the natural beauty of the planet as she hikes, kayaks and even ziplines the globe.' Identity confirmation; no itinerary."
+   },
+   {
+    "url": "https://layla.ai/trip/9-day-canadian-adventure%3A-vancouver-to-niagara/01JTXN3EKJPRMZKBYXVYWSCFR5",
+    "what_it_contained": "Third-party AI trip planner page that references @heyshetravels videos as a content source; not her own published itinerary."
+   },
+   {
+    "url": "https://layla.ai/trip/adventure-awaits-in-pokhara!/01JAN677M18XE9PFCS0Z22X3MR",
+    "what_it_contained": "Third-party AI trip planner page referencing her Nepal video; not her own published itinerary."
+   }
+  ],
+  "platform": "tiktok",
+  "quarantined": false,
+  "queries_run": [
+   "\"@heyshetravels\" itinerary",
+   "\"@heyshetravels\" travel guide",
+   "Maria heyshetravels itinerary British Columbia",
+   "Maria heyshetravels travel guide blog"
+  ],
+  "record_type": "re-search (original 2026-09-15 per-creator search not recorded; this record does not reproduce it)",
+  "researcher": "searchD",
+  "search_date": "2026-09-16"
+ }
+]
