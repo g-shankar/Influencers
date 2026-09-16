@@ -156,3 +156,13 @@ Source-date note: the nine general workers captured source URLs and verbatim sup
 ## New itineraries from the documented 2026-09-16 re-search (coordinator-verified live before loading)
 - @jessicanabongo — 'Georgia Trip - Food & Wine small-group trip (Sept 27 - Oct 2, 2024)', 6 days, 13 items, high confidence. Source: https://www.jessicanabongo.com/georgia-trip (fetched live 2026-09-16; day-by-day schedule on her own site). Final DB id 16.
 - @courtandnate — 'Oregon to California Costal Road Trip', 4 days, 8 items, high confidence. Source: https://www.courtandnate.com/blog/oregon-to-california (fetched live 2026-09-16; named road-trip post, 'our 4 day road trip', 8 stops). Final DB id 65.
+
+## Addendum 2026-09-16 — Portugal sources recheck (id 57, @wildweroam)
+
+An external recheck flagged the two Portugal sources as unreachable. Investigated rather than auto-declared dead:
+
+- `https://www.wildweroam.com/blog/2017/11/28/portugal` → 301 → `https://www.danaandlou.com/blog/2017/11/28/portugal` → **404**
+- `https://www.wildweroam.com/blog/2018/09/27/camping-on-berlengas` → 301 → `https://www.danaandlou.com/blog/2018/09/27/camping-on-berlengas` → **404**
+- The blog has rebranded from wildweroam.com to danaandlou.com and the old post paths no longer resolve. No archived copy was retrievable at recheck time.
+
+Disposition: the itinerary is **kept, not excluded**. Its claims were verified against the live pages on 2026-09-16 with supporting passages captured in `verification_log_full.json` — that dated evidence is the verification record. Sources are marked unreachable-as-of-2026-09-16-recheck due to the site rebrand, not due to failed verification.

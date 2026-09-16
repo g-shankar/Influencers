@@ -42,3 +42,6 @@ Pick one, against the success criteria from Step 1:
 
 ## Out of scope — no approval yet
 No real bookings, no creator outreach, no paid test spend, no partnership signatures, no public offers. Each of those needs his explicit go-ahead when its step arrives.
+
+## Known pipeline limitation — scaling to 1,000 (flagged 2026-09-16)
+`load_db.py` is fail-closed for the pilot: it requires exactly 100 rows in `influencers.csv` and reads `staging/itineraries_batch[1-4].json`. The extraction pipeline was run as four batches of 25. Scaling to 1,000 creators requires generalizing the loader (configurable creator count, N batch files) and the extraction batching — tracked here, not yet implemented.
