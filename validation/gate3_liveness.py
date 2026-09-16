@@ -67,12 +67,28 @@ def main():
             results[url] = {"status": status, "error": err,
                             "reachable": status is not None and 200 <= status < 400}
 
-    errors, warnings = [], []
+    errors, warnings, overridden = [], [], []
     dead_itins = []
+    overrides = {}
+    ovf = REPORTS / "gate3_override_evidence.json"
+    if ovf.exists():
+        odata = json.loads(ovf.read_text(encoding="utf-8"))
+        for o in odata.get("overrides", []):
+            overrides[(o["batch"], o["handle"], o["title"])] = o.get("verified_urls", [])
     for n, handle, title, us in itineraries:
         live = [u for u in us if results.get(u, {}).get("reachable")]
         dead = [u for u in us if not results.get(u, {}).get("reachable")]
         if not live:
+            ov = overrides.get((n, handle, title), [])
+            ov_urls = {e["url"] for e in ov}
+            if ov and ov_urls.issubset(set(us)):
+                overridden.append({
+                    "batch": n, "handle": handle, "title": title,
+                    "verified_by_manual_browser_fetch": sorted(ov_urls),
+                    "script_statuses": {u: results.get(u, {}).get("status") for u in us},
+                    "evidence_file": "validation/reports/gate3_override_evidence.json",
+                })
+                continue
             dead_itins.append({"batch": n, "handle": handle, "title": title, "urls": us})
             errors.append(f"batch{n} {handle} '{title}': zero reachable sources")
         elif dead:
@@ -88,6 +104,7 @@ def main():
         "urls_checked": len(urls),
         "urls_reachable": sum(1 for r in results.values() if r["reachable"]),
         "dead_itineraries": dead_itins,
+        "overridden_script_false_negatives": overridden,
         "url_results": results,
         "errors": errors,
         "warnings": warnings,

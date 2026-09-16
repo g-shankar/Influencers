@@ -28,6 +28,41 @@
       "platform": "tiktok",
       "reason": "Possible source-list typo ('harrison'?). Re-verify against the source publication before use.",
       "status": "quarantined"
+    },
+    {
+      "handle": "@nastasiawong",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@nomadicmovement",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@oceanwanderer",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@rachid_dahnoun",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: Morocco itineraries found belong to a same-named tour operator, not this creator. Do not attribute operator content to the creator.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@sidewalkerdaily",
+      "platform": "tiktok",
+      "reason": "Flagged by batch-4 extraction: influencer-marketing consultancy, not a travel creator. Exclude from itinerary attribution unless re-verified.",
+      "status": "quarantined",
+      "added": "2026-09-15"
     }
   ],
   "manual_checklist": [
@@ -48,6 +83,36 @@
       "platform": "tiktok",
       "reason": "Possible source-list typo ('harrison'?). Re-verify against the source publication before use.",
       "check_url": "https://www.tiktok.com/marklharriosn"
+    },
+    {
+      "handle": "@nastasiawong",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "check_url": "https://www.instagram.com/nastasiawong"
+    },
+    {
+      "handle": "@nomadicmovement",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "check_url": "https://www.instagram.com/nomadicmovement"
+    },
+    {
+      "handle": "@oceanwanderer",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "check_url": "https://www.instagram.com/oceanwanderer"
+    },
+    {
+      "handle": "@rachid_dahnoun",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: Morocco itineraries found belong to a same-named tour operator, not this creator. Do not attribute operator content to the creator.",
+      "check_url": "https://www.instagram.com/rachid_dahnoun"
+    },
+    {
+      "handle": "@sidewalkerdaily",
+      "platform": "tiktok",
+      "reason": "Flagged by batch-4 extraction: influencer-marketing consultancy, not a travel creator. Exclude from itinerary attribution unless re-verified.",
+      "check_url": "https://www.tiktok.com/sidewalkerdaily"
     }
   ],
   "errors": [],

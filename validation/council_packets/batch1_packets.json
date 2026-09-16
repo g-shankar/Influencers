@@ -1,0 +1,671 @@
+[
+  {
+    "batch": 1,
+    "handle": "@girlvsglobe",
+    "title": "Things To Do in Segovia in 48 Hours",
+    "destination": "Segovia, Spain",
+    "days": 2,
+    "confidence": "high",
+    "source_urls": [
+      "https://girlvsglobe.com/things-to-do-in-segovia-48-hours/"
+    ],
+    "items": [
+      {
+        "name": "Segovia Cathedral",
+        "day": 1,
+        "location": "Segovia",
+        "details": "Start at the last Gothic cathedral built in Spain; Flemish tapestries, marble statues",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "La Almuzara",
+        "day": 1,
+        "location": "Segovia",
+        "details": "Artsy vegan-friendly cafe next to the Cathedral; she recommends guacamole with chips and the grapefruit and avocado salad. Alternative for cochinillo: Meson de Candido",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Alcazar of Segovia",
+        "day": 1,
+        "location": "Segovia",
+        "details": "World Heritage Site, supposed inspiration for Disney's Cinderella Castle; Hall of Kings frieze; viewpoint walk to Mirador de la Pradera de San Marcos",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Church of Vera Cruz",
+        "day": 1,
+        "location": "Segovia",
+        "details": "Consecrated 1208, built by the Knights Templar; secluded Romanesque church",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Casa de la Moneda Museum",
+        "day": 1,
+        "location": "Segovia",
+        "details": "Museo Casa de la Moneda - history of money and the Spanish Royal Mint's machinery; nearby Jardines Del Rey for a short walk",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Parador de Segovia",
+        "day": 1,
+        "location": "Segovia",
+        "details": "Dinner on the hotel terrace with sunset views over the city; full meal or a glass of local red wine. She provides a 2km walking map for the day",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "La Granja de San Ildefonso",
+        "day": 2,
+        "location": "Near Segovia",
+        "details": "Day 2: hire a car or taxi. Philip V's Versailles-modelled palace in the hills; remarkable interiors, 26 fountains incl. the Baths of Diana; gardens free to walk",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "La Huerta De San Lorenzo",
+        "day": 2,
+        "location": "Segovia",
+        "details": "Hidden-gem restaurant: sustainably produced vegetables farmed on site, organic wine; overnight rooms upstairs",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Aqueduct of Segovia",
+        "day": 2,
+        "location": "Segovia",
+        "details": "2000-year-old Roman aqueduct, mortar-free stones, in use until mid-19th century; Loba Capitolina sculpture in front",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Jewish Quarter (La Juderia)",
+        "day": 2,
+        "location": "Segovia",
+        "details": "One of Castile's richest former Jewish quarters; Corpus Christi Convent (former Main Synagogue)",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "El Fogon Sefardi",
+        "day": 2,
+        "location": "Segovia",
+        "details": "Traditional Sephardic dishes with local Castilian influence in the Jewish Quarter; alternative: touristy creperie on Plaza del Azoguejo with aqueduct views",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Madrid train",
+        "day": null,
+        "location": "Madrid to Segovia",
+        "details": "Fly to Madrid then 30-minute train to Segovia; she recommends a full weekend over a day trip",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 1,
+    "handle": "@girlvsglobe",
+    "title": "11 Things To Do In Menorca",
+    "destination": "Menorca, Balearic Islands",
+    "days": null,
+    "confidence": "medium",
+    "source_urls": [
+      "https://girlvsglobe.com/things-to-do-in-menorca/"
+    ],
+    "items": [
+      {
+        "name": "Mahon",
+        "day": null,
+        "location": "Menorca",
+        "details": "Menorca's capital; Sant Jaume Festival July 24-26 (live music, fireworks, horses); try Xoriguer gin and pomada; her favorite drink spot was Bar Lemon",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Mahon Harbour + Isla del Lazareto",
+        "day": null,
+        "location": "Menorca",
+        "details": "Explore by boat; she liked the glass-bottomed boats from Yellow Catamarans; boat to Isla del Lazareto (19th-century quarantine island) with sunset views over the harbour",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Playa de Cavalleria",
+        "day": null,
+        "location": "Menorca",
+        "details": "Natural beach on the north coast, ~10-min walk from free car park; no shops - bring water and snacks",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Binidali",
+        "day": null,
+        "location": "Menorca",
+        "details": "Small quiet beach with aquamarine water and a beach bar above; nearby Cala Biniparratx for limestone gorge and sheltered cove",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Ciutadella",
+        "day": null,
+        "location": "Menorca",
+        "details": "Her favorite town on the island; romantic side streets and port; try an ensaimada pastry; boutique hotels",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Binibeca",
+        "day": null,
+        "location": "Menorca",
+        "details": "1972 architect-designed 'fishermen's village' - white facades, cobbled streets, authentic look",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "El Toro",
+        "day": null,
+        "location": "Menorca",
+        "details": "Menorca's tallest hill (342m) with island-wide views; Sanctuary of the Verge del Toro and Christ statue on top",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "S'Algar / Cala Alcaufar",
+        "day": null,
+        "location": "Menorca",
+        "details": "Purpose-built resort but peaceful Cala Alcaufar beach with one bar/restaurant; rock formations; good for sunset",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Binifadet Winery",
+        "day": null,
+        "location": "Menorca",
+        "details": "Free guided winery tour, vineyards, wine on the porch; unpretentious local cuisine (sobrasada, fish marinated in Xoriguer gin)",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Cova d'en Xoroi",
+        "day": null,
+        "location": "Menorca",
+        "details": "Cave bar perched above the sea - her pick for a sundowner",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 1,
+    "handle": "@muradosmann",
+    "title": "Taiwan travel recommendations (Nataly & Murad Osmann)",
+    "destination": "Taiwan",
+    "days": null,
+    "confidence": "medium",
+    "source_urls": [
+      "https://farfetch.com/me/style-guide/destination-style/travelling-to-taiwan-with-nataly-murad-osmann/"
+    ],
+    "items": [
+      {
+        "name": "Toroko National Park",
+        "day": null,
+        "location": "Taiwan",
+        "details": "Recommended by Nataly 'for the ultimate escape into an untouched environment that stands in complete contrast to buzzing Taipei'; article spells it 'Toroko', commonly Taroko",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Fo Guang temple",
+        "day": null,
+        "location": "Taiwan",
+        "details": "Described as one of their favourite temples, decorated by a huge statue of Buddha at its entrance",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Alishan region",
+        "day": null,
+        "location": "Taiwan",
+        "details": "Murad: 'we were quickly enchanted by the mountains and forests of the Alishan region, which truly looks like some sort of fairy-tale'",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Emerald tea plantations and tea houses",
+        "day": null,
+        "location": "Taiwan",
+        "details": "Murad advises paying a visit to the emerald tea plantations 'which I'm sure would rival even the finest of those in India and Sri Lanka'; tea houses host traditional tea ceremonies; they especially liked the ulun variety, fragrant and subtle with a slightly spicy taste",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 1,
+    "handle": "@muradosmann",
+    "title": "Egypt group trip via #FollowMeToTour travel club",
+    "destination": "Egypt",
+    "days": null,
+    "confidence": "low",
+    "source_urls": [
+      "https://www.travelandleisureasia.com/in/people/interview-with-murad-and-nataly-osmann-of-followmeto-series/"
+    ],
+    "items": [
+      {
+        "name": "Private access to the pyramids and the Sphinx",
+        "day": null,
+        "location": "Egypt",
+        "details": "Arranged as part of their #FollowMeToTour Egypt group trip",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Night tour of an Egyptian museum",
+        "day": null,
+        "location": "Egypt",
+        "details": "Arranged as part of their #FollowMeToTour Egypt group trip",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 1,
+    "handle": "@lostleblanc",
+    "title": "How To Travel Bali – 14 Days in Paradise",
+    "destination": "Bali",
+    "days": 12,
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.nomadicnews.com/lost-leblanc/"
+    ],
+    "items": [
+      {
+        "name": "Canggu",
+        "day": null,
+        "location": "Bali",
+        "details": null,
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Berawa Beach",
+        "day": null,
+        "location": "Bali",
+        "details": null,
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Uluwatu",
+        "day": null,
+        "location": "Bali",
+        "details": null,
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Ubud",
+        "day": null,
+        "location": "Bali",
+        "details": null,
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Waterfalls",
+        "day": null,
+        "location": "Bali",
+        "details": null,
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Nusa Penida",
+        "day": null,
+        "location": "Bali",
+        "details": "Recommended as a hidden gem off the mainland; more expensive to visit due to remoteness",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Adults-only resorts",
+        "day": null,
+        "location": "Bali",
+        "details": "No specific hotel named in the source",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 1,
+    "handle": "@migrationology",
+    "title": "Ghorepani Poon Hill Trek - Ultimate Guide and Itinerary",
+    "destination": "Annapurna Range (Ghorepani Poon Hill Trek)",
+    "days": 5,
+    "confidence": "high",
+    "source_urls": [
+      "https://migrationology.com/ghorepani-poon-hill-trek-ultimate-guide/"
+    ],
+    "items": [
+      {
+        "name": "Marigold Hotel (Amrit Tours)",
+        "day": 1,
+        "location": "Pokhara",
+        "details": "Mark booked everything through Marigold Hotel/Amrit Tours in Pokhara; arranged permits and a guide ($20/day, 5 days = $100). Rooms around 700 Rupees.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Taxi from Pokhara to Nayapul",
+        "day": 1,
+        "location": "Pokhara",
+        "details": "Started at about 8 am; taxi cost 1,500 Nepali Rupees. Trekking time about 5-6 hours.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Green Land Restaurant",
+        "day": 1,
+        "location": "Near Tikhedunga",
+        "details": "Small house restaurant lunch stop; vegetarian dal bhat for 300 Rupees, all the rice he could eat.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Tikhedunga Guest House",
+        "day": 1,
+        "location": "Tikhedunga",
+        "details": "Double room 350 Rupees; dinner of plain rice (150), stir fried veg noodles (270), tea (50).",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Hike Tikhedunga to Ghorepani",
+        "day": 2,
+        "location": "Ghorepani",
+        "details": "Walked straight up the mountain ~4 hours, glimpses of snow-capped Annapurna peaks; lunch of sukuti (dry buffalo) fried with onions and spices for 400 Rupees; total hiking 7-8 hours.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Dhaulagiri Lodge",
+        "day": 2,
+        "location": "Ghorepani",
+        "details": "Top of the village in the main square area; 300 Rupees room, 100 Rupees hot shower; dinner of vegetable fried rice (260) and milk tea (60).",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Sunrise at Poon Hill summit",
+        "day": 3,
+        "location": "Poon Hill",
+        "details": "5 am climb (45 minutes) to 3,210m summit for sunrise over the Annapurna range; then hiked the parallel ridge down to Gandruk; lunch of vegetarian dal bhat for 360 Rupees; total hiking 10-12 hours.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Muna Hotel",
+        "day": 3,
+        "location": "Gandruk",
+        "details": "350 Rupees per night.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Hike Gandruk to Deurali",
+        "day": 4,
+        "location": "Deurali",
+        "details": "Mostly downhill stone steps through small villages and farms; breakfast of dal baht (360 Rupees); total hiking about 10 hours.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Hotel Trekkers Inn",
+        "day": 4,
+        "location": "Deurali",
+        "details": "Room 350 Rupees; dinner of Tibet bread (140) and omelet with rice (320).",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Hike Deurali to Pothana, taxi to Pokhara",
+        "day": 5,
+        "location": "Pokhara",
+        "details": "About an hour to the permit check town of Pothana, then onward to the Annapurna Eco Village (1,000 Rupees/night, stayed 1 night) before catching a taxi back to Pokhara.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 1,
+    "handle": "@karaandnate",
+    "title": "The Ultimate Guide to Riding the Trans-Siberian Railway (Moscow to Vladivostok)",
+    "destination": "Moscow to Vladivostok, via Irkutsk and Ulan-Ude",
+    "days": 11,
+    "confidence": "medium",
+    "source_urls": [
+      "https://karaandnate.com/the-ultimate-guide-to-riding-the-trans-siberian-railway/"
+    ],
+    "items": [
+      {
+        "name": "Trans-Siberian train: Moscow to Irkutsk",
+        "day": 1,
+        "location": "Russia",
+        "details": "74 hours of non-stop train travel; first leg of the journey. Source also covers visa process, ticket buying, and train-class choices.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Irkutsk - Lake Baikal (Olkhon Island)",
+        "day": 4,
+        "location": "Irkutsk, Russia",
+        "details": "Stopped in Irkutsk for two nights. Main draw is Lake Baikal, the deepest lake in the world; Olkhon Island is the popular overnight island (ferry), but needs at least 3 days total (7h travel each leg), which they wish they'd scheduled.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Train: Irkutsk to Ulan-Ude",
+        "day": 6,
+        "location": "Russia",
+        "details": "Short 6.5 hour ride to the second stop, Ulan-Ude.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Ulan-Ude sightseeing",
+        "day": 6,
+        "location": "Ulan-Ude, Russia",
+        "details": "Stayed two nights, but they say one day is enough: world's largest statue of Lenin's head, main walking street, a church near the end of the walking street, a monastery on a hill overlooking the city, and another monastery 45 minutes outside the city.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Train: Ulan-Ude to Vladivostok",
+        "day": 8,
+        "location": "Russia",
+        "details": "Final leg: another 64 hours of non-stop train travel to Vladivostok. They found no interesting stops between Ulan-Ude and Vladivostok.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Vladivostok stopover",
+        "day": 11,
+        "location": "Vladivostok, Russia",
+        "details": "End of the railway journey; they note their Vladivostok time was cut short by their onward flight needs and would have spent more time there.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Russian visa logistics (pre-trip)",
+        "day": 1,
+        "location": "Russia",
+        "details": "Three-step visa process for US passport holders: letter of invitation (they got one via Fortuna Travel for $12 after VisaHQ quoted $50/person for the letter), visa application (delivered in person to a Russian consulate or via visa service), and visa registration within 7 working days in Russia.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Suggested additional stops: Kazan and Yekaterinburg",
+        "day": 1,
+        "location": "Russia",
+        "details": "Locals in Moscow recommended stopping in Kazan (predominantly Muslim city); they also recommend booking a stop in Yekaterinburg (where the last tsar was executed) for those interested in Russian history.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 1,
+    "handle": "@emmett_sparling",
+    "title": "Visit Borneo: Derawan Islands guide by Emmett Sparling",
+    "destination": "Derawan Islands, Borneo",
+    "days": null,
+    "confidence": "medium",
+    "source_urls": [
+      "https://holrmagazine.com/borneo-emmett-sparling/"
+    ],
+    "items": [
+      {
+        "name": "Boat from Tarakan",
+        "day": null,
+        "location": "Tarakan to Derawan Islands",
+        "details": "5-hour boat ride from Tarakan to reach Derawan Islands, per Sparling's guide",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Derawan Island homestay",
+        "day": null,
+        "location": "Derawan Island",
+        "details": "About six homestays on Derawan Island, all huts on stilts over the water",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Warungs",
+        "day": null,
+        "location": "Derawan Island",
+        "details": "Basic restaurants called Warungs - like an Indonesian Subway; traditional Indonesian food for lunch and dinner",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Jellyfish Lake",
+        "day": null,
+        "location": "Kakaban Island",
+        "details": "2-4 hour speed boat ride from Derawan; swim among millions of harmless jellyfish",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Snorkelling / free diving",
+        "day": null,
+        "location": "Derawan Islands",
+        "details": "Beautiful snorkelling/free-diving spots from Jellyfish Lake to the underwater forest",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Bike around Derawan",
+        "day": null,
+        "location": "Derawan Island",
+        "details": "Rent bikes and ride around Derawan Island in about 30 minutes, stopping at local spots",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Light-beam canyon",
+        "day": null,
+        "location": "Borneo",
+        "details": "Canyon where light beams shine through at certain times of day; ask a local how to reach it",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 1,
+    "handle": "@asiatravel",
+    "title": "Royal Trek - 7 Days",
+    "destination": "Pokhara region",
+    "days": 7,
+    "confidence": "medium",
+    "source_urls": [
+      "https://asiatravel.com.np/Trekking/Royal_Trek_-_7_Days.htm"
+    ],
+    "items": [
+      {
+        "name": "Arrival and hotel transfer",
+        "day": 1,
+        "location": "Kathmandu",
+        "details": "Arrival in Kathmandu (1300m) and transfer to hotel.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Travel to Pokhara",
+        "day": 2,
+        "location": "Kathmandu -> Pokhara",
+        "details": "Fly or drive from Kathmandu to Pokhara (823m); 7-8 hours by road.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Trek Pokhara to Kalikasthan",
+        "day": 3,
+        "location": "Kalikasthan",
+        "details": "Trek from Pokhara to Kalikasthan (1,370m). Full board camping accommodation with three meals a day during the trek; camping crew and logistical support.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Trek to Syaklung",
+        "day": 4,
+        "location": "Syaklung",
+        "details": "Trek route: Kalikasthan - Thulokot - Mathi Thana - Naudanda to Syaklung (1,730m).",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Trek to Chisapani Danda",
+        "day": 5,
+        "location": "Chisapani Danda",
+        "details": "Trek from Syaklung to Chisapani Danda (1550m).",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Trek to Begnas Tal, return to Pokhara",
+        "day": 6,
+        "location": "Begnas Tal -> Pokhara",
+        "details": "Trek from Chisapani to Begnas Tal, then drive back to Pokhara.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Return to Kathmandu",
+        "day": 7,
+        "location": "Pokhara -> Kathmandu",
+        "details": "Drive from Pokhara back to Kathmandu, 7-8 hours. Farewell dinner included in package.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Package inclusions",
+        "day": null,
+        "location": "Nepal",
+        "details": "Package includes: airport pickup/drop-off, 3-star hotel in Kathmandu on B/B plan, land transport, TIMS permit, equipped/insured trekking porter (1 per 2 persons, carries 25kg), experienced first-aid-trained English-speaking guide, full-board camping with three meals daily, camping crew. Grade: easy. Best season: spring/autumn.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  }
+]

@@ -1,14 +1,13 @@
 {
   "gate": 1,
   "name": "extraction schema",
-  "status": "NOT READY",
+  "status": "PASS",
   "batches": [
     {
       "batch": 1,
-      "status": "NOT READY",
-      "extractions": 0,
-      "itineraries": 0,
-      "reason": "missing itineraries_batch1.json"
+      "status": "PASS",
+      "extractions": 25,
+      "itineraries": 29
     },
     {
       "batch": 2,
@@ -31,6 +30,11 @@
   ],
   "errors": [],
   "warnings": [
+    "staging/batch1_new_karaandnate.json: non-canonical file ignored by gates",
+    "staging/batch1_new_latinamericatravel.json: non-canonical file ignored by gates",
+    "staging/batch1_new_lostleblanc.json: non-canonical file ignored by gates",
+    "staging/batch1_new_migrationology.json: non-canonical file ignored by gates",
+    "staging/batch1_new_muradosmann.json: non-canonical file ignored by gates",
     "staging/batch1_part1.json: non-canonical file ignored by gates",
     "staging/batch1_part2.json: non-canonical file ignored by gates",
     "staging/batch1_part3.json: non-canonical file ignored by gates",

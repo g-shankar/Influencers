@@ -1,0 +1,908 @@
+[
+  {
+    "batch": 4,
+    "handle": "@thenationalparktravelers",
+    "title": "Columbia River Gorge Waterfall Drive",
+    "destination": "Columbia River Gorge, Oregon (near Portland)",
+    "days": 1,
+    "confidence": "low",
+    "source_urls": [
+      "https://www.tiktok.com/@thenationalparktravelers/video/7305560011382476075",
+      "https://www.afar.com/magazine/9-tiktok-accounts-giving-smart-useful-travel-advice"
+    ],
+    "items": [
+      {
+        "name": "Historic Columbia River Highway 30",
+        "day": 1,
+        "location": "Columbia River Gorge, OR",
+        "details": "Scenic drive from near Portland leading to 7+ waterfall hikes",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Multnomah Falls",
+        "day": 1,
+        "location": "Columbia River Gorge, OR",
+        "details": "Waterfall hike stop on the Highway 30 route",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Horsetail Falls",
+        "day": 1,
+        "location": "Columbia River Gorge, OR",
+        "details": "Waterfall hike stop on the Highway 30 route",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Wahkeena Falls",
+        "day": 1,
+        "location": "Columbia River Gorge, OR",
+        "details": "Waterfall hike stop on the Highway 30 route",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Bridal Veil Falls",
+        "day": 1,
+        "location": "Columbia River Gorge, OR",
+        "details": "Waterfall hike stop on the Highway 30 route",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Latourell Falls",
+        "day": 1,
+        "location": "Columbia River Gorge, OR",
+        "details": "Waterfall hike stop on the Highway 30 route",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Wahclella Falls",
+        "day": 1,
+        "location": "Columbia River Gorge, OR",
+        "details": "Waterfall hike stop on the Highway 30 route",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Panther Creek Falls",
+        "day": 1,
+        "location": "Near Columbia River Gorge, OR",
+        "details": "Nearby waterfall, a short drive from the main route",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "handle": "@travelwithjaro",
+    "title": "How far does $100 get you in Lombok",
+    "destination": "Lombok (Kuta area), Indonesia",
+    "days": 1,
+    "confidence": "low",
+    "source_urls": [
+      "https://www.tiktok.com/@travelwithjaro/video/7471887027437423880",
+      "https://neoreach.com/tiktok-travel/"
+    ],
+    "items": [
+      {
+        "name": "The Kebon",
+        "day": 1,
+        "location": "Kuta, Lombok, Indonesia",
+        "details": "Where he stayed",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "The Power Of Local Women Lombok",
+        "day": 1,
+        "location": "Lombok, Indonesia",
+        "details": "Local tour",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Olea Villas",
+        "day": 1,
+        "location": "Kuta, Lombok, Indonesia",
+        "details": "Private villa stay",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "handle": "@wheelaroundtheworld",
+    "title": "Wheel Around Taiwan — wheelchair accessibility road journey",
+    "destination": "Taiwan",
+    "days": null,
+    "confidence": "low",
+    "source_urls": [
+      "https://www.youtube.com/watch?v=mYBNRbDhO_o",
+      "https://www.youtube.com/watch?v=y_maOz6qpbY",
+      "https://www.youtube.com/watch?v=e4r0khsE8hQ",
+      "https://www.youtube.com/watch?v=7gIimcGyMoU",
+      "https://www.youtube.com/watch?v=E_QHaXiCrZo"
+    ],
+    "items": [
+      {
+        "name": "Shilin Night Market",
+        "day": 1,
+        "location": "Taipei, Taiwan",
+        "details": "Street food culture, games, snacks, crowds navigated by wheelchair user; first episode opening stop with fellow wheelchair user Ferro",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Repurposed pier with bars and food stalls",
+        "day": 1,
+        "location": "Taipei, Taiwan",
+        "details": "Vibey pier with shipping-container bars and food stalls; end-of-day stop in episode 1",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Bullet train Taipei to Taichung",
+        "day": 2,
+        "location": "Taipei to Taichung, Taiwan",
+        "details": "Iconic Taiwan bullet train; episode documents accessibility issues (wedged in non-accessible carriage after ticket mix-up)",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Rainbow Village",
+        "day": 2,
+        "location": "Taichung, Taiwan",
+        "details": "Visited as part of the $2K car challenge segment; test-drove budget rental cars ('crusty red Ford Life')",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Kaohsiung Grand Hotel",
+        "day": 3,
+        "location": "Kaohsiung, Taiwan",
+        "details": "Stayed while pushing south; episode documents accessibility fail at next 'accessible' accommodation after",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Fo Guang Shan Buddha",
+        "day": 3,
+        "location": "Kaohsiung, Taiwan",
+        "details": "Explored local culture in traditional outfits; attempted but failed to enter",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Southern tip of Taiwan",
+        "day": 4,
+        "location": "Taiwan",
+        "details": "Mission to reach the most southern tip of the island",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Shifen Old Street sky lantern release",
+        "day": 5,
+        "location": "Yilan County / Shifen, Taiwan",
+        "details": "Visited en route through Yilan County; released a sustainable sky lantern, painted wishes",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Taipei 101 observatory",
+        "day": 5,
+        "location": "Taipei, Taiwan",
+        "details": "Rode the world's fastest elevator to the top; visited with Laura Lin (local with vision impairment) discussing disability life in Taipei",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "7-Eleven culture ('711 things you can do at 7-Eleven')",
+        "day": 5,
+        "location": "Taiwan",
+        "details": "Creator's signature Taiwan convenience-store guide segment",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "handle": "@mgtenazas",
+    "title": "Maldives on a Budget: Local-Island Stays",
+    "destination": "Maldives",
+    "days": null,
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.tiktok.com/@mgtenazas/video/7298644410747620641",
+      "https://izea.com/resources/tiktok-travel-influencers/"
+    ],
+    "items": [
+      {
+        "name": "Local-island guesthouses (unnamed)",
+        "day": null,
+        "location": "Maldives inhabited islands",
+        "details": "Guesthouses on inhabited islands 'operate like boutique hotels, with more personalized services, a smaller number of rooms, and a more economical rate'; many offer all-inclusive rates with all meals covered and excursions like diving and snorkeling included",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "City hotels in Male (unnamed)",
+        "day": null,
+        "location": "Male / urban centers",
+        "details": "City hotels in the Maldives' urban centers as a cheaper alternative to ultra-luxury resorts",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Snorkeling/diving with manta rays, whale sharks, nurse sharks",
+        "day": null,
+        "location": "Maldives",
+        "details": "Go snorkeling or even diving with manta rays, whale sharks, nurse sharks; visit the Keyodhoo shipwreck",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Under-$150/day Maldives budget",
+        "day": null,
+        "location": "Maldives",
+        "details": "Spend less than $150 USD per day including excursions, depending on the atoll",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "handle": "@sightsofsara",
+    "title": "Epic Iceland Road Trip Guide - South Coast Mini Guide",
+    "destination": "Iceland (South Coast)",
+    "days": null,
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.lemon8-app.com/sightsofsara/7220679971399287301?region=us"
+    ],
+    "items": [
+      {
+        "name": "Camper van rental",
+        "day": null,
+        "location": "Iceland",
+        "details": "Rent a camper van from CampersInIceland.com; buy full coverage insurance (weather, sheep, flat tires). Camper beat hotels - no rushing to fixed stays.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Seljalandsfoss",
+        "day": null,
+        "location": "South Coast",
+        "details": "Walk behind the waterfall; she visited at night and had it nearly empty.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Fjaorar gljufur Canyon",
+        "day": null,
+        "location": "South Coast",
+        "details": "Short uphill hike with many viewpoints; stay on the designated path.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Jokulsarlon Glacial Lagoon",
+        "day": null,
+        "location": "South Coast",
+        "details": "Watch sunset at the glacial lagoon.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Vestrahorn",
+        "day": null,
+        "location": "South Coast",
+        "details": "One of her favourite places in Iceland; sunrise visit; cafe just down the road for breakfast after.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Skogafoss",
+        "day": null,
+        "location": "South Coast",
+        "details": "Visit in the middle of the night in summer; campground in the parking lot.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Reykjavik city centre",
+        "day": null,
+        "location": "Reykjavik",
+        "details": "Walk the rainbow road; cafes and shops in the city centre.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "handle": "@sightsofsara",
+    "title": "Tour du Mont Blanc - Day-by-Day Trek Series",
+    "destination": "Tour du Mont Blanc",
+    "days": null,
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.tiktok.com/@sightsofsara/video/7602636029870361887",
+      "https://www.tiktok.com/@sightsofsara/video/7603038544512175391"
+    ],
+    "items": [
+      {
+        "name": "TMB Day 1: Les Houches to Les Contamines",
+        "day": 1,
+        "location": "France",
+        "details": "Counter-clockwise, variant via Col de Tricot (more scenic/challenging): 19-24km, 1300m ascent, 1350m descent; ~7h hiking. Route: Les Houches -> Bellevue -> suspension bridge -> Col de Tricot (2120m) -> Chalet de Miage -> Les Contamines.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Camping le Pontet",
+        "day": 1,
+        "location": "Les Contamines, France",
+        "details": "Ended day 1 with dinner and sleep in a shared dorm at Camping le Pontet.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "TMB Day 2: Les Contamines-Montjoie to Croix du Bonhomme",
+        "day": 2,
+        "location": "France",
+        "details": "Les Contamines-Montjoie to Refuge de la Croix du Bonhomme; 7.3 miles / 11.7km, 4600ft / 1400m elevation gain.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Refuge de la Croix du Bonhomme",
+        "day": 2,
+        "location": "France",
+        "details": "Many outlets in common area, drinkable water, food/drinks (cake, pasta), friendly staff, clean bathrooms, books/maps/games.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "handle": "@themomtrotter",
+    "title": "Utah National Parks + Southwest RV Road Trip with Kids",
+    "destination": "Utah, Nevada, Arizona, California (American Southwest loop)",
+    "days": 10,
+    "confidence": "high",
+    "source_urls": [
+      "https://themomtrotter.com/utah-national-parks-southwest-road-trip/"
+    ],
+    "items": [
+      {
+        "name": "Outdoorsy RV rental",
+        "day": null,
+        "location": "Los Angeles, CA",
+        "details": "Rented RV via Outdoorsy; owner delivered night before for $100 extra; rental $1,853.48 + extra miles $328.02",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Lake Mead RV Village",
+        "day": 1,
+        "location": "Boulder City, NV",
+        "details": "Overnight after 289.6 mi / ~4.5-5 hr drive from Los Angeles",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Valley of Fire State Park",
+        "day": 2,
+        "location": "Overton, NV",
+        "details": "Half-day exploring; 57.6 mi / 1 hr 7 min from Lake Mead",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Zion River RV Resort",
+        "day": 2,
+        "location": "Virgin, UT",
+        "details": "Overnight; 116 mi / 2 hrs from Valley of Fire",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Zion National Park",
+        "day": 3,
+        "location": "Springdale, UT",
+        "details": "Photoshoot with Zion Adventure Photog, bike ride on Pa'rus Trail, park shuttle",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Bryce Canyon National Park",
+        "day": 4,
+        "location": "Bryce Canyon City, UT",
+        "details": "Snowy visit: scenic overlook and short trail, Sunset Point",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Fremont River RV Park",
+        "day": 4,
+        "location": "Loa, UT",
+        "details": "Overnight; 92.4 mi / 1 hr 48 min from Bryce Canyon",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Capitol Reef National Park",
+        "day": 5,
+        "location": "Torrey, UT",
+        "details": "18-mile scenic drive and loop through the park",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Canyonlands National Park",
+        "day": 5,
+        "location": "Moab, UT",
+        "details": "Evening scenic drive; 144.2 mi / 2 hrs 15 min from Capitol Reef",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Moab Valley RV Resort",
+        "day": 5,
+        "location": "Moab, UT",
+        "details": "Overnight; 27.8 mi / 30 min from Canyonlands",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Arches National Park",
+        "day": 6,
+        "location": "Moab, UT",
+        "details": "Balanced Rock Loop Trail and Windows Loop Trail; scenic drive",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Monument Valley KOA Journey",
+        "day": 6,
+        "location": "Oljato-Monument Valley, UT",
+        "details": "Overnight; 149.3 mi / 2 hrs 39 min from Arches",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Monument Valley Navajo Tribal Park guided tour",
+        "day": 7,
+        "location": "Oljato-Monument Valley, AZ",
+        "details": "2-hr guided tour booked from KOA front desk with Monument Valley Tribal Tours; includes Hogan visit; RVs not allowed on scenic drive; park entry $20",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Forrest Gump Point",
+        "day": 7,
+        "location": "Mexican Hat, AZ",
+        "details": "Photo stop; 11.2 mi / 11 min from Monument Valley KOA",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Page Lake Powell Campground",
+        "day": 7,
+        "location": "Page, AZ",
+        "details": "Overnight; 133.3 mi / 2 hr 05 min from Forrest Gump Point",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Lower Antelope Canyon tour",
+        "day": 8,
+        "location": "Page, AZ",
+        "details": "Booked via Ken's Tours",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Horseshoe Bend",
+        "day": 8,
+        "location": "Page, AZ",
+        "details": "20-min walk each way; 9.9 mi / 17 min from Antelope Canyon",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Trailer Village RV Park",
+        "day": 8,
+        "location": "Grand Canyon Village, AZ",
+        "details": "Overnight; 134.6 mi / 2 hrs 24 min from Horseshoe Bend",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Grand Canyon National Park (South Rim)",
+        "day": 9,
+        "location": "Grand Canyon Village, AZ",
+        "details": "Visitor Center, film, shuttle to lookouts, Jr. Ranger badges",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Joshua Tree Lake RV & Campground",
+        "day": 9,
+        "location": "Joshua Tree, CA",
+        "details": "Overnight; 382.1 mi / 6 hrs 3 min from Grand Canyon",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Joshua Tree National Park",
+        "day": 10,
+        "location": "Twentynine Palms, CA",
+        "details": "Scenic route, viewpoints, Hidden Valley Trail; then 134 mi / 2 hrs 20 min home to Los Angeles",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "handle": "@themomtrotter",
+    "title": "St. Croix Family Itinerary",
+    "destination": "St. Croix, US Virgin Islands",
+    "days": 6,
+    "confidence": "high",
+    "source_urls": [
+      "https://themomtrotter.com/things-to-do-in-st-croix/"
+    ],
+    "items": [
+      {
+        "name": "The Buccaneer",
+        "day": 1,
+        "location": "Christiansted, St. Croix",
+        "details": "Oceanfront room; check in, lunch downtown by the waterfront, beach/pool",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Buck Island snorkeling tour",
+        "day": 2,
+        "location": "St. Croix",
+        "details": "Half-day or full-day snorkeling tour (full day includes lunch)",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Virgin Islands food tour",
+        "day": 3,
+        "location": "St. Croix",
+        "details": "Food tour; she names Zeny's Restaurant, Gary's Bakery & Deli, 2 Plus 2 Restaurant, Kim's Restaurant (curry goat), Rum Runners STX",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Horseback riding at Rainbow Beach",
+        "day": 3,
+        "location": "St. Croix",
+        "details": "Horseback riding starting and ending at Rainbow Beach; dinner at Rhythms at Rainbow Restaurant",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Point Udall",
+        "day": 4,
+        "location": "St. Croix",
+        "details": "Easternmost point of the US",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Frederiksted Fort",
+        "day": 4,
+        "location": "Frederiksted, St. Croix",
+        "details": "Historic fort visit",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Caribbean Museum of the Arts",
+        "day": 4,
+        "location": "St. Croix",
+        "details": "Museum visit",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "The Domino Club",
+        "day": 4,
+        "location": "St. Croix",
+        "details": "Lunch and feed the pigs non-alcoholic beer",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Jet skiing at Rainbow Beach",
+        "day": 5,
+        "location": "St. Croix",
+        "details": "Jet ski session; lunch at Rhythms at Rainbow Beach",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Rum tour",
+        "day": 5,
+        "location": "St. Croix",
+        "details": "Rum distillery tour",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Travel home",
+        "day": 6,
+        "location": "St. Croix",
+        "details": "Sleep in, breakfast, depart",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "handle": "@marissadaily_",
+    "title": "10 Days in Egypt: Cairo, Nile Cruise & the Red Sea",
+    "destination": "Egypt (Cairo, Aswan, Luxor, Hurghada)",
+    "days": 10,
+    "confidence": "high",
+    "source_urls": [
+      "https://www.tiktok.com/@marissadaily_/video/7643900020395232543"
+    ],
+    "items": [
+      {
+        "name": "Great Pyramids of Giza & Sphinx",
+        "day": 1,
+        "location": "Giza",
+        "details": "Arrive in Cairo; visit the Great Pyramids of Giza and the Sphinx",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Saqqara Step Pyramid",
+        "day": 1,
+        "location": "Saqqara",
+        "details": "Step Pyramid; part of Days 1-2 Cairo & Giza leg",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Nile-view dinner",
+        "day": 1,
+        "location": "Cairo",
+        "details": "Dinner overlooking the Nile in Cairo",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Philae Temple",
+        "day": 3,
+        "location": "Aswan",
+        "details": "Fly Cairo to Aswan; Philae Temple and the Unfinished Obelisk",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Nubian Village",
+        "day": 3,
+        "location": "Aswan",
+        "details": "Explore a Nubian Village",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Nile River cruise",
+        "day": 3,
+        "location": "Nile",
+        "details": "Board a Nile River cruise; sail to Kom Ombo Temple at sunset",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Abu Simbel (optional excursion)",
+        "day": 4,
+        "location": "Abu Simbel",
+        "details": "Optional excursion mentioned",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Edfu, Karnak & Luxor Temples",
+        "day": 5,
+        "location": "Luxor",
+        "details": "Edfu Temple, Karnak Temple & Luxor Temple",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Luxor hot air balloon",
+        "day": 5,
+        "location": "Luxor",
+        "details": "Sunrise hot air balloon over Luxor",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Valley of the Kings",
+        "day": 6,
+        "location": "Luxor",
+        "details": "Valley of the Kings plus Hatshepsut Temple",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Nile-front resort (unnamed)",
+        "day": 6,
+        "location": "Luxor",
+        "details": "Stay at a Nile-front resort",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Red Sea resorts & snorkeling",
+        "day": 7,
+        "location": "Hurghada",
+        "details": "Road trip from Luxor; Red Sea resorts, beach clubs, snorkeling and boat days; slower pace",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Grand Egyptian Museum (GEM)",
+        "day": 10,
+        "location": "Cairo",
+        "details": "Visit the Grand Egyptian Museum",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Khan El Khalili & koshari",
+        "day": 10,
+        "location": "Cairo",
+        "details": "Explore Khan El Khalili Market; 'eat ALL the koshari'",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 4,
+    "handle": "@shetravelledtheworld",
+    "title": "Kyrgyzstan Itinerary: The Perfect 2 Week Trip",
+    "destination": "Kyrgyzstan",
+    "days": 14,
+    "confidence": "high",
+    "source_urls": [
+      "https://shetravelledtheworld.com/kyrgyzstan-itinerary-the-perfect-2-week-trip/"
+    ],
+    "items": [
+      {
+        "name": "Pegasus Airlines",
+        "day": null,
+        "location": "London to Bishkek",
+        "details": "London Stansted to Bishkek via Istanbul; she paid 515 GBP return including a checked bag.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Pamir Jeep Rentals (car rental)",
+        "day": null,
+        "location": "Kyrgyzstan",
+        "details": "4x4 rental at $60/day ($900 total / $450 each for two weeks) - the best way to get around.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Golden Hotel",
+        "day": null,
+        "location": "Bishkek",
+        "details": "2 nights. She stayed at Golden Hotel: clean, spacious bathrooms, free breakfast, 24h reception.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "City sightseeing / day trips to Ala Archa National Park",
+        "day": null,
+        "location": "Bishkek",
+        "details": "Soviet-era sights: Ala Too Square, State History Museum, Victory Square, Osh Bazaar.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Navat Teahouse",
+        "day": null,
+        "location": "Bishkek",
+        "details": "Food spots not far from Golden Hotel.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Five Resto",
+        "day": null,
+        "location": "Bishkek",
+        "details": "Food spot not far from Golden Hotel.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Burana Tower",
+        "day": null,
+        "location": "Burana",
+        "details": "Day stop 1.5-2h from Bishkek; 11th-century Silk Road minaret, climb inside for 85 som (~0.75 GBP); Balbal statues.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Lake Issyk-Kul",
+        "day": null,
+        "location": "Issyk-Kul",
+        "details": "3 nights, based in Bokonbayevo village on the south shore; local beach Yurtochnyy Gordon Ton.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Guesthouse Gulmira",
+        "day": null,
+        "location": "Bokonbayevo",
+        "details": "Family-run, yurts + rooms, free breakfast; organised her eagle hunting excursion.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Eagle hunting show",
+        "day": null,
+        "location": "Bokonbayevo",
+        "details": "Century-old tradition: watch eagle training, hold birds, archery; ~1.5h, 1200 som (~10 GBP), organised via Guesthouse Gulmira.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Mountain hiking",
+        "day": null,
+        "location": "Jyrgalan",
+        "details": "3 nights. Hikes: Turnaly-Kol Panorama (13km, 2862m, ~5h), Kok-Bel Waterfall (12km, easy), Eki-Chat Yurt Camp (17km).",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Mine Hostel",
+        "day": null,
+        "location": "Jyrgalan",
+        "details": "Small, clean, comfortable; free breakfast; dinner 500 som (~4.50 GBP); owner helps with hiking routes.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Kezgin Guesthouse",
+        "day": null,
+        "location": "Naryn",
+        "details": "1 night, long 8-10h scenic drive via Fairytale Canyon; stayed at Kezgin Guesthouse - great complimentary breakfast.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Tash Rabat yurt camps / Stone Rabat",
+        "day": null,
+        "location": "Tash Rabat",
+        "details": "2 nights at 3200m. Visit Stone Rabat caravanserai (entry 100 som ~0.90 GBP); no phone reception - stock supplies in Naryn.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  }
+]

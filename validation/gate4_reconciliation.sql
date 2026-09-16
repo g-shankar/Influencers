@@ -51,10 +51,12 @@ GROUP BY influencer_id, title, destination HAVING COUNT(*) > 1;
 -- expect: no rows (any row = manual review)
 
 -- 8. Quarantined handles must not be attributed: expect zero itineraries
--- (fill in handles from validation/quarantine.json with status=quarantined)
+-- (all 8 status=quarantined handles from validation/quarantine.json)
 SELECT 'quarantined_with_itineraries' AS check_name, COUNT(*) AS value
 FROM itineraries t JOIN influencers f ON f.id = t.influencer_id
-WHERE f.handle IN ('@africansafari', '@limsawkward', '@marklharriosn');
+WHERE f.handle IN ('@africansafari', '@limsawkward', '@marklharriosn',
+                   '@nastasiawong', '@nomadicmovement', '@oceanwanderer',
+                   '@rachid_dahnoun', '@sidewalkerdaily');
 -- expect: 0 until a quarantine entry is explicitly released
 
 -- 9. Distribution sanity

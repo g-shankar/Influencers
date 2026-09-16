@@ -1,0 +1,691 @@
+{
+  "gate": 3,
+  "name": "source liveness",
+  "status": "PASS",
+  "itineraries_checked": 95,
+  "urls_checked": 105,
+  "urls_reachable": 90,
+  "dead_itineraries": [],
+  "overridden_script_false_negatives": [
+    {
+      "batch": 1,
+      "handle": "@girlvsglobe",
+      "title": "Things To Do in Segovia in 48 Hours",
+      "verified_by_manual_browser_fetch": [
+        "https://girlvsglobe.com/things-to-do-in-segovia-48-hours/"
+      ],
+      "script_statuses": {
+        "https://girlvsglobe.com/things-to-do-in-segovia-48-hours/": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 1,
+      "handle": "@girlvsglobe",
+      "title": "11 Things To Do In Menorca",
+      "verified_by_manual_browser_fetch": [
+        "https://girlvsglobe.com/things-to-do-in-menorca/"
+      ],
+      "script_statuses": {
+        "https://girlvsglobe.com/things-to-do-in-menorca/": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 1,
+      "handle": "@muradosmann",
+      "title": "Taiwan travel recommendations (Nataly & Murad Osmann)",
+      "verified_by_manual_browser_fetch": [
+        "https://farfetch.com/me/style-guide/destination-style/travelling-to-taiwan-with-nataly-murad-osmann/"
+      ],
+      "script_statuses": {
+        "https://farfetch.com/me/style-guide/destination-style/travelling-to-taiwan-with-nataly-murad-osmann/": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 2,
+      "handle": "@pilotmadeleine",
+      "title": "Abu Dhabi Travel Diary - 3 Days",
+      "verified_by_manual_browser_fetch": [
+        "https://www.pilotmadeleine.de/2015/12/02/abu-dhabi-reisetipps/?lang=en",
+        "https://www.pilotmadeleine.de/category/travel-en/page/18/?lang=en"
+      ],
+      "script_statuses": {
+        "https://www.pilotmadeleine.de/2015/12/02/abu-dhabi-reisetipps/?lang=en": null,
+        "https://www.pilotmadeleine.de/category/travel-en/page/18/?lang=en": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 2,
+      "handle": "@pilotmadeleine",
+      "title": "New Zealand: Nelson & Abel Tasman Travel Tips",
+      "verified_by_manual_browser_fetch": [
+        "https://www.pilotmadeleine.de/2016/03/13/neuseeland-fototagebuch-reisetipps-nelson-inkl-abel-tasman-national-park/?lang=en"
+      ],
+      "script_statuses": {
+        "https://www.pilotmadeleine.de/2016/03/13/neuseeland-fototagebuch-reisetipps-nelson-inkl-abel-tasman-national-park/?lang=en": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 2,
+      "handle": "@pilotmadeleine",
+      "title": "Hawaii Travel Diary: Oahu Days 1 & 2",
+      "verified_by_manual_browser_fetch": [
+        "https://www.pilotmadeleine.de/2016/02/07/waikiki-beach-chinamans-heat-hawaii-reisetagebuch-tag-1-2/?lang=en"
+      ],
+      "script_statuses": {
+        "https://www.pilotmadeleine.de/2016/02/07/waikiki-beach-chinamans-heat-hawaii-reisetagebuch-tag-1-2/?lang=en": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 2,
+      "handle": "@sorelleamore",
+      "title": "Mysterious Mongolia: self-drive 4x4 adventure with Follow The Tracks",
+      "verified_by_manual_browser_fetch": [
+        "https://www.sorelleamore.com/blog/2020/7/12/mysterious-mongolia-eagle-hunters-nomads-deserts-and-extreme-4wd-travel-for-adventurous-tourists"
+      ],
+      "script_statuses": {
+        "https://www.sorelleamore.com/blog/2020/7/12/mysterious-mongolia-eagle-hunters-nomads-deserts-and-extreme-4wd-travel-for-adventurous-tourists": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 2,
+      "handle": "@wildweroam",
+      "title": "Cinque Terre Day Plan (Levanto Base)",
+      "verified_by_manual_browser_fetch": [
+        "https://www.wildweroam.com/blog/2019/05/07/travel-journal-cinque-terre-italy"
+      ],
+      "script_statuses": {
+        "https://www.wildweroam.com/blog/2019/05/07/travel-journal-cinque-terre-italy": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 2,
+      "handle": "@wildweroam",
+      "title": "Two Weeks in Portugal (2016 Trip Fragments)",
+      "verified_by_manual_browser_fetch": [
+        "https://www.wildweroam.com/blog/2017/11/28/portugal",
+        "https://www.wildweroam.com/blog/2018/09/27/camping-on-berlengas"
+      ],
+      "script_statuses": {
+        "https://www.wildweroam.com/blog/2017/11/28/portugal": null,
+        "https://www.wildweroam.com/blog/2018/09/27/camping-on-berlengas": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 4,
+      "handle": "@sightsofsara",
+      "title": "Epic Iceland Road Trip Guide - South Coast Mini Guide",
+      "verified_by_manual_browser_fetch": [
+        "https://www.lemon8-app.com/sightsofsara/7220679971399287301?region=us"
+      ],
+      "script_statuses": {
+        "https://www.lemon8-app.com/sightsofsara/7220679971399287301?region=us": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 4,
+      "handle": "@themomtrotter",
+      "title": "Utah National Parks + Southwest RV Road Trip with Kids",
+      "verified_by_manual_browser_fetch": [
+        "https://themomtrotter.com/utah-national-parks-southwest-road-trip/"
+      ],
+      "script_statuses": {
+        "https://themomtrotter.com/utah-national-parks-southwest-road-trip/": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 4,
+      "handle": "@themomtrotter",
+      "title": "St. Croix Family Itinerary",
+      "verified_by_manual_browser_fetch": [
+        "https://themomtrotter.com/things-to-do-in-st-croix/"
+      ],
+      "script_statuses": {
+        "https://themomtrotter.com/things-to-do-in-st-croix/": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    }
+  ],
+  "url_results": {
+    "http://www.oneikathetraveller.com/south-africa-botswana-zambia-itinerary.html": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "http://www.oneikathetraveller.com/why-you-should-go-to-ghana-one-week-ghana-itinerary-travel-guide.html": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://Www.Yachtlife.com/itineraries/southern-california": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://Www.yachtlife.com/itineraries/windward-islands": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://africansafari.co.in/4-days-kenyas-golden-safari-circuit-rift-valley-lakes-the-wild-mara/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://africansafari.co.in/7-day-wild-free-tanzania-great-migration-safari-tour/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://asiatravel.com.np/Trekking/Royal_Trek_-_7_Days.htm": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://budgettraveller.org/best-things-to-do-vorarlberg/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://budgettraveller.org/how-to-visit-15-european-cities-for-less-than-250/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://budgettraveller.org/what-to-do-phuket-rainy-day/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://cheaprvliving.com/kb/incredible-beauty-the-grand-circle/?seq_no=2": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://cheaprvliving.com/kb/road-trip-son-girlfriend/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://farfetch.com/me/style-guide/destination-style/travelling-to-taiwan-with-nataly-murad-osmann/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://finduslost.com/cotswolds-england-7-day-itinerary-first-time-visitors/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://finduslost.com/new-england-fall-road-trip/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://girlvsglobe.com/things-to-do-in-menorca/": {
+      "status": null,
+      "error": "RemoteDisconnected: Remote end closed connection without response",
+      "reachable": false
+    },
+    "https://girlvsglobe.com/things-to-do-in-segovia-48-hours/": {
+      "status": null,
+      "error": "RemoteDisconnected: Remote end closed connection without response",
+      "reachable": false
+    },
+    "https://holrmagazine.com/borneo-emmett-sparling/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://info606777.wixsite.com/storyofsavannah/post/3-week-west-coast-usa-road-trip-hotel-itinerary": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://izea.com/resources/tiktok-travel-influencers/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://johnnyjet.com/3-beautiful-bermuda-beaches-in-3-days/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://johnnyjet.com/3-days-sonoma-wine-country-weekend/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://karaandnate.com/italy-vespa-tour/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://karaandnate.com/the-ultimate-guide-to-riding-the-trans-siberian-railway/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://kelseyinlondon.com/cornwall-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://laxtoluxury.com/four-day-fall-foliage-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://migrationology.com/ghorepani-poon-hill-trek-ultimate-guide/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://migrationology.com/journey-to-the-khunjerab-pass/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://migrationology.com/things-to-do-luang-prabang/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://neoreach.com/tiktok-travel/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://nikkionherway.com/slovenia-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://rileejsmith.com/guide/barcelona": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://rileejsmith.com/guide/croatia": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://shetravelledtheworld.com/kyrgyzstan-itinerary-the-perfect-2-week-trip/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://shetravelledtheworld.com/northern-italy-travel-guide-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://simply-slow-traveler.com": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://taramilktea.com/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://themomtrotter.com/things-to-do-in-st-croix/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "reachable": false
+    },
+    "https://themomtrotter.com/utah-national-parks-southwest-road-trip/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 503: Service Unavailable",
+      "reachable": false
+    },
+    "https://theplanetd.com/3-days-in-istanbul-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://theplanetd.com/the-ultimate-seoul-itinerary-3-days-in-seoul/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://theslowtraveler.net/airlie-beach-to-port-douglas-road-trip/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://theslowtraveler.net/epic-3-day-road-trip-along-the-great-ocean-road/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://theworldpursuit.com/yukon-road-trip/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.adventurouskate.com/three-days-in-dubrovnik-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.adventurouskate.com/two-weeks-in-mexico-yucatan-road-trip-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.afar.com/magazine/9-tiktok-accounts-giving-smart-useful-travel-advice": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.claireandpeter.com/world-trip/egypt-cruise-the-nile/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.claireandpeter.com/world-trip/georgia-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.claireandpeter.com/world-trip/jordan-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.lemon8-app.com/sightsofsara/7220679971399287301?region=us": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "reachable": false
+    },
+    "https://www.nomadicmatt.com/travel-blogs/croatia-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.nomadicmatt.com/travel-blogs/sweden-coast-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.nomadicnews.com/lost-leblanc/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.onegirlwandering.com/2020/01/01/banff-winter-bucket-list/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.onegirlwandering.com/2023/06/25/the-perfect-two-week-itinerary-for-your-first-trip-to-japan/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.packslight.com/puerto-rico-spring-break/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.pilotmadeleine.de/2015/12/02/abu-dhabi-reisetipps/?lang=en": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "reachable": false
+    },
+    "https://www.pilotmadeleine.de/2016/02/07/waikiki-beach-chinamans-heat-hawaii-reisetagebuch-tag-1-2/?lang=en": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "reachable": false
+    },
+    "https://www.pilotmadeleine.de/2016/03/13/neuseeland-fototagebuch-reisetipps-nelson-inkl-abel-tasman-national-park/?lang=en": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "reachable": false
+    },
+    "https://www.pilotmadeleine.de/category/travel-en/page/18/?lang=en": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "reachable": false
+    },
+    "https://www.qantas.com/travelinsider/en/explore/europe/travelling-in-europe-with-instagram-star-tara-milk-tea.html": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.ricksteves.com/europe/england/itinerary": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.ricksteves.com/tours/europe/europe-21-days": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.roadtripusa.com/trip-idea/utah-road-trip-9-days-parks": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.sorelleamore.com/blog/2020/7/12/mysterious-mongolia-eagle-hunters-nomads-deserts-and-extreme-4wd-travel-for-adventurous-tourists": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 401: Unauthorized",
+      "reachable": false
+    },
+    "https://www.theblondeabroad.com/itinerary-two-weeks-morocco/comment-page-13/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.theblondeabroad.com/ultimate-adventurous-oregon-road-trip-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.theblondeabroad.com/ultimate-cotswolds-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.thebrokebackpacker.com/backpacking-southeast-asia-travel-guide/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.thebucketlistfamily.com/united-states-of-america": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.thecommonwanderer.com/blog/faroe-islands-itinerary": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.thecommonwanderer.com/blog/great-ocean-road-itinerary": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@hudsonandemily/video/7619036734390553874?_r=1&_d=secCgYIASAHKAESPgo8ovXHD7NaPo7riw5R7iWLZyHpzGuBlmmhFccgpnHwo84XV7mk23r%2FWdbI745LVuemWk%2FqnKJ7s70FETfdGgA%3D&_svg=1&checksum=0cb32fccaa648231d422b40f0d0eb980ede8084b3747b2783f5ac3a262e4b6e7&item_author_type=2&link_reflow_popup_iteration_s": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@lostleblanc/video/7394475609621056775": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@marissadaily_/video/7603514904640851230": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@marissadaily_/video/7605292254936288543": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@marissadaily_/video/7643900020395232543": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@mgtenazas/video/7298644410747620641": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@postcardsfromayana/video/7647181012379782413": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@sightsofsara/video/7602636029870361887": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@sightsofsara/video/7603038544512175391": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@thenationalparktravelers/video/7305560011382476075": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@travelwithjaro/video/7471887027437423880": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@wheretofindme/video/7572322138586107139?_r=1&_d=secCgYIASAHKAESPgo8KVJrJ%2F8N7Wbd1KYKnaQV4wZuF%2BkDhzkdfXg81xkSES0E7AKYc7VxUdhZ7jtOe10qiWthmgj33eMwXojwGgA%3D&_svg=3&checksum=188cd14ac182f274820a8d28191d1a8f3712da6b8abd2f63a45c4baa0f58bc6c&link_reflow_popup_iteration_sharer=%7B%22follow_to_play_duration%22%3A1%2C%22click_empty_to_play%22%3A1%2C%22profile_clickable%22%3A1%7D&preview_pb=0&reflow_page_type=1&sec_user_id=MS4wLjABAAAAkzMagdOlBJlgUCcM3WyfZYmdSGPBwC1yK2Pn8Llljp2-QTcipmAr&share_app_id=1233&share_item_id=7572322138586107139&share_link_id=ED94A348-8DB7-42D1-9FC8-D908A8549567&share_region=US&share_scene=2&sharer_language=en&social_share_type=0&source=h5_m&timestamp=1773256256&tt_from=facebook&u_code=d81e14e47c08l6&ug_btm=b2878&user_id=6729324644249863173&utm_campaign=client_share&utm_medium=ios&utm_source=facebook": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@wheretofindme/video/7620186592161942806?_r=1&_d=secCgYIASAHKAESPgo8RkziAFTF2oXMoB5cdV8HUsTOeSXcd4Np4qnxcBRSJOz5qgy4B20QUjGw4FYWvN4PMpVcpAh%2FGoaCr7aNGgA%3D&_svg=1&checksum=a569c913e858c4527126cb1985ebb80ebfd717618dfde560291e8ef9c7a4d802&link_reflow_popup_iteration_sharer=%7B%22dynamic_cover%22%3A1%2C%22profile_clickable%22%3A1%2C%22follow_to_play_duration%22%3A-1.0%2C%22profile_clickable%22%3A1%7D&preview_pb=0&reflow_page_type=1&reflow_sign_scene=1&rgssign=2.1.jqMSX8ChwNMtQ2ttn71_Rw&sec_user_id=MS4wLjABAAAAiTJFetKEQkzkNxiTEDQubiGjWN_s-m7qOFx95SyKYaLr7aHnk1Y9m3cZsQIm414W&share_app_id=1233&share_item_id=7620186592161942806&share_link_id=9E0A4456-E83F-47C8-B15C-A78C10B3736C&share_region=AE&share_scene=2&sharer_language=en&social_share_type=0&source=h5_m&timestamp=1778215082&tt_from=messenger&u_code=30ai3fadjha2i&ug_btm=b5836%2Cb2878&user_id=66190846731001856&utm_campaign=client_share&utm_medium=ios&utm_source=messenger": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.travelandleisureasia.com/in/people/interview-with-murad-and-nataly-osmann-of-followmeto-series/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.vagabondeadventures.com/outremer-45-falmari": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.wheretofindme.co.uk/tokyo-guide": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.wildweroam.com/blog/2017/11/28/portugal": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "reachable": false
+    },
+    "https://www.wildweroam.com/blog/2018/09/27/camping-on-berlengas": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "reachable": false
+    },
+    "https://www.wildweroam.com/blog/2019/05/07/travel-journal-cinque-terre-italy": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 404: Not Found",
+      "reachable": false
+    },
+    "https://www.youtube.com/watch?v=6E62FzhNyU4": {
+      "status": 204,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=7gIimcGyMoU": {
+      "status": 204,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=9hPvsyVCksg": {
+      "status": 204,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=BV7Phig5jn0": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=Baj-TL-DKGU": {
+      "status": 204,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=E_QHaXiCrZo": {
+      "status": 204,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=_qMcEMjLYhw": {
+      "status": 204,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=e4r0khsE8hQ": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=mYBNRbDhO_o": {
+      "status": 204,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=x6U2Lnb3spU": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=y_maOz6qpbY": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://youngadventuress.com/2015/03/instagram-new-zealand.html": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://youngadventuress.com/2015/08/road-trip-new-zealand-south-island.html": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    }
+  },
+  "errors": [],
+  "warnings": [
+    "batch4 @mgtenazas 'Maldives on a Budget: Local-Island Stays': 1 unreachable URL(s), 1 reachable"
+  ],
+  "caveat": "UNREACHABLE means not fetchable by script (bot-blocking possible); the evidence council verifies these in a real browser before any waiver."
+}

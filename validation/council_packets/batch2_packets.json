@@ -1,0 +1,1044 @@
+[
+  {
+    "batch": 2,
+    "handle": "@wildweroam",
+    "title": "Two Weeks in Portugal (2016 Trip Fragments)",
+    "destination": "Portugal",
+    "days": 14,
+    "confidence": "low",
+    "source_urls": [
+      "https://www.wildweroam.com/blog/2017/11/28/portugal",
+      "https://www.wildweroam.com/blog/2018/09/27/camping-on-berlengas"
+    ],
+    "items": [
+      {
+        "name": "Flight to Faro",
+        "day": null,
+        "location": "Berlin to Faro",
+        "details": "Flew from Berlin to Faro to start the two-week trip.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Train to Olhao",
+        "day": null,
+        "location": "Faro to Olhao",
+        "details": "Took the train from Faro to Olhao, then walked to the city port to catch the ferry.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Ferry to Armona",
+        "day": null,
+        "location": "Olhao to Ilha de Armona",
+        "details": "Many ferries run from Olhao to Armona; only a 15-minute ride.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Airbnb on Ilha de Armona",
+        "day": null,
+        "location": "Ilha de Armona, Algarve",
+        "details": "Airbnb on the tiny, beautiful island of Armona; long stretches of beach, a few seafood restaurants, a small convenience store; grocery shopping at the big farmers market in Olhao.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Camping on Berlengas",
+        "day": null,
+        "location": "Berlengas archipelago (off Peniche)",
+        "details": "Spent 36 hours camping on the island; ferry from Peniche harbor (20 minutes); season runs May 20 to September 15; reservations with Viamar by calling (+351) 262 785 646 or at kiosks at the ferry harbor.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "handle": "@wildweroam",
+    "title": "Cinque Terre Day Plan (Levanto Base)",
+    "destination": "Cinque Terre",
+    "days": 1,
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.wildweroam.com/blog/2019/05/07/travel-journal-cinque-terre-italy"
+    ],
+    "items": [
+      {
+        "name": "Camping Acqua Dolce",
+        "day": 1,
+        "location": "Levanto",
+        "details": "Campsite in the town of Levanto used as the base for visiting Cinque Terre; small town they loved and would recommend.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Coastal hike Levanto to Monterosso",
+        "day": 1,
+        "location": "Levanto to Monterosso",
+        "details": "First and favorite portion of the hike, from Levanto to Monterosso - peaceful with hardly anyone on the trail.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Cinque Terre day pass trains",
+        "day": 1,
+        "location": "Cinque Terre",
+        "details": "The Cinque Terre day card lets you ride as many trains as you want to navigate between towns (but does not cover the boat trip).",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Paid coastal trail hike",
+        "day": 1,
+        "location": "Monterosso to Vernazza",
+        "details": "The Monterosso to Vernazza section is the only trail you have to pay for; described as a little pricey but the money goes to trail upkeep; trail was very crowded but the views of Vernazza from the top were breathtaking.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Ferry to Riomaggiore",
+        "day": 1,
+        "location": "Cinque Terre coast",
+        "details": "Recommended especially when visiting Riomaggiore because it gives a completely different perspective.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "handle": "@taramilktea",
+    "title": "Tara Milk Tea's Europe trip highlights (Mykonos and Budva)",
+    "destination": "Europe (Greece and Montenegro highlights)",
+    "days": null,
+    "confidence": "low",
+    "source_urls": [
+      "https://www.qantas.com/travelinsider/en/explore/europe/travelling-in-europe-with-instagram-star-tara-milk-tea.html",
+      "https://taramilktea.com/"
+    ],
+    "items": [
+      {
+        "name": "Cavo Tagoo",
+        "day": null,
+        "location": "Mykonos, Greece",
+        "details": "Boutique hotel on a hillside overlooking the water near Hora, Mykonos; stayed four nights. Big lunch at the hotel's excellent restaurant with friends - fresh seafood such as marinated octopus and ceviche; breakfast described as one of the best buffets she has experienced; meals by the pool overlooking the ocean; rooms with ocean views",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Dukely Beach Lounge",
+        "day": null,
+        "location": "Budva, Montenegro",
+        "details": "Beautiful spot in Budva with incredible views; perfect for unwinding in the late afternoon; unexpectedly excellent Japanese food - large sushi platter, fried octopus and saffron risotto",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "handle": "@pilotmadeleine",
+    "title": "Abu Dhabi Travel Diary - 3 Days",
+    "destination": "Abu Dhabi",
+    "days": 3,
+    "confidence": "high",
+    "source_urls": [
+      "https://www.pilotmadeleine.de/2015/12/02/abu-dhabi-reisetipps/?lang=en",
+      "https://www.pilotmadeleine.de/category/travel-en/page/18/?lang=en"
+    ],
+    "items": [
+      {
+        "name": "Air Berlin",
+        "day": 1,
+        "location": "Duesseldorf to Abu Dhabi",
+        "details": "Flew from Duesseldorf to Abu Dhabi with Air Berlin in the evening; travel organized via LTUR (thanked on the blog).",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Desert Safari",
+        "day": 1,
+        "location": "Abu Dhabi desert",
+        "details": "Diary Day 1 title: 'Camel Kisses, Desert Safari & City Tour'.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Sheikh Zayed Grand Mosque",
+        "day": 1,
+        "location": "Abu Dhabi",
+        "details": "Tip: go right before sunset for the most stunning scenes; wear something long (free cover-up rental available at the entrance).",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Sand Boarding",
+        "day": 2,
+        "location": "Abu Dhabi desert",
+        "details": "Sand boarding tried out during the desert safari: 'looks easier than it really is but a lot of fun'.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Ferrari World",
+        "day": 2,
+        "location": "Yas Island, Abu Dhabi",
+        "details": "Tip: go for a ride on the fastest rollercoaster in the world; only two members of her group had time to see it.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Yas Mall shopping",
+        "day": 2,
+        "location": "Abu Dhabi",
+        "details": "Diary Day 2: mosque + Yas Mall; tip: cool stores include Victoria's Secret, Pink, Bath & Body Works and many restaurants.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Formula 1 race with evening fireworks",
+        "day": 3,
+        "location": "Abu Dhabi",
+        "details": "Diary Day 3: 'Formula 1 Race, Fireworks & Cheesecake Factory'.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Cheesecake Factory",
+        "day": 3,
+        "location": "Yas Mall, Abu Dhabi",
+        "details": "Her favorites: Oreo Dream Extreme Cheesecake and Ultimate Red Velvet Cheesecake. 'Also all other food is amazing there.'",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Taxis (cash only)",
+        "day": null,
+        "location": "Abu Dhabi",
+        "details": "Transport tips: only enter taxis with a working taximeter (drivers took detours or overcharged); taxis are cheap but cash-only - withdraw enough cash beforehand (four ATMs ran out of cash on F1 race day).",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "handle": "@pilotmadeleine",
+    "title": "Hawaii Travel Diary: Oahu Days 1 & 2",
+    "destination": "Oahu, Hawaii",
+    "days": null,
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.pilotmadeleine.de/2016/02/07/waikiki-beach-chinamans-heat-hawaii-reisetagebuch-tag-1-2/?lang=en"
+    ],
+    "items": [
+      {
+        "name": "Arrival at Honolulu International Airport",
+        "day": 1,
+        "location": "Honolulu, Oahu",
+        "details": "Arrived late afternoon at Honolulu International Airport.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Rental car",
+        "day": 1,
+        "location": "Honolulu",
+        "details": "Reserved the cheapest car online (a Ford Focus) and got a black Mustang instead at a 'super cheap price'.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Duke's",
+        "day": 1,
+        "location": "Waikiki Beach",
+        "details": "Dinner recommendation; 'definitely try out some local Hawaiian food such as Poké'.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Kayak to Chinaman's Hat",
+        "day": 2,
+        "location": "Kualoa Regional Park, Oahu",
+        "details": "Woke up early, drove to Kualoa Regional Park and kayaked to Chinaman's Hat - 'Definitely go there!'.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Lanikai Beach",
+        "day": null,
+        "location": "Oahu",
+        "details": "Named in the Day 1-2 trip post title alongside the kayak excursion.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Onward to Maui",
+        "day": null,
+        "location": "Hawaii",
+        "details": "'We will stay on Oahu the next days before we'll be heading to Maui' - the diary series continued to Maui.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "handle": "@pilotmadeleine",
+    "title": "New Zealand: Nelson & Abel Tasman Travel Tips",
+    "destination": "Nelson and Abel Tasman National Park",
+    "days": null,
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.pilotmadeleine.de/2016/03/13/neuseeland-fototagebuch-reisetipps-nelson-inkl-abel-tasman-national-park/?lang=en"
+    ],
+    "items": [
+      {
+        "name": "Air New Zealand",
+        "day": null,
+        "location": "Auckland to Nelson",
+        "details": "'Flying makes definitely sense' - much more comfortable and faster than the ferry to Nelson.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Boat Shed",
+        "day": null,
+        "location": "Nelson harbour",
+        "details": "Visited twice; seafood (shrimp salad is 'amazing'), cheesecake with berries for dessert; terrace overlooking the sailing club at the harbour.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "World of Wearable Art museum",
+        "day": null,
+        "location": "Nelson",
+        "details": "'Even my taste' although she's 'not a fan of museums' - designer fashion pieces on display.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Nelson city and sailing harbour",
+        "day": null,
+        "location": "Nelson",
+        "details": "Explore the city (stores, restaurants) and stop at the beautiful sailing harbour.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Abel Tasman Marahau Lodge",
+        "day": 1,
+        "location": "Marahau, Abel Tasman",
+        "details": "'Sweet hotel, isn't very luxurious but really nice' - breakfast served to the room; walking distance to the park, water taxi and kayaking.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Cullans Point Lookout hike",
+        "day": null,
+        "location": "Anchorage Beach, Abel Tasman National Park",
+        "details": "'Bring good shoes and explore the park on foot'; around 40-minute hike from Anchorage Beach to the lookout with lovely beach views.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Kayaking with Abel Tasman Kayaks",
+        "day": 2,
+        "location": "Abel Tasman National Park",
+        "details": "Booked the full-day tour (almost entire day) with a group of ~10; 'the guides are really amazing'.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Aqua Packers",
+        "day": 2,
+        "location": "Anchorage Beach, Abel Tasman",
+        "details": "Boat hostel near Anchorage Beach; single rooms available (not only shared); barbecue dinner on the boat with other travellers.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Water Taxi",
+        "day": null,
+        "location": "Abel Tasman National Park",
+        "details": "'Via Water Taxi you can get from one island to the other if you don't wanna walk the entire time.'",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "handle": "@sorelleamore",
+    "title": "Mysterious Mongolia: self-drive 4x4 adventure with Follow The Tracks",
+    "destination": "Mongolia",
+    "days": null,
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.sorelleamore.com/blog/2020/7/12/mysterious-mongolia-eagle-hunters-nomads-deserts-and-extreme-4wd-travel-for-adventurous-tourists"
+    ],
+    "items": [
+      {
+        "name": "Self-drive 4x4 Mongolia trip (Follow The Tracks)",
+        "day": null,
+        "location": "Mongolia",
+        "details": "Billed as the first self-drive 4x4 trip through Mongolia; takes you and your friends to incredible places away from tourist spots, deeply immersed in the culture of the country",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Local nomad family homestay",
+        "day": null,
+        "location": "Mongolia",
+        "details": "Stayed with local nomad families during the trip",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Visit Eagle Hunting families",
+        "day": null,
+        "location": "Mongolia",
+        "details": "Stayed with the Eagle Hunting families during the trip",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Gobi Desert",
+        "day": null,
+        "location": "Mongolia",
+        "details": null,
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "White Stupa",
+        "day": null,
+        "location": "Mongolia",
+        "details": null,
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Flaming Cliffs",
+        "day": null,
+        "location": "Mongolia",
+        "details": null,
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Camel-breeding Mongolian family homestay",
+        "day": null,
+        "location": "Mongolia",
+        "details": "Stayed with the camel-breeding Mongolian families during the trip",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "handle": "@nomadicmatt",
+    "title": "Croatia: A One-Week Itinerary",
+    "destination": "Croatia (Split, Hvar, Vis/Korcula/Mljet, Dubrovnik)",
+    "days": 7,
+    "confidence": "high",
+    "source_urls": [
+      "https://www.nomadicmatt.com/travel-blogs/croatia-itinerary/"
+    ],
+    "items": [
+      {
+        "name": "Diocletian's Palace",
+        "day": 1,
+        "location": "Split",
+        "details": "Stroll the fourth-century palace halls, now lined with cafes and shops",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "St. Duje's Cathedral",
+        "day": 1,
+        "location": "Split",
+        "details": "Don't-miss cathedral inside Diocletian's Palace",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Klis Fortress",
+        "day": 1,
+        "location": "Split",
+        "details": "Fortress featured in Game of Thrones",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Museum of Croatian Archaeological Monuments",
+        "day": 1,
+        "location": "Split",
+        "details": "Home to some 20,000 relics and artifacts",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Carpe Diem",
+        "day": 3,
+        "location": "Hvar Town, Hvar",
+        "details": "World-famous clubbing spot Hvar Town is known for",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Stari Grad",
+        "day": 3,
+        "location": "Hvar",
+        "details": "UNESCO-listed quieter old town on opposite side of island; hike olive groves and lavender fields",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Vis / Korcula / Mljet day trip",
+        "day": 5,
+        "location": "Dalmatian islands",
+        "details": "Day trip to one of three islands; Vis is untouched (off-limits to civilians until 1989), Korcula for Marco Polo old town and posip wine, Mljet for forests and national park",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Dubrovnik city walls",
+        "day": 6,
+        "location": "Dubrovnik",
+        "details": "Walk the famous city walls",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Mt. Srd cable car",
+        "day": 6,
+        "location": "Dubrovnik",
+        "details": "Cable car to top of Mt. Srd for views of the historic city (runs April-December)",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "17th-century cathedral and 15th-century clock tower",
+        "day": 6,
+        "location": "Dubrovnik",
+        "details": "Don't-miss historic landmarks",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Lokrum island day trip",
+        "day": 7,
+        "location": "off Dubrovnik",
+        "details": "Swim and hike to escape the crowds",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Split to Dubrovnik sailing trip",
+        "day": 1,
+        "location": "Dalmatian Coast",
+        "details": "Alternative way to do the week: 7-day sailing trip (chartered or hop-on hop-off) Split to Dubrovnik",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "handle": "@theblondeabroad",
+    "title": "Itinerary for Two Weeks in Morocco",
+    "destination": "Morocco",
+    "days": 15,
+    "confidence": "high",
+    "source_urls": [
+      "https://www.theblondeabroad.com/itinerary-two-weeks-morocco/comment-page-13/"
+    ],
+    "items": [
+      {
+        "name": "Fly into Marrakech Menara Airport",
+        "day": 1,
+        "location": "Marrakech",
+        "details": "Fly into Marrakech to start the trip",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Riad Yasmine",
+        "day": 1,
+        "location": "Marrakech",
+        "details": "Gorgeous riad; two-night stay covering Days 1-2; described as one of Instagram's most famous hotels",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "NOMAD",
+        "day": 1,
+        "location": "Marrakech",
+        "details": "Cool fusion restaurant for dinner on the first night; great food and an epic sunset view",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Ben Youssef Madrasa and Bahia Palace",
+        "day": 2,
+        "location": "Marrakech",
+        "details": "Both perfect for photo ops",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Le Jardin",
+        "day": 2,
+        "location": "Marrakech",
+        "details": "Green oasis in the middle of the city; perfect midday break; pop-up shop inside",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Buy a local Maroc SIM card",
+        "day": 2,
+        "location": "Marrakech",
+        "details": "Maroc SIM card: 40 dirham (~$4 USD) plus 100 dirham (~$10 USD) for 10GB of data",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Shop Jemaa el Fna markets",
+        "day": 2,
+        "location": "Marrakech",
+        "details": "Shopping at Jemaa el Fna - noted as overly touristy with aggressive vendors",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "La Mamounia",
+        "day": 3,
+        "location": "Marrakech",
+        "details": "Famous luxury hotel for the last couple of nights in the city (Days 3-4); a place to unwind and indulge",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Drive Marrakech to the Sahara Desert",
+        "day": 5,
+        "location": "Marrakech to Sahara Desert",
+        "details": "Approx. 10-hour drive; driver booked through the desert camp",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Sahara Desert Luxury Camp",
+        "day": 5,
+        "location": "Sahara Desert",
+        "details": "Two unforgettable nights of glamping (Days 5-6); travel/driver included in the glamping package",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Transfer from Sahara Desert Camp to Skoura Valley Oasis",
+        "day": 7,
+        "location": "Skoura Valley",
+        "details": "5-hour transfer in a 4x4 with the private driver from the desert camp",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "L'ma Lodge",
+        "day": 7,
+        "location": "Skoura Valley Oasis",
+        "details": "One-night stay (Days 7-8)",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Drive to Essaouira",
+        "day": 8,
+        "location": "Skoura Valley Oasis to Essaouira",
+        "details": "Approx. 7-hour drive with the driver from the desert camp",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Villa Maroc",
+        "day": 8,
+        "location": "Essaouira",
+        "details": "Two-night stay (Days 8-9); book a massage and spend time in their hammam",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Explore the Medina and souks",
+        "day": 8,
+        "location": "Essaouira",
+        "details": "Endless souks - schedule time and budget for shopping",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Stroll the port and fish market",
+        "day": 9,
+        "location": "Essaouira",
+        "details": "Huge port with bright blue boats; head to the bustling fish market afterwards",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Take a cooking class",
+        "day": 9,
+        "location": "Essaouira",
+        "details": "Learn to make traditional Moroccan dishes; offered by Villa Maroc",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "La Licorne",
+        "day": 9,
+        "location": "Essaouira",
+        "details": "Fine dining experience; try their tajin and couscous dishes",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Taxi to Marrakech",
+        "day": 10,
+        "location": "Essaouira to Marrakech",
+        "details": "Taxi to Marrakech paid approx. $90 USD",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Overnight train from Marrakech to Tangier",
+        "day": 10,
+        "location": "Marrakech to Tangier",
+        "details": "Overnight train, one night; a great way to see the landscape between cities",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Taxi to Chefchaouen",
+        "day": 11,
+        "location": "Tangier to Chefchaouen",
+        "details": "Just over two hours; $60 USD",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Dar Baibou",
+        "day": 11,
+        "location": "Chefchaouen",
+        "details": "Two-night stay (Days 11-13); quaint hotel with traditional Moroccan style and great amenities",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Casa Perleta (alternative)",
+        "day": null,
+        "location": "Chefchaouen",
+        "details": "Alternative top-rated hotel with Andalusian style; very popular so book early; beignet stand right next door",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Hike to the Spanish Mosque",
+        "day": 12,
+        "location": "Chefchaouen",
+        "details": "Overlooking Chefchaouen; plan a couple of hours to hike up and explore the abandoned mosque",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Le Lamp Magique at Aladins",
+        "day": 12,
+        "location": "Chefchaouen",
+        "details": "Popular for classic lunch dishes and one of the prime places in Chefchaouen to watch the sunset; favourite shop nearby was La Botica de la Abuela Aladdin for homemade soaps",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Taxi to Fes",
+        "day": 13,
+        "location": "Chefchaouen to Fes",
+        "details": "Approx. 3.5 hours",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Visit the tanneries",
+        "day": 13,
+        "location": "Fes",
+        "details": "Very sensory tour of the famous leather tanneries (lots of strong smells); beautiful handmade leather pieces; best overhead view of the souk and tanneries from the stairs of Shop 64",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Explore Al Attarine Madrasa",
+        "day": 13,
+        "location": "Fes",
+        "details": "Educational institute in the heart of the medina; interesting history and intricate architecture; worth the quick tour",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Dar Seffarine",
+        "day": 13,
+        "location": "Fes",
+        "details": "Oldest hotel in the medina with just six guest rooms; intimate feel and a nice escape from the busy streets",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Train to Casablanca",
+        "day": 14,
+        "location": "Fes to Casablanca",
+        "details": "Less than four hours; $12 to $25 USD depending on seats",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Mogador Marina",
+        "day": 14,
+        "location": "Casablanca",
+        "details": "One-night stay (Days 14-15)",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Rick's Cafe",
+        "day": 14,
+        "location": "Casablanca",
+        "details": "A classic; they make a great Negroni",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Visit the Hassan II Mosque",
+        "day": 14,
+        "location": "Casablanca",
+        "details": "Incredible mosque sitting above the Atlantic Ocean, visible through one room's glass floor",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Bennis Habous pastry shop",
+        "day": 14,
+        "location": "Casablanca",
+        "details": "Located near the old medina; often considered one of the best pastry shops in the country; try the hornes des gazelles",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Resto Zayna",
+        "day": 14,
+        "location": "Casablanca",
+        "details": "Very traditional Moroccan experience and a taste of the country's traditional cuisine",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Stroll through Parc de La Ligue Arabe",
+        "day": 14,
+        "location": "Casablanca",
+        "details": "Peaceful area full of greenery; ideal spot for a walk",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "handle": "@thebucketlistfamily",
+    "title": "Utah Valley Adventures",
+    "destination": "Utah Valley, Utah",
+    "days": null,
+    "confidence": "medium",
+    "source_urls": [
+      "https://www.thebucketlistfamily.com/united-states-of-america"
+    ],
+    "items": [
+      {
+        "name": "Sundance",
+        "day": null,
+        "location": "Utah Valley",
+        "details": "Took the chairlift to the top and cruised around; kids loved the chairlift; hikes and trails in summer, skiing in winter.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Fifth Water Hot Springs hike",
+        "day": null,
+        "location": "Diamond Fork Canyon, Utah",
+        "details": "Great family hike up Diamond Fork Canyon ending at sulphur-y hot pots; about a 3-hour round trip.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Stand-up paddle boarding at Payson Lakes",
+        "day": null,
+        "location": "Payson Canyon, Utah",
+        "details": "With Epic Recreation; a huge family-sized paddle board.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Rowley's Red Barn",
+        "day": null,
+        "location": "Utah Valley",
+        "details": "Family business with hay rides, fruit picking (apples, peaches, cherries), fresh produce store; try the fresh apple juice and apple slushy float.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Holdman Studios",
+        "day": null,
+        "location": "Thanksgiving Point, Utah",
+        "details": "Glass blowing and stained-glass art studio of Tom Holdman.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Farm Country",
+        "day": null,
+        "location": "Thanksgiving Point, Utah",
+        "details": "Family farm experience; kids ride ponies and see cows, rabbits, horses, turkeys, goats and baby chicks.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "The Light of the World Garden",
+        "day": null,
+        "location": "Thanksgiving Point, Utah",
+        "details": "Peaceful garden with fifteen pieces depicting parables and miracles of Christ.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Aubergine restaurant",
+        "day": null,
+        "location": "Utah Valley",
+        "details": "Welcoming owners the family called out as a highlight.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  },
+  {
+    "batch": 2,
+    "handle": "@youngadventuress",
+    "title": "South Island Road Trip - Part 1 (Christchurch to Queenstown)",
+    "destination": "South Island",
+    "days": 7,
+    "confidence": "high",
+    "source_urls": [
+      "https://youngadventuress.com/2015/03/instagram-new-zealand.html"
+    ],
+    "items": [
+      {
+        "name": "Flight to Christchurch",
+        "day": 1,
+        "location": "Queenstown to Christchurch",
+        "details": "Flew from Queenstown to Christchurch to start the trip; picked up the campervan at Christchurch airport.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Britz Campervan",
+        "day": 1,
+        "location": "Christchurch airport",
+        "details": "Britz campervan, the group's wheels for the trip.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "The Clink",
+        "day": 1,
+        "location": "Sumner, Christchurch",
+        "details": "Hip restaurant in Sumner, Christchurch, in a building that once housed mutineers from an English settling mission; dinner on arrival night.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Castle Hill",
+        "day": 2,
+        "location": "Castle Hill, Canterbury",
+        "details": "Limestone boulder field at the foothills of the Southern Alps, 2 hours from Christchurch; film location for the final battle of the Chronicles of Narnia; visited at sunrise.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Devil's Punchbowl falls and kea spotting",
+        "day": 2,
+        "location": "Arthur's Pass",
+        "details": "Waterfall walk in Arthur's Pass; saw cheeky kea, the world's only alpine parrot, at a high viewpoint.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Monteith's Brewery tour",
+        "day": 3,
+        "location": "Greymouth, West Coast",
+        "details": "Brewery tour in Greymouth - learned the story behind the classic kiwi beer brand, how it is brewed, plus tasting.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Te Waonui Forest Retreat",
+        "day": 4,
+        "location": "Franz Josef",
+        "details": "5-star luxury lodge in Franz Josef; her room followed by a 5-course degustation menu at the on-site restaurant.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Canopy Restaurant",
+        "day": 4,
+        "location": "Franz Josef",
+        "details": "5-course degustation dinner at the Te Waonui Forest Retreat, including raspberry sorbet served in bubbles.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Glacier helicopter scenic flight and landing",
+        "day": 5,
+        "location": "Fox Glacier / Franz Josef",
+        "details": "Scenic helicopter flight out to Fox Glacier, landing on a big ice field, then flying back over Franz Josef glacier.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Haast Pass drive",
+        "day": 6,
+        "location": "Fox Glacier to Wanaka via Haast Pass",
+        "details": "Drove the Haast Pass from Fox Glacier to Wanaka; build in extra time for waterfall and glacial river stops.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Whare Kea Chalet",
+        "day": 6,
+        "location": "Wanaka",
+        "details": "Luxury alpine lodge high on Dragonfly Peak, reached by helicopter; dinner, wine and stargazing under a full moon.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Nomad Safaris Macetown trip",
+        "day": 7,
+        "location": "Arrowtown",
+        "details": "Backcountry 4WD trip up to Macetown with river crossings and deep green and gold gorges.",
+        "kind": null,
+        "price": null
+      },
+      {
+        "name": "Amisfield winery",
+        "day": 7,
+        "location": "Queenstown",
+        "details": "Final lunch of the trip at the winery near Queenstown before the group flew home.",
+        "kind": null,
+        "price": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "db": "/home/hatch/workspace/travel-influencer-pilot/pilot.db",
+  "status": "loaded",
+  "stats": {
+    "itineraries": 93,
+    "items": 1142,
+    "sources": 106,
+    "posts": 93,
+    "skipped_quarantined": [
+      {
+        "batch": 1,
+        "handle": "@africansafari",
+        "title": "7-Day Wild & Free Tanzania Great Migration Safari"
+      },
+      {
+        "batch": 1,
+        "handle": "@africansafari",
+        "title": "4 Days Kenya's Golden Safari Circuit - Rift Valley Lakes & the Wild Mara"
+      }
+    ],
+    "skipped_council": []
+  },
+  "checks": {
+    "influencers": 100,
+    "itineraries": 93,
+    "orphan_items": 0,
+    "orphan_itineraries": 0,
+    "itineraries_without_source": 0,
+    "quarantined_with_itineraries": 0
+  }
+}
