@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
-"""Build the travel-itinerary pilot information deck (python-pptx, native).
+"""Build the travel-influencer pilot research findings deck (python-pptx).
 
-7 information slides (neutral tone: no projections, no recommendations, no CTAs)
-+ appendix: full influencer directory, itinerary index, quarantine list.
+Informative dossier style: flat descriptive titles, no sales language, no
+projections, no recommendations, no calls to action, no commercial framing.
+
+8 content slides + appendix (full creator directory, itinerary index,
+quarantine log) = 20 slides.
 
 All numbers come from report/final_report_data.json and pilot.db — no literals.
 """
@@ -81,9 +84,29 @@ def kicker(slide, text, t=0.45):
     rule(slide, 0.9, t + 0.42, 0.7)
 
 
-def title(slide, text, t=1.05, size=34):
+def title(slide, text, t=1.05, size=32):
     tf = textbox(slide, 0.9, t, 11.5, 1.2)
     para(tf, text, size=size, color=INK, font=SERIF, first=True)
+
+
+def bullets(slide, items, t=2.3, size=14, gap=Pt(8), width=11.5, l=0.9):
+    """items: list of (bold_lead, rest) tuples; bold_lead may be ''."""
+    tf = textbox(slide, l, t, width, 4.4)
+    for i, (lead, rest) in enumerate(items):
+        p = tf.paragraphs[0] if i == 0 else tf.add_paragraph()
+        p.space_after = gap
+        if lead:
+            r = p.add_run()
+            r.text = lead
+            r.font.size = Pt(size)
+            r.font.bold = True
+            r.font.color.rgb = INK
+            r.font.name = SANS
+        r = p.add_run()
+        r.text = (" " if lead else "") + rest
+        r.font.size = Pt(size)
+        r.font.color.rgb = INK
+        r.font.name = SANS
 
 
 def styled_table(slide, l, t, w, rows_data, col_widths, header=True,
@@ -135,162 +158,214 @@ def footer(slide, n, total):
     tb.name = "FOOTER"
     tf = tb.text_frame
     tf.word_wrap = True
-    para(tf, f"Travel Itinerary Pilot  •  Information deck  •  {n} / {total}",
+    para(tf, f"Travel Influencer Itinerary Pilot — Research Findings  •  {n} / {total}",
          size=9, color=MUTED, align=PP_ALIGN.RIGHT, first=True)
 
 
-# ============================================================ slide 1: cover
+# ============================================================ 1: title
 s = prs.slides.add_slide(BLANK)
-bg(s, INK)
-tf = textbox(s, 1.1, 2.2, 11, 1.0)
-para(tf, "TRAVEL ITINERARY PILOT", size=15, bold=True, color=ACCENT, first=True,
-     space_after=Pt(8))
-rule(s, 1.1, 3.05, 0.9, color=ACCENT, h=0.06)
-tf = textbox(s, 1.1, 3.3, 11, 2.2)
-para(tf, "What 100 travel creators\nactually recommend", size=44, color=WHITE,
-     font=SERIF, first=True, space_after=Pt(10))
-tf = textbox(s, 1.1, 5.5, 11, 1.0)
-para(tf, "An evidence-only information deck  •  September 2026", size=15,
-     color=RGBColor(0xB9, 0xC0, 0xCC), first=True)
+bg(s)
+kicker(s, "Research findings  ·  2026-09-16", t=2.0)
+tf = textbox(s, 0.9, 2.7, 11.5, 2.0)
+para(tf, "Travel Influencer Itinerary Pilot", size=40, color=INK, font=SERIF,
+     first=True, space_after=Pt(6))
+para(tf, "Research Findings", size=40, color=INK, font=SERIF, space_after=Pt(14))
+tf = textbox(s, 0.9, 5.6, 11.5, 1.0)
+para(tf, "Scope: 100 travel creators (50 TikTok, 50 Instagram) and the "
+         "94 itineraries extracted from their public sources, stored in a "
+         "queryable database with a per-itinerary verification record.",
+     size=14, color=MUTED, first=True)
 footer(s, 1, 0)
 
-# ============================================================ slide 2: at a glance
+# ============================================================ 2: scope
 s = prs.slides.add_slide(BLANK)
 bg(s)
-kicker(s, "The pilot at a glance")
-title(s, "100 creators, 94 verified itineraries")
-c = DATA["creators"]
-stats = [
-    ("100", "creators researched"),
-    ("50 / 50", "TikTok / Instagram"),
-    ("94", "itineraries in the database"),
-    ("1,155", "itinerary items"),
-    ("106", "sources cited"),
-    ("85", "destinations covered"),
-]
-for i, (num, label) in enumerate(stats):
-    col, row = i % 3, i // 3
-    x, y = 0.9 + col * 4.0, 2.6 + row * 1.9
-    tf = textbox(s, x, y, 3.6, 1.6)
-    para(tf, num, size=40, bold=True, color=ACCENT, font=SERIF, first=True,
-         space_after=Pt(2))
-    para(tf, label, size=14, color=MUTED)
-tf = textbox(s, 0.9, 6.35, 11.5, 0.5)
-para(tf, "73 creators with cited follower counts  •  27 unknown (not invented)",
-     size=12, color=MUTED, first=True)
+kicker(s, "Scope")
+title(s, "What was collected, and what was not")
+bullets(s, [
+    ("Collected: ",
+     "100 creators (50 TikTok / 50 Instagram); 94 itineraries; 1,155 itinerary "
+     "items; 106 cited sources; 85 destinations — all stored in pilot.db with "
+     "per-itinerary verification records."),
+    ("Not collected: ",
+     "commercial economics, payment percentages, supplier terms, pricing, or "
+     "demand data. These were explicitly parked and are not part of this research."),
+    ("This deck: ",
+     "an information record of the pilot's findings. It contains no projections, "
+     "no recommendations, and no calls to action."),
+], t=2.4)
 footer(s, 2, 0)
 
-# ============================================================ slide 3: top creators
+# ============================================================ 3: method
 s = prs.slides.add_slide(BLANK)
 bg(s)
-kicker(s, "Creator coverage")
-title(s, "Top creators by cited reach")
-rows = [["Creator", "Platform", "Followers", "Itineraries"]]
-for t in DATA["top_creators_by_reach"]:
-    rows.append([t["handle"], t["platform"], t["followers"],
-                 str(t["itineraries"])])
-styled_table(s, 0.9, 2.35, 11.5, rows, [4.2, 2.4, 2.4, 2.5], font_size=12,
-             row_h=0.36)
-tf = textbox(s, 0.9, 6.5, 11.5, 0.4)
-para(tf, "Follower counts are as cited by sources; ties broken arbitrarily.",
-     size=11, color=MUTED, first=True)
+kicker(s, "Method")
+title(s, "How the creators and itineraries were gathered")
+bullets(s, [
+    ("Selection: ",
+     "100 creators, 50 TikTok / 50 Instagram — the 50/50 split is enforced "
+     "mechanically by load_db.py. The list was compiled 2026-09-15 from "
+     "third-party \"top travel influencer\" listicles (e.g. superprofile.bio, "
+     "diarydirectory.com, travelpayouts.com). No explicit eligibility or "
+     "exclusion rules were recorded at selection time — see SELECTION_CRITERIA.md."),
+    ("Extraction: ",
+     "itineraries were extracted from each creator's public source pages "
+     "(blogs, guides, posts) into a normalized schema: itinerary, items, "
+     "sources, destinations."),
+    ("Validation: ",
+     "7 validation gates, fail-closed — nothing unverified enters the database. "
+     "An independent evidence council re-verified the itineraries against live "
+     "sources on 2026-09-16; corrections are recorded in "
+     "QC_REPORT_STRENGTHENED.md. 9 records were quarantined (Appendix C)."),
+], t=2.4)
 footer(s, 3, 0)
 
-# ============================================================ slide 4: verification
+# ============================================================ 4: creators
 s = prs.slides.add_slide(BLANK)
 bg(s)
-kicker(s, "Verification")
-title(s, "Every itinerary checked against its source")
-conf = DATA["confidence"]
-cards = [(f"{conf['high']}", "high confidence", TEAL),
-         (f"{conf['medium']}", "medium confidence", ACCENT),
-         (f"{conf['low']}", "low confidence", MUTED)]
-for i, (num, label, color) in enumerate(cards):
-    x = 0.9 + i * 4.0
-    tf = textbox(s, x, 2.6, 3.6, 1.4)
-    para(tf, num, size=44, bold=True, color=color, font=SERIF, first=True,
-         space_after=Pt(2))
-    para(tf, label, size=14, color=MUTED)
-bullets = [
-    "7 validation gates, fail-closed: nothing unverified enters the database.",
-    "10 data corrections applied during verification (7 fixed, 1 re-verified, 1 quarantined, 1 exclusion).",
-    "Evidence-only audit: PASS, 2026-09-16.",
-    "8 handles quarantined — listed in the appendix with reasons.",
-]
-tf = textbox(s, 0.9, 4.5, 11.5, 2.2)
-for i, b in enumerate(bullets):
-    para(tf, "•  " + b, size=14, color=INK, first=(i == 0),
-         space_after=Pt(8))
+kicker(s, "The creators")
+title(s, "Composition of the 100 creators")
+c = DATA["creators"]
+niches = DB.execute(
+    "SELECT niche, COUNT(*) AS n FROM influencers GROUP BY niche "
+    "ORDER BY n DESC").fetchall()
+rows = [["Niche", "Creators"]]
+for n in niches:
+    rows.append([n["niche"] or "—", str(n["n"])])
+# niche table (left) + composition facts (right)
+styled_table(s, 0.9, 2.35, 4.6, rows, [3.0, 1.6], font_size=10.5, row_h=0.21)
+bullets(s, [
+    ("Platform split: ", f"{c['tiktok']} TikTok / {c['instagram']} Instagram."),
+    ("Follower counts: ",
+     f"{c['with_known_followers']} cited by sources, {c['unknown_followers']} "
+     "marked unknown — counts are as cited, not independently audited."),
+    ("Itinerary yield: ",
+     f"{c['with_itineraries']} of the 100 creators have at least one extracted "
+     f"itinerary ({DATA['itineraries']['total']} itineraries total)."),
+    ("Quarantined: ",
+     "8 creator records quarantined for identity problems (brand or "
+     "operator accounts, misattributed content, possible list typos) — "
+     "see Appendix C."),
+], t=2.35, width=6.4, l=6.0)
+tf = textbox(s, 6.0, 5.7, 6.4, 0.8)
+para(tf, "Niche labels are as recorded at compile time; 27 follower counts are "
+         "unknown and were not estimated.", size=11, color=MUTED, first=True)
 footer(s, 4, 0)
 
-# ============================================================ slide 5: trip lengths
+# ============================================================ 5: itineraries
 s = prs.slides.add_slide(BLANK)
 bg(s)
-kicker(s, "Trip lengths")
-title(s, "From a day trip to three months")
+kicker(s, "The itineraries")
+title(s, "Composition of the 94 itineraries")
 cov = DATA["coverage"]
-stats = [
-    (f"{cov['shortest_days']}–{cov['longest_days']} days", "full range of trip lengths"),
-    (f"{cov['trips_7_days_or_more']}", "trips of 7 days or more"),
-    ("19", "itineraries with no fixed length (guides, not trips)"),
+rows = [
+    ["Measure", "Value"],
+    ["Itineraries", "94"],
+    ["Itinerary items", f"{cov['items']:,}"],
+    ["Destinations covered", str(cov["destinations"])],
+    ["Sources cited", str(cov["sources"])],
+    ["Trip-length range", f"{cov['shortest_days']}–{cov['longest_days']} days"],
+    ["Trips of 7 days or more", str(cov["trips_7_days_or_more"])],
+    ["Itineraries with no fixed length (guides, not trips)", "19"],
 ]
-for i, (num, label) in enumerate(stats):
-    x = 0.9 + i * 4.0
-    tf = textbox(s, x, 2.6, 3.6, 1.6)
-    para(tf, num, size=36, bold=True, color=ACCENT, font=SERIF, first=True,
-         space_after=Pt(4))
-    para(tf, label, size=14, color=MUTED)
-tf = textbox(s, 0.9, 4.9, 11.5, 1.4)
-para(tf, "Longest: “3-Month Southeast Asia Itinerary: The Banana Pancake Trail” (90 days). "
-         "Trip-length statistics exclude the 19 itineraries whose sources state no fixed length.",
-     size=13, color=MUTED, first=True)
+styled_table(s, 0.9, 2.35, 7.6, rows, [5.0, 2.6], font_size=12.5, row_h=0.44)
+bullets(s, [
+    ("Longest: ",
+     "“3-Month Southeast Asia Itinerary: The Banana Pancake Trail” (90 days)."),
+    ("Note: ",
+     "trip-length figures exclude the 19 itineraries whose sources state no "
+     "fixed length."),
+], t=2.35, width=3.4, l=9.0)
 footer(s, 5, 0)
 
-# ============================================================ slide 6: flagships
+# ============================================================ 6: validation
 s = prs.slides.add_slide(BLANK)
 bg(s)
-kicker(s, "Flagship itineraries")
-title(s, "Five itineraries verified claim by claim")
-rows = [["Itinerary", "Creator", "Days", "Items"]]
-for f in DATA["flagship_itineraries"]:
-    rows.append([f["title"], f["handle"], str(f["days"]), str(f["items"])])
-styled_table(s, 0.9, 2.35, 11.5, rows, [5.6, 2.5, 1.4, 2.0], font_size=11.5,
-             row_h=0.42)
-tf = textbox(s, 0.9, 6.5, 11.5, 0.4)
-para(tf, "Each item name and detail checked against the live source page; "
-         "supporting passages recorded in the verification log.", size=11,
-     color=MUTED, first=True)
+kicker(s, "Validation")
+title(s, "Confidence levels and verification")
+conf = DATA["confidence"]
+rows = [
+    ["Confidence", "Itineraries", "Meaning"],
+    ["High", str(conf["high"]),
+     "every claim checked against the live source; supporting passage recorded"],
+    ["Medium", str(conf["medium"]),
+     "source checked; one or more details not independently confirmable"],
+    ["Low", str(conf["low"]),
+     "source checked; material details unverifiable or ambiguous"],
+]
+styled_table(s, 0.9, 2.35, 11.5, rows, [1.8, 1.8, 7.9], font_size=12,
+             row_h=0.5)
+bullets(s, [
+    ("Gates: ",
+     "7 validation gates, fail-closed — identity, platform, source resolution, "
+     "item extraction, duplication, override review, and final sign-off."),
+    ("Re-verification: ",
+     "an independent evidence council re-verified the itineraries against live "
+     "sources on 2026-09-16; 10 data corrections were applied (7 fixed, "
+     "1 re-verified, 1 quarantined, 1 exclusion)."),
+    ("Audit: ",
+     "evidence-only audit: PASS, 2026-09-16."),
+], t=4.6)
 footer(s, 6, 0)
 
-# ============================================================ slide 7: validate
+# ============================================================ 7: limitations
 s = prs.slides.add_slide(BLANK)
 bg(s)
-kicker(s, "Validate this yourself")
-title(s, "Everything is inspectable")
-tf = textbox(s, 0.9, 2.5, 11.5, 3.5)
-items = [
-    ("The appendix", "full influencer directory (100) and itinerary index (94) follow this slide."),
-    ("The spreadsheet", "travel-influencers-directory.xlsx — every handle, source link, and quarantine reason."),
-    ("The database", "pilot.db — query any number on these slides; queries are documented in SLIDE_CALCULATIONS.md."),
-    ("The verification log", "validation/reports/VERIFICATION_LOG_FULL.md — check date and supporting passage per itinerary."),
-]
-for i, (h, d) in enumerate(items):
-    para(tf, h, size=15, bold=True, color=INK, first=(i == 0),
-         space_after=Pt(1))
-    para(tf, d, size=13, color=MUTED, space_after=Pt(12))
+kicker(s, "Limitations")
+title(s, "What this data cannot say")
+bullets(s, [
+    ("Unknowns stay unknown: ",
+     "27 follower counts, plus any prices, dates, or figures not stated by "
+     "sources, are recorded as unknown — nothing was estimated or invented."),
+    ("Selection records are thin: ",
+     "no eligibility or exclusion rules were documented at selection time; "
+     "8 creator records were later quarantined for identity problems."),
+    ("Follower counts are as-cited: ",
+     "they come from source listicles and were not independently audited."),
+    ("Coverage limits: ",
+     "47 creators have no extracted itinerary; 19 itineraries have no fixed "
+     "trip length; confidence is low for 5 itineraries."),
+    ("Out of scope: ",
+     "the data says nothing about commercial economics, payment shares, "
+     "supplier terms, or demand — those were never collected."),
+], t=2.4)
 footer(s, 7, 0)
 
-# ============================================================ appendix divider
+# ============================================================ 8: reproducibility
+s = prs.slides.add_slide(BLANK)
+bg(s)
+kicker(s, "Reproducibility")
+title(s, "How to re-verify any claim in this deck")
+bullets(s, [
+    ("Database: ",
+     "travel-influencer-pilot/pilot.db — every number on these slides can be "
+     "recomputed with a SQL query."),
+    ("Verification log: ",
+     "validation/reports/VERIFICATION_LOG_FULL.md — check date and supporting "
+     "passage recorded per itinerary."),
+    ("QC reports: ",
+     "validation/reports/QC_REPORT_STRENGTHENED.md — every correction applied, "
+     "with before/after evidence."),
+    ("Selection record: ",
+     "SELECTION_CRITERIA.md — what is established about creator selection and "
+     "what was never recorded."),
+    ("Directory: ",
+     "travel-influencers-directory.xlsx — every handle, profile URL, source "
+     "link, and quarantine reason in one workbook."),
+], t=2.4)
+footer(s, 8, 0)
+
+# ============================================================ 9: appendix divider
 s = prs.slides.add_slide(BLANK)
 bg(s, INK)
 tf = textbox(s, 1.1, 3.0, 11, 1.5)
 para(tf, "APPENDIX", size=15, bold=True, color=ACCENT, first=True,
      space_after=Pt(8))
-para(tf, "Influencer directory\n& itinerary index", size=40, color=WHITE,
-     font=SERIF)
-footer(s, 8, 17)
+para(tf, "Influencer directory,\nitinerary index, and quarantine log", size=38,
+     color=WHITE, font=SERIF)
+footer(s, 9, 0)
 
-# ============================================================ appendix: directory
+# ============================================================ 10-14: appendix A — directory
 people = DB.execute("""
   SELECT i.handle, i.platform, i.followers_approx, i.niche,
          COUNT(DISTINCT t.id) AS n_it
@@ -312,17 +387,15 @@ for ci in range(0, len(people), CHUNK):
                      p["niche"] or "—", str(p["n_it"])])
     styled_table(s, 0.9, 2.2, 11.5, rows, [3.4, 2.2, 2.2, 2.2, 1.5],
                  font_size=10.5, row_h=0.185)
-    # no bottom footer on dense table slides (kicker carries the numbering)
+    # dense table slides: kicker carries the numbering; no footer needed
 
-# ============================================================ appendix: itinerary index
+# ============================================================ 15-19: appendix B — itinerary index
 itins = DB.execute("""
   SELECT t.title, inf.handle, t.days, t.confidence
   FROM itineraries t JOIN influencers inf ON inf.id = t.influencer_id
   ORDER BY inf.handle, t.title""").fetchall()
 
-CHUNK = 20
 n_it_total = (len(itins) + CHUNK - 1) // CHUNK
-n_dir = n_dir_total
 for ci in range(0, len(itins), CHUNK):
     chunk = itins[ci:ci + CHUNK]
     n = ci // CHUNK + 1
@@ -341,11 +414,11 @@ for ci in range(0, len(itins), CHUNK):
     styled_table(s, 0.9, 2.2, 11.5, rows, [6.2, 2.6, 1.2, 1.5],
                  font_size=10.5, row_h=0.185)
 
-# ============================================================ appendix: quarantine + notes
+# ============================================================ 20: appendix C — quarantine + notes
 s = prs.slides.add_slide(BLANK)
 bg(s)
 kicker(s, "Appendix C — exclusions & notes")
-title(s, "What was kept out, and why", size=28)
+title(s, "Quarantine log", size=28)
 q = json.loads((ROOT / "validation" / "quarantine.json").read_text())
 rows = [["Handle", "Scope", "Reason"]]
 for e in q.get("quarantine", []):
@@ -353,14 +426,14 @@ for e in q.get("quarantine", []):
         reason = e.get("reason", "")
         if len(reason) > 90:
             reason = reason[:88] + "…"
-        rows.append([e.get("handle", ""), e.get("scope", ""), reason])
+        rows.append([e.get("handle", ""), e.get("scope", "") or "creator", reason])
 styled_table(s, 0.9, 2.2, 11.5, rows, [2.8, 1.8, 6.9], font_size=11,
              row_h=0.3)
 tf = textbox(s, 0.9, 6.3, 11.5, 0.8)
 para(tf, "“Unknown” means unknown — follower counts, prices, and dates were never "
          "invented. Discrepancies were fixed before sign-off, never overridden.",
      size=12, color=MUTED, first=True)
-footer(s, 99, 0)
+footer(s, 20, 0)
 
 total = len(prs.slides)
 for idx, s in enumerate(prs.slides):
@@ -368,7 +441,7 @@ for idx, s in enumerate(prs.slides):
         if sh.name == "FOOTER" and sh.has_text_frame:
             tf = sh.text_frame
             tf.clear()
-            para(tf, f"Travel Itinerary Pilot  •  Information deck  •  {idx + 1} / {total}",
+            para(tf, f"Travel Influencer Itinerary Pilot — Research Findings  •  {idx + 1} / {total}",
                  size=9, color=MUTED, align=PP_ALIGN.RIGHT, first=True)
 OUT = Path("/home/hatch/workspace/your_files/travel-itinerary-pilot-report/"
            "travel-itinerary-pilot-report.pptx")
