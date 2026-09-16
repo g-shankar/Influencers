@@ -1,0 +1,60 @@
+{
+  "quarantine": [
+    {
+      "added": "2026-09-15",
+      "handle": "@africansafari",
+      "platform": "instagram",
+      "reason": "May be a brand/tour-operator account rather than an individual creator. Verify account nature before any attribution or outreach.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-15",
+      "handle": "@limsawkward",
+      "platform": "tiktok",
+      "reason": "Possible source-list typo; handle may not exist. Re-verify against the source publication before use.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-15",
+      "handle": "@marklharriosn",
+      "platform": "tiktok",
+      "reason": "Possible source-list typo ('harrison'?). Re-verify against the source publication before use.",
+      "status": "quarantined"
+    },
+    {
+      "handle": "@nastasiawong",
+      "platform": "tiktok",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@nomadicmovement",
+      "platform": "tiktok",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@oceanwanderer",
+      "platform": "tiktok",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@rachid_dahnoun",
+      "platform": "tiktok",
+      "reason": "Flagged by batch-2 extraction: Morocco itineraries found belong to a same-named tour operator, not this creator. Do not attribute operator content to the creator.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@sidewalkerdaily",
+      "platform": "instagram",
+      "reason": "Flagged by batch-4 extraction: influencer-marketing consultancy, not a travel creator. Exclude from itinerary attribution unless re-verified.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    }
+  ]
+}

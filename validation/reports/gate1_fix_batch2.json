@@ -1,0 +1,80 @@
+{
+  "file": "itineraries_batch2.json",
+  "fix": "prepended https:// to scheme-less booking_link domains",
+  "changes": [
+    {
+      "handle": "@nomadicmatt",
+      "item": "Clarion Hotel Sense",
+      "old": "www.booking.com",
+      "new": "https://www.booking.com"
+    },
+    {
+      "handle": "@nomadicmatt",
+      "item": "Hotell Bj\u00f6rken",
+      "old": "www.booking.com",
+      "new": "https://www.booking.com"
+    },
+    {
+      "handle": "@nomadicmatt",
+      "item": "Elite Hotel",
+      "old": "www.booking.com",
+      "new": "https://www.booking.com"
+    },
+    {
+      "handle": "@nomadicmatt",
+      "item": "FriluftsByn",
+      "old": "friluftsbyn.com",
+      "new": "https://friluftsbyn.com"
+    },
+    {
+      "handle": "@nomadicmatt",
+      "item": "Lilla Hotellet",
+      "old": "www.booking.com",
+      "new": "https://www.booking.com"
+    },
+    {
+      "handle": "@nomadicmatt",
+      "item": "Uppsala City Hostel",
+      "old": "hostelworld.prf.hn",
+      "new": "https://hostelworld.prf.hn"
+    },
+    {
+      "handle": "@nomadicmatt",
+      "item": "Botanika Uppsala",
+      "old": "www.booking.com",
+      "new": "https://www.booking.com"
+    },
+    {
+      "handle": "@nomadicmatt",
+      "item": "Rental car for northern Sweden",
+      "old": "www.discovercars.com",
+      "new": "https://www.discovercars.com"
+    },
+    {
+      "handle": "@oneikathetraveller",
+      "item": "Jollyboys Backpackers",
+      "old": "www.backpackzambia.com",
+      "new": "https://www.backpackzambia.com"
+    },
+    {
+      "handle": "@oneikathetraveller",
+      "item": "Kalahari Tours",
+      "old": "www.kalaharichobe.com",
+      "new": "https://www.kalaharichobe.com"
+    },
+    {
+      "handle": "@pilotmadeleine",
+      "itinerary": "Hawaii Travel Diary: Oahu Days 1 & 2",
+      "action": "removed item with null name (unnamed hotel, no information content)",
+      "removed_item": {
+        "booking_link": null,
+        "day": 1,
+        "details": "Drove straight from the airport; accommodation name not given.",
+        "item_type": "hotel",
+        "location": "Waikiki Beach",
+        "name": null,
+        "price_hint": null
+      }
+    }
+  ]
+}

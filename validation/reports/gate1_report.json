@@ -1,0 +1,49 @@
+{
+  "gate": 1,
+  "name": "extraction schema",
+  "status": "NOT READY",
+  "batches": [
+    {
+      "batch": 1,
+      "status": "NOT READY",
+      "extractions": 0,
+      "itineraries": 0,
+      "reason": "missing itineraries_batch1.json"
+    },
+    {
+      "batch": 2,
+      "status": "PASS",
+      "extractions": 25,
+      "itineraries": 33
+    },
+    {
+      "batch": 3,
+      "status": "PASS",
+      "extractions": 25,
+      "itineraries": 7
+    },
+    {
+      "batch": 4,
+      "status": "PASS",
+      "extractions": 25,
+      "itineraries": 26
+    }
+  ],
+  "errors": [],
+  "warnings": [
+    "staging/batch1_part1.json: non-canonical file ignored by gates",
+    "staging/batch1_part2.json: non-canonical file ignored by gates",
+    "staging/batch1_part3.json: non-canonical file ignored by gates",
+    "staging/batch1_part4.json: non-canonical file ignored by gates",
+    "staging/itineraries_batch2_part1.json: non-canonical file ignored by gates",
+    "staging/itineraries_batch2_part2.json: non-canonical file ignored by gates",
+    "staging/itineraries_batch2_part3.json: non-canonical file ignored by gates",
+    "staging/itineraries_batch2_part4.json: non-canonical file ignored by gates",
+    "staging/itineraries_batch2_part5.json: non-canonical file ignored by gates",
+    "staging/itineraries_batch4_partA.json: non-canonical file ignored by gates",
+    "staging/itineraries_batch4_partB.json: non-canonical file ignored by gates",
+    "staging/itineraries_batch4_partC.json: non-canonical file ignored by gates",
+    "staging/itineraries_batch4_partD.json: non-canonical file ignored by gates",
+    "staging/itineraries_batch4_partE.json: non-canonical file ignored by gates"
+  ]
+}

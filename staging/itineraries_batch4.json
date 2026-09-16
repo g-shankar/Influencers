@@ -1,0 +1,3427 @@
+{
+  "batch": 4,
+  "extractions": [
+    {
+      "handle": "@marcoegius",
+      "itineraries": [],
+      "notes": "Real account verified (Marco & Gius, couples travel duo; listed by EF GO Blog as a couple that has visited 40+ countries). Content is cinematic travel reels; no named day-by-day itineraries, 'X days in Y' guides, or structured trip plans found on TikTok or the open web. Search results for itinerary-style content returned other creators (e.g. @marco.miglionico_, @rs_travelss), not @marcoegius. No extractable itinerary.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@marissadaily_",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Japan",
+          "days": 10,
+          "destination": "Japan (Tokyo, Hakone, Kyoto, Osaka)",
+          "items": [
+            {
+              "day": 1,
+              "details": "Buzzing neighborhoods, iconic sights; designed for round-trip Tokyo arrivals",
+              "item_type": "activity",
+              "location": "Tokyo",
+              "name": "Tokyo first-timer sights",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "details": "Hot springs, mountain air, slower mornings",
+              "item_type": "activity",
+              "location": "Hakone",
+              "name": "Hakone pause stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "details": "Calm, historic; early mornings, ancient streets",
+              "item_type": "activity",
+              "location": "Kyoto",
+              "name": "Kyoto historic quarter",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 8,
+              "details": "Lively, casual, food-forward; nights turn meals into memories",
+              "item_type": "restaurant",
+              "location": "Osaka",
+              "name": "Osaka food scene",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@marissadaily_/video/7603514904640851230"
+          ],
+          "summary": "10-day first-timers route for travelers flying round-trip through Tokyo: Tokyo start (buzzing neighborhoods, iconic sights), Hakone (hot springs, slower mornings), Kyoto (calm, historic, early mornings, ancient streets), Osaka (food-forward nightlife), then back to Tokyo for a final night of shopping and revisiting favorites. Positioned for first-time Japan visitors who want highlights and variety without chaos.",
+          "title": "10 Days in Japan: First-Timers Route"
+        },
+        {
+          "confidence": "high",
+          "country": "Egypt",
+          "days": 10,
+          "destination": "Egypt (Cairo, Aswan, Luxor, Hurghada)",
+          "items": [
+            {
+              "day": 1,
+              "details": "Arrive in Cairo; visit the Great Pyramids of Giza and the Sphinx",
+              "item_type": "activity",
+              "location": "Giza",
+              "name": "Great Pyramids of Giza & Sphinx",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "details": "Step Pyramid; part of Days 1-2 Cairo & Giza leg",
+              "item_type": "activity",
+              "location": "Saqqara",
+              "name": "Saqqara Step Pyramid",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "details": "Dinner overlooking the Nile in Cairo",
+              "item_type": "restaurant",
+              "location": "Cairo",
+              "name": "Nile-view dinner",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "details": "Fly Cairo to Aswan; Philae Temple and the Unfinished Obelisk",
+              "item_type": "activity",
+              "location": "Aswan",
+              "name": "Philae Temple",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "details": "Explore a Nubian Village",
+              "item_type": "activity",
+              "location": "Aswan",
+              "name": "Nubian Village",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "details": "Board a Nile River cruise; sail to Kom Ombo Temple at sunset",
+              "item_type": "activity",
+              "location": "Nile",
+              "name": "Nile River cruise",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "details": "Optional excursion mentioned",
+              "item_type": "activity",
+              "location": "Abu Simbel",
+              "name": "Abu Simbel (optional excursion)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "details": "Edfu Temple, Karnak Temple & Luxor Temple",
+              "item_type": "activity",
+              "location": "Luxor",
+              "name": "Edfu, Karnak & Luxor Temples",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "details": "Sunrise hot air balloon over Luxor",
+              "item_type": "activity",
+              "location": "Luxor",
+              "name": "Luxor hot air balloon",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "details": "Valley of the Kings plus Hatshepsut Temple",
+              "item_type": "activity",
+              "location": "Luxor",
+              "name": "Valley of the Kings",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "details": "Stay at a Nile-front resort",
+              "item_type": "hotel",
+              "location": "Luxor",
+              "name": "Nile-front resort (unnamed)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 7,
+              "details": "Road trip from Luxor; Red Sea resorts, beach clubs, snorkeling and boat days; slower pace",
+              "item_type": "activity",
+              "location": "Hurghada",
+              "name": "Red Sea resorts & snorkeling",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 10,
+              "details": "Visit the Grand Egyptian Museum",
+              "item_type": "activity",
+              "location": "Cairo",
+              "name": "Grand Egyptian Museum (GEM)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 10,
+              "details": "Explore Khan El Khalili Market; 'eat ALL the koshari'",
+              "item_type": "restaurant",
+              "location": "Cairo",
+              "name": "Khan El Khalili & koshari",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@marissadaily_/video/7643900020395232543"
+          ],
+          "summary": "10-day Egypt route flying in and out of Cairo, balancing history, culture, adventure, and relaxation. Days 1-2: Cairo & Giza (pyramids, Sphinx, Saqqara, Nile dinner). Days 3-4: fly to Aswan (Philae Temple, Nubian village) then board a Nile cruise with Kom Ombo at sunset. Days 5-6: Luxor (Edfu/Karnak/Luxor temples, sunrise hot air balloon, Valley of the Kings, Nile-front resort). Days 7-9: Hurghada Red Sea beach/snorkel days. Day 10: fly back to Cairo for the GEM, Khan El Khalili, then fly home. Caption credits the route as '[planned by The World Within Us Travels]' - her promotion/repost of that agency's itinerary.",
+          "title": "10 Days in Egypt: Cairo, Nile Cruise & the Red Sea"
+        },
+        {
+          "confidence": "high",
+          "country": "Japan",
+          "days": 1,
+          "destination": "Osaka, Japan",
+          "items": [
+            {
+              "day": 1,
+              "details": "Morning: explore the castle, moats and gardens; samurai history inside",
+              "item_type": "activity",
+              "location": "Osaka",
+              "name": "Osaka Castle",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "details": "Morning: melt-in-your-mouth wagyu, Kobe beef burgers, fresh oysters, vending-machine orange juice",
+              "item_type": "restaurant",
+              "location": "Osaka",
+              "name": "Kuromon Ichiba Market",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "details": "Afternoon/evening: glide past neon signs and street food stalls by canal boat; Glico Man photo",
+              "item_type": "activity",
+              "location": "Dotonbori, Osaka",
+              "name": "Dotonbori canal boat",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "details": "Evening: chase sunset at the tower; dare the glass cage; explore retro Shinsekai",
+              "item_type": "activity",
+              "location": "Shinsekai, Osaka",
+              "name": "Tsutenkaku Tower",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "details": "Late night: bar hopping inside the Misono Building - tiny themed bars, karaoke corners",
+              "item_type": "restaurant",
+              "location": "Osaka",
+              "name": "Misono Building bars",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@marissadaily_/video/7605292254936288543"
+          ],
+          "summary": "One-day Osaka sprint: morning at Osaka Castle and Kuromon Ichiba Market (wagyu, Kobe beef burgers, oysters), afternoon-to-evening in Dotonbori (canal boat, Glico Man photo), sunset at Tsutenkaku Tower and retro Shinsekai, late night bar hopping inside the Misono Building. Framed as 'if you only had ONE day in this electric city'.",
+          "title": "24 Hours in Osaka"
+        }
+      ],
+      "notes": "All three are day-by-day itineraries posted as TikTok carousel captions on her own account. No hotels, booking links, or prices named in the captions, so items are activity/restaurant-level only.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@marklharriosn",
+      "itineraries": [],
+      "notes": "The CSV handle @marklharriosn appears to be a typo for the real TikTok account @marklharrison (1.2M followers; Lefty.io and diarydirectory.com list '@marklharriosn' alongside the @marklharrison profile). His content is cinematic outdoor-adventure POVs, off-the-beaten-path destinations, and trying local food (partnerships: Volkswagen Canada, Insta360). No named day-by-day itineraries, trip guides, or structured trip plans attributable to him found on TikTok or the open web. No extractable itinerary.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@maxmilespoints",
+      "itineraries": [],
+      "notes": "Real account verified (@maxmilespoints, covered by AFAR, Explore, Dinogo as a points-and-miles educator). His content is tutorials on using travel credit cards/points for free or discounted flights and hotels, plus flight/hotel deals, points tools, and lounge openings - not destination itineraries. A 2023 podcast mentions an 'around the world trip using just credit card points,' but no day-by-day route, destinations, hotels, or activities were published as an itinerary. No extractable itinerary.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@mgtenazas",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "Maldives",
+          "days": null,
+          "destination": "Maldives",
+          "items": [
+            {
+              "day": null,
+              "details": "Guesthouses on inhabited islands 'operate like boutique hotels, with more personalized services, a smaller number of rooms, and a more economical rate'; many offer all-inclusive rates with all meals covered and excursions like diving and snorkeling included",
+              "item_type": "hotel",
+              "location": "Maldives inhabited islands",
+              "name": "Local-island guesthouses (unnamed)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "City hotels in the Maldives' urban centers as a cheaper alternative to ultra-luxury resorts",
+              "item_type": "hotel",
+              "location": "Male / urban centers",
+              "name": "City hotels in Male (unnamed)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Go snorkeling or even diving with manta rays, whale sharks, nurse sharks; visit the Keyodhoo shipwreck",
+              "item_type": "activity",
+              "location": "Maldives",
+              "name": "Snorkeling/diving with manta rays, whale sharks, nurse sharks",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Spend less than $150 USD per day including excursions, depending on the atoll",
+              "item_type": "other",
+              "location": "Maldives",
+              "name": "Under-$150/day Maldives budget",
+              "price_hint": "under $150 USD per day, depending on atoll",
+              "booking_link": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@mgtenazas/video/7298644410747620641",
+            "https://izea.com/resources/tiktok-travel-influencers/"
+          ],
+          "summary": "Budget-Maldives guide from his TikTok caption: skip the ultra-luxurious resorts and stay in guesthouses on inhabited islands or city hotels in the urban centers. Many guesthouses run all-inclusive rates covering meals plus diving/snorkeling excursions, so under $150/day per atoll gets you snorkeling with manta rays, whale sharks, nurse sharks, and visits like the Keyodhoo shipwreck. 'Can you stay in the Maldives on a budget? The answer is yes definitely.'",
+          "title": "Maldives on a Budget: Local-Island Stays"
+        }
+      ],
+      "notes": "Mikki Tenazas (1.5M TikTok) posts cinematic luxury visuals (Maldives, Bali); the Maldives budget post is a recommendation list tied to a trip, not a day-by-day plan, hence medium confidence. No hotels named, no booking links given. His Soneva Jani villa video is a single showcase clip, not an itinerary, so it was excluded.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@nikkionherway",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Slovenia",
+          "days": 7,
+          "destination": "Slovenia",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Fly into Ljubljana Airport, ~45 min outside town; airport bus to city center ~45 min, ~\u20ac4, tickets from driver",
+              "item_type": "flight",
+              "location": "Ljubljana Airport",
+              "name": "Flight to Ljubljana Airport",
+              "price_hint": "Bus ~\u20ac4"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "1-hour river cruise; tickets at stands along the river",
+              "item_type": "activity",
+              "location": "Ljubljana Old Town",
+              "name": "Ljubljanica River boat ride",
+              "price_hint": "\u20ac14 adult ticket"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Reach by uphill walk or funicular; free castle grounds at sunset option",
+              "item_type": "activity",
+              "location": "Ljubljana",
+              "name": "Ljubljana Castle",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Wine bar on the side of the castle; best sunset views in Ljubljana",
+              "item_type": "restaurant",
+              "location": "Ljubljana Castle",
+              "name": "Grajska Vinoteka",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Quick photo stop known for dragon statues",
+              "item_type": "activity",
+              "location": "Ljubljana",
+              "name": "Dragon Bridge (Zmajski Most)",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Green space for picnics, ~20 min walk from Old Town; free",
+              "item_type": "activity",
+              "location": "Ljubljana",
+              "name": "Tivoli Park",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Local produce/crafts market; Open Kitchen food market mid-March to end of October",
+              "item_type": "activity",
+              "location": "Ljubljana",
+              "name": "Central Market / Open Kitchen",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Named in her TikTok recap as where to eat in Ljubljana",
+              "item_type": "restaurant",
+              "location": "Ljubljana",
+              "name": "Julija",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "One of Europe's largest cave systems, first cave with a visitor train; 90-min guided tour, book ticket online ahead",
+              "item_type": "activity",
+              "location": "Postojna",
+              "name": "Postojna Caves",
+              "price_hint": "Combined caves + Predjama Castle ticket ~\u20ac41.90"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Castle built into a cliff; shuttle from Postojna Caves every ~15 min (\u20ac2 each way, cash)",
+              "item_type": "activity",
+              "location": "Predjama",
+              "name": "Predjama Castle",
+              "price_hint": "Shuttle ~\u20ac2 each way"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Bus from Ljubljana bus depot straight to cave entrance; book ahead",
+              "item_type": "transport",
+              "location": "Ljubljana to Postojna",
+              "name": "Bus Ljubljana to Postojna",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Named in her TikTok recap for Lake Bohinj",
+              "item_type": "activity",
+              "location": "Lake Bohinj",
+              "name": "Vogel Mountain cable car",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Waterfall hike; walking instructions in her itinerary map",
+              "item_type": "activity",
+              "location": "Lake Bohinj",
+              "name": "Savica waterfall hike (Slap Savica)",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Swimming named as a Bohinj must-do",
+              "item_type": "activity",
+              "location": "Lake Bohinj",
+              "name": "Swim in Lake Bohinj",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Named in her TikTok recap as where to eat at Lake Bohinj",
+              "item_type": "restaurant",
+              "location": "Lake Bohinj",
+              "name": "Divja Jaga",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Swimming named as a Bled must-do",
+              "item_type": "activity",
+              "location": "Lake Bled",
+              "name": "Swim in Lake Bled",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Rent a rowboat on the lake",
+              "item_type": "activity",
+              "location": "Lake Bled",
+              "name": "Rowboat rental on Lake Bled",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Traditional pletna boat ride to the island",
+              "item_type": "activity",
+              "location": "Lake Bled",
+              "name": "Pletna boat to Bled Island",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Gorge walk; walking instructions in her itinerary map",
+              "item_type": "activity",
+              "location": "near Lake Bled",
+              "name": "Vintgar Gorge",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Chairlift + rail sled down Straza hill overlooking the lake",
+              "item_type": "activity",
+              "location": "Lake Bled",
+              "name": "Summer toboggan at Straza",
+              "price_hint": "\u20ac11 for chairlift up + 1 toboggan run"
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Viewpoint named in her TikTok recap",
+              "item_type": "activity",
+              "location": "Lake Bled",
+              "name": "Mala Osojnica viewpoint",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Her recommended stay at Lake Bled, named in TikTok recap",
+              "item_type": "hotel",
+              "location": "Lake Bled",
+              "name": "Hotel Triglav",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "Optional final-day stop before leaving",
+              "item_type": "activity",
+              "location": "Kranj",
+              "name": "Kranj",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://nikkionherway.com/slovenia-itinerary/"
+          ],
+          "summary": "Nikki Gibson's 7-day Slovenia itinerary compressed from her 11-day solo trip: 2 days Ljubljana with a day trip to Postojna, 2 days Lake Bohinj, 2 days Lake Bled, final day Kranj or depart. Best time late summer to fall (August-September). Public transport/buses recommended; rental car optional.",
+          "title": "The Perfect One Week Slovenia Itinerary: Europe's Hidden Gem"
+        }
+      ],
+      "notes": "Nikki Gibson (nikkionherway.com) has many more itineraries (Madeira 7-day, Scotland 7-day, Portugal 7-day, Turkey 10-day, Cotswolds 2-day, Porto 2-day, Lake Bled day trip); only Slovenia extracted here per the 1-3 limit.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@onegirlwandering",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Japan",
+          "days": 14,
+          "destination": "Tokyo, Kyoto, Osaka (Japan)",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Recommends staying in Shinjuku or Asakusa for a first visit",
+              "item_type": "hotel",
+              "location": "Shinjuku or Asakusa, Tokyo",
+              "name": "Hotel in Shinjuku or Asakusa",
+              "price_hint": "$100-$200/night"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Sunset viewpoint; buy tickets in advance. Free crossing view from 2nd-floor Starbucks",
+              "item_type": "activity",
+              "location": "Shibuya, Tokyo",
+              "name": "Shibuya Sky",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Historic Asakusa district visit",
+              "item_type": "activity",
+              "location": "Asakusa, Tokyo",
+              "name": "Senso-ji Temple and Nakamise Shopping Street",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Souvenir sneakers made from kimono fabric",
+              "item_type": "other",
+              "location": "Asakusa, Tokyo",
+              "name": "Tokyo Kimono Shoes",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Views of the city; Mt. Fuji visible on clear days",
+              "item_type": "activity",
+              "location": "Tokyo",
+              "name": "Tokyo Skytree",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Basement food hall visit",
+              "item_type": "restaurant",
+              "location": "Tokyo",
+              "name": "Isetan department store food hall",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Dinner at a Japanese pub; stroll neon nightlife, Godzilla head, 3D cat billboard",
+              "item_type": "restaurant",
+              "location": "Shinjuku, Tokyo",
+              "name": "Izakaya in Shinjuku",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Fresh sushi for breakfast or lunch",
+              "item_type": "restaurant",
+              "location": "Tokyo",
+              "name": "Tsukiji Fish Market",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Peaceful gardens visit after Ginza",
+              "item_type": "activity",
+              "location": "Tokyo",
+              "name": "Imperial Palace gardens",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Evening visit after Roppongi dinner/nightlife",
+              "item_type": "activity",
+              "location": "Tokyo",
+              "name": "Tokyo Tower",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "2.5 hours; request window seat on the Fuji side",
+              "item_type": "transport",
+              "location": "Tokyo to Kyoto",
+              "name": "Bullet train Tokyo to Kyoto",
+              "price_hint": "$130-$150 one way"
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Thousands of red torii gates; kimono rental suggested",
+              "item_type": "activity",
+              "location": "Kyoto",
+              "name": "Fushimi Inari Taisha Shrine",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Historic Higashiyama district temple",
+              "item_type": "activity",
+              "location": "Higashiyama, Kyoto",
+              "name": "Kiyomizu-dera Temple",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Go at sunrise to avoid tourists; also Tenryu-ji Temple",
+              "item_type": "activity",
+              "location": "Kyoto",
+              "name": "Arashiyama Bamboo Grove",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Guided food tour of Nishiki Market",
+              "item_type": "activity",
+              "location": "Kyoto",
+              "name": "Nishiki Market food tour",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Golden Pavilion + rock garden",
+              "item_type": "activity",
+              "location": "Kyoto",
+              "name": "Kinkaku-ji Temple (Golden Pavilion) and Ryoan-ji Temple",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Once-in-a-lifetime geiko/maiko dinner in Gion",
+              "item_type": "activity",
+              "location": "Gion, Kyoto",
+              "name": "Maiko Dinner experience",
+              "price_hint": "$400"
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Day trip to Nara; Great Buddha statue",
+              "item_type": "activity",
+              "location": "Nara",
+              "name": "Todai-ji Temple",
+              "price_hint": "Train $10-$20 round trip"
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Feed the friendly deer",
+              "item_type": "activity",
+              "location": "Nara",
+              "name": "Nara Park",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Watch mochi made the traditional way",
+              "item_type": "other",
+              "location": "Nara",
+              "name": "Nakatanidou",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "30 minutes",
+              "item_type": "transport",
+              "location": "Kyoto to Osaka",
+              "name": "Train Kyoto to Osaka",
+              "price_hint": "$10-$20"
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "Castle and surrounding park; she found the interior underwhelming",
+              "item_type": "activity",
+              "location": "Osaka",
+              "name": "Osaka Castle",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "Street food and neon signs",
+              "item_type": "restaurant",
+              "location": "Dotonbori, Osaka",
+              "name": "Dotonbori street food",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 8,
+              "details": "Takoyaki and kushikatsu in historic district",
+              "item_type": "restaurant",
+              "location": "Shinsekai, Osaka",
+              "name": "Shinsekai street food",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 8,
+              "details": "Authentic Japanese knife souvenir",
+              "item_type": "other",
+              "location": "Shinsekai, Osaka",
+              "name": "Tower Knives",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 8,
+              "details": "One of the largest aquariums in the world",
+              "item_type": "activity",
+              "location": "Osaka",
+              "name": "Osaka Aquarium Kaiyukan",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 9,
+              "details": "30 minutes, day trip",
+              "item_type": "transport",
+              "location": "Osaka to Kobe",
+              "name": "Train Osaka to Kobe",
+              "price_hint": "$10-$20"
+            },
+            {
+              "booking_link": null,
+              "day": 9,
+              "details": "Scenic harbor views",
+              "item_type": "activity",
+              "location": "Kobe",
+              "name": "Kobe Harborland",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 9,
+              "details": "Kobe beef lunch; reserve well in advance via Facebook Messenger",
+              "item_type": "restaurant",
+              "location": "Kobe",
+              "name": "Tor Road Steak Aoyama",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 9,
+              "details": "High-quality Kobe beef (alternate recommendation)",
+              "item_type": "restaurant",
+              "location": "Kobe",
+              "name": "Wakkoqu",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 10,
+              "details": "One of Japan's oldest Buddhist temples",
+              "item_type": "activity",
+              "location": "Osaka",
+              "name": "Shitenno-ji Temple",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 10,
+              "details": "High-end second-hand shops, tax free",
+              "item_type": "activity",
+              "location": "Osaka",
+              "name": "Shinsaibashi-Suji Shopping Street",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 11,
+              "details": "2.5 hours",
+              "item_type": "transport",
+              "location": "Osaka to Tokyo",
+              "name": "Bullet train Osaka to Tokyo",
+              "price_hint": "$130-$150"
+            },
+            {
+              "booking_link": null,
+              "day": 12,
+              "details": "Immersive digital art exhibitions",
+              "item_type": "activity",
+              "location": "Tokyo",
+              "name": "teamLab Borderless / teamLab Planets",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 12,
+              "details": "Optional extra days activity",
+              "item_type": "activity",
+              "location": "Tokyo",
+              "name": "Tokyo Disneyland or DisneySea",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 13,
+              "details": "Optional day trip from Tokyo (UNESCO shrines); she has a separate Nikko guide",
+              "item_type": "activity",
+              "location": "Nikko",
+              "name": "Nikko day trip",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Restaurant recommendation in Tsukiji Fish Market",
+              "item_type": "restaurant",
+              "location": "Tsukiji, Tokyo",
+              "name": "Maguroya Kurogin",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Inspiration for the Kill Bill restaurant scene",
+              "item_type": "restaurant",
+              "location": "Tokyo",
+              "name": "Gonpachi",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Unique solo-dining ramen experience",
+              "item_type": "restaurant",
+              "location": "Tokyo",
+              "name": "Ichiran Ramen",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Burnt miso ramen",
+              "item_type": "restaurant",
+              "location": "Kyoto",
+              "name": "Gogyo Ramen",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Tonkatsu",
+              "item_type": "restaurant",
+              "location": "Kyoto",
+              "name": "Katsukura",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "Osaka-style okonomiyaki",
+              "item_type": "restaurant",
+              "location": "Osaka",
+              "name": "Chibo Okonomiyaki",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Luxury; skyline views, impeccable service",
+              "item_type": "hotel",
+              "location": "Shinjuku, Tokyo",
+              "name": "Park Hyatt Tokyo",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Business-style budget hotel she adores; Asakusa location",
+              "item_type": "hotel",
+              "location": "Asakusa, Tokyo",
+              "name": "APA Hotel Asakusa Kaminarimon",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Luxury on the Kamogawa River",
+              "item_type": "hotel",
+              "location": "Kyoto",
+              "name": "The Ritz-Carlton Kyoto",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Near Kyoto Station, elegant",
+              "item_type": "hotel",
+              "location": "Higashiyama, Kyoto",
+              "name": "Hyatt Regency Kyoto",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Great breakfast, late-night noodle bar, sauna",
+              "item_type": "hotel",
+              "location": "Kyoto",
+              "name": "Dormy Inn Premium Kyoto Ekimae",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "Upscale, heart of Namba",
+              "item_type": "hotel",
+              "location": "Namba, Osaka",
+              "name": "Swissotel Nankai Osaka",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "Near Osaka Castle; hot spring public bath (onsen)",
+              "item_type": "hotel",
+              "location": "Osaka",
+              "name": "Dormy Inn Osaka Tanimachi",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.onegirlwandering.com/2023/06/25/the-perfect-two-week-itinerary-for-your-first-trip-to-japan/"
+          ],
+          "summary": "Lindsay's 14-day first-timer Japan itinerary from five visits: Tokyo (days 1-3, 11-14), Kyoto (days 4-6, with Nara day trip), Osaka (days 7-10, with Kobe day trip). Includes day-by-day costs, restaurant picks, and hotel recommendations per city. Bullet train between cities; day trips to Nara, Kobe, Nikko optional.",
+          "title": "The Perfect Two Week Itinerary For Your First Trip to Japan"
+        },
+        {
+          "confidence": "medium",
+          "country": "Canada",
+          "days": 5,
+          "destination": "Banff, Alberta",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Arrive in Calgary, pick up rental car, drive to Banff for lunch",
+              "item_type": "transport",
+              "location": "Calgary",
+              "name": "Rental car pickup",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Base hotel for the trip",
+              "item_type": "hotel",
+              "location": "Lake Louise, Banff",
+              "name": "Fairmont Lake Louise",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Dinner at the hotel",
+              "item_type": "restaurant",
+              "location": "Fairmont Lake Louise",
+              "name": "Walliser Stube",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Explore Emerald Lake; lunch at the lodge",
+              "item_type": "activity",
+              "location": "Yoho National Park",
+              "name": "Emerald Lake Lodge",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Short hike",
+              "item_type": "activity",
+              "location": "Yoho National Park",
+              "name": "Natural Bridge",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Evening skate back at Lake Louise",
+              "item_type": "activity",
+              "location": "Lake Louise",
+              "name": "Ice skating on Lake Louise",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Date night dinner at the hotel",
+              "item_type": "restaurant",
+              "location": "Fairmont Lake Louise",
+              "name": "Fairview Bar and Restaurant",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Drive the Icefields Parkway to the helicopter tour; light lunch provided",
+              "item_type": "activity",
+              "location": "Icefields Parkway",
+              "name": "Rockies Heli Canada helicopter tour",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Dinner at the hotel",
+              "item_type": "restaurant",
+              "location": "Fairmont Lake Louise",
+              "name": "Alpine Social",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Evening firepit at the hotel",
+              "item_type": "activity",
+              "location": "Fairmont Lake Louise",
+              "name": "Roasting marshmallows over the firepit",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Dogsled tour",
+              "item_type": "activity",
+              "location": "Lake Louise area",
+              "name": "Kingmik Dogsled Tours",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Afternoon tea at the hotel",
+              "item_type": "restaurant",
+              "location": "Fairmont Lake Louise",
+              "name": "Fairview Bar and Restaurant - afternoon tea",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Hike up to the Fairview lookout; couples massage; room service dinner",
+              "item_type": "activity",
+              "location": "Lake Louise",
+              "name": "Fairview lookout hike",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Departure day",
+              "item_type": "transport",
+              "location": "Calgary",
+              "name": "Fly home from Calgary",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.onegirlwandering.com/2020/01/01/banff-winter-bucket-list/"
+          ],
+          "summary": "Her exact 4-night winter itinerary for Banff: arrive via Calgary, base at Fairmont Lake Louise, day trips to Yoho National Park and the Icefields Parkway, plus a dogsled tour. Day 5 is departure.",
+          "title": "Banff Winter Bucket List - 4 Night Winter Itinerary"
+        }
+      ],
+      "notes": "Banff itinerary extracted from the blog's search-result excerpt (full day-by-day text present there) rather than a full page open; confidence medium. She also has Alaska guides (Ketchikan 1-day, Juneau 4-day), Nikko day trip, and Brussels day guides not extracted here.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@packslight",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Puerto Rico",
+          "days": 6,
+          "destination": "San Juan, Puerto Rico",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Afternoon arrival; taxi into Old San Juan to Airbnb near university, museum, and El Morro",
+              "item_type": "transport",
+              "location": "San Juan",
+              "name": "Taxi from Luis Munoz Marin Airport to Old San Juan",
+              "price_hint": "$24"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Evening walking tour down Calle de San Sebastian, past San Juan's Cemetery",
+              "item_type": "activity",
+              "location": "Old San Juan",
+              "name": "Sunset guided tour through Old Town",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Dinner day 1: strong margarita and small pizza",
+              "item_type": "restaurant",
+              "location": "Old San Juan",
+              "name": "Moreno Spot",
+              "price_hint": "Casual meal $20-$25"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "5 nights, walking distance to El Morro, museum, university",
+              "item_type": "other",
+              "location": "Old San Juan",
+              "name": "Airbnb in Old San Juan",
+              "price_hint": "$80/day (~$289/person for the week)"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Fort tour; ticket also covers Castillo San Cristobal, reusable unlimited for a week",
+              "item_type": "activity",
+              "location": "Old San Juan",
+              "name": "Castillo El Morro",
+              "price_hint": "$5"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "15-min ferry to Catano for the Bacardi Factory",
+              "item_type": "transport",
+              "location": "Old San Juan to Catano",
+              "name": "Ferry to Catano",
+              "price_hint": "$0.50/person"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Famous rum factory tour incl. one free drink; taxi pier-to-factory $3",
+              "item_type": "activity",
+              "location": "Catano",
+              "name": "Bacardi Factory tour",
+              "price_hint": "$13.38 each"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Guided tour at the oldest rum maker in Puerto Rico, suggested alternative",
+              "item_type": "activity",
+              "location": "Puerto Rico",
+              "name": "Ron del Barralito Distillery tour (alternative)",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Loud bar in Old San Juan for drinks and pool",
+              "item_type": "restaurant",
+              "location": "Old San Juan",
+              "name": "NoNo's",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Beach day transport",
+              "item_type": "transport",
+              "location": "San Juan",
+              "name": "Taxi OSJ to El Condado Beach",
+              "price_hint": "$15"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Hangover-cure beach day",
+              "item_type": "activity",
+              "location": "San Juan",
+              "name": "El Condado Beach",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Lunch on the beach: hot dog, fries, drink",
+              "item_type": "restaurant",
+              "location": "El Condado",
+              "name": "Bun's Burger Shop",
+              "price_hint": "$13"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Nightlife; ladies night deal",
+              "item_type": "activity",
+              "location": "San Juan",
+              "name": "Senor Frog's Ladies Night",
+              "price_hint": "$8, ladies drink free all night"
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Puerto Rican history incl. African slavery, indigenous peoples, political history; 2 min walk from Airbnb; re-entry same day with receipt",
+              "item_type": "activity",
+              "location": "Old San Juan",
+              "name": "Museo de Las Americas",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Second fort; photos and views (covered by El Morro ticket)",
+              "item_type": "activity",
+              "location": "Old San Juan",
+              "name": "Castillo San Cristobal",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Replacement pick after Cafe Nuyorican closed permanently; salsa lessons/dancing spot",
+              "item_type": "restaurant",
+              "location": "Old San Juan",
+              "name": "La Factoria",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Free salsa lessons Thursdays, live band ~11PM; cover $5, drinks ~$6",
+              "item_type": "activity",
+              "location": "Old San Juan",
+              "name": "Salsa lessons / Latin club night",
+              "price_hint": "Cover $5, drinks ~$6"
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "30-min hike and swim at hidden lagoon in the mountains, ~1.5 hr drive from San Juan, with local blogger Brenda",
+              "item_type": "activity",
+              "location": "Naranjito",
+              "name": "Naranjito hike and hidden lagoon",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Party scene town of clubs and restaurants in El Condado area",
+              "item_type": "activity",
+              "location": "Santurce, San Juan",
+              "name": "La Placita de Santurce",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Rainforest waterfalls and hikes; only tropical rainforest in North America; waterslide tour available",
+              "item_type": "activity",
+              "location": "Eastern Puerto Rico",
+              "name": "El Yunque National Park",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "5PM flight home on final day; roundtrip flight cost",
+              "item_type": "flight",
+              "location": "San Juan to home",
+              "name": "Return flight home",
+              "price_hint": "$290.30 roundtrip"
+            }
+          ],
+          "source_urls": [
+            "https://www.packslight.com/puerto-rico-spring-break/"
+          ],
+          "summary": "Gabby Beckford's 6-day/5-night budget spring break in Puerto Rico with friend Hannah, staying in an Old San Juan Airbnb. Day-by-day itinerary with exact costs; total trip ~$786.30 per person (flight $290.30, Airbnb $289, local expenses $207.30). No US passport needed for Americans.",
+          "title": "Spring Break in Puerto Rico: Free Itinerary and Budget Breakdown"
+        }
+      ],
+      "notes": "Gabby Beckford (packslight.com) has more itineraries (19-day Southern Italy, 4-day Cancun/Xcaret, 3-day Warsaw, 10-day Virginia road trip, 2-week Greece girls trip) plus a paid $10 London ebook; only Puerto Rico extracted here per the 1-3 limit. Her content is affiliate-linked but booking_link fields kept null since specific booking URLs were not captured verbatim.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@postcardsfromayana",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "France (French Polynesia)",
+          "days": 8,
+          "destination": "Tahiti, Mo'orea, Bora Bora",
+          "items": [
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "All accommodations included in package",
+              "item_type": "hotel",
+              "location": "Tahiti, Mo'orea, Bora Bora",
+              "name": "Package accommodations",
+              "price_hint": "$2999 total package"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Daily breakfast included",
+              "item_type": "restaurant",
+              "location": "French Polynesia",
+              "name": "Daily breakfast (package included)",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Included in package",
+              "item_type": "transport",
+              "location": "Tahiti to Mo'orea",
+              "name": "Ferry to Mo'orea",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Inter-island flight included in package",
+              "item_type": "flight",
+              "location": "Mo'orea to Bora Bora",
+              "name": "Inter-island flight (package included)",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Included bucket-list activity",
+              "item_type": "activity",
+              "location": "Mo'orea",
+              "name": "6-Hour Mo'orea Lagoon Cruise",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Included bucket-list activity",
+              "item_type": "activity",
+              "location": "Bora Bora",
+              "name": "Bora Bora Island Safari Tour",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Included bucket-list activity",
+              "item_type": "activity",
+              "location": "Bora Bora",
+              "name": "Polynesian Buffet & Cultural Show",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Included bucket-list activity",
+              "item_type": "activity",
+              "location": "Mo'orea",
+              "name": "Magic Mountain Hike",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Included bucket-list activity",
+              "item_type": "activity",
+              "location": "Mo'orea",
+              "name": "Mo'orea Land Tour",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Included bucket-list activity",
+              "item_type": "activity",
+              "location": "Bora Bora",
+              "name": "Swim with Sharks & Rays",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Included bucket-list activity",
+              "item_type": "activity",
+              "location": "French Polynesia",
+              "name": "Flower Crown Making",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Included bucket-list activity",
+              "item_type": "activity",
+              "location": "French Polynesia",
+              "name": "Tahitian Dance Class",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@postcardsfromayana/video/7647181012379782413"
+          ],
+          "summary": "Hosted group trip with @Wander Where Adventures, Sept 17-24, 2027: Tahiti, Mo'orea, Bora Bora. Package $2999 ($399 deposit, payment plan available) includes all accommodations, daily breakfast, 24/7 support, ferry to Mo'orea, inter-island flight to Bora Bora, and a list of bucket-list activities. Presale list via link in bio.",
+          "title": "French Polynesia Group Trip (Sept 17-24, 2027) with Wander"
+        }
+      ],
+      "notes": "Yana's content is mostly short-form travel videos; this hosted group-trip promo is the only itinerary-structured content found (dates, destinations, inclusions, pricing). A Phuket video lists experiences with prices but as a recap, not an itinerary; not extracted. No personal blog with guides found.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@rileejsmith",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "Spain",
+          "days": null,
+          "destination": "Barcelona, Spain",
+          "items": [
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Can't-miss breakfast; Instagram-worthy dishes in a courtyard",
+              "item_type": "restaurant",
+              "location": "Barcelona",
+              "name": "Brunch & Cake",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Bustling food market; start a food crawl of fresh local bites",
+              "item_type": "restaurant",
+              "location": "Barcelona",
+              "name": "Mercat de la Boqueria",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Pintxos paradise; small bites on toothpicks from ~1 euro each",
+              "item_type": "restaurant",
+              "location": "Barcelona",
+              "name": "La Tasqueta de Blai",
+              "price_hint": "From ~1 euro per pintxo"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Homemade sangria and tapas; sangria bottles make good souvenirs",
+              "item_type": "restaurant",
+              "location": "Barcelona",
+              "name": "Casa Lolea Barcelona",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Concert hall; one of the most gorgeous buildings she has seen",
+              "item_type": "activity",
+              "location": "Barcelona",
+              "name": "Palau de la Musica Catalana",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Gaudi masterpiece; spires and stained glass",
+              "item_type": "activity",
+              "location": "Barcelona",
+              "name": "Sagrada Familia",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "19th-century herbal shop; tucked-away gem",
+              "item_type": "other",
+              "location": "Barcelona",
+              "name": "Herboristeria del Rei",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Her favorite neighborhood to roam and get lost in",
+              "item_type": "activity",
+              "location": "Barcelona",
+              "name": "Gothic Quarter",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Gothic bridge photo spot",
+              "item_type": "activity",
+              "location": "Barcelona",
+              "name": "El Pont del Bisbe",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Walking food tour first night: Catalan tapas, sangria-making, old city stories; tip: book food tours the first night in any new city",
+              "item_type": "activity",
+              "location": "Barcelona",
+              "name": "Tapas + Wine Walking Tour",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://rileejsmith.com/guide/barcelona"
+          ],
+          "summary": "Rilee Smith's free Barcelona guide page: favorite restaurants and sights from her trip, plus a tip to book a walking food tour the first night. Her full 4-day Barcelona itinerary is a paid ($5) download, so only the free recommendation content is extracted here (not day-by-day).",
+          "title": "Barcelona: Tapas & Traditions - Favorite Spots"
+        },
+        {
+          "confidence": "medium",
+          "country": "Croatia",
+          "days": 10,
+          "destination": "Hvar and Dubrovnik, Croatia",
+          "items": [
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Black truffle ravioli a must-try; romantic alleyway seating",
+              "item_type": "restaurant",
+              "location": "Hvar",
+              "name": "Black Pepper",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Mediterranean food tucked in a little alley",
+              "item_type": "restaurant",
+              "location": "Hvar",
+              "name": "fig",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Lunch with views over Dubrovnik and the Adriatic",
+              "item_type": "restaurant",
+              "location": "Mount Srd, Dubrovnik",
+              "name": "Panorama Restaurant",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Date-night spot; harbor view",
+              "item_type": "restaurant",
+              "location": "Dubrovnik",
+              "name": "Gradska Kavana Arsenal",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://rileejsmith.com/guide/croatia"
+          ],
+          "summary": "From her honeymoon Croatia guide: favorite restaurants on Hvar and in Dubrovnik. Her detailed 8-day Hvar + Dubrovnik itinerary is a paid ($5) download (10 Days in Croatia listing), so only free restaurant content extracted; confidence medium, items from the search excerpt of her Croatia guide page.",
+          "title": "Croatia: Hvar & Dubrovnik - Favorite Restaurants"
+        }
+      ],
+      "notes": "Rilee Smith monetizes full day-by-day itineraries as $5 digital downloads (Mackinac Island, Litchfield Hills CT 4-day, Cotswolds 7-day Christmas, Croatia 10-day, Elora Ontario, Leelanau Peninsula, Nassau Bahamas, Barcelona 4-day, Paris 7-day). Paid content was not purchased or extracted; only free guide-page recommendations are included. No booking links included since specific booking URLs were not captured verbatim.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@shetravelledtheworld",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Italy",
+          "days": 13,
+          "destination": "Northern Italy",
+          "items": [
+            {
+              "day": null,
+              "details": "Cathedral of Santa Maria del Fiore: interior + Brunelleschi's dome climb; buy tickets ahead.",
+              "item_type": "activity",
+              "location": "Florence",
+              "name": "Duomo (Cathedral of Santa Maria del Fiore)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Oldest stone bridge in Florence, now a trinket/souvenir marketplace.",
+              "item_type": "activity",
+              "location": "Florence",
+              "name": "Ponte Vecchio",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Best sunset lookout; 30-min walk from Duomo; live music and food stalls at sunset.",
+              "item_type": "activity",
+              "location": "Oltrarno, Florence",
+              "name": "Piazzale Michelangelo",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Scenic Romanesque basilica near Piazzale Michelangelo; gates close ~6-6:30pm.",
+              "item_type": "activity",
+              "location": "Florence",
+              "name": "San Miniato al Monte",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hands-on class making fresh pasta and homemade gelato.",
+              "item_type": "activity",
+              "location": "Florence",
+              "name": "Pasta and gelato making class",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Two authentic wineries, 7 wines + cheeses, olive oils, balsamic vinegar.",
+              "item_type": "activity",
+              "location": "Tuscan countryside",
+              "name": "Tuscany wine tasting excursion",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Botticelli's Birth of Venus, Michelangelo works; pre-book to skip the line.",
+              "item_type": "activity",
+              "location": "Florence",
+              "name": "Uffizi Gallery",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Michelangelo's David; tickets sell out in advance.",
+              "item_type": "activity",
+              "location": "Florence",
+              "name": "Accademia Gallery",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Ancient wine holes in Florence's walls; order wine/Aperol via a mystery hand.",
+              "item_type": "activity",
+              "location": "Florence",
+              "name": "Wine windows",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hole-in-the-wall gelato near Piazzale Michelangelo; she had peach + dark chocolate.",
+              "item_type": "restaurant",
+              "location": "Florence",
+              "name": "Il Gelato di Filo",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Gelato shop near the Duomo; big non-dairy/vegan selection.",
+              "item_type": "restaurant",
+              "location": "Florence",
+              "name": "Festival del Gelato",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Cheap bakery slightly out of the centre.",
+              "item_type": "restaurant",
+              "location": "Florence",
+              "name": "Vecchio Forno",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Gastronomia across the Arno near Ponte Vecchio; focaccia with greens, olive tapenade, grilled veggies; veggie/vegan options.",
+              "item_type": "restaurant",
+              "location": "Florence",
+              "name": "Forno Gastronomia Sopr'Arno",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Fresh pizza for 9 euros right by the Cathedral.",
+              "item_type": "restaurant",
+              "location": "Florence",
+              "name": "Mister Pizza",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Midrange hotel with rooftop overlooking the Duomo; ~70 GBP/80 EUR per night.",
+              "item_type": "hotel",
+              "location": "Florence",
+              "name": "Residenza Conte di Cavour",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Budget hostel 20-min walk from centre; rooftop views, pool, bar; dorms from 20 EUR/night.",
+              "item_type": "hotel",
+              "location": "Florence",
+              "name": "PLUS hostel",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Main square, Basilica San Petronio, Fountain of Neptune nearby.",
+              "item_type": "activity",
+              "location": "Bologna",
+              "name": "Piazza Maggiore",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hands-on tortellini and 'tagliatelle al bolognese' class in the birthplace of bolognese.",
+              "item_type": "activity",
+              "location": "Bologna",
+              "name": "Bolognese cooking class",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Guided tour across four local spots tasting regional dishes.",
+              "item_type": "activity",
+              "location": "Bologna",
+              "name": "Guided traditional food tour",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "40-minute train from Florence.",
+              "item_type": "transport",
+              "location": "Florence to Bologna",
+              "name": "Train",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "She recommends Trainline for booking European trains in advance.",
+              "item_type": "transport",
+              "location": "Italy-wide",
+              "name": "Trainline",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Two main rail operators; both have red logos with green/white accents.",
+              "item_type": "transport",
+              "location": "Italy-wide",
+              "name": "Trenitalia / Italiarail",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://shetravelledtheworld.com/northern-italy-travel-guide-itinerary/"
+          ],
+          "summary": "Her own published Northern Italy route: 6 stops over 12-14 days - Florence (3 nights), Bologna (2), Milan (1-2), Lake Como (2-3), Verona (2), Venice (2) - with per-city activities, restaurants and hotels she personally tried. She suggests a EUR 50-70/day spending budget.",
+          "title": "Northern Italy: Travel Guide and Itinerary"
+        },
+        {
+          "confidence": "high",
+          "country": "Kyrgyzstan",
+          "days": 14,
+          "destination": "Kyrgyzstan",
+          "items": [
+            {
+              "day": null,
+              "details": "London Stansted to Bishkek via Istanbul; she paid 515 GBP return including a checked bag.",
+              "item_type": "flight",
+              "location": "London to Bishkek",
+              "name": "Pegasus Airlines",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "4x4 rental at $60/day ($900 total / $450 each for two weeks) - the best way to get around.",
+              "item_type": "transport",
+              "location": "Kyrgyzstan",
+              "name": "Pamir Jeep Rentals (car rental)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "2 nights. She stayed at Golden Hotel: clean, spacious bathrooms, free breakfast, 24h reception.",
+              "item_type": "hotel",
+              "location": "Bishkek",
+              "name": "Golden Hotel",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Soviet-era sights: Ala Too Square, State History Museum, Victory Square, Osh Bazaar.",
+              "item_type": "activity",
+              "location": "Bishkek",
+              "name": "City sightseeing / day trips to Ala Archa National Park",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Food spots not far from Golden Hotel.",
+              "item_type": "restaurant",
+              "location": "Bishkek",
+              "name": "Navat Teahouse",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Food spot not far from Golden Hotel.",
+              "item_type": "restaurant",
+              "location": "Bishkek",
+              "name": "Five Resto",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Day stop 1.5-2h from Bishkek; 11th-century Silk Road minaret, climb inside for 85 som (~0.75 GBP); Balbal statues.",
+              "item_type": "activity",
+              "location": "Burana",
+              "name": "Burana Tower",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "3 nights, based in Bokonbayevo village on the south shore; local beach Yurtochnyy Gordon Ton.",
+              "item_type": "activity",
+              "location": "Issyk-Kul",
+              "name": "Lake Issyk-Kul",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Family-run, yurts + rooms, free breakfast; organised her eagle hunting excursion.",
+              "item_type": "hotel",
+              "location": "Bokonbayevo",
+              "name": "Guesthouse Gulmira",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Century-old tradition: watch eagle training, hold birds, archery; ~1.5h, 1200 som (~10 GBP), organised via Guesthouse Gulmira.",
+              "item_type": "activity",
+              "location": "Bokonbayevo",
+              "name": "Eagle hunting show",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "3 nights. Hikes: Turnaly-Kol Panorama (13km, 2862m, ~5h), Kok-Bel Waterfall (12km, easy), Eki-Chat Yurt Camp (17km).",
+              "item_type": "activity",
+              "location": "Jyrgalan",
+              "name": "Mountain hiking",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Small, clean, comfortable; free breakfast; dinner 500 som (~4.50 GBP); owner helps with hiking routes.",
+              "item_type": "hotel",
+              "location": "Jyrgalan",
+              "name": "Mine Hostel",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "1 night, long 8-10h scenic drive via Fairytale Canyon; stayed at Kezgin Guesthouse - great complimentary breakfast.",
+              "item_type": "hotel",
+              "location": "Naryn",
+              "name": "Kezgin Guesthouse",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "2 nights at 3200m. Visit Stone Rabat caravanserai (entry 100 som ~0.90 GBP); no phone reception - stock supplies in Naryn.",
+              "item_type": "activity",
+              "location": "Tash Rabat",
+              "name": "Tash Rabat yurt camps / Stone Rabat",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://shetravelledtheworld.com/kyrgyzstan-itinerary-the-perfect-2-week-trip/"
+          ],
+          "summary": "Her own published 'perfect 2 week' Kyrgyzstan itinerary: Bishkek (2n), Burana Tower day stop, Issyk-Kul/Bokonbayevo (3n), Jyrgalan (3n), Naryn (1n), Tash Rabat (2n) - done by rented 4x4, with named hotels, restaurants and activity prices she paid.",
+          "title": "Kyrgyzstan Itinerary: The Perfect 2 Week Trip"
+        }
+      ],
+      "notes": "Both itineraries are from her own long-form blog (shetravelledtheworld.com). She also sells a 70+ page Japan eBook (day-by-day 2-week Japan itinerary) at shop.shetravelledtheworld.com, but its contents are paywalled so no items were extracted.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@sidewalkerdaily",
+      "itineraries": [],
+      "notes": "No extractable itinerary content. Sidewalker Daily is NOT a travel influencer - it is an influencer-marketing consultancy (co-founded by Nina Zadeh) that works with TikTok influencers and tourism bureaus, quoted in Elite Daily/press. No personal travel plans, guides, or destination itineraries were found from this account.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@sightsofsara",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "France/Italy/Switzerland",
+          "days": null,
+          "destination": "Tour du Mont Blanc",
+          "items": [
+            {
+              "day": 1,
+              "details": "Counter-clockwise, variant via Col de Tricot (more scenic/challenging): 19-24km, 1300m ascent, 1350m descent; ~7h hiking. Route: Les Houches -> Bellevue -> suspension bridge -> Col de Tricot (2120m) -> Chalet de Miage -> Les Contamines.",
+              "item_type": "activity",
+              "location": "France",
+              "name": "TMB Day 1: Les Houches to Les Contamines",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "details": "Ended day 1 with dinner and sleep in a shared dorm at Camping le Pontet.",
+              "item_type": "hotel",
+              "location": "Les Contamines, France",
+              "name": "Camping le Pontet",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "details": "Les Contamines-Montjoie to Refuge de la Croix du Bonhomme; 7.3 miles / 11.7km, 4600ft / 1400m elevation gain.",
+              "item_type": "activity",
+              "location": "France",
+              "name": "TMB Day 2: Les Contamines-Montjoie to Croix du Bonhomme",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "details": "Many outlets in common area, drinkable water, food/drinks (cake, pasta), friendly staff, clean bathrooms, books/maps/games.",
+              "item_type": "hotel",
+              "location": "France",
+              "name": "Refuge de la Croix du Bonhomme",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@sightsofsara/video/7602636029870361887",
+            "https://www.tiktok.com/@sightsofsara/video/7603038544512175391"
+          ],
+          "summary": "Sara's own day-by-day Tour du Mont Blanc series (100 mi / 165km trek around the Mont Blanc massif through France, Italy and Switzerland), with route stats, distances, ascents and the refuges she slept in. Only days 1-2 were published so far; total trip length not stated.",
+          "title": "Tour du Mont Blanc - Day-by-Day Trek Series"
+        },
+        {
+          "confidence": "medium",
+          "country": "Iceland",
+          "days": null,
+          "destination": "Iceland (South Coast)",
+          "items": [
+            {
+              "day": null,
+              "details": "Rent a camper van from CampersInIceland.com; buy full coverage insurance (weather, sheep, flat tires). Camper beat hotels - no rushing to fixed stays.",
+              "item_type": "transport",
+              "location": "Iceland",
+              "name": "Camper van rental",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Walk behind the waterfall; she visited at night and had it nearly empty.",
+              "item_type": "activity",
+              "location": "South Coast",
+              "name": "Seljalandsfoss",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Short uphill hike with many viewpoints; stay on the designated path.",
+              "item_type": "activity",
+              "location": "South Coast",
+              "name": "Fjaorar gljufur Canyon",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Watch sunset at the glacial lagoon.",
+              "item_type": "activity",
+              "location": "South Coast",
+              "name": "Jokulsarlon Glacial Lagoon",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "One of her favourite places in Iceland; sunrise visit; cafe just down the road for breakfast after.",
+              "item_type": "activity",
+              "location": "South Coast",
+              "name": "Vestrahorn",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Visit in the middle of the night in summer; campground in the parking lot.",
+              "item_type": "activity",
+              "location": "South Coast",
+              "name": "Skogafoss",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Walk the rainbow road; cafes and shops in the city centre.",
+              "item_type": "activity",
+              "location": "Reykjavik",
+              "name": "Reykjavik city centre",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.lemon8-app.com/sightsofsara/7220679971399287301?region=us"
+          ],
+          "summary": "Her own 'mini guide' from her summer 2021 South Coast Iceland road trip, which she called one of the best experiences of her life. Tip-by-tip list rather than day-by-day; no hotel names (camper van).",
+          "title": "Epic Iceland Road Trip Guide - South Coast Mini Guide"
+        }
+      ],
+      "notes": "Her website (sightsofsara.com) is a photo portfolio with no written guides, so the TikTok TMB series and Lemon8 Iceland guide are the extractable sources.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@sonia.c.mota",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "Spain",
+          "days": 9,
+          "destination": "Mallorca",
+          "items": [
+            {
+              "day": null,
+              "details": "Her 9-day digital travel guide (sold on simply-slow-traveler.com) covers a carefully planned itinerary, favourite beaches, charming villages and local restaurants.",
+              "item_type": "other",
+              "location": "Mallorca",
+              "name": "9-Day Mallorca Travel Guide (digital product)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "One of the five prettiest villages in her Mallorca guide video.",
+              "item_type": "activity",
+              "location": "Mallorca",
+              "name": "Valldemossa",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Iconic mountain village featured in her guide.",
+              "item_type": "activity",
+              "location": "Mallorca",
+              "name": "Deia",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Ride the historic tram between Soller and Port de Soller.",
+              "item_type": "activity",
+              "location": "Mallorca",
+              "name": "Soller and Port de Soller",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Traditional Mallorcan architecture; featured village.",
+              "item_type": "activity",
+              "location": "Mallorca",
+              "name": "Santanyi",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Picturesque streets; featured village.",
+              "item_type": "activity",
+              "location": "Mallorca",
+              "name": "Fornalutx",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.youtube.com/watch?v=x6U2Lnb3spU",
+            "https://simply-slow-traveler.com"
+          ],
+          "summary": "Sonia (Simply Slow Traveler) sells a 9-day digital Mallorca travel guide with a planned itinerary, favourite beaches, charming villages and local restaurants. Her own 'slow guide to Mallorca's prettiest villages' video names the five villages the guide covers. Full day-by-day detail is behind the paid product.",
+          "title": "9-Day Mallorca Travel Guide"
+        },
+        {
+          "confidence": "medium",
+          "country": "Portugal",
+          "days": 1,
+          "destination": "Lisbon",
+          "items": [
+            {
+              "day": 1,
+              "details": "Her 'perfect day in the city': Chiado streets, Carmo Church ruins (history of Lisbon's great earthquake), lunch at Dear Breakfast, Miradouro de Sao Pedro de Alcantara viewpoint, Manteigaria for pasteis de nata, sunset walk along Cais do Sodre and Ribeira das Naus.",
+              "item_type": "activity",
+              "location": "Lisbon",
+              "name": "Perfect slow day in Lisbon",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.youtube.com/watch?v=9hPvsyVCksg"
+          ],
+          "summary": "From her own 'A New Life Chapter in Lisbon' video: a full slow-travel day plan through Chiado, Carmo ruins, lunch at Dear Breakfast, the Sao Pedro de Alcantara miradouro, pasteis de nata at Manteigaria, and sunset at Cais do Sodre.",
+          "title": "A Perfect Day in Lisbon"
+        }
+      ],
+      "notes": "This account is the TikTok handle of the 'Simply Slow Traveler' creator (slow travel, not adventure). She also promotes an 8-day Provence digital guide (8-Day Provence Travel Guide, with stay at La Bastide de Laurence, Aix-en-Provence market, Cafe Caumont) and Cotswolds stays (Merchant House, Charlbury; Bluebell Cottage; dinner at The Wild Rabbit / The Bell / The Royal Oak, Ramsden), but those video blurbs are vlog-style rather than structured itineraries, so only the Mallorca and Lisbon plans were extracted.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@storyofsavannah",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "USA",
+          "days": 21,
+          "destination": "US West Coast (Southwest + California road trip)",
+          "items": [
+            {
+              "day": null,
+              "details": "Hotel: Tommie Hollywood - 2 nights. Modern, heart of Hollywood, walk to Walk of Fame, rooftop pool, Mexican restaurant, Hollywood sign views. Rating 4*.",
+              "item_type": "hotel",
+              "location": "Los Angeles, CA",
+              "name": "Tommie Hollywood",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel: New York-New York Hotel & Casino - 3 nights. Rollercoasters, replica Brooklyn Bridge, casino, food options, pool. Rating 4*.",
+              "item_type": "hotel",
+              "location": "Las Vegas, NV",
+              "name": "New York-New York Hotel & Casino",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel: Yavapai Lodge - 1 night. Inside the National Park; convenient for sunset/sunrise. Rating 3*.",
+              "item_type": "hotel",
+              "location": "Grand Canyon",
+              "name": "Yavapai Lodge",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel: Best Western View of Lake Powell - 2 nights. Base for Horseshoe Bend and Antelope Canyon; seasonal pool. Rating 3*.",
+              "item_type": "hotel",
+              "location": "Page, AZ",
+              "name": "Best Western View of Lake Powell",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel: The Lodge at Bryce Canyon - 1 night. Only hotel inside the park; walkable to Sunrise and Sunset Points. Rating 3*.",
+              "item_type": "hotel",
+              "location": "Bryce Canyon National Park",
+              "name": "The Lodge at Bryce Canyon",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel: Zion Lodge - 2 nights. Park-based; Western cabin feel, easy trail access. Rating 3*.",
+              "item_type": "hotel",
+              "location": "Zion National Park",
+              "name": "Zion Lodge",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel: The Ranch at Death Valley - 1 night. Spring-fed pool, old-western town vibes. Rating 3*.",
+              "item_type": "hotel",
+              "location": "Death Valley",
+              "name": "The Ranch at Death Valley",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel: Station House Inn - 1 night. Private beach nearby, mountain vibes, fire pits. Rating 3*.",
+              "item_type": "hotel",
+              "location": "South Lake Tahoe",
+              "name": "Station House Inn",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel: Tenaya at Yosemite - 2 nights. Just outside south entrance; spa, pool; base for Mariposa Grove and Glacier Point. Rating 4*.",
+              "item_type": "hotel",
+              "location": "Fish Camp (Yosemite)",
+              "name": "Tenaya at Yosemite",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel: Hyatt Centric Fisherman's Wharf - 2 nights. Near Ghirardelli Square, comfy, pool. Rating 4*.",
+              "item_type": "hotel",
+              "location": "San Francisco, CA",
+              "name": "Hyatt Centric Fisherman's Wharf",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel: Holiday Inn Express Cannery Row - 2 nights. Walkable to shops/restaurants, near 17-Mile Drive and Pebble Beach. Rating 3*.",
+              "item_type": "hotel",
+              "location": "Monterey, CA",
+              "name": "Holiday Inn Express - Cannery Row",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel name not stated for this stop (rating 2*); central, near beach, pool and hot tubs, overnight stop.",
+              "item_type": "hotel",
+              "location": "Santa Barbara, CA",
+              "name": "Unnamed 2-star hotel (Santa Barbara)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "details": "Hotel name not stated (rating 4*); boutique hotel steps from the sand: beach towels/chairs/body boards, lemonade station, evening smores. One of her top 3 stays.",
+              "item_type": "hotel",
+              "location": "Huntington Beach, CA",
+              "name": "Unnamed 4-star boutique hotel (Huntington Beach)",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://info606777.wixsite.com/storyofsavannah/post/3-week-west-coast-usa-road-trip-hotel-itinerary"
+          ],
+          "summary": "Her own published full itinerary of every hotel booked on a 3-week Southwest/California road trip: LA, Las Vegas, Grand Canyon, Page, Bryce Canyon, Zion, Death Valley, South Lake Tahoe, Yosemite, San Francisco, Monterey, Santa Barbara, Huntington Beach - with star ratings and honest reviews. She says all her hotel links are Trip.com affiliate links, but the fetched page only exposed the generic Trip.com link, not per-hotel URLs, so booking_link is null.",
+          "title": "3-Week West Coast USA Road Trip Hotel Itinerary"
+        }
+      ],
+      "notes": "London-based TikTok creator. The blog post is a hotel-by-hotel itinerary rather than a day-by-day activity plan. Per-hotel booking URLs were not visible in the fetched page (only a generic Trip.com affiliate link), so booking_link is null throughout.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@thegermantravelguy",
+      "itineraries": [],
+      "notes": "No extractable itinerary found. His official site (thegermantravelguy.com) is a media kit / brand page with no travel guides or day-by-day plans. His output is country-by-country TikTok/YouTube videos (no destination structure), German-language books (Billig Reisen, Jonglieren wie ein Profi, Nordkorea und andere Traumziele), and a budgeting podcast episode - none is a named trip/plan with destination and structure. His group-tour brand Every Country Tours (everycountrytours.com) could not be fetched for itinerary detail. Not forcing an itinerary per the honesty rule.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@themomtrotter",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "USA",
+          "days": 10,
+          "destination": "Utah, Nevada, Arizona, California (American Southwest loop)",
+          "items": [
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Rented RV via Outdoorsy; owner delivered night before for $100 extra; rental $1,853.48 + extra miles $328.02",
+              "item_type": "other",
+              "location": "Los Angeles, CA",
+              "name": "Outdoorsy RV rental",
+              "price_hint": "$2,181.50 total"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Overnight after 289.6 mi / ~4.5-5 hr drive from Los Angeles",
+              "item_type": "hotel",
+              "location": "Boulder City, NV",
+              "name": "Lake Mead RV Village",
+              "price_hint": "$33/night"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Half-day exploring; 57.6 mi / 1 hr 7 min from Lake Mead",
+              "item_type": "activity",
+              "location": "Overton, NV",
+              "name": "Valley of Fire State Park",
+              "price_hint": "$10 entry"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Overnight; 116 mi / 2 hrs from Valley of Fire",
+              "item_type": "hotel",
+              "location": "Virgin, UT",
+              "name": "Zion River RV Resort",
+              "price_hint": "$70.50/night"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Photoshoot with Zion Adventure Photog, bike ride on Pa'rus Trail, park shuttle",
+              "item_type": "activity",
+              "location": "Springdale, UT",
+              "name": "Zion National Park",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Snowy visit: scenic overlook and short trail, Sunset Point",
+              "item_type": "activity",
+              "location": "Bryce Canyon City, UT",
+              "name": "Bryce Canyon National Park",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Overnight; 92.4 mi / 1 hr 48 min from Bryce Canyon",
+              "item_type": "hotel",
+              "location": "Loa, UT",
+              "name": "Fremont River RV Park",
+              "price_hint": "$39/night"
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "18-mile scenic drive and loop through the park",
+              "item_type": "activity",
+              "location": "Torrey, UT",
+              "name": "Capitol Reef National Park",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Evening scenic drive; 144.2 mi / 2 hrs 15 min from Capitol Reef",
+              "item_type": "activity",
+              "location": "Moab, UT",
+              "name": "Canyonlands National Park",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Overnight; 27.8 mi / 30 min from Canyonlands",
+              "item_type": "hotel",
+              "location": "Moab, UT",
+              "name": "Moab Valley RV Resort",
+              "price_hint": "$48/night"
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Balanced Rock Loop Trail and Windows Loop Trail; scenic drive",
+              "item_type": "activity",
+              "location": "Moab, UT",
+              "name": "Arches National Park",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Overnight; 149.3 mi / 2 hrs 39 min from Arches",
+              "item_type": "hotel",
+              "location": "Oljato-Monument Valley, UT",
+              "name": "Monument Valley KOA Journey",
+              "price_hint": "$41/night"
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "2-hr guided tour booked from KOA front desk with Monument Valley Tribal Tours; includes Hogan visit; RVs not allowed on scenic drive; park entry $20",
+              "item_type": "activity",
+              "location": "Oljato-Monument Valley, AZ",
+              "name": "Monument Valley Navajo Tribal Park guided tour",
+              "price_hint": "$275.60 for 6"
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "Photo stop; 11.2 mi / 11 min from Monument Valley KOA",
+              "item_type": "activity",
+              "location": "Mexican Hat, AZ",
+              "name": "Forrest Gump Point",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "Overnight; 133.3 mi / 2 hr 05 min from Forrest Gump Point",
+              "item_type": "hotel",
+              "location": "Page, AZ",
+              "name": "Page Lake Powell Campground",
+              "price_hint": "$44/night"
+            },
+            {
+              "booking_link": null,
+              "day": 8,
+              "details": "Booked via Ken's Tours",
+              "item_type": "activity",
+              "location": "Page, AZ",
+              "name": "Lower Antelope Canyon tour",
+              "price_hint": "$100 for 6"
+            },
+            {
+              "booking_link": null,
+              "day": 8,
+              "details": "20-min walk each way; 9.9 mi / 17 min from Antelope Canyon",
+              "item_type": "activity",
+              "location": "Page, AZ",
+              "name": "Horseshoe Bend",
+              "price_hint": "$10 per vehicle"
+            },
+            {
+              "booking_link": null,
+              "day": 8,
+              "details": "Overnight; 134.6 mi / 2 hrs 24 min from Horseshoe Bend",
+              "item_type": "hotel",
+              "location": "Grand Canyon Village, AZ",
+              "name": "Trailer Village RV Park",
+              "price_hint": "$54/night"
+            },
+            {
+              "booking_link": null,
+              "day": 9,
+              "details": "Visitor Center, film, shuttle to lookouts, Jr. Ranger badges",
+              "item_type": "activity",
+              "location": "Grand Canyon Village, AZ",
+              "name": "Grand Canyon National Park (South Rim)",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 9,
+              "details": "Overnight; 382.1 mi / 6 hrs 3 min from Grand Canyon",
+              "item_type": "hotel",
+              "location": "Joshua Tree, CA",
+              "name": "Joshua Tree Lake RV & Campground",
+              "price_hint": "$65/night"
+            },
+            {
+              "booking_link": null,
+              "day": 10,
+              "details": "Scenic route, viewpoints, Hidden Valley Trail; then 134 mi / 2 hrs 20 min home to Los Angeles",
+              "item_type": "activity",
+              "location": "Twentynine Palms, CA",
+              "name": "Joshua Tree National Park",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://themomtrotter.com/utah-national-parks-southwest-road-trip/"
+          ],
+          "summary": "Family RV road trip starting and ending in Los Angeles, CA: Lake Mead, Valley of Fire, Zion, Bryce Canyon, Capitol Reef, Canyonlands, Arches, Monument Valley, Forrest Gump Point, Antelope Canyon, Horseshoe Bend, Grand Canyon (South Rim), Joshua Tree. RV rented on Outdoorsy; day-by-day drives, RV parks, park activities, and full trip cost ($4,793.10) all from her own post. Days are numbered 1-10 on the page (with a Day 0 prep day).",
+          "title": "Utah National Parks + Southwest RV Road Trip with Kids"
+        },
+        {
+          "confidence": "high",
+          "country": "USA",
+          "days": 6,
+          "destination": "St. Croix, US Virgin Islands",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Oceanfront room; check in, lunch downtown by the waterfront, beach/pool",
+              "item_type": "hotel",
+              "location": "Christiansted, St. Croix",
+              "name": "The Buccaneer",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Half-day or full-day snorkeling tour (full day includes lunch)",
+              "item_type": "activity",
+              "location": "St. Croix",
+              "name": "Buck Island snorkeling tour",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Food tour; she names Zeny's Restaurant, Gary's Bakery & Deli, 2 Plus 2 Restaurant, Kim's Restaurant (curry goat), Rum Runners STX",
+              "item_type": "activity",
+              "location": "St. Croix",
+              "name": "Virgin Islands food tour",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Horseback riding starting and ending at Rainbow Beach; dinner at Rhythms at Rainbow Restaurant",
+              "item_type": "activity",
+              "location": "St. Croix",
+              "name": "Horseback riding at Rainbow Beach",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Easternmost point of the US",
+              "item_type": "activity",
+              "location": "St. Croix",
+              "name": "Point Udall",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Historic fort visit",
+              "item_type": "activity",
+              "location": "Frederiksted, St. Croix",
+              "name": "Frederiksted Fort",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Museum visit",
+              "item_type": "activity",
+              "location": "St. Croix",
+              "name": "Caribbean Museum of the Arts",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Lunch and feed the pigs non-alcoholic beer",
+              "item_type": "restaurant",
+              "location": "St. Croix",
+              "name": "The Domino Club",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Jet ski session; lunch at Rhythms at Rainbow Beach",
+              "item_type": "activity",
+              "location": "St. Croix",
+              "name": "Jet skiing at Rainbow Beach",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Rum distillery tour",
+              "item_type": "activity",
+              "location": "St. Croix",
+              "name": "Rum tour",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "Sleep in, breakfast, depart",
+              "item_type": "other",
+              "location": "St. Croix",
+              "name": "Travel home",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://themomtrotter.com/things-to-do-in-st-croix/"
+          ],
+          "summary": "Her suggested St. Croix itinerary (6-day structure; she says the family itself spent 4 days). Day-by-day plan with restaurants she names and an oceanfront hotel. Sponsored by Visit St. Croix.",
+          "title": "St. Croix Family Itinerary"
+        }
+      ],
+      "notes": "Family travel blogger with a rich itinerary blog (themomtrotter.com); both itineraries are day-by-day plans from her own posts. The Utah trip page states 10 days total and the day-by-day runs Day 0 (prep/load) through Day 10; I recorded the 10 travel days as itinerary days. RV park affiliate links (anrdoezrs.net) were present but are affiliate redirects, so booking_link is null per the booking-link-only-if-genuine rule.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@thenationalparktravelers",
+      "itineraries": [
+        {
+          "confidence": "low",
+          "country": "USA",
+          "days": 1,
+          "destination": "Columbia River Gorge, Oregon (near Portland)",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Scenic drive from near Portland leading to 7+ waterfall hikes",
+              "item_type": "transport",
+              "location": "Columbia River Gorge, OR",
+              "name": "Historic Columbia River Highway 30",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Waterfall hike stop on the Highway 30 route",
+              "item_type": "activity",
+              "location": "Columbia River Gorge, OR",
+              "name": "Multnomah Falls",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Waterfall hike stop on the Highway 30 route",
+              "item_type": "activity",
+              "location": "Columbia River Gorge, OR",
+              "name": "Horsetail Falls",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Waterfall hike stop on the Highway 30 route",
+              "item_type": "activity",
+              "location": "Columbia River Gorge, OR",
+              "name": "Wahkeena Falls",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Waterfall hike stop on the Highway 30 route",
+              "item_type": "activity",
+              "location": "Columbia River Gorge, OR",
+              "name": "Bridal Veil Falls",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Waterfall hike stop on the Highway 30 route",
+              "item_type": "activity",
+              "location": "Columbia River Gorge, OR",
+              "name": "Latourell Falls",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Waterfall hike stop on the Highway 30 route",
+              "item_type": "activity",
+              "location": "Columbia River Gorge, OR",
+              "name": "Wahclella Falls",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Nearby waterfall, a short drive from the main route",
+              "item_type": "activity",
+              "location": "Near Columbia River Gorge, OR",
+              "name": "Panther Creek Falls",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@thenationalparktravelers/video/7305560011382476075",
+            "https://www.afar.com/magazine/9-tiktok-accounts-giving-smart-useful-travel-advice"
+          ],
+          "summary": "Historic Columbia River Highway 30 road-trip route covering 7-8 waterfall hikes in the Columbia River Gorge. Not a multi-day plan; a one-day drive-with-stops recommendation list from their TikTok caption, quoted by AFAR.",
+          "title": "Columbia River Gorge Waterfall Drive"
+        }
+      ],
+      "notes": "Connor and Morgan; they publish itineraries as TikTok video captions, not a blog - no dedicated site/linktree with full guides found. AFAR confirms they post 'detailed itineraries that span regions, roads, and individual parks'. Only the Columbia River Gorge post had a fully quoted caption available, so it is recorded at low confidence (fragmentary). TikTok captions are the authoritative source but TikTok pages could not be opened in this session; the caption text is via AFAR's quotation.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@theworldpursuit",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Canada",
+          "days": 8,
+          "destination": "Yukon Territory, Canada (Whitehorse > Dawson City > Tombstone > Dempster > Alaska > Kluane > Whitehorse)",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Beringia Center, SS Klondike, Miles Canyon Suspension Bridge, Whitehorse Fishladder and Hatchery, Yukon Wildlife Preserve; stock up on food/gas",
+              "item_type": "activity",
+              "location": "Whitehorse, YT",
+              "name": "Whitehorse sightseeing",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Gastropub dinner: spicy kale salad, bison burgers, grilled salmon, harissa wings",
+              "item_type": "restaurant",
+              "location": "Whitehorse, YT",
+              "name": "Miner's Daughter / Dirty Northern",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Coffee stop on the way out of town",
+              "item_type": "restaurant",
+              "location": "Whitehorse, YT",
+              "name": "Midnight Sun Coffee Roasters",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Blocks from Main Street; breakfast included, free parking; start and end of road trip",
+              "item_type": "hotel",
+              "location": "Whitehorse, YT",
+              "name": "Coast High Country Inn",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "533 km / ~6 hrs paved road along the Yukon River; stop at Five Finger Rapids, Coal Mine Campground & Canteen (burger in Carmacks) or Braeburn Lodge (giant cinnamon bun)",
+              "item_type": "transport",
+              "location": "YT",
+              "name": "Whitehorse to Dawson City drive",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Gold Rush town: wooden boardwalks, Front Street, Yukon River dike, Parks Canada walking tours, Danoja Zho Cultural Centre, Diamond Tooth Gerties gambling hall",
+              "item_type": "activity",
+              "location": "Dawson City, YT",
+              "name": "Dawson City",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Quiet riverside campground; reach via free George Black Ferry",
+              "item_type": "hotel",
+              "location": "Dawson City, YT",
+              "name": "Yukon River Campground",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Famous Sourtoe Cocktail: shot of whiskey with a mummified human toe",
+              "item_type": "restaurant",
+              "location": "Dawson City, YT",
+              "name": "Sourdough Saloon (Downtown Hotel)",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Brunch at Alchemy (coffee, baked goods); Greek food at Drunken Goat Tavern",
+              "item_type": "restaurant",
+              "location": "Dawson City, YT",
+              "name": "Alchemy / Drunken Goat Tavern",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "111 km from Dawson; fall colors; Grizzly Valley and Goldensides hikes; Tombstone Interpretive Center",
+              "item_type": "activity",
+              "location": "YT",
+              "name": "Tombstone Territorial Park",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Only designated campsite in the park; first-come first-serve, free firewood with permit fee",
+              "item_type": "hotel",
+              "location": "Tombstone Territorial Park, YT",
+              "name": "Tombstone campground",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Partial drive north of Tombstone into the tundra toward Inuvik/Tuktoyaktuk; Arctic Circle crossing",
+              "item_type": "activity",
+              "location": "YT",
+              "name": "Dempster Highway drive",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "174 km gravel road to Chicken, Alaska via the northernmost US-Canada border post",
+              "item_type": "transport",
+              "location": "Dawson City, YT to Chicken, AK",
+              "name": "Top of the World Highway",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "300 km south on Taylor Highway then Alaska Highway; passes St. Elias Mountains",
+              "item_type": "transport",
+              "location": "Chicken, AK to Beaver Creek, YT",
+              "name": "Alaska Highway to Beaver Creek",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Campsites, guest rooms, cabins; hot showers",
+              "item_type": "hotel",
+              "location": "Beaver Creek, YT",
+              "name": "Discovery Yukon Lodgings",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "291 km Beaver Creek to Haines Junction; Kluane Lake, Tachal Dhal Visitor Centre, Silver City ruins, Sheep Mountain hike (Dall sheep), Mount Logan views",
+              "item_type": "activity",
+              "location": "YT",
+              "name": "Kluane National Park",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 6,
+              "details": "10 min outside town; yurt / prospector's cabin / school bus / guest rooms; dinner and breakfast included",
+              "item_type": "hotel",
+              "location": "Haines Junction, YT",
+              "name": "Mount Logan Lodge",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "75-90 min flight over Kluane glaciers and Mount Logan; glacier landing possible weather permitting",
+              "item_type": "activity",
+              "location": "Haines Junction, YT",
+              "name": "Kluane glacier flightseeing tour",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 7,
+              "details": "Half-day rock glacier hike with local guide arranged via Mount Logan Lodge",
+              "item_type": "activity",
+              "location": "Haines Junction, YT",
+              "name": "Kluane day hike",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 8,
+              "details": "Baked goods stop before the drive back",
+              "item_type": "restaurant",
+              "location": "Haines Junction, YT",
+              "name": "The Village Bakery",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 8,
+              "details": "154 km return drive to Whitehorse",
+              "item_type": "transport",
+              "location": "YT",
+              "name": "Haines Junction to Whitehorse",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 8,
+              "details": "Final night back in Whitehorse",
+              "item_type": "hotel",
+              "location": "Whitehorse, YT",
+              "name": "Coast High Country Inn",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://theworldpursuit.com/yukon-road-trip/"
+          ],
+          "summary": "Day-by-day Klondike-Kluane loop road trip from their own blog: Whitehorse, Dawson City, Tombstone Territorial Park, Dempster Highway, Top of the World Highway to Chicken (Alaska), Alaska Highway to Beaver Creek, Kluane National Park / Haines Junction, return to Whitehorse. Vehicle: Overland Yukon jeep with rooftop tent. Page title says 7 days but content runs Day 1-8 (with two Day 5 sections); recorded as 8.",
+          "title": "Yukon Road Trip: Klondike Kluane Loop"
+        }
+      ],
+      "notes": "theworldpursuit.com is the official blog of Cameron & Natasha, who list 661,000 TikTok followers on their own site - confirming the TikTok<->blog identity link. The Yukon post is their own day-by-day itinerary (high confidence). Their site has many more itineraries (Arizona, Iceland Ring Road, North Coast 500) but only one was extracted per the 1-3-per-influencer cap.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@travelwithjaro",
+      "itineraries": [
+        {
+          "confidence": "low",
+          "country": "Indonesia",
+          "days": 1,
+          "destination": "Lombok (Kuta area), Indonesia",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Where he stayed",
+              "item_type": "hotel",
+              "location": "Kuta, Lombok, Indonesia",
+              "name": "The Kebon",
+              "price_hint": "$40/night"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Local tour",
+              "item_type": "activity",
+              "location": "Lombok, Indonesia",
+              "name": "The Power Of Local Women Lombok",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Private villa stay",
+              "item_type": "hotel",
+              "location": "Kuta, Lombok, Indonesia",
+              "name": "Olea Villas",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@travelwithjaro/video/7471887027437423880",
+            "https://neoreach.com/tiktok-travel/"
+          ],
+          "summary": "Single-day budget breakdown from his TikTok video: how far $100 stretches in a day in Lombok, naming where he stayed and what he booked. Not a multi-day itinerary; a budget trip report with named hotels/tours.",
+          "title": "How far does $100 get you in Lombok"
+        }
+      ],
+      "notes": "Jaro Cabla, budget/adventure TikToker (1.3M followers). His site (travelwithjaro.com) is now a creator-business page with no travel guides or itineraries, and his content is budget-breakdown TikToks rather than structured trip plans. Only the Lombok $100/day video had named bookables with prices, so it is recorded at low confidence (fragmentary). The caption details are via NeoReach's quotation; TikTok pages could not be opened in this session.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@travelwithpat",
+      "itineraries": [],
+      "notes": "Points-and-miles creator (beginner credit-card comparisons, annual fees/bonuses/transfer partners, airport-lounge access tips). Covered by AFAR, Elite Daily, dinogo as an advice account, not a destination-trip planner. No named trips, day-by-day plans, or hotel/restaurant/activity recommendations tied to a trip found in any source. Nothing extractable as an itinerary, so none recorded. Sources checked: AFAR '9 TikTok Accounts Giving Smart, Useful Travel Advice' (https://www.afar.com/magazine/9-tiktok-accounts-giving-smart-useful-travel-advice), Elite Daily airport-lounge hacks (https://www.elitedaily.com/lifestyle/free-airport-lounge-access-tiktok-travel-hack), dinogo creator roundup (https://dinogo.com/blog/travel/9-tiktok-creators-we-trust-for-top-travel-tips-and-hacks-dinogo). Note: searches also surfaced unrelated accounts (@megsandpat Oman/Banff itineraries, @marco.miglionico_ Patagonia) \u2014 not this creator.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@uzma.mahbub",
+      "itineraries": [],
+      "notes": "London-based travel creator (luxury/lifestyle, stunning landscapes, travel recommendations). EF GO Blog lists her as an inspo account ('journeys around the globe feature stunning landscapes and travel recommendations'); airial.travel references her viral Nerja Tuesday Market video (287.4K likes). No named destination guides, day-by-day itineraries, or structured trip plans with hotels/restaurants/activities found. Content is inspiration/recommendations, not itineraries, so none recorded. Sources checked: EF GO Blog '5 TikTok accounts to follow for travel inspo' (https://www.ef.com/wwen/blog/language/tiktok-travel-inspo/), airial.travel Nerja Tuesday Market guide (https://airial.travel/attractions/spain/nerja/nerja-tuesday-market-Y--zhTF0). Her viral Nerja video is a single-spot market showcase, not an itinerary.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@wheelaroundtheworld",
+      "itineraries": [
+        {
+          "confidence": "low",
+          "country": "Taiwan",
+          "days": null,
+          "destination": "Taiwan",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Street food culture, games, snacks, crowds navigated by wheelchair user; first episode opening stop with fellow wheelchair user Ferro",
+              "item_type": "activity",
+              "location": "Taipei, Taiwan",
+              "name": "Shilin Night Market",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Vibey pier with shipping-container bars and food stalls; end-of-day stop in episode 1",
+              "item_type": "restaurant",
+              "location": "Taipei, Taiwan",
+              "name": "Repurposed pier with bars and food stalls",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Iconic Taiwan bullet train; episode documents accessibility issues (wedged in non-accessible carriage after ticket mix-up)",
+              "item_type": "transport",
+              "location": "Taipei to Taichung, Taiwan",
+              "name": "Bullet train Taipei to Taichung",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Visited as part of the $2K car challenge segment; test-drove budget rental cars ('crusty red Ford Life')",
+              "item_type": "activity",
+              "location": "Taichung, Taiwan",
+              "name": "Rainbow Village",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Stayed while pushing south; episode documents accessibility fail at next 'accessible' accommodation after",
+              "item_type": "hotel",
+              "location": "Kaohsiung, Taiwan",
+              "name": "Kaohsiung Grand Hotel",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Explored local culture in traditional outfits; attempted but failed to enter",
+              "item_type": "activity",
+              "location": "Kaohsiung, Taiwan",
+              "name": "Fo Guang Shan Buddha",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Mission to reach the most southern tip of the island",
+              "item_type": "activity",
+              "location": "Taiwan",
+              "name": "Southern tip of Taiwan",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Visited en route through Yilan County; released a sustainable sky lantern, painted wishes",
+              "item_type": "activity",
+              "location": "Yilan County / Shifen, Taiwan",
+              "name": "Shifen Old Street sky lantern release",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Rode the world's fastest elevator to the top; visited with Laura Lin (local with vision impairment) discussing disability life in Taipei",
+              "item_type": "activity",
+              "location": "Taipei, Taiwan",
+              "name": "Taipei 101 observatory",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Creator's signature Taiwan convenience-store guide segment",
+              "item_type": "other",
+              "location": "Taiwan",
+              "name": "7-Eleven culture ('711 things you can do at 7-Eleven')",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.youtube.com/watch?v=mYBNRbDhO_o",
+            "https://www.youtube.com/watch?v=y_maOz6qpbY",
+            "https://www.youtube.com/watch?v=e4r0khsE8hQ",
+            "https://www.youtube.com/watch?v=7gIimcGyMoU",
+            "https://www.youtube.com/watch?v=E_QHaXiCrZo"
+          ],
+          "summary": "Wheelchair adventurer Shane Hryhorec's documented multi-episode Taiwan trip (YouTube series 'Wheel Around Taiwan' + TikTok @wheelaroundtheworld), traveling from Taipei south down the island and back via the east. Structured route with named hotels, transport, and accessibility-tested activities; day count not stated. Day order inferred from episode sequence.",
+          "title": "Wheel Around Taiwan \u2014 wheelchair accessibility road journey"
+        }
+      ],
+      "notes": "Shane Hryhorec's content is vlog-series format (episodes 1-5 of 'Wheel Around Taiwan' plus Taiwan accessibility teaser), not day-by-day itineraries \u2014 hence low confidence: route and items are pieced together from episode descriptions, episode order used as day order, exact day count not stated. A separate documented trip (8-night MSC Grandiosa cruise, Marseille departure, cabin-accessibility saga, Nov 2024) exists via Cruise Hive reporting but is a controversy story, not an itinerary, so not extracted. TikTok account confirmed as /wheelaroundtheworld via YouTube descriptions.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@wheretofindme",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "Japan",
+          "days": 5,
+          "destination": "Tokyo",
+          "items": [
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Hole-in-the-wall eateries to Michelin-starred dining, 'most delicious and authentic places to eat which only locals know about'",
+              "item_type": "restaurant",
+              "location": "Tokyo, Japan",
+              "name": "Restaurants section of Tokyo guide",
+              "price_hint": "Guide itself costs GBP 34.99"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Temples, shrines and iconic landmarks for Japanese history and culture",
+              "item_type": "activity",
+              "location": "Tokyo, Japan",
+              "name": "Cultural sites section of Tokyo guide",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Skyscraper observation decks and hidden panoramic spots over Tokyo's skyline",
+              "item_type": "activity",
+              "location": "Tokyo, Japan",
+              "name": "Viewpoints section of Tokyo guide",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Luxury hideaways to stylish mid-range stays and traditional ryokan inns",
+              "item_type": "hotel",
+              "location": "Tokyo, Japan",
+              "name": "Accommodation section of Tokyo guide",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Best photography locations across 18 neighbourhoods",
+              "item_type": "activity",
+              "location": "Tokyo, Japan",
+              "name": "Photo spots section of Tokyo guide",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Cosy coffee shops to themed experiences",
+              "item_type": "restaurant",
+              "location": "Tokyo, Japan",
+              "name": "Cafes section of Tokyo guide",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Intimate speakeasies and local izakayas to high-end cocktail lounges",
+              "item_type": "restaurant",
+              "location": "Tokyo, Japan",
+              "name": "Bars section of Tokyo guide",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Transportation tips, cultural etiquette, festival dates",
+              "item_type": "other",
+              "location": "Tokyo, Japan",
+              "name": "Essential info section of Tokyo guide",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.wheretofindme.co.uk/tokyo-guide",
+            "https://www.tiktok.com/@wheretofindme/video/7620186592161942806?_r=1&_d=secCgYIASAHKAESPgo8RkziAFTF2oXMoB5cdV8HUsTOeSXcd4Np4qnxcBRSJOz5qgy4B20QUjGw4FYWvN4PMpVcpAh%2FGoaCr7aNGgA%3D&_svg=1&checksum=a569c913e858c4527126cb1985ebb80ebfd717618dfde560291e8ef9c7a4d802&link_reflow_popup_iteration_sharer=%7B%22dynamic_cover%22%3A1%2C%22profile_clickable%22%3A1%2C%22follow_to_play_duration%22%3A-1.0%2C%22profile_clickable%22%3A1%7D&preview_pb=0&reflow_page_type=1&reflow_sign_scene=1&rgssign=2.1.jqMSX8ChwNMtQ2ttn71_Rw&sec_user_id=MS4wLjABAAAAiTJFetKEQkzkNxiTEDQubiGjWN_s-m7qOFx95SyKYaLr7aHnk1Y9m3cZsQIm414W&share_app_id=1233&share_item_id=7620186592161942806&share_link_id=9E0A4456-E83F-47C8-B15C-A78C10B3736C&share_region=AE&share_scene=2&sharer_language=en&social_share_type=0&source=h5_m&timestamp=1778215082&tt_from=messenger&u_code=30ai3fadjha2i&ug_btm=b5836%2Cb2878&user_id=66190846731001856&utm_campaign=client_share&utm_medium=ios&utm_source=messenger"
+          ],
+          "summary": "Maz's paid 134-page PDF Tokyo guide (GBP 34.99), structured around a five-day trip with 400+ personally tried-and-tested locations across 18 neighbourhoods, with Google Maps links per location. Covers restaurants, cultural sites, viewpoints, accommodation, photo spots, cafes, bars, and essential travel info. Specific venues behind the paid PDF; category structure is from the sales page and her TikTok promos.",
+          "title": "Tokyo Guide \u2014 5-day itinerary eBook (400+ locations, 18 neighbourhoods)"
+        },
+        {
+          "confidence": "high",
+          "country": "Japan",
+          "days": 1,
+          "destination": "Asakusa, Tokyo",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Morning matcha",
+              "item_type": "restaurant",
+              "location": "Asakusa, Tokyo",
+              "name": "Hatoya",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Morning coffee; HATCOFFEE known for 3D latte art",
+              "item_type": "restaurant",
+              "location": "Asakusa, Tokyo",
+              "name": "Mamekokoro or HATCOFFEE",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Tokyo's oldest and most famous temple; Sanja Matsuri festival in mid-May",
+              "item_type": "activity",
+              "location": "Asakusa, Tokyo",
+              "name": "Sens\u014d-ji Temple",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Stroll the lively street beside the temple: traditional snack stalls and souvenir shops",
+              "item_type": "activity",
+              "location": "Asakusa, Tokyo",
+              "name": "Nakamise-d\u014dri",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Get personalised chopsticks",
+              "item_type": "activity",
+              "location": "Asakusa, Tokyo",
+              "name": "Y\u016bzen Morita",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Create your own perfume",
+              "item_type": "activity",
+              "location": "Asakusa, Tokyo",
+              "name": "D.Anda",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Lunch pick: Edo-period tempura",
+              "item_type": "restaurant",
+              "location": "Asakusa, Tokyo",
+              "name": "Nakasei",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Lunch alternative: elevated izakaya dishes",
+              "item_type": "restaurant",
+              "location": "Asakusa, Tokyo",
+              "name": "Asakusa Sarashinatenko",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Lunch alternative: premium wagyu sukiyaki",
+              "item_type": "restaurant",
+              "location": "Asakusa, Tokyo",
+              "name": "Asakusa Imahan",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Try the 'world's strongest matcha ice cream'",
+              "item_type": "restaurant",
+              "location": "Asakusa, Tokyo",
+              "name": "Suzukien",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Tokyo's kitchenware paradise: ceramics, Japanese knives, plastic food models",
+              "item_type": "activity",
+              "location": "Asakusa, Tokyo",
+              "name": "Kappabashi Street",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Catch the free view from above",
+              "item_type": "activity",
+              "location": "Asakusa, Tokyo",
+              "name": "Asakusa Culture Tourist Information Centre",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "End the day with a drink at this cosy underground bar",
+              "item_type": "restaurant",
+              "location": "Asakusa, Tokyo",
+              "name": "Drive in DenDen",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@wheretofindme/video/7572322138586107139?_r=1&_d=secCgYIASAHKAESPgo8KVJrJ%2F8N7Wbd1KYKnaQV4wZuF%2BkDhzkdfXg81xkSES0E7AKYc7VxUdhZ7jtOe10qiWthmgj33eMwXojwGgA%3D&_svg=3&checksum=188cd14ac182f274820a8d28191d1a8f3712da6b8abd2f63a45c4baa0f58bc6c&link_reflow_popup_iteration_sharer=%7B%22follow_to_play_duration%22%3A1%2C%22click_empty_to_play%22%3A1%2C%22profile_clickable%22%3A1%7D&preview_pb=0&reflow_page_type=1&sec_user_id=MS4wLjABAAAAkzMagdOlBJlgUCcM3WyfZYmdSGPBwC1yK2Pn8Llljp2-QTcipmAr&share_app_id=1233&share_item_id=7572322138586107139&share_link_id=ED94A348-8DB7-42D1-9FC8-D908A8549567&share_region=US&share_scene=2&sharer_language=en&social_share_type=0&source=h5_m&timestamp=1773256256&tt_from=facebook&u_code=d81e14e47c08l6&ug_btm=b2878&user_id=6729324644249863173&utm_campaign=client_share&utm_medium=ios&utm_source=facebook"
+          ],
+          "summary": "Maz's structured one-day Asakusa plan from her TikTok: morning matcha/coffee, Sens\u014d-ji and Nakamise-d\u014dri, craft shopping, local lunch picks, strongest matcha ice cream, Kappabashi kitchenware street, free observation view, and an underground bar to end the day. All venues named in the post.",
+          "title": "Perfect day in Asakusa, Tokyo \u2014 10 best things to do"
+        }
+      ],
+      "notes": "Maz (half-Japanese, based in UK) is the strongest itinerary source in this batch. The TikTok @wheretofindme account also has Rome itinerary content (cited in sociallypowerful.com roundup with tags 'Rome itinerary', video https://www.tiktok.com/@wheretofindme/video/7355608304799714593), but no specific venues were named in available snippets, so it was not extracted. Follower count kept as given in CSV (486.5K). Note: one browser_open attempt (wheretofindme.co.uk/tokyo-guide) failed with a fetch error, so extraction relied on search-result snippets and TikTok captions.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@wilderness_addict",
+      "itineraries": [],
+      "notes": "Caroline Foster, nature/outdoor photographer (later.com cites 816K followers; task CSV says unknown \u2014 left unchanged per brief). Content is scenic inspiration (Iceland, Banff, snow landscapes) with 'practical tips on outdoor travel and capturing nature's beauty' per later.com, and Contiki notes she encourages exploring your own backyard. No named destination guides, day-by-day itineraries, or structured trip plans found \u2014 inspiration clips, not itineraries, so none recorded. Sources checked: Later 'Top 15 Travel Influencers 2025' (https://later.com/blog/top-travel-influencers/), Contiki 'Inspiring women travelers to follow on TikTok' (https://www.contiki.com/six-two/article/inspiring-women-travelers-on-tiktok/), Elite Daily profile (https://nc.elitedaily.com/news/caroline-fosters-wilderness_addict-instagram-account-is-a-wanderlust-dream-22955472).",
+      "platform": "tiktok"
+    }
+  ]
+}

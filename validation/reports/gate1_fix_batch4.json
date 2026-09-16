@@ -1,0 +1,78 @@
+{
+  "file": "itineraries_batch4.json",
+  "fix": "null names replaced with descriptive labels derived strictly from each item's own details/location; day=0 normalized to null",
+  "changes": [
+    {
+      "handle": "@nikkionherway",
+      "itinerary": "The Perfect One Week Slovenia Itinerary: Europe's Hidden Gem",
+      "field": "name",
+      "old": null,
+      "new": "Flight to Ljubljana Airport",
+      "basis": "synthesized from the item's own details/location; no new facts introduced"
+    },
+    {
+      "handle": "@onegirlwandering",
+      "itinerary": "The Perfect Two Week Itinerary For Your First Trip to Japan",
+      "field": "name",
+      "old": null,
+      "new": "Hotel in Shinjuku or Asakusa",
+      "basis": "synthesized from the item's own details/location; no new facts introduced"
+    },
+    {
+      "handle": "@packslight",
+      "itinerary": "Spring Break in Puerto Rico: Free Itinerary and Budget Break",
+      "field": "name",
+      "old": null,
+      "new": "Return flight home",
+      "basis": "synthesized from the item's own details/location; no new facts introduced"
+    },
+    {
+      "handle": "@postcardsfromayana",
+      "itinerary": "French Polynesia Group Trip (Sept 17-24, 2027) with Wander",
+      "field": "name",
+      "old": null,
+      "new": "Package accommodations",
+      "basis": "synthesized from the item's own details/location; no new facts introduced"
+    },
+    {
+      "handle": "@postcardsfromayana",
+      "itinerary": "French Polynesia Group Trip (Sept 17-24, 2027) with Wander",
+      "field": "name",
+      "old": null,
+      "new": "Daily breakfast (package included)",
+      "basis": "synthesized from the item's own details/location; no new facts introduced"
+    },
+    {
+      "handle": "@postcardsfromayana",
+      "itinerary": "French Polynesia Group Trip (Sept 17-24, 2027) with Wander",
+      "field": "name",
+      "old": null,
+      "new": "Inter-island flight (package included)",
+      "basis": "synthesized from the item's own details/location; no new facts introduced"
+    },
+    {
+      "handle": "@storyofsavannah",
+      "itinerary": "3-Week West Coast USA Road Trip Hotel Itinerary",
+      "field": "name",
+      "old": null,
+      "new": "Unnamed 2-star hotel (Santa Barbara)",
+      "basis": "synthesized from the item's own details/location; no new facts introduced"
+    },
+    {
+      "handle": "@storyofsavannah",
+      "itinerary": "3-Week West Coast USA Road Trip Hotel Itinerary",
+      "field": "name",
+      "old": null,
+      "new": "Unnamed 4-star boutique hotel (Huntington Beach)",
+      "basis": "synthesized from the item's own details/location; no new facts introduced"
+    },
+    {
+      "handle": "@themomtrotter",
+      "itinerary": "Utah National Parks + Southwest RV Road Trip with Kids",
+      "field": "day",
+      "old": 0,
+      "new": null,
+      "basis": "day 0 is not a valid itinerary day; item is pre-trip (RV delivered night before day 1)"
+    }
+  ]
+}

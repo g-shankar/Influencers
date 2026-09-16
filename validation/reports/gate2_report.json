@@ -1,0 +1,55 @@
+{
+  "gate": 2,
+  "name": "handle integrity",
+  "status": "PASS",
+  "rows": 100,
+  "platforms": {
+    "instagram": 50,
+    "tiktok": 50
+  },
+  "quarantined": [
+    {
+      "added": "2026-09-15",
+      "handle": "@africansafari",
+      "platform": "instagram",
+      "reason": "May be a brand/tour-operator account rather than an individual creator. Verify account nature before any attribution or outreach.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-15",
+      "handle": "@limsawkward",
+      "platform": "tiktok",
+      "reason": "Possible source-list typo; handle may not exist. Re-verify against the source publication before use.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-15",
+      "handle": "@marklharriosn",
+      "platform": "tiktok",
+      "reason": "Possible source-list typo ('harrison'?). Re-verify against the source publication before use.",
+      "status": "quarantined"
+    }
+  ],
+  "manual_checklist": [
+    {
+      "handle": "@africansafari",
+      "platform": "instagram",
+      "reason": "May be a brand/tour-operator account rather than an individual creator. Verify account nature before any attribution or outreach.",
+      "check_url": "https://www.instagram.com/africansafari"
+    },
+    {
+      "handle": "@limsawkward",
+      "platform": "tiktok",
+      "reason": "Possible source-list typo; handle may not exist. Re-verify against the source publication before use.",
+      "check_url": "https://www.tiktok.com/limsawkward"
+    },
+    {
+      "handle": "@marklharriosn",
+      "platform": "tiktok",
+      "reason": "Possible source-list typo ('harrison'?). Re-verify against the source publication before use.",
+      "check_url": "https://www.tiktok.com/marklharriosn"
+    }
+  ],
+  "errors": [],
+  "warnings": []
+}
