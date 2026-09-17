@@ -2,10 +2,10 @@
   "db": "/home/hatch/workspace/travel-influencer-pilot/pilot.db",
   "status": "loaded",
   "stats": {
-    "itineraries": 94,
-    "items": 1155,
-    "sources": 106,
-    "posts": 94,
+    "itineraries": 184,
+    "items": 1786,
+    "sources": 219,
+    "posts": 184,
     "skipped_quarantined": [
       {
         "batch": 1,
@@ -26,8 +26,8 @@
     "skipped_council": []
   },
   "checks": {
-    "influencers": 100,
-    "itineraries": 94,
+    "influencers": 200,
+    "itineraries": 184,
     "orphan_items": 0,
     "orphan_itineraries": 0,
     "itineraries_without_source": 0,

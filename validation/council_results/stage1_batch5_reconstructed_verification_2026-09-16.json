@@ -1,0 +1,63 @@
+{
+ "completed_date": "2026-09-16",
+ "failures": [
+  {
+   "handle": "@nytoanywhere",
+   "verdict": "UNRESOLVED",
+   "evidence": "2026-09-16 search surfaced @thescenicpassport, not @nytoanywhere, for the claimed Zion guide; identity, reach, activity and guide all unverified. Replacement candidate."
+  }
+ ],
+ "note": "These 5 handles were RECONSTRUCTED in staging/selection_batch5.csv on 2026-09-16 after accidental truncation and were NOT in the 31-packet council sample. Verified via independent public web search (identity + travel niche), creator-only scope unless a structured guide is indexed.",
+ "pass": [
+  {
+   "handle": "@heroiisa",
+   "verdict": "PASS",
+   "evidence": "4-day Costa Brava itinerary verified: video 7595629165072764191, date 2026-01-15 two-signal (ID decode + indexed exact-handle caption with full day-by-day text). High-confidence extraction persisted."
+  },
+  {
+   "handle": "@sheyhernandez96",
+   "verdict": "PASS",
+   "evidence": "9-stop Chicago guide verified: video 7603593031815580941, date 2026-02-06 two-signal (ID decode + indexed exact-handle caption)."
+  },
+  {
+   "handle": "@lexxhidalgo",
+   "verdict": "CONDITIONAL PASS",
+   "evidence": "5-day California road-trip series verified (video 7648002741138148621, date 2026-06-05 two-signal via oEmbed); Day 2 stops (Morro Bay, Carmel, Big Sur) evidenced, other days not captured. Reach 2.7M TikTok/815K IG per STB doc."
+  },
+  {
+   "handle": "@chubbydiaries",
+   "verdict": "CONDITIONAL PASS",
+   "evidence": "Identity strong (Jeff Jenkins, Chubby Diaries founder, NatGeo host); 72-hour Sonoma County food itinerary structure verified with two-signal date (~2025-08-07); item-level detail not yet captured."
+  }
+ ],
+ "scope": "All 10 reconstructed rows of selection_batch5.csv (5 in 31-packet council sample: @natyexplora, @explorewithsofs, @letravelstyle, @wanderingcreator_meghana, @vitortrip; 5 verified here)",
+ "verifier_method": "independent public web search 2026-09-16, handle + niche + activity",
+ "superseded_note": "CORRECTED 2026-09-16: the original 2026-09-16 version recorded PASS for all 5 reconstructed rows on identity/niche evidence alone. That was overbroad. Corrected verdicts below reflect the 2026-09-16 evidence remediation.",
+ "rows": [
+  {
+   "handle": "@heroiisa",
+   "verdict": "PASS",
+   "evidence": "4-day Costa Brava itinerary verified: video 7595629165072764191, date 2026-01-15 two-signal (ID decode + indexed exact-handle caption with full day-by-day text). High-confidence extraction persisted."
+  },
+  {
+   "handle": "@sheyhernandez96",
+   "verdict": "PASS",
+   "evidence": "9-stop Chicago guide verified: video 7603593031815580941, date 2026-02-06 two-signal (ID decode + indexed exact-handle caption)."
+  },
+  {
+   "handle": "@lexxhidalgo",
+   "verdict": "CONDITIONAL PASS",
+   "evidence": "5-day California road-trip series verified (video 7648002741138148621, date 2026-06-05 two-signal via oEmbed); Day 2 stops (Morro Bay, Carmel, Big Sur) evidenced, other days not captured. Reach 2.7M TikTok/815K IG per STB doc."
+  },
+  {
+   "handle": "@chubbydiaries",
+   "verdict": "CONDITIONAL PASS",
+   "evidence": "Identity strong (Jeff Jenkins, Chubby Diaries founder, NatGeo host); 72-hour Sonoma County food itinerary structure verified with two-signal date (~2025-08-07); item-level detail not yet captured."
+  },
+  {
+   "handle": "@nytoanywhere",
+   "verdict": "UNRESOLVED",
+   "evidence": "2026-09-16 search surfaced @thescenicpassport, not @nytoanywhere, for the claimed Zion guide; identity, reach, activity and guide all unverified. Replacement candidate."
+  }
+ ]
+}

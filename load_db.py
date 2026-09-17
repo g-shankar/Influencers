@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """Load validated pilot data into pilot.db. Fail-closed.
 
-Inputs: canonical staging/itineraries_batch[1-4].json, influencers.csv,
-        validation/reports/gate3_report.json (per-URL reachability),
+Inputs: canonical staging/itineraries_batch{N}.json (N from stage.json),
+        influencers.csv, validation/reports/gate3_report.json (per-URL reachability),
         validation/quarantine.json (status=quarantined -> zero itinerary attribution).
+Stage targets (creator total, per-platform quotas) come from stage.json;
+the loader still refuses to load on any quota mismatch.
 Optional: --exclude-json path to a JSON array of {"batch":n,"handle":h,"title":t}
         entries the evidence council marked FAIL/UNVERIFIABLE. These are skipped.
 
@@ -19,9 +21,12 @@ import sqlite3
 import sys
 from pathlib import Path
 
+from stage_config import load as load_stage
+
 ROOT = Path(__file__).resolve().parents[0]
 DB = ROOT / "pilot.db"
 REPORTS = ROOT / "validation" / "reports"
+STAGE = load_stage()
 
 
 def main():
@@ -52,8 +57,8 @@ def main():
     # 1. influencers from influencers.csv
     with open(ROOT / "influencers.csv", newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
-    if len(rows) != 100:
-        sys.exit(f"refusing to load: influencers.csv has {len(rows)} rows, expected 100")
+    if len(rows) != STAGE["creators_total"]:
+        sys.exit(f"refusing to load: influencers.csv has {len(rows)} rows, expected {STAGE['creators_total']}")
     seen = set()
     for r in rows:
         key = (r["handle"].strip(), r["platform"].strip())
@@ -70,13 +75,14 @@ def main():
              (r.get("source_urls") or "").strip() or None))
     inf_id = {h: i for h, i in cur.execute("SELECT handle, id FROM influencers")}
     plats = dict(cur.execute("SELECT platform, COUNT(*) FROM influencers GROUP BY platform"))
-    if plats != {"instagram": 50, "tiktok": 50}:
-        sys.exit(f"platform split wrong after load: {plats}")
+    quota = STAGE["platforms"]
+    if plats != quota:
+        sys.exit(f"platform split wrong after load: {plats} (quota: {quota})")
 
     # 2. itineraries + items + sources + posts
     stats = {"itineraries": 0, "items": 0, "sources": 0, "posts": 0,
              "skipped_quarantined": [], "skipped_council": []}
-    for n in range(1, 5):
+    for n in STAGE["batches"]:
         data = json.loads((ROOT / "staging" / f"itineraries_batch{n}.json").read_text(encoding="utf-8"))
         for ex in data.get("extractions", []):
             handle = ex["handle"]
@@ -147,8 +153,8 @@ def main():
     }
     bad = [k for k, v in checks.items()
            if (k in ("influencers", "itineraries") and v <= 0) or (k not in ("influencers", "itineraries") and v != 0)]
-    if checks["influencers"] != 100:
-        bad.append("influencers!=100")
+    if checks["influencers"] != STAGE["creators_total"]:
+        bad.append(f"influencers!={STAGE['creators_total']}")
     if bad:
         con.rollback()
         sys.exit(f"load invariants failed: {checks}")

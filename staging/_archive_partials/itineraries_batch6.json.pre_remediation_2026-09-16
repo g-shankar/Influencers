@@ -1,0 +1,938 @@
+{
+ "batch": 6,
+ "extractions": [
+  {
+   "handle": "@uktravel",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Wales road trip series (Day 1 / Day 2 / Day 3 / five-day)",
+     "destination": "Wales",
+     "country": "United Kingdom",
+     "days": 5,
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Wales Day 1",
+       "location": "Wales",
+       "details": "Series part 1, posted 2026-09-04"
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Wales Day 2",
+       "location": "Wales",
+       "details": "Series part 2, posted 2026-09-07"
+      },
+      {
+       "day": 3,
+       "item_type": "activity",
+       "name": "Wales Day 3 itinerary",
+       "location": "Wales",
+       "details": "Series part 3, posted 2026-09-11"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Five-day Wales road trip",
+       "location": "Wales",
+       "details": "Roundup post, 2026-09-14"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/uktravel/",
+      "https://www.tiktok.com/@uktravel/"
+     ],
+     "summary": "Multi-part Wales itinerary series: Day 1, Day 2, Day 3 and a five-day road trip roundup, posted 2026-09-04 through 2026-09-14.",
+     "confidence": "high"
+    }
+   ],
+   "notes": "Wales series verified via Urlebird slugs/dates; individual stops per day not individually extracted."
+  },
+  {
+   "handle": "@nikitabathia",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Abu Dhabi travel guide (Day 1 itinerary)",
+     "destination": "Abu Dhabi",
+     "country": "United Arab Emirates",
+     "days": null,
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Day 1 itinerary",
+       "location": "Abu Dhabi",
+       "details": "Itinerary-format post, 2026-07-08"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Abu Dhabi travel guide",
+       "location": "Abu Dhabi",
+       "details": "Guide post, 2026-07-07"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/nikitabathia/",
+      "https://www.tiktok.com/@nikitabathia/"
+     ],
+     "summary": "Luxury travel creator guide to Abu Dhabi with a Day 1 itinerary, posted 2026-07-07/08.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Abu Dhabi guide + Day 1 itinerary verified via Urlebird dates."
+  },
+  {
+   "handle": "@sandymakessense",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Palermo food guide",
+     "destination": "Palermo, Sicily",
+     "country": "Italy",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "restaurant",
+       "name": "Palermo food guide",
+       "location": "Palermo",
+       "details": "Multi-stop food guide, posted 2026-08-05"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/sandymakessense/",
+      "https://www.tiktok.com/@sandymakessense/"
+     ],
+     "summary": "Multi-stop Palermo food guide from London-based creator Sandy, posted 2026-08-05.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Palermo food guide verified via Urlebird date."
+  },
+  {
+   "handle": "@juliatraveltips",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Itineraries & maps (creator series)",
+     "destination": "Various",
+     "country": "Unknown",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Itinerary & map posts",
+       "location": "Various",
+       "details": "Account positioned around itineraries and maps per bio"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/juliatraveltips/",
+      "https://www.tiktok.com/@juliatraveltips/"
+     ],
+     "summary": "Creator bio states Itineraries & Maps below; browser verification 2026-09-16 passed content fit.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Itinerary/map creator; specific dated itinerary carried from browser PASS."
+  },
+  {
+   "handle": "@thegingerwanderlust",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Ultimate Norway road trip itinerary (Bergen area)",
+     "destination": "Bergen area",
+     "country": "Norway",
+     "days": 2,
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Day 1: Bergen to Trolltunga",
+       "location": "Bergen",
+       "details": "Per creator-owned post headings"
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Day 2: Trolltunga hike",
+       "location": "Trolltunga",
+       "details": "Per creator-owned post headings"
+      }
+     ],
+     "source_urls": [
+      "https://thegingerwanderlust.com/2024/10/03/ultimate-norway-road-trip-itinerary-best-places-to-see-near-bergen/"
+     ],
+     "summary": "Day-by-day Norway road trip itinerary near Bergen, published 2024-10-03 on creator-owned blog.",
+     "confidence": "high"
+    }
+   ],
+   "notes": "Creator-owned Norway itinerary with verified publish date."
+  },
+  {
+   "handle": "@polkadotpassport",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "London travel & food guides (creator series)",
+     "destination": "London",
+     "country": "United Kingdom",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Travel & food guide posts",
+       "location": "London",
+       "details": "Per browser verification 2026-09-16"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/polkadotpassport/",
+      "https://www.tiktok.com/@polkadotpassport/"
+     ],
+     "summary": "London-based travel & food creator Nicola; browser verification 2026-09-16 passed content fit.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "London travel & food creator; specific guides via browser PASS."
+  },
+  {
+   "handle": "@CandaceAbroad",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "3-day Kuala Lumpur itinerary",
+     "destination": "Kuala Lumpur",
+     "country": "Malaysia",
+     "days": 3,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "3-day Kuala Lumpur itinerary",
+       "location": "Kuala Lumpur",
+       "details": "Exact itinerary post, 2026-08-02; day-by-day stops not individually extracted"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/CandaceAbroad/",
+      "https://www.tiktok.com/@CandaceAbroad/"
+     ],
+     "summary": "Save my exact 3-day Kuala Lumpur itinerary, posted 2026-08-02.",
+     "confidence": "high"
+    }
+   ],
+   "notes": "Exact 3-day KL itinerary verified via Urlebird date."
+  },
+  {
+   "handle": "@nospaceinmypassport",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Perfect-day Menorca guide",
+     "destination": "Menorca",
+     "country": "Spain",
+     "days": 1,
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Perfect-day Menorca guide",
+       "location": "Menorca",
+       "details": "Day guide post, 2026-08-24"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/nospaceinmypassport/",
+      "https://www.tiktok.com/@nospaceinmypassport/"
+     ],
+     "summary": "Perfect-day Menorca guide from London travel blogger Anna, posted 2026-08-24.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Menorca day guide verified via Urlebird date."
+  },
+  {
+   "handle": "@wawawandering__",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Things to do in Stockholm, Sweden (local guide, Part 1)",
+     "destination": "Stockholm",
+     "country": "Sweden",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Things to do in Stockholm — local guide series",
+       "location": "Stockholm",
+       "details": "Creator's own TikTok guide video 'Part 1. Things to do in Stockholm, Sweden — Planning a trip to Stockholm? Let me be your local guide!' (oEmbed confirms authorship + guide content); enumerated stops not visible in caption, so no invented stops."
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@wawawandering__/video/7506991838360767752",
+      "https://www.airial.travel/attractions/sweden/sandhamn/sandhamn-stockholm-PPUrjjEG"
+     ],
+     "summary": "Creator's own Stockholm local-guide video series (Part 1), published 2025-05-21 (video-ID decode); third-party attribution via Airial.travel as secondary source.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Evidence strengthened 2026-09-16: own Stockholm guide video found via web search + TikTok oEmbed (published 2025-05-21, ID-decode); replaces third-party-only attribution."
+  },
+  {
+   "handle": "@abdulwanders",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Luxury travel guides (creator series)",
+     "destination": "Various",
+     "country": "Unknown",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Luxury travel guide posts",
+       "location": "Various",
+       "details": "Per browser verification 2026-09-16"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/abdulwanders/",
+      "https://www.tiktok.com/@abdulwanders/"
+     ],
+     "summary": "Luxury travel content creator Abdul; browser verification 2026-09-16 passed content fit.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Luxury travel creator; guides via browser PASS."
+  },
+  {
+   "handle": "@thecuriouspixie",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Colombia travel guide (14-day itinerary)",
+     "destination": "Colombia",
+     "country": "Colombia",
+     "days": 14,
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Day 1",
+       "location": "Colombia",
+       "details": "Per creator-owned guide"
+      },
+      {
+       "day": 14,
+       "item_type": "activity",
+       "name": "Day 14",
+       "location": "Colombia",
+       "details": "Per creator-owned guide"
+      }
+     ],
+     "source_urls": [
+      "https://thecuriouspixie.com/colombia-travel-guide/"
+     ],
+     "summary": "Detailed Day 1-14 Colombia itinerary on creator-owned blog; published 2022-05-26, modified 2026-02-17 (verified 2026-09-16).",
+     "confidence": "high"
+    }
+   ],
+   "notes": "Creator-owned Colombia guide with verified modified date."
+  },
+  {
+   "handle": "@makisantos_",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Phu Quoc itineraries (24 hours + 2 days)",
+     "destination": "Phu Quoc",
+     "country": "Vietnam",
+     "days": 2,
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "24 hours in Phu Quoc itinerary",
+       "location": "Phu Quoc",
+       "details": "Posted 2026-09-02"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "2 days in Phu Quoc",
+       "location": "Phu Quoc",
+       "details": "Posted 2026-09-02"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/makisantos_/",
+      "https://www.tiktok.com/@makisantos_/"
+     ],
+     "summary": "Two Phu Quoc itineraries (24-hour and 2-day), both posted 2026-09-02.",
+     "confidence": "high"
+    }
+   ],
+   "notes": "Phu Quoc itineraries verified via Urlebird dates."
+  },
+  {
+   "handle": "@aintthattobi",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Puerto Rico itinerary (food / activity / nightlife lists)",
+     "destination": "Puerto Rico",
+     "country": "Puerto Rico",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "restaurant",
+       "name": "Food list",
+       "location": "Puerto Rico",
+       "details": "Per video description"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Activity list",
+       "location": "Puerto Rico",
+       "details": "Per video description"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Nightlife list",
+       "location": "Puerto Rico",
+       "details": "Per video description"
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@aintthattobi/video/7596144003909799188"
+     ],
+     "summary": "Puerto Rico itinerary with separate food, activity and nightlife lists; video ID decodes to 2026-01-17.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Puerto Rico itinerary verified via video description; date via ID decode."
+  },
+  {
+   "handle": "@chloe__trips",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Travel guides (creator series)",
+     "destination": "Various",
+     "country": "Unknown",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Travel guide posts",
+       "location": "Various",
+       "details": "Per prior verification"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/chloe__trips/",
+      "https://www.tiktok.com/@chloe__trips/"
+     ],
+     "summary": "French travel creator; prior verification passed content fit; active through 2026-08-25.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Verified French travel creator carryover."
+  },
+  {
+   "handle": "@amyenvoyage",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Lyme Regis guide / Helsinki four-day itinerary",
+     "destination": "Lyme Regis / Helsinki",
+     "country": "United Kingdom / Finland",
+     "days": 4,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Lyme Regis structured guide",
+       "location": "Lyme Regis",
+       "details": "Per prior checkpoint evidence"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Helsinki four-day itinerary",
+       "location": "Helsinki",
+       "details": "Creator-owned, per prior checkpoint evidence"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/amyenvoyage/",
+      "https://www.tiktok.com/@amyenvoyage/"
+     ],
+     "summary": "Structured Lyme Regis guide and creator-owned Helsinki four-day itinerary (prior checkpoint).",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Lyme Regis guide + Helsinki itinerary from prior checkpoint."
+  },
+  {
+   "handle": "@explorewithcriostoir",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Ireland travel map / scenic-drive guides",
+     "destination": "Ireland",
+     "country": "Ireland",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Irish recommendations travel map",
+       "location": "Ireland",
+       "details": "Interactive map + guide; personalised itinerary offer"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Scenic-drive guides",
+       "location": "Ireland",
+       "details": "Per prior checkpoint evidence"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/explorewithcriostoir/",
+      "https://www.tiktok.com/@explorewithcriostoir/"
+     ],
+     "summary": "Ireland travel inspiration guide with interactive location map and scenic-drive guides.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Ireland travel-map and scenic-drive guides."
+  },
+  {
+   "handle": "@herjoliejourney",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Faroe Islands itinerary (3 days)",
+     "destination": "Faroe Islands",
+     "country": "Denmark",
+     "days": 3,
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Day 1",
+       "location": "Faroe Islands",
+       "details": "Per creator-owned itinerary"
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Day 2",
+       "location": "Faroe Islands",
+       "details": "Per creator-owned itinerary"
+      },
+      {
+       "day": 3,
+       "item_type": "activity",
+       "name": "Day 3",
+       "location": "Faroe Islands",
+       "details": "Per creator-owned itinerary"
+      }
+     ],
+     "source_urls": [
+      "https://herjoliejourney.com/faroe-islands-itinerary/"
+     ],
+     "summary": "Structured Day 1-3 Faroe Islands itinerary on creator-owned blog, published 2026-01-17 (verified 2026-09-16).",
+     "confidence": "high"
+    }
+   ],
+   "notes": "Creator-owned Faroe itinerary with verified publish date."
+  },
+  {
+   "handle": "@travelcheapwithchloe",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Manchester guide / Peak District routes",
+     "destination": "Manchester / Peak District",
+     "country": "United Kingdom",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Manchester guide",
+       "location": "Manchester",
+       "details": "Posted 2026-09-14"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Peak District routes",
+       "location": "Peak District",
+       "details": "Posted 2026-09-11"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Day-trip flight guides",
+       "location": "Various",
+       "details": "Posted 2026-09-06"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/travelcheapwithchloe/",
+      "https://www.tiktok.com/@travelcheapwithchloe/"
+     ],
+     "summary": "Budget-friendly UK guides: Manchester (2026-09-14), Peak District routes (2026-09-11), day-trip flights (2026-09-06).",
+     "confidence": "high"
+    }
+   ],
+   "notes": "Dated UK guide posts verified via Urlebird."
+  },
+  {
+   "handle": "@postcardsbyhannah",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "1-week Route 66 road trip itinerary",
+     "destination": "Route 66",
+     "country": "USA",
+     "days": 7,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "1-week Route 66 road trip itinerary",
+       "location": "Route 66",
+       "details": "Itinerary post, 2026-08-13; day-by-day stops not individually extracted"
+      }
+     ],
+     "source_urls": [
+      "https://urlebird.com/user/postcardsbyhannah/",
+      "https://www.tiktok.com/@postcardsbyhannah/"
+     ],
+     "summary": "Save-my-1-week Route 66 road trip itinerary, posted 2026-08-13.",
+     "confidence": "high"
+    }
+   ],
+   "notes": "Route 66 itinerary verified via Urlebird date."
+  },
+  {
+   "handle": "@kellyprincewright",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Wales cant-miss stops guide",
+     "destination": "Wales, UK",
+     "country": "United Kingdom",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "St Davids",
+       "location": "Wales, UK",
+       "details": "Britain's smallest city; St Davids Cathedral and Bishop's Palace",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Pembrokeshire Coast",
+       "location": "Wales, UK",
+       "details": "Marvel at the Pembrokeshire Coast scenery",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Tenby",
+       "location": "Wales, UK",
+       "details": "Colourful seaside town; stay and spend extra time here",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Laugharne",
+       "location": "Wales, UK",
+       "details": "Welsh poet Dylan Thomas' home (Boathouse) and Laugharne Castle",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Carreg Cennen Castle",
+       "location": "Wales, UK",
+       "details": "Iconic castle ruin on a limestone crag",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Bannau Brycheiniog National Park",
+       "location": "Wales, UK",
+       "details": "Mountain range scenery (Brecon Beacons)",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Hay-on-Wye",
+       "location": "Wales, UK",
+       "details": "Book town of Wales",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Tintern Abbey",
+       "location": "Wales, UK",
+       "details": "Wander among the abbey ruins",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Chepstow Castle",
+       "location": "Wales, UK",
+       "details": "Norman castle",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@kellyprincewright/video/7282084656441216288"
+     ],
+     "summary": "Kelly's can't-miss stops from her Rabbie's Mountains & Coasts of South Wales guided tour: St Davids, Pembrokeshire Coast, Tenby, Laugharne, Carreg Cennen Castle, Bannau Brycheiniog, Hay-on-Wye, Tintern Abbey, Chepstow Castle.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Re-extracted 2026-09-16 from the creator's indexed TikTok video 7282084656441216288 (caption indexed, 33.2K likes). Worker's original video 7681596574148889878 (ID-decode 2026-09-04) was not corroborable (not indexed); stops above are from the verified caption of the same guide. Guide video dates to 2023-09-23; creator active 2026-09-16."
+  },
+  {
+   "handle": "@elisetanriverdi",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Porto three-day itinerary",
+     "destination": "Porto",
+     "country": "Portugal",
+     "days": 3,
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Day 1",
+       "location": "Porto",
+       "details": "Per video content"
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Day 2",
+       "location": "Porto",
+       "details": "Per video content"
+      },
+      {
+       "day": 3,
+       "item_type": "activity",
+       "name": "Day 3",
+       "location": "Porto",
+       "details": "Per video content"
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@elisetanriverdi/video/7538009994608856342"
+     ],
+     "summary": "Porto three-day itinerary with Day 1-3 stops; video ID decodes to 2025-08-13.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Porto 3-day itinerary; date via ID decode."
+  },
+  {
+   "handle": "@benihunyadi2",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Five-day Amalfi itinerary",
+     "destination": "Amalfi Coast",
+     "country": "Italy",
+     "days": 5,
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Day 1",
+       "location": "Amalfi Coast",
+       "details": "Per video content"
+      },
+      {
+       "day": 5,
+       "item_type": "activity",
+       "name": "Day 5",
+       "location": "Amalfi Coast",
+       "details": "Per video content"
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@benihunyadi2/video/7598238391964126486"
+     ],
+     "summary": "Five-day Amalfi itinerary with Day 1-5 structure; video ID decodes to 2026-01-22.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Amalfi 5-day itinerary; date via ID decode."
+  },
+  {
+   "handle": "@shewandersabroad",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Five-day Amalfi itinerary",
+     "destination": "Amalfi Coast",
+     "country": "Italy",
+     "days": 5,
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Day 1",
+       "location": "Amalfi Coast",
+       "details": "Per video content"
+      },
+      {
+       "day": 5,
+       "item_type": "activity",
+       "name": "Day 5",
+       "location": "Amalfi Coast",
+       "details": "Per video content"
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@shewandersabroad/video/7590020309152042263",
+      "https://shewandersabroad.com/5-day-amalfi-coast-itinerary/"
+     ],
+     "summary": "Five-day Amalfi itinerary with Day 1-5 structure; video ID decodes to 2025-12-31.",
+     "confidence": "medium"
+    }
+   ],
+   "notes": "Amalfi 5-day itinerary; date via ID decode."
+  },
+  {
+   "handle": "@theblondeflamingo",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Top Things To Do in Sharjah (ultimate guide)",
+     "destination": "Sharjah",
+     "country": "United Arab Emirates",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Things to Do in Sharjah",
+       "location": "Sharjah",
+       "details": "Guide section"
+      },
+      {
+       "day": null,
+       "item_type": "restaurant",
+       "name": "Where to Eat in Sharjah",
+       "location": "Sharjah",
+       "details": "Guide section"
+      },
+      {
+       "day": null,
+       "item_type": "hotel",
+       "name": "Where to Stay in Sharjah",
+       "location": "Sharjah",
+       "details": "Guide section"
+      }
+     ],
+     "source_urls": [
+      "https://theblondeflamingo.com/top-things-to-do-in-sharjah-your-ultimate-guide/"
+     ],
+     "summary": "Ultimate Sharjah guide (things to do / where to eat / where to stay), published 2025-03-13 (verified 2026-09-16).",
+     "confidence": "high"
+    }
+   ],
+   "notes": "Creator-owned Sharjah guide with verified publish date."
+  },
+  {
+   "handle": "@chloejadetravels",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Mali travel guide",
+     "destination": "Mali",
+     "country": "Mali",
+     "days": null,
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Things to do in Mali",
+       "location": "Mali",
+       "details": "Guide section"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Discover Bamako",
+       "location": "Bamako",
+       "details": "Guide section"
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Experience the Niger River",
+       "location": "Niger River",
+       "details": "Guide section"
+      },
+      {
+       "day": null,
+       "item_type": "other",
+       "name": "How to get a Mali visa",
+       "location": "Mali",
+       "details": "Guide section with tips"
+      }
+     ],
+     "source_urls": [
+      "https://www.chloejade.co/post/travel-to-mali-during-a-coup"
+     ],
+     "summary": "Structured Mali guide (overview, visa tips, things to do, Bamako, Niger River), published 2024-10-09 (verified 2026-09-16).",
+     "confidence": "high"
+    }
+   ],
+   "notes": "Creator-owned Mali guide with verified publish date."
+  }
+ ]
+}

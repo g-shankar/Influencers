@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Gate 2 — influencer handle integrity (fail-closed).
 
-Checks influencers.csv: exactly 100 data rows, 50/50 platform split,
-unique (handle, platform), handle format, non-empty provenance fields,
+Checks influencers.csv against stage.json: expected total rows and per-platform
+quotas, unique (handle, platform), handle format, non-empty provenance fields,
 and applies validation/quarantine.json.
 
 Exit codes: 0 PASS (quarantine items reported, not failed), 1 FAIL,
@@ -14,9 +14,14 @@ import re
 import sys
 from pathlib import Path
 
+import sys as _sys
+_sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from stage_config import load as load_stage
+
 ROOT = Path(__file__).resolve().parents[1]
 REPORTS = ROOT / "validation" / "reports"
 HANDLE_RE = re.compile(r"^@[A-Za-z0-9._-]{1,64}$")
+STAGE = load_stage()
 
 
 def main():
@@ -33,8 +38,8 @@ def main():
     with open(csv_path, newline="", encoding="utf-8") as f:
         rows = list(csv.DictReader(f))
 
-    if len(rows) != 100:
-        errors.append(f"expected 100 influencer rows, got {len(rows)}")
+    if len(rows) != STAGE["creators_total"]:
+        errors.append(f"expected {STAGE['creators_total']} influencer rows, got {len(rows)}")
 
     platforms = {}
     seen = set()
@@ -57,8 +62,9 @@ def main():
         if pu and not pu.lower().startswith(("http://", "https://")):
             errors.append(f"{tag}: bad profile_url {pu!r}")
 
-    if platforms.get("tiktok", 0) != 50 or platforms.get("instagram", 0) != 50:
-        errors.append(f"platform split must be 50/50, got {platforms}")
+    quota = STAGE["platforms"]
+    if any(platforms.get(p, 0) != q for p, q in quota.items()):
+        errors.append(f"platform split must be {quota}, got {platforms}")
 
     # Quarantine application
     qpath = ROOT / "validation" / "quarantine.json"

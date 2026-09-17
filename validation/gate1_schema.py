@@ -14,13 +14,19 @@ import sys
 from pathlib import Path
 from urllib.parse import urlparse
 
+import sys as _sys
+_sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from stage_config import load as load_stage
+
 ROOT = Path(__file__).resolve().parents[1]
 STAGING = ROOT / "staging"
 REPORTS = ROOT / "validation" / "reports"
 
 CONFIDENCES = {"high", "medium", "low"}
 ITEM_TYPES = {"flight", "hotel", "activity", "restaurant", "transport", "other"}
-EXPECTED_FILES = {f"itineraries_batch{n}.json" for n in range(1, 5)}
+STAGE = load_stage()
+BATCHES = STAGE["batches"]
+EXPECTED_FILES = {f"itineraries_batch{n}.json" for n in BATCHES}
 
 
 def is_url(u):
@@ -57,9 +63,10 @@ def validate_batch(n):
     if not isinstance(data, dict) or data.get("batch") != n:
         errors.append(f"batch{n}: top-level 'batch' must equal {n}")
     exts = data.get("extractions")
-    if not isinstance(exts, list) or len(exts) != 25:
+    batch_size = STAGE["batch_size"]
+    if not isinstance(exts, list) or len(exts) != batch_size:
         got = len(exts) if isinstance(exts, list) else type(exts).__name__
-        errors.append(f"batch{n}: 'extractions' must be a list of exactly 25 (got {got})")
+        errors.append(f"batch{n}: 'extractions' must be a list of exactly {batch_size} (got {got})")
         exts = exts if isinstance(exts, list) else []
 
     try:
@@ -151,7 +158,7 @@ def main():
     REPORTS.mkdir(parents=True, exist_ok=True)
     all_errors, all_warnings = [], []
     batches = []
-    for n in range(1, 5):
+    for n in BATCHES:
         res, errs, warns = validate_batch(n)
         batches.append(res)
         all_errors.extend(errs)

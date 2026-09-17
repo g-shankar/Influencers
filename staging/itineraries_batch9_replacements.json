@@ -1,0 +1,1383 @@
+{
+ "batch": 9,
+ "research_date": "2026-09-16",
+ "researcher": "batch9-coordinator",
+ "replaces_excluded_handles": [
+  "@travelingwithtals",
+  "@nytoanywhere",
+  "@polkadotpassport",
+  "@goingwithnicole",
+  "@chloe__trips",
+  "@boyeatsworld",
+  "@chubbydiaries"
+ ],
+ "extractions": [
+  {
+   "handle": "@heleneinbetween",
+   "platform": "tiktok",
+   "creator_name": "Helene Sula",
+   "itineraries": [
+    {
+     "title": "Walking the Cotswold Way: 10-Day Itinerary",
+     "destination": "Cotswold Way",
+     "country": "United Kingdom",
+     "days": 10,
+     "confidence": "high",
+     "summary": "Helene Sula solo-walked the 102-mile Cotswold Way National Trail from Chipping Campden to Bath in 10 days (October 2024), staying in pubs, inns and a castle, with a sherpa luggage-transfer service moving her bags hotel to hotel. Total cost about £2,500 including hotels (£100–150/night), food, sherpa service and transport. She sells a 70+ page guide with 3/7/8/9/10/12/15-day itinerary options.",
+     "source_urls": [
+      "https://heleneinbetween.com/2026/01/walking-the-cotswold-way-full-guide-everything-you-need-to-know.html",
+      "https://www.tiktok.com/@heleneinbetween/video/7606063553845431566"
+     ],
+     "guide_date_signals": [
+      "Blog permalink /2026/01/ (Blogger platform encodes publication year/month in the post URL)",
+      "TikTok photo 7606063553845431566 posted 2026-02-12 UTC (video_id >> 32 timestamp decode) with caption 'link in bio for my guide to this walk' — proves the guide was live by 2026-02-12; corroborated by videos 7600883894367391007 (2026-01-29) and 7614569104430746893 (2026-03-07, 'I wrote a 70-page guide')"
+     ],
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Day 1 walk, 8 miles",
+       "item_type": "activity",
+       "location": "Cotswolds, England",
+       "name": "Chipping Campden to Broadway",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Day 2 walk, 15.5 miles",
+       "item_type": "activity",
+       "location": "Cotswolds, England",
+       "name": "Broadway to Winchcombe",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Day 3 walk, 11 miles",
+       "item_type": "activity",
+       "location": "Cotswolds, England",
+       "name": "Winchcombe to Cheltenham",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Day 4 walk, 12 miles",
+       "item_type": "activity",
+       "location": "Cotswolds, England",
+       "name": "Cheltenham to Birdlip",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Day 5 walk, 10 miles",
+       "item_type": "activity",
+       "location": "Cotswolds, England",
+       "name": "Birdlip to Painswick",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Day 6 walk, 10 miles",
+       "item_type": "activity",
+       "location": "Cotswolds, England",
+       "name": "Painswick to Stonehouse",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Day 7 walk, 13.5 miles",
+       "item_type": "activity",
+       "location": "Cotswolds, England",
+       "name": "Stonehouse to Wotton-under-Edge",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 8,
+       "details": "Day 8 walk, 13.5 miles",
+       "item_type": "activity",
+       "location": "Cotswolds, England",
+       "name": "Wotton-under-Edge to Old Sodbury",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 9,
+       "details": "Day 9 walk, 8.5 miles",
+       "item_type": "activity",
+       "location": "Cotswolds, England",
+       "name": "Old Sodbury to Cold Ashton",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 10,
+       "details": "Day 10 walk, 10 miles; finishes at Bath Abbey",
+       "item_type": "activity",
+       "location": "Cotswolds, England",
+       "name": "Cold Ashton to Bath",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Stayed in pubs, inns and a castle along the way, all pre-booked",
+       "item_type": "hotel",
+       "location": "Cotswold Way",
+       "name": "Pubs, inns and a castle along the route (pre-booked; property names not stated)",
+       "price_hint": "£100–150/night"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Service moved her bags hotel to hotel every day; she walked with just a small backpack (water, snacks, sunscreen, phone)",
+       "item_type": "transport",
+       "location": "Cotswold Way",
+       "name": "Sherpa luggage-transfer service (company name not stated)",
+       "price_hint": "included in ~£2,500 trip total"
+      }
+     ]
+    }
+   ],
+   "notes": "Walk itself was October 2024; the GUIDE (the qualifying artifact) was published January 2026 per both date signals. Follower exact integer is the single missing field. Followers 375,900 exact from TikTok profile __UNIVERSAL_DATA_FOR_REHYDRATION__ JSON (fetched 2026-09-16). Activity: latest video 2026-09-16."
+  },
+  {
+   "handle": "@travelwithveronicca",
+   "platform": "tiktok",
+   "creator_name": "Veronika (surname unconfirmed; first-name-only)",
+   "itineraries": [
+    {
+     "title": "Steal my 3 day itinerary for Prague",
+     "destination": "Prague",
+     "country": "Czech Republic",
+     "days": 3,
+     "confidence": "high",
+     "summary": "Veronika (@travelwithveronicca) 3-day Prague itinerary TikTok video (2026-04-28): Day 1 Old Town & Charles Bridge; Day 2 Castle side & classic views; Day 3 soft, local, cinematic. Full day-by-day plan in the caption.",
+     "source_urls": [
+      "https://www.tiktok.com/@travelwithveronicca/video/7633894081160088854"
+     ],
+     "guide_date_signals": [
+      "TikTok video ID 7633894081160088854 >> 32 = 2026-04-28 UTC (mathematical timestamp decode)",
+      "TikTok embedded createTime 1777404478 = 2026-04-28 on the video page (fetched 2026-09-17) — agrees with ID decode (same underlying timestamp; independence caveat recorded)"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "Charles Bridge at sunrise",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Shoot facing the towers with soft backlight, then toward the castle for the layered skyline.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 1,
+       "name": "Old Town Square",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Early morning; Astronomical Clock; empty square shots only possible before 8am.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 1,
+       "name": "Klementinum tower view",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Hidden-angle skyline viewpoint, often overlooked.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 1,
+       "name": "Cafe Savoy",
+       "location": "Prague, Czech Republic",
+       "item_type": "restaurant",
+       "details": "Mid-morning food/aesthetic stop for soft window light.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 1,
+       "name": "Charles Bridge at sunset",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Return for golden hour; warmer, cinematic, more movement.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Prague Castle",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Arrive at opening to avoid crowds.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "St. Vitus Cathedral",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Early morning visit with the castle.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Golden Lane",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Walk down from the castle.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Lennon Wall",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Walk down from the castle.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Eska",
+       "location": "Prague, Czech Republic",
+       "item_type": "restaurant",
+       "details": "Midday break; editorial, minimal interiors.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Letna Park",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Best afternoon viewpoint; wide shot over the bridges.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Riegrovy Sady",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Top-tier sunset spot; clean view, less tourist-heavy, golden light on the city.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "name": "Petrin Hill and Petrin Tower",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Morning; slightly dreamy, almost Paris-like frames.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "name": "Strahov Monastery Library",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Hidden gem; one of the most visually striking interiors in Prague.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "name": "Cafe Letka",
+       "location": "Prague, Czech Republic",
+       "item_type": "restaurant",
+       "details": "Slow content moment; local, understated, natural light.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "name": "Vltava riverbank or Mala Strana side streets",
+       "location": "Prague, Czech Republic",
+       "item_type": "activity",
+       "details": "Final golden hour option; shadows, textures, less obvious frames.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "CAVEATS: (1) identity is first-name-only ('Veronika'); surname unconfirmed — recorded honestly. (2) The two guide date signals (video-ID decode and embedded createTime) derive from the same underlying timestamp; they agree but are not fully independent. Engagement: 568,200 plays / 24,200 likes (worker observation 2026-09-16)."
+  },
+  {
+   "handle": "@gopharitravels",
+   "platform": "tiktok",
+   "creator_name": "Farirai Sanyika (Fari)",
+   "itineraries": [
+    {
+     "title": "10-Day Solo Garden Route Road Trip",
+     "destination": "Garden Route",
+     "country": "South Africa",
+     "days": 10,
+     "confidence": "high",
+     "summary": "Fari's 10-day solo road trip driving South Africa's Garden Route from Cape Town to Tsitsikamma (August 2026), published as a day-by-day TikTok series (kickoff + Day 1 through Day 10) naming each day's stops, stays, restaurants and activities, with travel tips and a newsletter itinerary signup.",
+     "source_urls": [
+      "https://www.tiktok.com/@gopharitravels/video/7669759701118094599"
+     ],
+     "guide_date_signals": [
+      "TikTok video ID 7669759701118094599 (series kickoff) decodes to 2026-08-03; Day 10 video ID 7680069396546768146 decodes to 2026-08-31",
+      "TikTok create_time on the fetched video pages (2026-09-16): kickoff 1785755094 = 2026-08-03; Day 1 1785822923 = 2026-08-04; Day 2 1785936222 = 2026-08-05; slow day 1786113431 = 2026-08-07; Mossel Bay guide 1786540125 = 2026-08-12; Day 4 1786630977 = 2026-08-13; Day 6 1787050564 = 2026-08-18; Day 7 1787301752 = 2026-08-21; Day 8 1787731655 = 2026-08-26; Day 9 1787860465 = 2026-08-27; Day 10 1788155514 = 2026-08-31",
+      "urlebird.com/user/gopharitravels/ (fetched 2026-09-16) listed the series videos as '1 month ago' / '4 weeks ago' / '3 weeks ago' / '2 weeks ago'"
+     ],
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Rental car for the road trip; sponsored ride disclosed in kickoff video (@pacecarrental)",
+       "item_type": "transport",
+       "location": "Cape Town",
+       "name": "Pace Car Rental",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Pie tasting; verdict: steak & kidney is her OG favourite, pepper steak also tasty",
+       "item_type": "restaurant",
+       "location": "En route Cape Town to Mossel Bay",
+       "name": "Legendary pie stop (shop not named by creator)",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Sunset viewing",
+       "item_type": "activity",
+       "location": "Mossel Bay",
+       "name": "Sunset in Mossel Bay",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Gin tasting (venue not named)",
+       "item_type": "activity",
+       "location": "Mossel Bay",
+       "name": "Local gin tasting",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Dinner (restaurant not named)",
+       "item_type": "restaurant",
+       "location": "Mossel Bay",
+       "name": null,
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Overnight stay (@proteahotelbymarriottmosselbay)",
+       "item_type": "hotel",
+       "location": "Mossel Bay",
+       "name": "Protea Hotel by Marriott Mossel Bay",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Art by local artist Johan Georg Stadler made from antique products and materials; art is for sale (@stadl_art)",
+       "item_type": "activity",
+       "location": "Mossel Bay",
+       "name": "STADL Art at Royal Blue Lounge",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Tagged by creator in Day 2 video; venue type not specified",
+       "item_type": "other",
+       "location": "Mossel Bay",
+       "name": "@goods.shed",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Tagged by creator in Day 2 video; venue type not specified",
+       "item_type": "other",
+       "location": "Mossel Bay",
+       "name": "@romonza",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Oyster bar (@mosselbay_oysterbar)",
+       "item_type": "restaurant",
+       "location": "Mossel Bay",
+       "name": "Mossel Bay Oyster Bar",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Farm stay just outside George; she stayed in Eco Cabana 5; planned slow/rest day (@buffandfellow)",
+       "item_type": "hotel",
+       "location": "George",
+       "name": "Buff and Fellow",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Self-drive with detour to Wilderness",
+       "item_type": "transport",
+       "location": "George to Knysna via Wilderness",
+       "name": "Drive George to Knysna",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "FREE viewpoint; view of the Kaaimans River winding through forest in the shape of the African continent",
+       "item_type": "activity",
+       "location": "Wilderness",
+       "name": "Map of Africa viewpoint",
+       "price_hint": "free"
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Checked in on Thesen Island (@turbinehotel)",
+       "item_type": "hotel",
+       "location": "Thesen Island, Knysna",
+       "name": "Turbine Hotel",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Po'boy burger for dinner",
+       "item_type": "restaurant",
+       "location": "Knysna",
+       "name": "Gastro Pub",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Honey butter toast: crispy Japanese milk bread baked with honey and butter, vanilla syrup, Chantilly cream and berry compote",
+       "item_type": "restaurant",
+       "location": "Knysna",
+       "name": "Turbine Hotel breakfast",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Self-drive",
+       "item_type": "transport",
+       "location": "Knysna to Plettenberg Bay",
+       "name": "Drive Knysna to Plettenberg Bay",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Stay (@theplettenberghotel)",
+       "item_type": "hotel",
+       "location": "Plettenberg Bay",
+       "name": "The Plettenberg",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Hiking; three hiking routes to choose from depending on available time",
+       "item_type": "activity",
+       "location": "Plettenberg Bay",
+       "name": "Robberg Nature Reserve",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Lunch",
+       "item_type": "restaurant",
+       "location": "Plettenberg Bay",
+       "name": "Amelia's",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Evening event",
+       "item_type": "activity",
+       "location": "Plettenberg Bay",
+       "name": "Plett Ocean Festival",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 8,
+       "details": "Boat outing (@ocean_blue_adventures)",
+       "item_type": "activity",
+       "location": "Plettenberg Bay",
+       "name": "Ocean Blue Adventures",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 8,
+       "details": "Stay (@theplettenberghotel)",
+       "item_type": "hotel",
+       "location": "Plettenberg Bay",
+       "name": "The Plettenberg",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 9,
+       "details": "Tsitsikamma is the eastern end of the Garden Route",
+       "item_type": "transport",
+       "location": "Plettenberg Bay to Tsitsikamma",
+       "name": "Drive to Tsitsikamma",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 9,
+       "details": "Iconic suspension bridges (@sanparks)",
+       "item_type": "activity",
+       "location": "Tsitsikamma",
+       "name": "Storms River Mouth suspension bridges",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 9,
+       "details": "Glass-walled cabin with a moving bed to sleep under the stars (@mistymountainreserve)",
+       "item_type": "hotel",
+       "location": "Tsitsikamma",
+       "name": "The Cube at Misty Mountain Reserve",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 10,
+       "details": "Canopy tour; use code GOPHARI for 10% off booking (@tsitsikammacanopytour)",
+       "item_type": "activity",
+       "location": "Tsitsikamma",
+       "name": "Tsitsikamma Canopy Tour",
+       "price_hint": "10% off with code GOPHARI"
+      },
+      {
+       "booking_link": null,
+       "day": 10,
+       "details": "Stay (@mistymountainreserve)",
+       "item_type": "hotel",
+       "location": "Tsitsikamma",
+       "name": "Misty Mountain Reserve",
+       "price_hint": null
+      }
+     ]
+    }
+   ],
+   "notes": "No Day 5 video was published in the series; Day 5 details are unknown and not invented. Series spans 2026-08-03 (kickoff) to 2026-08-31 (Day 10); posting gaps between Day 4 (2026-08-13) and Day 6 (2026-08-18), and Day 7 (2026-08-21) to Day 8 (2026-08-26) reflect posting dates, not necessarily travel dates. Followers 227,300 exact from TikTok profile page (fetched 2026-09-16). Identity: 3 independent sources (Gophari.com, Jozi Gist, Instax). Activity: MSC cruise videos 2026-09-01/02/03; CURIOCITY AFRICA 2026-09-11. Day 5 of the series has no published video — unknown, not invented. Purchase intent present: codes GOPHARI (Tsitsikamma Canopy Tour, CURIOCITY AFRICA), sponsored car rental."
+  },
+  {
+   "handle": "@travelwithkna",
+   "platform": "tiktok",
+   "creator_name": "Audy",
+   "itineraries": [
+    {
+     "title": "A 2-Day Itinerary in Niagara Falls",
+     "destination": "Niagara Falls",
+     "country": "Canada",
+     "days": 2,
+     "confidence": "high",
+     "summary": "Audy's structured 2-day Niagara Falls itinerary (July 2026): a named hotel stay, day-by-day attractions and restaurants, a money-saving attraction-pass tip, pacing advice (2 nights if flying in), and optional extras. Also published as a '2-Day Niagara Falls Itinerary (2026)' guide on her blog.",
+     "source_urls": [
+      "https://www.tiktok.com/@travelwithkna/video/7664743750920359189",
+      "https://travelwithaudy.com/StartHere"
+     ],
+     "guide_date_signals": [
+      "TikTok video ID 7664743750920359189 decodes to 2026-07-20 (video_id>>32=1784587220, Gate 4 council recomputed)",
+      "TikTok create_time 1784587230 = 2026-07-20 22:40 UTC (fetched 2026-09-16)",
+      "urlebird.com/user/travelwithkna/ (fetched 2026-09-16) listed the video as '1 month ago' with 321.78K views; her site lists a '2-Day Niagara Falls Itinerary (2026)' blog post"
+     ],
+     "items": [
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Book a Fallsview Room for views of Niagara Falls from the room; check in on Day 1",
+       "item_type": "hotel",
+       "location": "Niagara Falls",
+       "name": "Sheraton Fallsview Hotel",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Start of Day 1 morning",
+       "item_type": "activity",
+       "location": "Niagara Falls",
+       "name": "Whirlpool Aero Car",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "After the Aero Car",
+       "item_type": "activity",
+       "location": "Niagara Falls",
+       "name": "White Water Walk",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "After White Water Walk",
+       "item_type": "activity",
+       "location": "Niagara Falls",
+       "name": "Niagara Parks Power Station & Tunnel",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Lunch stop",
+       "item_type": "restaurant",
+       "location": "Niagara Falls",
+       "name": "Table Rock House Restaurant",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Ride to the base of the Falls",
+       "item_type": "activity",
+       "location": "Niagara Falls",
+       "name": "Niagara City Cruise",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "After hotel check-in",
+       "item_type": "activity",
+       "location": "Niagara Falls",
+       "name": "Niagara Takes Flight",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Dinner",
+       "item_type": "restaurant",
+       "location": "Niagara Falls",
+       "name": "Queen Victoria Place Restaurant",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Evening; see the Falls illuminated at night",
+       "item_type": "activity",
+       "location": "Niagara Falls",
+       "name": "Journey Behind the Falls",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Start of Day 2 morning",
+       "item_type": "activity",
+       "location": "Niagara Falls",
+       "name": "Butterfly Conservatory",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Ends the trip",
+       "item_type": "activity",
+       "location": "Niagara Falls",
+       "name": "Whirlpool Jet Boat Tour",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Creator tip: pass covers most attractions in this itinerary and saves up to 52%",
+       "item_type": "other",
+       "location": "Niagara Falls",
+       "name": "Niagara Parks premium pass",
+       "price_hint": "$129"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Optional extra if time allows; views of Horseshoe Falls",
+       "item_type": "other",
+       "location": "Niagara Falls",
+       "name": "Zipline to the Falls",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Optional extra if time allows; aerial perspective",
+       "item_type": "other",
+       "location": "Niagara Falls",
+       "name": "Helicopter tour",
+       "price_hint": null
+      }
+     ]
+    }
+   ],
+   "notes": "Creator tip recorded verbatim: itinerary starts early each morning; if flying in, stay 2 nights for a relaxed pace. Pacing advice is a recommendation, not a booked item. Followers 31,800 exact from TikTok profile page (fetched 2026-09-16). Activity: last video ~8h before check; Quebec City/Vancouver/Whistler videos post-cutoff. Engagement: 321,800 plays / 13,900 likes / 10,603 saves. Purchase intent present: expedia.ca stays, amazon.ca must-haves, $129 Niagara Parks pass."
+  },
+  {
+   "handle": "@evapzc",
+   "platform": "tiktok",
+   "creator_name": "Eva (first-name-only)",
+   "itineraries": [
+    {
+     "title": "18-Day West Coast USA Road Trip",
+     "destination": "West Coast USA",
+     "country": "United States",
+     "days": 18,
+     "confidence": "high",
+     "summary": "Eva's 18-day (3 weeks) West Coast USA road-trip itinerary from Los Angeles to San Francisco via Grand Canyon, Monument Valley, Bryce Canyon, Zion, Las Vegas, Death Valley and Yosemite, published as a TikTok video. Caption gives the ordered 9-stop route; the full per-day breakdown is spoken/shown in the video (video file not retrievable for OCR — TikTok CDN blocked direct download; not invented).",
+     "source_urls": [
+      "https://www.tiktok.com/@evapzc/video/7682434874808028448"
+     ],
+     "guide_date_signals": [
+      "TikTok video ID 7682434874808028448 decodes via (video_id >> 32) to 2026-09-06 14:50 UTC",
+      "urlebird.com/user/evapzc/ profile JSON-LD ItemList (fetched 2026-09-17) independently records uploadDate 2026-09-06T15:51:01+01:00 (= 14:51 UTC) for the same video — agrees with ID decode to the minute"
+     ],
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "location": "Los Angeles",
+       "name": "Los Angeles",
+       "details": "Route start per creator caption",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "location": "Grand Canyon",
+       "name": "Grand Canyon",
+       "details": "Named stop on the 18-day route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "location": "Monument Valley",
+       "name": "Monument Valley",
+       "details": "Named stop on the 18-day route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "location": "Bryce Canyon",
+       "name": "Bryce Canyon",
+       "details": "Named stop on the 18-day route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "location": "Zion",
+       "name": "Zion",
+       "details": "Named stop on the 18-day route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "location": "Las Vegas",
+       "name": "Las Vegas",
+       "details": "Named stop on the 18-day route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "location": "Death Valley",
+       "name": "Death Valley",
+       "details": "Named stop on the 18-day route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "location": "Yosemite",
+       "name": "Yosemite",
+       "details": "Named stop on the 18-day route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "location": "San Francisco",
+       "name": "San Francisco",
+       "details": "Route end per creator caption",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Itinerary granularity: the TikTok caption provides the 18-day duration and the ordered 9-stop route (Los Angeles > Grand Canyon > Monument Valley > Bryce Canyon > Zion > Las Vegas > Death Valley > Yosemite > San Francisco). Per-day allocation is in the video itself; direct video download was blocked by TikTok CDN so per-day detail is recorded as unknown, not invented. Bio carries a GetYourGuide discount code (EVAPZC5) — affiliate-style, disclosed by creator. Followers 47,400 exact from TikTok profile HTML (fetched 2026-09-17). Activity: 2026-09-16 Warner Bros Studio Tour London; 2026-09-15 Miami-vs-LA. Caption gives 18-day duration and ordered 9-stop route; per-day breakdown is in the video and was not invented. Bio carries disclosed GetYourGuide code EVAPZC5."
+  },
+  {
+   "handle": "@trip.on.the.road",
+   "platform": "tiktok",
+   "creator_name": "Eleonora (first-name-only)",
+   "itineraries": [
+    {
+     "title": "5-Day Lake Constance Itinerary (Switzerland, Germany, Liechtenstein)",
+     "destination": "Lake Constance (Bodensee)",
+     "country": "Switzerland; Germany; Liechtenstein",
+     "days": 5,
+     "confidence": "high",
+     "summary": "Eleonora's 5-day on-the-road itinerary around the international Lake Constance region (Switzerland, Germany, Liechtenstein), published as a TikTok video with a full day-by-day caption: Day 1 Florence-Milan-Zurich-St. Gallen; Day 2 St. Gallen (Abbey Library, Textile Museum, Chocolarium) to Konstanz; Day 3 Konstanz and Meersburg; Day 4 Friedrichshafen (Zeppelin Museum) to Vaduz; Day 5 return to Italy. Mentions Bodensee Card PLUS and Swiss Travel Pass.",
+     "source_urls": [
+      "https://www.tiktok.com/@trip.on.the.road/video/7630336428966415618"
+     ],
+     "guide_date_signals": [
+      "TikTok video ID 7630336428966415618 decodes via (video_id >> 32) to 2026-04-19 05:22 UTC",
+      "urlebird.com/user/trip.on.the.road/ profile JSON-LD ItemList (fetched 2026-09-17) independently records uploadDate 2026-04-19T06:23:00+01:00 (= 05:23 UTC) for the same video — agrees with ID decode to the minute"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "item_type": "transport",
+       "location": "Florence to St. Gallen",
+       "name": "Train Florence - Milan - Zurich - St. Gallen",
+       "details": "Arrival in Switzerland; first discovery of the historic center; typical dinner in a historic locanda",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "location": "St. Gallen",
+       "name": "Abbey Library (UNESCO)",
+       "details": "Visit to the Abbey Library, UNESCO heritage",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "location": "St. Gallen",
+       "name": "Textile Museum",
+       "details": "Museo del Tessile visit",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "location": "St. Gallen",
+       "name": "Chocolarium",
+       "details": "Chocolate factory experience",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "item_type": "transport",
+       "location": "St. Gallen to Konstanz",
+       "name": "Train to Konstanz",
+       "details": "Transfer toward Konstanz (Costanza)",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "item_type": "activity",
+       "location": "Konstanz",
+       "name": "SEA LIFE Konstanz",
+       "details": "Aquarium visit",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "item_type": "activity",
+       "location": "Konstanz",
+       "name": "Lake promenade and historic center",
+       "details": "Walk on the lungolago and historic center",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "item_type": "transport",
+       "location": "Konstanz to Meersburg",
+       "name": "Bus to Meersburg",
+       "details": "Transfer to Meersburg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "item_type": "activity",
+       "location": "Meersburg",
+       "name": "Old Castle (Burg Meersburg)",
+       "details": "Visit of the Castello Vecchio; sunset on the lake; overnight",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "item_type": "activity",
+       "location": "Friedrichshafen",
+       "name": "Zeppelin Museum",
+       "details": "Visit to the Zeppelin Museum",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "item_type": "activity",
+       "location": "Friedrichshafen",
+       "name": "Lake promenade",
+       "details": "Walk on the lungolago among flower gardens",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "item_type": "transport",
+       "location": "Friedrichshafen to Vaduz",
+       "name": "Train to Vaduz",
+       "details": "Transfer toward Vaduz, Liechtenstein",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "item_type": "activity",
+       "location": "Vaduz",
+       "name": "Vaduz city center and castle (exterior)",
+       "details": "City center, castle exterior, Treasure Chamber (Stanza del Tesoro), Liechtenstein National Museum, walk to the Rhine bridge at the Swiss border",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 5,
+       "item_type": "transport",
+       "location": "Vaduz to Italy",
+       "name": "Return train to Italy",
+       "details": "Return to Italy by train between Switzerland and Italy; trip used Bodensee Card PLUS and Swiss Travel Pass",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Full day-by-day itinerary recovered from the TikTok caption via the urlebird mirror page (fetched 2026-09-17). Creator notes dedicated reels per stop on her feed for more detail. Disclosed collaboration with @bodensee.eu noted in exclusions_check. Followers 12,000 exact from TikTok profile HTML (fetched 2026-09-17). Activity: 2026-09-16 Milan day trip; 2026-09-05 Piedmont. Full day-by-day caption. Disclosed collaboration with @bodensee.eu (tourism board, not an operator account). 'In elenco AGCOM' (Italian influencer registry)."
+  },
+  {
+   "handle": "@psimonmyway",
+   "platform": "instagram",
+   "creator_name": "Trisha Velarmino",
+   "itineraries": [
+    {
+     "title": "7-Day Tokyo Itinerary for Solo Female Travelers",
+     "destination": "Tokyo",
+     "country": "Japan",
+     "days": 7,
+     "confidence": "high",
+     "summary": "Trisha Velarmino (psimonmyway.com) 7-day Tokyo itinerary for solo female travelers (3/5/7-day templates offered): Shinjuku, Harajuku/Shibuya, Asakusa/Ueno, Ginza/central Tokyo, Mt. Fuji day trip, Odaiba, Shimokitazawa/Golden Gai. Day-by-day stops published on her blog.",
+     "source_urls": [
+      "https://www.psimonmyway.com/tokyo-itinerary-japan/"
+     ],
+     "guide_date_signals": [
+      "WordPress/API publication date 2025-05-18 for the Tokyo itinerary post",
+      "Page sitemap/modified timestamp 2025-11-14 (page modified 2025-11-13) — guide live and maintained after 2024-09-16"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "Bakery & Restaurant Sawamura",
+       "location": "Shinjuku, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Breakfast.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 1,
+       "name": "Shinjuku Gyoen",
+       "location": "Shinjuku, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Peaceful gardens.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 1,
+       "name": "Tokyo Metropolitan Government Building",
+       "location": "Shinjuku, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Free observation deck city views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 1,
+       "name": "Omoide Yokocho",
+       "location": "Shinjuku, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Tiny izakayas.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 1,
+       "name": "Kabukicho and Godzilla Head",
+       "location": "Shinjuku, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Neon streets; snap a pic with the Godzilla Head.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 1,
+       "name": "Shabujo Honten",
+       "location": "Shinjuku, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Dinner; shabu-shabu hot pot.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "A Happy Pancake Omotesando",
+       "location": "Harajuku, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Breakfast.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Meiji Jingu Shrine",
+       "location": "Harajuku, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Quiet shrine visit.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Takeshita Street",
+       "location": "Harajuku, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Wander the shops.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Sakuratei",
+       "location": "Harajuku, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Lunch; cook-your-own okonomiyaki.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Shibuya Crossing",
+       "location": "Shibuya, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Cross the famous intersection.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 2,
+       "name": "Shibuya Sky",
+       "location": "Shibuya, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Rooftop city views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "name": "Benitsuru",
+       "location": "Asakusa, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Breakfast; fluffy pancakes.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "name": "Senso-ji Temple",
+       "location": "Asakusa, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Temple visit and nearby street snacks.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "name": "Jyuraku",
+       "location": "Asakusa, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Lunch; ramen and rice bowls.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "name": "Sumida River walk and Tokyo Skytree",
+       "location": "Sumida, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Riverside walk; Skytree views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "name": "Ueno Park and Ameya-Yokocho",
+       "location": "Ueno, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Park and local shopping street.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 3,
+       "name": "Ichiran Ueno",
+       "location": "Ueno, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Dinner; tonkotsu ramen.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "name": "Hoshino Coffee, Tsukiji",
+       "location": "Tsukiji, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Morning coffee.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "name": "Tsukiji Outer Market",
+       "location": "Tsukiji, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Fresh seafood for breakfast.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "name": "Ginza shops and cafes",
+       "location": "Ginza, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Upscale shopping district, hidden cafes.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "name": "Sukiyabashi Jiro",
+       "location": "Ginza, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Lunch; high-end sushi.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "name": "Hie Shrine",
+       "location": "Chiyoda, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Torii gates.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "name": "Imperial Palace East Gardens",
+       "location": "Chiyoda, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Stroll the gardens.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 4,
+       "name": "Nihonbashi Brewery",
+       "location": "Nihonbashi, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Dinner and craft beers.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 5,
+       "name": "Mount Fuji day trip",
+       "location": "Fuji Five Lakes / Hakone, Japan",
+       "item_type": "activity",
+       "details": "Lake Kawaguchi views, Chureito Pagoda, Hakone ropeway, Lake Ashi cruise, onsen.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 6,
+       "name": "MoonFlower Sagaya Ginza",
+       "location": "Ginza, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Breakfast.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 6,
+       "name": "teamLab Borderless",
+       "location": "Odaiba, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Digital art museum.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 6,
+       "name": "Gundam Statue",
+       "location": "Odaiba, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Life-sized moving statue.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 6,
+       "name": "Kaneko Hannosuke Diver City",
+       "location": "Odaiba, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Lunch; tempura bowls.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 6,
+       "name": "Palette Town Ferris Wheel",
+       "location": "Odaiba, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Bay views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 6,
+       "name": "Tokyo Tower",
+       "location": "Minato, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "City lights from the tower.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 6,
+       "name": "Koshitsu Izakaya Kyu",
+       "location": "Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Dinner.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 7,
+       "name": "Mustard Hotel Shimokitazawa",
+       "location": "Shimokitazawa, Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Coffee.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 7,
+       "name": "Shimokitazawa vintage shops and cafes",
+       "location": "Shimokitazawa, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Vintage shopping, indie cafes.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 7,
+       "name": "Gotokuji Temple",
+       "location": "Setagaya, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Lucky cat statues.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 7,
+       "name": "Fukumuroan",
+       "location": "Tokyo, Japan",
+       "item_type": "restaurant",
+       "details": "Lunch; soba noodles.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 7,
+       "name": "Yanaka Ginza",
+       "location": "Yanaka, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Old-school shopping street, street snacks.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "day": 7,
+       "name": "Golden Gai bars",
+       "location": "Shinjuku, Tokyo, Japan",
+       "item_type": "activity",
+       "details": "Tiny bars; drinks and small bites at Golden Gai Bar M.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "BLOCKING CAVEAT: no directly verified Instagram travel post on/after 2026-06-18 — bio maintenance and follower growth are circumstantial and do NOT satisfy the 90-day activity gate. Guide evidence is strong (WP/API 2025-05-18; modified 2025-11-14). Backup Instagram research worker running; swap in if it qualifies a candidate with direct post-cutoff IG activity."
+  }
+ ]
+}

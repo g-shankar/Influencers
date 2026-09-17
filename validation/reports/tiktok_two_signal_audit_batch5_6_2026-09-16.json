@@ -1,0 +1,573 @@
+{
+ "completed_date": "2026-09-16",
+ "method": "video_id >> 32 = unix timestamp; ID decode alone is insufficient - a second signal (indexed exact-handle caption, Urlebird uploadDate, or TikTok oEmbed) is required. VERIFIED_TWO_SIGNAL = second signal independently established in 2026-09-16 research. STAGED_ONLY = video ID present in staged records; date decodes but second signal not independently re-verified today. NO_VIDEO_ID = no guide video ID in staged records; TikTok date cannot be audited for this row. SINGLE_SIGNAL = decode present but no second signal found.",
+ "note": "@goingwithnicole Kuching video 7686211027607866655 decodes to 2026-09-16 (today) but remains single-signal.",
+ "rows": [
+  {
+   "batch": 5,
+   "handle": "@callmecandace.tv",
+   "guide_videos": [
+    {
+     "video_id": "7479596735036181790",
+     "decoded_date": "2025-03-09",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@carissamonyce",
+   "guide_videos": [
+    {
+     "video_id": "7637628099324103950",
+     "decoded_date": "2026-05-08",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@christian.the.creative",
+   "guide_videos": [
+    {
+     "video_id": "7680272896685575438",
+     "decoded_date": "2026-08-31",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@chubbydiaries",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 5,
+   "handle": "@detouristahq",
+   "guide_videos": [
+    {
+     "video_id": "7618152560796486933",
+     "decoded_date": "2026-03-17",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@epicamerica_",
+   "guide_videos": [
+    {
+     "video_id": "7615667752472169759",
+     "decoded_date": "2026-03-10",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@explorewithsofs",
+   "guide_videos": [
+    {
+     "video_id": "7629653468499807521",
+     "decoded_date": "2026-04-17",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@goingwithnicole",
+   "guide_videos": [
+    {
+     "video_id": "7423336321608944926",
+     "decoded_date": "2024-10-08",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    },
+    {
+     "video_id": "7686211027607866655",
+     "decoded_date": "2026-09-16",
+     "second_signal": "NONE (single-signal; indexed corroboration and Urlebird unavailable)",
+     "verdict": "SINGLE_SIGNAL"
+    }
+   ],
+   "row_verdict": "HAS_SINGLE_SIGNAL_VIDEO"
+  },
+  {
+   "batch": 5,
+   "handle": "@gokylahgo",
+   "guide_videos": [
+    {
+     "video_id": "7685523563368942862",
+     "decoded_date": "2026-09-14",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@heroiisa",
+   "guide_videos": [
+    {
+     "video_id": "7595629165072764191",
+     "decoded_date": "2026-01-15",
+     "second_signal": "indexed exact-handle caption (full guide text)",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7611191365967432991",
+     "decoded_date": "2026-02-26",
+     "second_signal": "indexed exact-handle guide video",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL"
+  },
+  {
+   "batch": 5,
+   "handle": "@jessmelu",
+   "guide_videos": [
+    {
+     "video_id": "7505783025502932246",
+     "decoded_date": "2025-05-18",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@kristinacors",
+   "guide_videos": [
+    {
+     "video_id": "7620248311236152606",
+     "decoded_date": "2026-03-23",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@letravelstyle",
+   "guide_videos": [
+    {
+     "video_id": "7522279351568583950",
+     "decoded_date": "2025-07-02",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@lexxhidalgo",
+   "guide_videos": [
+    {
+     "video_id": "7648002741138148621",
+     "decoded_date": "2026-06-05",
+     "second_signal": "TikTok oEmbed record",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL"
+  },
+  {
+   "batch": 5,
+   "handle": "@lilmsawkward",
+   "guide_videos": [
+    {
+     "video_id": "7682824671422647582",
+     "decoded_date": "2026-09-07",
+     "second_signal": "Urlebird mirror",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL"
+  },
+  {
+   "batch": 5,
+   "handle": "@lisarosanty",
+   "guide_videos": [
+    {
+     "video_id": "7600235232914132244",
+     "decoded_date": "2026-01-28",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@natyexplora",
+   "guide_videos": [
+    {
+     "video_id": "7562272275605572878",
+     "decoded_date": "2025-10-17",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@nytoanywhere",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 5,
+   "handle": "@sheyhernandez96",
+   "guide_videos": [
+    {
+     "video_id": "7603593031815580941",
+     "decoded_date": "2026-02-06",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL"
+  },
+  {
+   "batch": 5,
+   "handle": "@skylietravels",
+   "guide_videos": [
+    {
+     "video_id": "7685861774561791263",
+     "decoded_date": "2026-09-15",
+     "second_signal": "Urlebird uploadDate 2026-09-15T21:29:25Z",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL"
+  },
+  {
+   "batch": 5,
+   "handle": "@thoughtsofatraveller",
+   "guide_videos": [
+    {
+     "video_id": "7615679617436978434",
+     "decoded_date": "2026-03-10",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@travelingwithtals",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 5,
+   "handle": "@twirlliketalia",
+   "guide_videos": [
+    {
+     "video_id": "7602314024511999249",
+     "decoded_date": "2026-02-02",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@vitortrip",
+   "guide_videos": [
+    {
+     "video_id": "7600316183270722838",
+     "decoded_date": "2026-01-28",
+     "second_signal": "indexed exact-handle caption (full guide text)",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7604583232327175446",
+     "decoded_date": "2026-02-08",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 5,
+   "handle": "@wanderingcreator_meghana",
+   "guide_videos": [
+    {
+     "video_id": "7636934698786114829",
+     "decoded_date": "2026-05-07",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 6,
+   "handle": "@abdulwanders",
+   "guide_videos": [
+    {
+     "video_id": "7644887247384349985",
+     "decoded_date": "2026-05-28",
+     "second_signal": "indexed exact-handle caption (full guide text)",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7646742765174361377",
+     "decoded_date": "2026-06-02",
+     "second_signal": "indexed exact-handle caption (full guide text)",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL"
+  },
+  {
+   "batch": 6,
+   "handle": "@aintthattobi",
+   "guide_videos": [
+    {
+     "video_id": "7596144003909799188",
+     "decoded_date": "2026-01-17",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 6,
+   "handle": "@amyenvoyage",
+   "guide_videos": [
+    {
+     "video_id": "7625544703433379094",
+     "decoded_date": "2026-04-06",
+     "second_signal": "NONE (single-signal; date from decode only)",
+     "verdict": "SINGLE_SIGNAL"
+    }
+   ],
+   "row_verdict": "HAS_SINGLE_SIGNAL_VIDEO"
+  },
+  {
+   "batch": 6,
+   "handle": "@benihunyadi2",
+   "guide_videos": [
+    {
+     "video_id": "7598238391964126486",
+     "decoded_date": "2026-01-22",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 6,
+   "handle": "@CandaceAbroad",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@chloe__trips",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@chloejadetravels",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@elisetanriverdi",
+   "guide_videos": [
+    {
+     "video_id": "7538009994608856342",
+     "decoded_date": "2025-08-13",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 6,
+   "handle": "@explorewithcriostoir",
+   "guide_videos": [
+    {
+     "video_id": "7611266906783354134",
+     "decoded_date": "2026-02-26",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7615356204503649558",
+     "decoded_date": "2026-03-09",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7622023952445050134",
+     "decoded_date": "2026-03-27",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL"
+  },
+  {
+   "batch": 6,
+   "handle": "@herjoliejourney",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@juliatraveltips",
+   "guide_videos": [
+    {
+     "video_id": "7592355923432246551",
+     "decoded_date": "2026-01-06",
+     "second_signal": "indexed exact-handle guide video",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7597870726225448214",
+     "decoded_date": "2026-01-21",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL"
+  },
+  {
+   "batch": 6,
+   "handle": "@kellyprincewright",
+   "guide_videos": [
+    {
+     "video_id": "7516513590250048790",
+     "decoded_date": "2025-06-16",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL"
+  },
+  {
+   "batch": 6,
+   "handle": "@makisantos_",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@nikitabathia",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@nospaceinmypassport",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@polkadotpassport",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@postcardsbyhannah",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@sandymakessense",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@shewandersabroad",
+   "guide_videos": [
+    {
+     "video_id": "7590020309152042263",
+     "decoded_date": "2025-12-31",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  },
+  {
+   "batch": 6,
+   "handle": "@theblondeflamingo",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@thecuriouspixie",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@thegingerwanderlust",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@travelcheapwithchloe",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@uktravel",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID"
+  },
+  {
+   "batch": 6,
+   "handle": "@wawawandering__",
+   "guide_videos": [
+    {
+     "video_id": "7506991838360767752",
+     "decoded_date": "2025-05-21",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "STAGED_ONLY"
+  }
+ ]
+}

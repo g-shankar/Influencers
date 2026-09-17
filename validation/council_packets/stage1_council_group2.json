@@ -1,0 +1,510 @@
+[
+ {
+  "batch": 5,
+  "handle": "@natyexplora",
+  "platform": "tiktok",
+  "title": "Vancouver Island 4-Day Itinerary (#EGambassador with Expedia x Super, Natural BC)",
+  "destination": "Vancouver Island, Canada",
+  "country": "Canada",
+  "days": 4,
+  "summary": "Expedia #EGambassador 4-day Vancouver Island itinerary: Victoria day (ferry, parliament, gardens, spa), Tofino road trip (5040 Peak, Taylor River), Hot Springs Cove boat day, Cox Bay/Rainforest Trail finale - with named stays and restaurants throughout.",
+  "confidence": "high",
+  "source_urls": [
+   "https://www.tiktok.com/@natyexplora/video/7562272275605572878"
+  ],
+  "items": [
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Ferry Port Angeles to Victoria",
+    "location": "Victoria",
+    "details": "About 1.5 hours; drops in downtown Victoria",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "BC Parliament and Butchart Gardens",
+    "location": "Victoria",
+    "details": "Coffee from a local bakery; HAVN Spa by the ocean",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Dinner: Pagliacci's or Uni Modern Japanese",
+    "location": "Victoria",
+    "details": null,
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Stay: Oak Bay Beach Hotel",
+    "location": "Victoria",
+    "details": "See her Vancouver Island Collection for more stays (link in bio)",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Road trip to Tofino; 5040 Peak hike",
+    "location": "Tofino",
+    "details": "Early breakfast; Cobalt Lake viewpoint; cool off at Taylor River Rest Stop",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "restaurant",
+    "name": "Dinner: Jeju Restaurant",
+    "location": "Tofino",
+    "details": null,
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "hotel",
+    "name": "Stay: Cox Bay Beach Resort",
+    "location": "Tofino",
+    "details": "Right on the beach",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Hot Springs Cove boat tour",
+    "location": "Tofino",
+    "details": "Breakfast at Rhino Coffee or Savary Island Pie Co.; Ahous Adventures boat tour; possible whale/bear sightings; natural hot springs in forest-meets-ocean setting",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "restaurant",
+    "name": "Dinner: Wolf in the Fog",
+    "location": "Tofino",
+    "details": null,
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Cox Bay Beach and Rainforest Trail",
+    "location": "Tofino",
+    "details": "Morning walk on Cox Bay Beach and hike to the Lookout; Rainforest Trail and Little Qualicum Falls; drive back to Victoria for the ferry to Port Angeles",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 5,
+  "handle": "@explorewithsofs",
+  "platform": "tiktok",
+  "title": "Two-Week Italy Route",
+  "destination": "Italy",
+  "country": "Italy",
+  "days": 14,
+  "summary": "Two-week Italy route; specific stops were not visible in the fetched snippet - full extraction pending parent review.",
+  "confidence": "low",
+  "source_urls": [
+   "https://www.tiktok.com/@explorewithsofs/video/7629653468499807521"
+  ],
+  "items": []
+ },
+ {
+  "batch": 5,
+  "handle": "@wanderingcreator_meghana",
+  "platform": "tiktok",
+  "title": "Miami Guide (10 activities)",
+  "destination": "Miami, USA",
+  "country": "USA",
+  "days": null,
+  "summary": "Miami guide naming ten activities; activity names were not visible in the fetched snippet - full extraction pending parent review. GetYourGuide bookings/link in bio present.",
+  "confidence": "low",
+  "source_urls": [
+   "https://www.tiktok.com/@wanderingcreator_meghana/video/7636934698786114829"
+  ],
+  "items": []
+ },
+ {
+  "batch": 6,
+  "handle": "@theblondeflamingo",
+  "platform": "tiktok",
+  "title": "Top Things To Do in Sharjah (ultimate guide)",
+  "destination": "Sharjah",
+  "country": "United Arab Emirates",
+  "days": null,
+  "summary": "Ultimate Sharjah guide (things to do / where to eat / where to stay), published 2025-03-13 (verified 2026-09-16).",
+  "confidence": "high",
+  "source_urls": [
+   "https://theblondeflamingo.com/top-things-to-do-in-sharjah-your-ultimate-guide/"
+  ],
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Things to Do in Sharjah",
+    "location": "Sharjah",
+    "details": "Guide section",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Where to Eat in Sharjah",
+    "location": "Sharjah",
+    "details": "Guide section",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Where to Stay in Sharjah",
+    "location": "Sharjah",
+    "details": "Guide section",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 6,
+  "handle": "@amyenvoyage",
+  "platform": "tiktok",
+  "title": "Lyme Regis guide / Helsinki four-day itinerary",
+  "destination": "Lyme Regis / Helsinki",
+  "country": "United Kingdom / Finland",
+  "days": 4,
+  "summary": "Structured Lyme Regis guide and creator-owned Helsinki four-day itinerary (prior checkpoint).",
+  "confidence": "medium",
+  "source_urls": [
+   "https://urlebird.com/user/amyenvoyage/",
+   "https://www.tiktok.com/@amyenvoyage/"
+  ],
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Lyme Regis structured guide",
+    "location": "Lyme Regis",
+    "details": "Per prior checkpoint evidence",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Helsinki four-day itinerary",
+    "location": "Helsinki",
+    "details": "Creator-owned, per prior checkpoint evidence",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 6,
+  "handle": "@elisetanriverdi",
+  "platform": "tiktok",
+  "title": "Porto three-day itinerary",
+  "destination": "Porto",
+  "country": "Portugal",
+  "days": 3,
+  "summary": "Porto three-day itinerary with Day 1-3 stops; video ID decodes to 2025-08-13.",
+  "confidence": "medium",
+  "source_urls": [
+   "https://www.tiktok.com/@elisetanriverdi/video/7538009994608856342"
+  ],
+  "items": [
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Day 1",
+    "location": "Porto",
+    "details": "Per video content",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Day 2",
+    "location": "Porto",
+    "details": "Per video content",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Day 3",
+    "location": "Porto",
+    "details": "Per video content",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 7,
+  "handle": "@fivefortheroadblog",
+  "platform": "instagram",
+  "title": "London Paris Itinerary with Kids",
+  "destination": "London & Paris",
+  "country": "UK & France",
+  "days": 13,
+  "summary": "Creator-authored London-Paris itinerary with kids, published 2026-09-08. Day references covering Days 1-13.",
+  "confidence": "high",
+  "source_urls": [
+   "https://fivefortheroad.com/london-paris-itinerary-with-kids/"
+  ],
+  "items": []
+ },
+ {
+  "batch": 7,
+  "handle": "@ting_dalton",
+  "platform": "instagram",
+  "title": "3-Day Istanbul Itinerary",
+  "destination": "Istanbul",
+  "country": "Turkey",
+  "days": 3,
+  "summary": "Creator-authored 3-day Istanbul itinerary, published 2026-07-07. Explicit Days 1-3 with intra-day sections.",
+  "confidence": "high",
+  "source_urls": [
+   "https://www.my-travelmonkey.com/3-day-istanbul-itinerary/"
+  ],
+  "items": []
+ },
+ {
+  "batch": 7,
+  "handle": "@wheresachi",
+  "platform": "instagram",
+  "title": "Spiritual Itinerary to Varanasi",
+  "destination": "Varanasi",
+  "country": "India",
+  "days": null,
+  "summary": "Own-blog spiritual Varanasi itinerary: a 10-temple circuit, must-do experiences and ghats context, plus must-try food spots.",
+  "confidence": "medium",
+  "source_urls": [
+   "https://wheresachi.com/spiritual-itinerary-to-varanasi/"
+  ],
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Kashi Vishwanath Temple - The Abode of Lord Shiva",
+    "location": "Varanasi",
+    "details": "Temple 1 in her Varanasi itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Kaal Bhairav Temple - Guardian of Kashi",
+    "location": "Varanasi",
+    "details": "Temple 2 in her Varanasi itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Mrityunjay Mahadev Temple - Conqueror of Death",
+    "location": "Varanasi",
+    "details": "Temple 3 in her Varanasi itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Kashi Raj Kali Temple - Hidden Royal Shrine",
+    "location": "Varanasi",
+    "details": "Temple 4 in her Varanasi itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Durga Kund Mandir - The Warrior Goddess",
+    "location": "Varanasi",
+    "details": "Temple 5 in her Varanasi itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Tulsi Manas Mandir - The Epic's Birthplace",
+    "location": "Varanasi",
+    "details": "Temple 6 in her Varanasi itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Sankat Mochan Hanuman Temple - Reliever of Troubles",
+    "location": "Varanasi",
+    "details": "Temple 7 in her Varanasi itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Nepali Temple (Kathwala Temple) - A Slice of Nepal",
+    "location": "Varanasi",
+    "details": "Temple 8 in her Varanasi itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Annapurna Temple - Goddess of Nourishment",
+    "location": "Varanasi",
+    "details": "Temple 9 in her Varanasi itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Bharat Mata Mandir - Mother India Temple",
+    "location": "Varanasi",
+    "details": "Temple 10 in her Varanasi itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Kashi Chat Bhandar",
+    "location": "Varanasi",
+    "details": "Must-try food spot per her guide.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Blue Lassi Shop",
+    "location": "Varanasi",
+    "details": "Must-try food spot per her guide.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Deena Chat Bhandar",
+    "location": "Varanasi",
+    "details": "Must-try food spot per her guide.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Baati Chokha Restaurant",
+    "location": "Varanasi",
+    "details": "Must-try food spot per her guide.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Ram Bhandar",
+    "location": "Varanasi",
+    "details": "Must-try food spot per her guide.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Banarasi Paan Bhandar",
+    "location": "Varanasi",
+    "details": "Must-try food spot per her guide.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Pappu Chai Stall",
+    "location": "Varanasi",
+    "details": "Must-try food spot per her guide.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Vishwanath Misthan Bhandar",
+    "location": "Varanasi",
+    "details": "Must-try food spot per her guide.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Laxmi Chai Wala",
+    "location": "Varanasi",
+    "details": "Must-try food spot per her guide.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Ksheer Sagar",
+    "location": "Varanasi",
+    "details": "Must-try food spot per her guide.",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 8,
+  "handle": "@bigworldsmallpockets",
+  "platform": "instagram",
+  "title": "Montenegro in 7 days — day-by-day",
+  "destination": "Montenegro",
+  "country": "Montenegro",
+  "days": 7,
+  "summary": "Steph's 7-day Montenegro itinerary with day-by-day destinations across the country, written for budget/slow travelers.",
+  "confidence": "high",
+  "source_urls": [
+   "http://www.bigworldsmallpockets.com/montenegro-travel-guide/"
+  ],
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Montenegro 7-day route",
+    "location": "Montenegro",
+    "details": "Day-by-day destinations across Montenegro; full breakdown on the guide page.",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ }
+]

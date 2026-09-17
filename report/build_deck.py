@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
-"""Build the travel-influencer pilot research findings deck (python-pptx).
+"""Build the travel-influencer research findings deck (python-pptx).
 
 Informative dossier style: flat descriptive titles, no sales language, no
 projections, no recommendations, no calls to action, no commercial framing.
 
 8 content slides + appendix (full creator directory, itinerary index,
-quarantine log) = 20 slides.
+quarantine log). Appendix table slides grow automatically with the data.
 
 All numbers come from report/final_report_data.json and pilot.db — no literals.
+Stage targets (dates, stage number) come from stage.json.
 """
 import json
 import sqlite3
@@ -20,8 +21,23 @@ from pptx.enum.shapes import MSO_SHAPE
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = json.loads((ROOT / "report" / "final_report_data.json").read_text())
+STAGE = json.loads((ROOT / "stage.json").read_text())
 DB = sqlite3.connect(ROOT / "pilot.db")
 DB.row_factory = sqlite3.Row
+
+C = DATA["creators"]
+COV = DATA["coverage"]
+CONF = DATA["confidence"]
+IT = DATA["itineraries"]
+VAL = DATA["validation"]
+GEN = DATA.get("generated_at", "")
+STAGE_N = STAGE.get("stage", 1)
+SEL_DATE = STAGE.get("selection_date", "")
+
+quar_all = json.loads((ROOT / "validation" / "quarantine.json").read_text())["quarantine"]
+quar_handles = [q for q in quar_all if q.get("status") == "quarantined"]
+quar_creators = [q for q in quar_handles if q.get("scope", "handle") != "itinerary"]
+quar_itins = [q for q in quar_handles if q.get("scope") == "itinerary"]
 
 # ---------- theme ----------
 PAPER = RGBColor(0xFA, 0xF8, 0xF4)
@@ -165,15 +181,16 @@ def footer(slide, n, total):
 # ============================================================ 1: title
 s = prs.slides.add_slide(BLANK)
 bg(s)
-kicker(s, "Research findings  ·  2026-09-16", t=2.0)
+kicker(s, f"Research findings  ·  {GEN}", t=2.0)
 tf = textbox(s, 0.9, 2.7, 11.5, 2.0)
 para(tf, "Travel Influencer Itinerary Pilot", size=40, color=INK, font=SERIF,
      first=True, space_after=Pt(6))
 para(tf, "Research Findings", size=40, color=INK, font=SERIF, space_after=Pt(14))
 tf = textbox(s, 0.9, 5.6, 11.5, 1.0)
-para(tf, "Scope: 100 travel creators (50 TikTok, 50 Instagram) and the "
-         "94 itineraries extracted from their public sources, stored in a "
-         "queryable database with a per-itinerary verification record.",
+para(tf, f"Scope: {C['total']} travel creators ({C['tiktok']} TikTok, "
+         f"{C['instagram']} Instagram) and the {IT['total']} itineraries "
+         "extracted from their public sources, stored in a queryable database "
+         "with a per-itinerary verification record.",
      size=14, color=MUTED, first=True)
 footer(s, 1, 0)
 
@@ -184,14 +201,15 @@ kicker(s, "Scope")
 title(s, "What was collected, and what was not")
 bullets(s, [
     ("Collected: ",
-     "100 creators (50 TikTok / 50 Instagram); 94 itineraries; 1,155 itinerary "
-     "items; 106 cited sources; 85 destinations — all stored in pilot.db with "
-     "per-itinerary verification records."),
+     f"{C['total']} creators ({C['tiktok']} TikTok / {C['instagram']} Instagram); "
+     f"{IT['total']} itineraries; {COV['items']:,} itinerary items; "
+     f"{COV['sources']} cited sources; {COV['destinations']} destinations — "
+     "all stored in pilot.db with per-itinerary verification records."),
     ("Not collected: ",
      "commercial economics, payment percentages, supplier terms, pricing, or "
      "demand data. These were explicitly parked and are not part of this research."),
     ("This deck: ",
-     "an information record of the pilot's findings. It contains no projections, "
+     "an information record of the findings. It contains no projections, "
      "no recommendations, and no calls to action."),
 ], t=2.4)
 footer(s, 2, 0)
@@ -201,13 +219,19 @@ s = prs.slides.add_slide(BLANK)
 bg(s)
 kicker(s, "Method")
 title(s, "How the creators and itineraries were gathered")
+sel_note = (f"Stage {STAGE_N} expansion: {STAGE['creators_total'] - 100} additional creators "
+            f"selected {SEL_DATE} under the recorded SELECTION_CRITERIA.md Section 3 "
+            f"rules (identity, itinerary-content fit, reach floor, activity, "
+            f"exclusions) with a per-creator selection log — see SELECTION_STAGE{STAGE_N}.md."
+            if STAGE_N >= 1 else "")
 bullets(s, [
     ("Selection: ",
-     "100 creators, 50 TikTok / 50 Instagram — the 50/50 split is enforced "
-     "mechanically by load_db.py. The list was compiled 2026-09-15 from "
-     "third-party \"top travel influencer\" listicles (e.g. superprofile.bio, "
-     "diarydirectory.com, travelpayouts.com). No explicit eligibility or "
-     "exclusion rules were recorded at selection time — see SELECTION_CRITERIA.md."),
+     f"{C['total']} creators, {C['tiktok']} TikTok / {C['instagram']} Instagram — "
+     "the split is enforced mechanically by load_db.py, which refuses to load "
+     "on quota mismatch. The pilot 100 were compiled 2026-09-15 from "
+     "third-party \u201ctop travel influencer\u201d listicles (no eligibility or "
+     "exclusion rules recorded at selection time — see SELECTION_CRITERIA.md). "
+     + sel_note),
     ("Extraction: ",
      "itineraries were extracted from each creator's public source pages "
      "(blogs, guides, posts) into a normalized schema: itinerary, items, "
@@ -215,8 +239,8 @@ bullets(s, [
     ("Validation: ",
      "7 validation gates, fail-closed — nothing unverified enters the database. "
      "An independent evidence council re-verified the itineraries against live "
-     "sources on 2026-09-16; corrections are recorded in "
-     "QC_REPORT_STRENGTHENED.md. 9 records were quarantined (Appendix C)."),
+     f"sources; corrections are recorded in QC_REPORT_STRENGTHENED.md. "
+     f"{len(quar_handles)} records were quarantined (Appendix C)."),
 ], t=2.4)
 footer(s, 3, 0)
 
@@ -224,31 +248,28 @@ footer(s, 3, 0)
 s = prs.slides.add_slide(BLANK)
 bg(s)
 kicker(s, "The creators")
-title(s, "Composition of the 100 creators")
-c = DATA["creators"]
-niches = DB.execute(
-    "SELECT niche, COUNT(*) AS n FROM influencers GROUP BY niche "
-    "ORDER BY n DESC").fetchall()
+title(s, f"Composition of the {C['total']} creators")
+niches = C["niche_counts"]
 rows = [["Niche", "Creators"]]
-for n in niches:
-    rows.append([n["niche"] or "—", str(n["n"])])
+for niche, n in sorted(niches.items(), key=lambda kv: -kv[1]):
+    rows.append([niche or "—", str(n)])
 # niche table (left) + composition facts (right)
 styled_table(s, 0.9, 2.35, 4.6, rows, [3.0, 1.6], font_size=10.5, row_h=0.21)
 bullets(s, [
-    ("Platform split: ", f"{c['tiktok']} TikTok / {c['instagram']} Instagram."),
+    ("Platform split: ", f"{C['tiktok']} TikTok / {C['instagram']} Instagram."),
     ("Follower counts: ",
-     f"{c['with_known_followers']} cited by sources, {c['unknown_followers']} "
+     f"{C['with_known_followers']} cited by sources, {C['unknown_followers']} "
      "marked unknown — counts are as cited, not independently audited."),
     ("Itinerary yield: ",
-     f"{c['with_itineraries']} of the 100 creators have at least one extracted "
-     f"itinerary ({DATA['itineraries']['total']} itineraries total)."),
+     f"{C['with_itineraries']} of the {C['total']} creators have at least one extracted "
+     f"itinerary ({IT['total']} itineraries total)."),
     ("Quarantined: ",
-     "8 creator records quarantined for identity problems (brand or "
+     f"{len(quar_creators)} creator records quarantined for identity problems (brand or "
      "operator accounts, misattributed content, possible list typos) — "
      "see Appendix C."),
 ], t=2.35, width=6.4, l=6.0)
 tf = textbox(s, 6.0, 5.7, 6.4, 0.8)
-para(tf, "Niche labels are as recorded at compile time; 27 follower counts are "
+para(tf, f"Niche labels are as recorded at compile time; {C['unknown_followers']} follower counts are "
          "unknown and were not estimated.", size=11, color=MUTED, first=True)
 footer(s, 4, 0)
 
@@ -256,24 +277,26 @@ footer(s, 4, 0)
 s = prs.slides.add_slide(BLANK)
 bg(s)
 kicker(s, "The itineraries")
-title(s, "Composition of the 94 itineraries")
-cov = DATA["coverage"]
+title(s, f"Composition of the {IT['total']} itineraries")
 rows = [
     ["Measure", "Value"],
-    ["Itineraries", "94"],
-    ["Itinerary items", f"{cov['items']:,}"],
-    ["Destinations covered", str(cov["destinations"])],
-    ["Sources cited", str(cov["sources"])],
-    ["Trip-length range", f"{cov['shortest_days']}–{cov['longest_days']} days"],
-    ["Trips of 7 days or more", str(cov["trips_7_days_or_more"])],
-    ["Itineraries with no fixed length (guides, not trips)", "19"],
+    ["Itineraries", str(IT["total"])],
+    ["Itinerary items", f"{COV['items']:,}"],
+    ["Destinations covered", str(COV["destinations"])],
+    ["Sources cited", str(COV["sources"])],
+    ["Trip-length range", f"{COV['shortest_days']}–{COV['longest_days']} days"],
+    ["Trips of 7 days or more", str(COV["trips_7_days_or_more"])],
+    ["Itineraries with no fixed length (guides, not trips)", str(COV["no_fixed_length"])],
 ]
 styled_table(s, 0.9, 2.35, 7.6, rows, [5.0, 2.6], font_size=12.5, row_h=0.44)
+longest_txt = COV["longest_title"]
+if len(longest_txt) > 60:
+    longest_txt = longest_txt[:58] + "…"
 bullets(s, [
     ("Longest: ",
-     "“3-Month Southeast Asia Itinerary: The Banana Pancake Trail” (90 days)."),
+     f"\u201c{longest_txt}\u201d ({COV['longest_days']} days)."),
     ("Note: ",
-     "trip-length figures exclude the 19 itineraries whose sources state no "
+     f"trip-length figures exclude the {COV['no_fixed_length']} itineraries whose sources state no "
      "fixed length."),
 ], t=2.35, width=3.4, l=9.0)
 footer(s, 5, 0)
@@ -283,28 +306,27 @@ s = prs.slides.add_slide(BLANK)
 bg(s)
 kicker(s, "Validation")
 title(s, "Confidence levels and verification")
-conf = DATA["confidence"]
 rows = [
     ["Confidence", "Itineraries", "Meaning"],
-    ["High", str(conf["high"]),
+    ["High", str(CONF["high"]),
      "every claim checked against the live source; supporting passage recorded"],
-    ["Medium", str(conf["medium"]),
+    ["Medium", str(CONF["medium"]),
      "source checked; one or more details not independently confirmable"],
-    ["Low", str(conf["low"]),
+    ["Low", str(CONF["low"]),
      "source checked; material details unverifiable or ambiguous"],
 ]
 styled_table(s, 0.9, 2.35, 11.5, rows, [1.8, 1.8, 7.9], font_size=12,
              row_h=0.5)
 bullets(s, [
     ("Gates: ",
-     "7 validation gates, fail-closed — identity, platform, source resolution, "
-     "item extraction, duplication, override review, and final sign-off."),
+     "7 validation gates, fail-closed — schema, handle integrity, source "
+     "liveness, evidence council, DB reconciliation, money firewall, and "
+     "final evidence-only audit."),
     ("Re-verification: ",
      "an independent evidence council re-verified the itineraries against live "
-     "sources on 2026-09-16; 10 data corrections were applied (7 fixed, "
-     "1 re-verified, 1 quarantined, 1 exclusion)."),
+     "sources; corrections are recorded in QC_REPORT_STRENGTHENED.md."),
     ("Audit: ",
-     "evidence-only audit: PASS, 2026-09-16."),
+     "evidence-only audit: PASS."),
 ], t=4.6)
 footer(s, 6, 0)
 
@@ -313,18 +335,25 @@ s = prs.slides.add_slide(BLANK)
 bg(s)
 kicker(s, "Limitations")
 title(s, "What this data cannot say")
+lim_lead = "Selection records: "
+lim_rest = ("pilot records are thin — no eligibility or exclusion rules were "
+            "documented at selection time; creator records were later "
+            "quarantined for identity problems. "
+            f"Stage {STAGE_N} expansion used recorded criteria with a per-creator "
+            "selection log." if STAGE_N >= 1 else
+            "no eligibility or exclusion rules were documented at selection "
+            "time; creator records were later quarantined for identity problems.")
 bullets(s, [
     ("Unknowns stay unknown: ",
-     "27 follower counts, plus any prices, dates, or figures not stated by "
+     f"{C['unknown_followers']} follower counts, plus any prices, dates, or figures not stated by "
      "sources, are recorded as unknown — nothing was estimated or invented."),
-    ("Selection records are thin: ",
-     "no eligibility or exclusion rules were documented at selection time; "
-     "8 creator records were later quarantined for identity problems."),
+    (lim_lead, lim_rest),
     ("Follower counts are as-cited: ",
      "they come from source listicles and were not independently audited."),
     ("Coverage limits: ",
-     "47 creators have no extracted itinerary; 19 itineraries have no fixed "
-     "trip length; confidence is low for 5 itineraries."),
+     f"{C['without_itineraries']} creators have no extracted itinerary; "
+     f"{COV['no_fixed_length']} itineraries have no fixed trip length; "
+     f"confidence is low for {CONF['low']} itineraries."),
     ("Out of scope: ",
      "the data says nothing about commercial economics, payment shares, "
      "supplier terms, or demand — those were never collected."),
@@ -340,15 +369,18 @@ bullets(s, [
     ("Database: ",
      "travel-influencer-pilot/pilot.db — every number on these slides can be "
      "recomputed with a SQL query."),
+    ("Stage config: ",
+     "travel-influencer-pilot/stage.json — the quotas and batch ranges every "
+     "validation gate enforces."),
+    ("Selection log: ",
+     f"travel-influencer-pilot/staging/selection_log.csv — one row per creator: "
+     "criterion checklist, identity-check method, check date, selector."),
     ("Verification log: ",
      "validation/reports/VERIFICATION_LOG_FULL.md — check date and supporting "
      "passage recorded per itinerary."),
     ("QC reports: ",
      "validation/reports/QC_REPORT_STRENGTHENED.md — every correction applied, "
      "with before/after evidence."),
-    ("Selection record: ",
-     "SELECTION_CRITERIA.md — what is established about creator selection and "
-     "what was never recorded."),
     ("Directory: ",
      "travel-influencers-directory.xlsx — every handle, profile URL, source "
      "link, and quarantine reason in one workbook."),
@@ -365,7 +397,7 @@ para(tf, "Influencer directory,\nitinerary index, and quarantine log", size=38,
      color=WHITE, font=SERIF)
 footer(s, 9, 0)
 
-# ============================================================ 10-14: appendix A — directory
+# ============================================================ appendix A — directory
 people = DB.execute("""
   SELECT i.handle, i.platform, i.followers_approx, i.niche,
          COUNT(DISTINCT t.id) AS n_it
@@ -380,7 +412,7 @@ for ci in range(0, len(people), CHUNK):
     s = prs.slides.add_slide(BLANK)
     bg(s)
     kicker(s, f"Appendix A — influencer directory ({n} of {n_dir_total})")
-    title(s, "The 100 creators", size=28)
+    title(s, f"The {C['total']} creators", size=28)
     rows = [["Handle", "Platform", "Followers", "Niche", "Itineraries"]]
     for p in chunk:
         rows.append([p["handle"], p["platform"], p["followers_approx"],
@@ -389,7 +421,7 @@ for ci in range(0, len(people), CHUNK):
                  font_size=10.5, row_h=0.185)
     # dense table slides: kicker carries the numbering; no footer needed
 
-# ============================================================ 15-19: appendix B — itinerary index
+# ============================================================ appendix B — itinerary index
 itins = DB.execute("""
   SELECT t.title, inf.handle, t.days, t.confidence
   FROM itineraries t JOIN influencers inf ON inf.id = t.influencer_id
@@ -402,7 +434,7 @@ for ci in range(0, len(itins), CHUNK):
     s = prs.slides.add_slide(BLANK)
     bg(s)
     kicker(s, f"Appendix B — itinerary index ({n} of {n_it_total})")
-    title(s, "The 94 itineraries", size=28)
+    title(s, f"The {IT['total']} itineraries", size=28)
     rows = [["Itinerary", "Creator", "Days", "Confidence"]]
     for t in chunk:
         title_txt = t["title"]
@@ -414,23 +446,21 @@ for ci in range(0, len(itins), CHUNK):
     styled_table(s, 0.9, 2.2, 11.5, rows, [6.2, 2.6, 1.2, 1.5],
                  font_size=10.5, row_h=0.185)
 
-# ============================================================ 20: appendix C — quarantine + notes
+# ============================================================ appendix C — quarantine + notes
 s = prs.slides.add_slide(BLANK)
 bg(s)
 kicker(s, "Appendix C — exclusions & notes")
 title(s, "Quarantine log", size=28)
-q = json.loads((ROOT / "validation" / "quarantine.json").read_text())
 rows = [["Handle", "Scope", "Reason"]]
-for e in q.get("quarantine", []):
-    if e.get("status") == "quarantined":
-        reason = e.get("reason", "")
-        if len(reason) > 90:
-            reason = reason[:88] + "…"
-        rows.append([e.get("handle", ""), e.get("scope", "") or "creator", reason])
+for e in quar_handles:
+    reason = e.get("reason", "")
+    if len(reason) > 90:
+        reason = reason[:88] + "…"
+    rows.append([e.get("handle", ""), e.get("scope", "") or "creator", reason])
 styled_table(s, 0.9, 2.2, 11.5, rows, [2.8, 1.8, 6.9], font_size=11,
              row_h=0.3)
 tf = textbox(s, 0.9, 6.3, 11.5, 0.8)
-para(tf, "“Unknown” means unknown — follower counts, prices, and dates were never "
+para(tf, "\u201cUnknown\u201d means unknown — follower counts, prices, and dates were never "
          "invented. Discrepancies were fixed before sign-off, never overridden.",
      size=12, color=MUTED, first=True)
 footer(s, 20, 0)

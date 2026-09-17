@@ -1,0 +1,115 @@
+{
+  "batch": "replacements3",
+  "research_date": "2026-09-16",
+  "researcher": "subagent (Stage 1 TikTok replacements3; direct TikTok profile HTML fetches + urlebird mirrors + web search; video-ID timestamp decoding)",
+  "replaces_excluded_handles": [],
+  "extractions": [
+    {
+      "handle": "@evapzc",
+      "platform": "tiktok",
+      "profile_url": "https://www.tiktok.com/@evapzc",
+      "name": "Eva",
+      "niche": "travel; USA road trips; France/Europe",
+      "followers_approx": "47.4K",
+      "followers_observed": "47400 followers (tiktok.com profile HTML __UNIVERSAL_DATA_FOR_REHYDRATION__ webapp.user-detail.userInfo.stats.followerCount, fetched 2026-09-17); 454 videos; 8,000,000 total likes; display name 'Eva | Voyages'; not verified",
+      "engagement": "West Coast itinerary video: 3.13K views / 220 likes / 6 comments / 40 shares (urlebird mirror, fetched 2026-09-17).",
+      "identity": "Individual. TikTok display name 'Eva | Voyages'; bio: '23, Made in Breizh / Voyageuse a mi-temps' with contact email evapzc.pro@gmail.com. First-name-only recorded honestly as shown.",
+      "activity_evidence": "Travel content on/after 2026-06-18: urlebird.com/user/evapzc/ (fetched 2026-09-17) lists 2026-09-16 video 'maybe in this one we're just muggles #wbtourlondon #studiosharrypott' (Warner Bros Studio Tour London) and 2026-09-15 video 'Tu hesites entre Miami et Los Angeles ?' (Miami vs Los Angeles travel comparison).",
+      "purchase_intent": "present",
+      "exclusions_check": "pass — named individual creator (Eva); not a couple, brand, agency, tour operator, repost or curation account; handle resolves; account live with travel content in September 2026.",
+      "dedup_check": "absent (case-insensitive exact match) from all staging/itineraries_*.json extractions and rejected_this_round, all staging/selection_*.csv, staging/dedup_*.txt, pilot.db influencers table (200 handles), and validation/quarantine.json — checked 2026-09-17 against 253-handle file union + 200 DB handles.",
+      "itineraries": [
+        {
+          "title": "18-Day West Coast USA Road Trip",
+          "destination": "West Coast USA",
+          "country": "United States",
+          "days": 18,
+          "confidence": "high",
+          "summary": "Eva's 18-day (3 weeks) West Coast USA road-trip itinerary from Los Angeles to San Francisco via Grand Canyon, Monument Valley, Bryce Canyon, Zion, Las Vegas, Death Valley and Yosemite, published as a TikTok video. Caption gives the ordered 9-stop route; the full per-day breakdown is spoken/shown in the video (video file not retrievable for OCR — TikTok CDN blocked direct download; not invented).",
+          "source_urls": [
+            "https://www.tiktok.com/@evapzc/video/7682434874808028448"
+          ],
+          "guide_date_signals": [
+            "TikTok video ID 7682434874808028448 decodes via (video_id >> 32) to 2026-09-06 14:50 UTC",
+            "urlebird.com/user/evapzc/ profile JSON-LD ItemList (fetched 2026-09-17) independently records uploadDate 2026-09-06T15:51:01+01:00 (= 14:51 UTC) for the same video — agrees with ID decode to the minute"
+          ],
+          "items": [
+            {"day": null, "item_type": "activity", "location": "Los Angeles", "name": "Los Angeles", "details": "Route start per creator caption", "price_hint": null, "booking_link": null},
+            {"day": null, "item_type": "activity", "location": "Grand Canyon", "name": "Grand Canyon", "details": "Named stop on the 18-day route", "price_hint": null, "booking_link": null},
+            {"day": null, "item_type": "activity", "location": "Monument Valley", "name": "Monument Valley", "details": "Named stop on the 18-day route", "price_hint": null, "booking_link": null},
+            {"day": null, "item_type": "activity", "location": "Bryce Canyon", "name": "Bryce Canyon", "details": "Named stop on the 18-day route", "price_hint": null, "booking_link": null},
+            {"day": null, "item_type": "activity", "location": "Zion", "name": "Zion", "details": "Named stop on the 18-day route", "price_hint": null, "booking_link": null},
+            {"day": null, "item_type": "activity", "location": "Las Vegas", "name": "Las Vegas", "details": "Named stop on the 18-day route", "price_hint": null, "booking_link": null},
+            {"day": null, "item_type": "activity", "location": "Death Valley", "name": "Death Valley", "details": "Named stop on the 18-day route", "price_hint": null, "booking_link": null},
+            {"day": null, "item_type": "activity", "location": "Yosemite", "name": "Yosemite", "details": "Named stop on the 18-day route", "price_hint": null, "booking_link": null},
+            {"day": null, "item_type": "activity", "location": "San Francisco", "name": "San Francisco", "details": "Route end per creator caption", "price_hint": null, "booking_link": null}
+          ]
+        }
+      ],
+      "notes": "Itinerary granularity: the TikTok caption provides the 18-day duration and the ordered 9-stop route (Los Angeles > Grand Canyon > Monument Valley > Bryce Canyon > Zion > Las Vegas > Death Valley > Yosemite > San Francisco). Per-day allocation is in the video itself; direct video download was blocked by TikTok CDN so per-day detail is recorded as unknown, not invented. Bio carries a GetYourGuide discount code (EVAPZC5) — affiliate-style, disclosed by creator."
+    },
+    {
+      "handle": "@trip.on.the.road",
+      "platform": "tiktok",
+      "profile_url": "https://www.tiktok.com/@trip.on.the.road",
+      "name": "Eleonora",
+      "niche": "travel; Italian villages; mini-tours; museums",
+      "followers_approx": "12.0K",
+      "followers_observed": "12000 followers (tiktok.com profile HTML __UNIVERSAL_DATA_FOR_REHYDRATION__ webapp.user-detail.userInfo.stats.followerCount, fetched 2026-09-17); 134 videos; 96,600 total likes; display name 'Eleonora | Travel Creator'; not verified",
+      "engagement": "Not separately recorded; 134 videos, 96.6K total likes.",
+      "identity": "Individual. TikTok display name 'Eleonora | Travel Creator'; bio lists personal Instagram @trip.on.the.road (93K) and AGCOM registry listing ('In elenco AGCOM', the Italian communications-authority influencer register). First-name-only recorded honestly as shown.",
+      "activity_evidence": "Travel content on/after 2026-06-18: urlebird.com/user/trip.on.the.road/ (fetched 2026-09-17) lists 2026-09-16 video 'gita fuori porta a Milano' (Milan day trip), 2026-09-05 'viaggio in Piemonte' (Piedmont trip), 2026-09-04 Domodossola-Berna train, 2026-09-02 Lake Como, 2026-09-01 painted villages, plus July 2026 Tuscany/Marche videos.",
+      "purchase_intent": "present",
+      "exclusions_check": "pass — named individual creator (Eleonora); not a couple, brand, agency, tour operator, repost or curation account; handle resolves; account live with travel content in September 2026. Note: the itinerary video discloses 'In collaborazione con @bodensee.eu' (Lake Constance tourism board) — a disclosed creator partnership, not an operator account.",
+      "dedup_check": "absent (case-insensitive exact match) from all staging/itineraries_*.json extractions and rejected_this_round, all staging/selection_*.csv, staging/dedup_*.txt, pilot.db influencers table (200 handles), and validation/quarantine.json — checked 2026-09-17 against 253-handle file union + 200 DB handles.",
+      "itineraries": [
+        {
+          "title": "5-Day Lake Constance Itinerary (Switzerland, Germany, Liechtenstein)",
+          "destination": "Lake Constance (Bodensee)",
+          "country": "Switzerland; Germany; Liechtenstein",
+          "days": 5,
+          "confidence": "high",
+          "summary": "Eleonora's 5-day on-the-road itinerary around the international Lake Constance region (Switzerland, Germany, Liechtenstein), published as a TikTok video with a full day-by-day caption: Day 1 Florence-Milan-Zurich-St. Gallen; Day 2 St. Gallen (Abbey Library, Textile Museum, Chocolarium) to Konstanz; Day 3 Konstanz and Meersburg; Day 4 Friedrichshafen (Zeppelin Museum) to Vaduz; Day 5 return to Italy. Mentions Bodensee Card PLUS and Swiss Travel Pass.",
+          "source_urls": [
+            "https://www.tiktok.com/@trip.on.the.road/video/7630336428966415618"
+          ],
+          "guide_date_signals": [
+            "TikTok video ID 7630336428966415618 decodes via (video_id >> 32) to 2026-04-19 05:22 UTC",
+            "urlebird.com/user/trip.on.the.road/ profile JSON-LD ItemList (fetched 2026-09-17) independently records uploadDate 2026-04-19T06:23:00+01:00 (= 05:23 UTC) for the same video — agrees with ID decode to the minute"
+          ],
+          "items": [
+            {"day": 1, "item_type": "transport", "location": "Florence to St. Gallen", "name": "Train Florence - Milan - Zurich - St. Gallen", "details": "Arrival in Switzerland; first discovery of the historic center; typical dinner in a historic locanda", "price_hint": null, "booking_link": null},
+            {"day": 2, "item_type": "activity", "location": "St. Gallen", "name": "Abbey Library (UNESCO)", "details": "Visit to the Abbey Library, UNESCO heritage", "price_hint": null, "booking_link": null},
+            {"day": 2, "item_type": "activity", "location": "St. Gallen", "name": "Textile Museum", "details": "Museo del Tessile visit", "price_hint": null, "booking_link": null},
+            {"day": 2, "item_type": "activity", "location": "St. Gallen", "name": "Chocolarium", "details": "Chocolate factory experience", "price_hint": null, "booking_link": null},
+            {"day": 2, "item_type": "transport", "location": "St. Gallen to Konstanz", "name": "Train to Konstanz", "details": "Transfer toward Konstanz (Costanza)", "price_hint": null, "booking_link": null},
+            {"day": 3, "item_type": "activity", "location": "Konstanz", "name": "SEA LIFE Konstanz", "details": "Aquarium visit", "price_hint": null, "booking_link": null},
+            {"day": 3, "item_type": "activity", "location": "Konstanz", "name": "Lake promenade and historic center", "details": "Walk on the lungolago and historic center", "price_hint": null, "booking_link": null},
+            {"day": 3, "item_type": "transport", "location": "Konstanz to Meersburg", "name": "Bus to Meersburg", "details": "Transfer to Meersburg", "price_hint": null, "booking_link": null},
+            {"day": 3, "item_type": "activity", "location": "Meersburg", "name": "Old Castle (Burg Meersburg)", "details": "Visit of the Castello Vecchio; sunset on the lake; overnight", "price_hint": null, "booking_link": null},
+            {"day": 4, "item_type": "activity", "location": "Friedrichshafen", "name": "Zeppelin Museum", "details": "Visit to the Zeppelin Museum", "price_hint": null, "booking_link": null},
+            {"day": 4, "item_type": "activity", "location": "Friedrichshafen", "name": "Lake promenade", "details": "Walk on the lungolago among flower gardens", "price_hint": null, "booking_link": null},
+            {"day": 4, "item_type": "transport", "location": "Friedrichshafen to Vaduz", "name": "Train to Vaduz", "details": "Transfer toward Vaduz, Liechtenstein", "price_hint": null, "booking_link": null},
+            {"day": 4, "item_type": "activity", "location": "Vaduz", "name": "Vaduz city center and castle (exterior)", "details": "City center, castle exterior, Treasure Chamber (Stanza del Tesoro), Liechtenstein National Museum, walk to the Rhine bridge at the Swiss border", "price_hint": null, "booking_link": null},
+            {"day": 5, "item_type": "transport", "location": "Vaduz to Italy", "name": "Return train to Italy", "details": "Return to Italy by train between Switzerland and Italy; trip used Bodensee Card PLUS and Swiss Travel Pass", "price_hint": null, "booking_link": null}
+          ]
+        }
+      ],
+      "notes": "Full day-by-day itinerary recovered from the TikTok caption via the urlebird mirror page (fetched 2026-09-17). Creator notes dedicated reels per stop on her feed for more detail. Disclosed collaboration with @bodensee.eu noted in exclusions_check."
+    }
+  ],
+  "rejected_this_round": [
+    {"handle": "@naturevoyagesdecouvertes", "reason": "189,100 followers and individual (Audrey Blanc) confirmed, but the 6-day Verdon itinerary video (2024-11-14) has only ONE date signal (video-ID decode); urlebird video page 404 and no independent second date signal found — bar not lowered"},
+    {"handle": "@ridewithmari", "reason": "24,100 followers and individual (Mari) confirmed with recent activity, but the Crete guide video (2026-02-08) has only ONE date signal (video-ID decode); urlebird video page unavailable and no dated cross-post found; caption calls it 7 days but only 6 days visible — incomplete, not invented"},
+    {"handle": "@reves_devoyage63", "reason": "1,713 exact TikTok followers (fetched 2026-09-17) — below 10,000 floor"},
+    {"handle": "@travellingwithvero", "reason": "6,782 exact TikTok followers (fetched 2026-09-17) — below 10,000 floor"},
+    {"handle": "@nomadifuorirotta", "reason": "couple account ('Reb e Marco') — not an individual"},
+    {"handle": "@cloetclem", "reason": "couple account ('Cloé & Clem') — not an individual"},
+    {"handle": "@hitravel_bali", "reason": "tour operator account — excluded"},
+    {"handle": "@petitfute", "reason": "brand/media account (Petit Futé guidebook) — not an individual creator"},
+    {"handle": "@wilffer", "reason": "tour operator account — excluded"},
+    {"handle": "@praondeiragora", "reason": "19,600 followers and recent activity, but no qualifying structured multi-stop itinerary found"},
+    {"handle": "@mauriliomask", "reason": "361,300 followers but bio presents as a large Portugal tips page — identity/exclusion risk, not a named individual"},
+    {"handle": "@cariocasnaviagem", "reason": "generic/plural account with no named-individual evidence"}
+  ]
+}

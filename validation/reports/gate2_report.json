@@ -2,10 +2,10 @@
   "gate": 2,
   "name": "handle integrity",
   "status": "PASS",
-  "rows": 100,
+  "rows": 200,
   "platforms": {
-    "instagram": 50,
-    "tiktok": 50
+    "instagram": 100,
+    "tiktok": 100
   },
   "quarantined": [
     {
@@ -19,8 +19,9 @@
       "added": "2026-09-15",
       "handle": "@limsawkward",
       "platform": "tiktok",
-      "reason": "Possible source-list typo; handle may not exist. Re-verify against the source publication before use.",
-      "status": "quarantined"
+      "reason": "Handle confirmed real: EF travel blog explicitly names @limsawkward (Alexa, DC travel creator); the Elon Edge roundup spelling @lilmsawkward was the typo source, not this handle. Documented re-search 2026-09-16 found no itinerary content. Stays quarantined: nothing to attribute.",
+      "status": "quarantined",
+      "evidence_update": "2026-09-16"
     },
     {
       "added": "2026-09-15",
@@ -63,6 +64,23 @@
       "reason": "Flagged by batch-4 extraction: influencer-marketing consultancy, not a travel creator. Exclude from itinerary attribution unless re-verified.",
       "status": "quarantined",
       "added": "2026-09-15"
+    },
+    {
+      "added": "2026-09-16",
+      "handle": "@thenationalparktravelers",
+      "platform": "tiktok",
+      "itinerary_title": "Columbia River Gorge Waterfall Drive",
+      "reason": "Full re-verification 2026-09-16 (worker7): UNVERIFIABLE. TikTok video URL unfetchable (rate-limited) with no indexed caption found anywhere; AFAR article's mention of the account could not be confirmed. Independent re-check confirmed no trace of the video caption. Excluded from DB load via --exclude-json. Do not attribute until a reachable source is produced.",
+      "status": "quarantined",
+      "scope": "itinerary"
+    },
+    {
+      "handle": "@sarahdegheselle",
+      "platform": "instagram",
+      "reason": "Gate 4 council QUARANTINE 2026-09-16: no exact follower integer (only abbreviated third-party estimates 81.8K-87.1K, unverified) and no directly-dated Instagram post on/after 2026-06-18. Instagram login-walled on 2026-09-16/17 so no live read was possible. Identity (Sarah De Gheselle) and Dalat guide date (2026-03-10, WP REST API + JSON-LD two-signal) verified; this is a verification-access block, not a content failure.",
+      "cure": "Live Instagram read of instagram.com/sarahdegheselle: exact follower integer from profile header + latest post date from grid. If exact >= 10,000 and a travel post >= 2026-06-18, clear the quarantine (morning retry cron scheduled 2026-09-17 06:30 EDT).",
+      "status": "quarantined",
+      "added": "2026-09-16"
     }
   ],
   "manual_checklist": [
@@ -75,7 +93,7 @@
     {
       "handle": "@limsawkward",
       "platform": "tiktok",
-      "reason": "Possible source-list typo; handle may not exist. Re-verify against the source publication before use.",
+      "reason": "Handle confirmed real: EF travel blog explicitly names @limsawkward (Alexa, DC travel creator); the Elon Edge roundup spelling @lilmsawkward was the typo source, not this handle. Documented re-search 2026-09-16 found no itinerary content. Stays quarantined: nothing to attribute.",
       "check_url": "https://www.tiktok.com/limsawkward"
     },
     {
@@ -113,8 +131,22 @@
       "platform": "tiktok",
       "reason": "Flagged by batch-4 extraction: influencer-marketing consultancy, not a travel creator. Exclude from itinerary attribution unless re-verified.",
       "check_url": "https://www.tiktok.com/sidewalkerdaily"
+    },
+    {
+      "handle": "@thenationalparktravelers",
+      "platform": "tiktok",
+      "reason": "Full re-verification 2026-09-16 (worker7): UNVERIFIABLE. TikTok video URL unfetchable (rate-limited) with no indexed caption found anywhere; AFAR article's mention of the account could not be confirmed. Independent re-check confirmed no trace of the video caption. Excluded from DB load via --exclude-json. Do not attribute until a reachable source is produced.",
+      "check_url": "https://www.tiktok.com/thenationalparktravelers"
+    },
+    {
+      "handle": "@sarahdegheselle",
+      "platform": "instagram",
+      "reason": "Gate 4 council QUARANTINE 2026-09-16: no exact follower integer (only abbreviated third-party estimates 81.8K-87.1K, unverified) and no directly-dated Instagram post on/after 2026-06-18. Instagram login-walled on 2026-09-16/17 so no live read was possible. Identity (Sarah De Gheselle) and Dalat guide date (2026-03-10, WP REST API + JSON-LD two-signal) verified; this is a verification-access block, not a content failure.",
+      "check_url": "https://www.instagram.com/sarahdegheselle"
     }
   ],
   "errors": [],
-  "warnings": []
+  "warnings": [
+    "quarantine entry @martinsilvaq (tiktok) not in influencers.csv"
+  ]
 }

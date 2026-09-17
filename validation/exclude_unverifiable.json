@@ -2,6 +2,13 @@
  {
   "batch": 4,
   "handle": "@thenationalparktravelers",
-  "title": "Columbia River Gorge Waterfall Drive"
+  "title": "Columbia River Gorge Waterfall Drive",
+  "status": "STILL EXCLUDED 2026-09-16: guide unverifiable; loader skipped its 2 itineraries. No remediation found."
+ },
+ {
+  "batch": 6,
+  "handle": "@chloe__trips",
+  "title": "Travel guides (creator series)",
+  "status": "STILL EXCLUDED 2026-09-16: exact profile confirmed (20.6K followers) but no attributable structured guide found. Replacement candidate."
  }
 ]

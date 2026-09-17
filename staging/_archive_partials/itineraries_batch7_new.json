@@ -1,0 +1,1184 @@
+{
+  "batch": 7,
+  "extractions": [
+    {
+      "handle": "@anuradhagoyal",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "Things To Do In Ooty - 5 Day Itinerary",
+          "destination": "Ooty",
+          "country": "India",
+          "days": 5,
+          "summary": "Own-blog day-by-day plan: arrive Coimbatore and drive to Ooty on Day 1, Ooty city tour on Day 2, Pykara on Day 3, Avalanche jungle safari plus Ooty-Coonoor toy train on Day 4.",
+          "source_urls": [
+            "https://inditales.com/things-to-do-in-ooty-5-dat-itinerary/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "transport",
+              "name": "Arrive Coimbatore Airport and head to Ooty",
+              "location": "Coimbatore / Ooty",
+              "details": "Arrival transfer day per the guide's Day 1.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Day tour of the city (Ooty)",
+              "location": "Ooty",
+              "details": "Full-day city sightseeing per the guide's Day 2.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Pykara",
+              "location": "Pykara, near Ooty",
+              "details": "First half of Day 3 per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Avalanche Jungle Safari",
+              "location": "Avalanche, near Ooty",
+              "details": "First half of Day 4 per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "transport",
+              "name": "Ooty to Coonoor toy train and back to Coimbatore",
+              "location": "Ooty / Coonoor",
+              "details": "Second half of Day 4 per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Published 2025-01-30 (own WordPress API)."
+    },
+    {
+      "handle": "@amibhat",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "How to plan a 2 days in Seville itinerary",
+          "destination": "Seville",
+          "country": "Spain",
+          "days": 2,
+          "summary": "Own-blog 2-day Seville plan with a suggested one-day route (Maria Luisa Park, Plaza de Espana, lunch in Barrio Santa Cruz, Real Alcazar, Cathedral and Giralda, tapas and flamenco) plus alternates for a second day.",
+          "source_urls": [
+            "https://thrillingtravel.in/things-to-do-in-seville-spain.html"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Maria Luisa Park",
+              "location": "Seville",
+              "details": "Suggested route stop per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Plaza de Espana",
+              "location": "Seville",
+              "details": "Suggested route stop per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Lunch in Barrio Santa Cruz",
+              "location": "Seville",
+              "details": "Suggested lunch spot per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Real Alcazar",
+              "location": "Seville",
+              "details": "Suggested route stop per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Seville Cathedral and Giralda",
+              "location": "Seville",
+              "details": "Suggested route stop per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Tapas bar",
+              "location": "Seville",
+              "details": "Evening option per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Flamenco show",
+              "location": "Seville",
+              "details": "Evening option per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Plaza de Toros",
+              "location": "Seville",
+              "details": "Alternate/additional option named in the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Espacio Exploterra museum",
+              "location": "Seville",
+              "details": "Alternate/additional option named in the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Ceramic workshop in Triana",
+              "location": "Triana, Seville",
+              "details": "Alternate/additional option named in the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Flamenco museum",
+              "location": "Seville",
+              "details": "Alternate/additional option named in the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "River Guadalquivir cruise",
+              "location": "Seville",
+              "details": "Alternate/additional option named in the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Acuario de Sevilla",
+              "location": "Seville",
+              "details": "Alternate/additional option named in the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Plaza de America",
+              "location": "Seville",
+              "details": "Alternate/additional option named in the guide.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Published 2026-05-21 (own site)."
+    },
+    {
+      "handle": "@indranipics",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "Nara Japan One Day Itinerary: Ultimate Guide",
+          "destination": "Nara",
+          "country": "Japan",
+          "days": 1,
+          "summary": "Own-blog one-day Nara plan covering Todai-ji Temple, the Great Buddha Hall, Nara Park deer, Kofuku-ji, Kasuga Taisha and Naramachi, with Horyu-ji as a half-day extension.",
+          "source_urls": [
+            "https://isharethese.com/nara-one-day-itinerary/"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Todai-ji Temple",
+              "location": "Nara",
+              "details": "Named stop in her Nara guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Great Buddha Hall",
+              "location": "Nara",
+              "details": "Named stop in her Nara guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Nara Park (deer)",
+              "location": "Nara",
+              "details": "Freely roaming deer stop in her Nara guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Kofuku-ji",
+              "location": "Nara",
+              "details": "Named stop in her Nara guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Kasuga Taisha",
+              "location": "Nara",
+              "details": "Named stop in her Nara guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Naramachi merchant district",
+              "location": "Nara",
+              "details": "Named stop in her Nara guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Horyu-ji",
+              "location": "Horyu-ji, Nara Prefecture",
+              "details": "Half-day extension named in her Nara guide.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Published 2026-06-12 (own site)."
+    },
+    {
+      "handle": "@aakanksha.monga",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "Planning Tokyo trip: follow this easy itinerary",
+          "destination": "Tokyo",
+          "country": "Japan",
+          "days": null,
+          "summary": "Creator-attributed 3-5 day Tokyo plan summarized in the editorial: travel basics and timing, etiquette, smart commuting, central neighbourhoods and food, cultural landmarks and temples, shopping districts and modern attractions.",
+          "source_urls": [
+            "https://www.whosthat360.com/travel/planning-tokyo-trip-follow-this-easy-itinerary-by-aakanksha-monga-11690742"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Travel basics and planning",
+              "location": "Tokyo",
+              "details": "Section of her Tokyo plan.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Cultural etiquette",
+              "location": "Tokyo",
+              "details": "Section of her Tokyo plan.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Smart commuting",
+              "location": "Tokyo",
+              "details": "Section of her Tokyo plan.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Ideal travel timing",
+              "location": "Tokyo",
+              "details": "Section of her Tokyo plan.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Central neighbourhoods and food",
+              "location": "Tokyo",
+              "details": "Section of her Tokyo plan.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Cultural landmarks and temples",
+              "location": "Tokyo",
+              "details": "Section of her Tokyo plan.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Shopping districts",
+              "location": "Tokyo",
+              "details": "Section of her Tokyo plan.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Modern attractions",
+              "location": "Tokyo",
+              "details": "Section of her Tokyo plan.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        },
+        {
+          "title": "Aakanksha Monga's 30-day Thailand guide",
+          "destination": "Thailand",
+          "country": "Thailand",
+          "days": 30,
+          "summary": "Creator-attributed 30-day Thailand plan with hidden spots and budget tips: Phuket, Koh Phi Phi, Khao Sok National Park and northern Thailand.",
+          "source_urls": [
+            "https://www.whosthat360.com/travel/aakanksha-mongas-30-day-thailand-guide-hidden-spots-budget-tips-more-10748815"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Phuket: beach day, night markets, sunset dinners",
+              "location": "Phuket",
+              "details": "Leg of her 30-day plan.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Koh Phi Phi: snorkelling, boat tours, cliffside viewpoints",
+              "location": "Koh Phi Phi",
+              "details": "Leg of her 30-day plan.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Khao Sok National Park: floating bungalows, wildlife sightings, lake views",
+              "location": "Khao Sok National Park",
+              "details": "Leg of her 30-day plan.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Northern Thailand: culture, food, calm",
+              "location": "Northern Thailand",
+              "details": "Leg of her 30-day plan.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Both via Whosthat360 editorials summarizing her own published itineraries; Tokyo updated 2026-06-26, Thailand published 2026-09-15."
+    },
+    {
+      "handle": "@wheresachi",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "Discover Istanbul - An Ultimate 4 Days Itinerary",
+          "destination": "Istanbul",
+          "country": "Turkey",
+          "days": 4,
+          "summary": "Own-blog day-by-day 4-day Istanbul plan: Sultanahmet old city on Day 1, bazaar district and Bosphorus on Day 2, modern landmarks and relaxation on Day 3, streets and views on Day 4.",
+          "source_urls": [
+            "https://wheresachi.com/discover-istanbul-an-ultimate-4-days-itinerary/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Hagia Sophia Grand Mosque",
+              "location": "Istanbul",
+              "details": "Day 1 stop per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Blue Mosque",
+              "location": "Istanbul",
+              "details": "Day 1 stop per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Museum of Turkish and Islamic Arts",
+              "location": "Istanbul",
+              "details": "Day 1 stop per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Basilica Cistern",
+              "location": "Istanbul",
+              "details": "Day 1 stop per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Grand Bazaar",
+              "location": "Istanbul",
+              "details": "Day 2 stop per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Bosphorus Sunset Cruise",
+              "location": "Istanbul",
+              "details": "Day 2 experience per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Whirling Dervish Experience",
+              "location": "Istanbul",
+              "details": "Day 2 experience per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Dolmabahce Palace",
+              "location": "Istanbul",
+              "details": "Day 3 stop per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "National Palaces Painting Museum",
+              "location": "Istanbul",
+              "details": "Day 3 stop per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Aga Hamami traditional bath",
+              "location": "Istanbul",
+              "details": "Day 3 experience per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Istiklal Street, Beyoglu and Taksim Square",
+              "location": "Istanbul",
+              "details": "Day 4 stops per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Galata Tower",
+              "location": "Istanbul",
+              "details": "Day 4 stop per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Balat and Fener colourful streets",
+              "location": "Istanbul",
+              "details": "Day 4 stops per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Princes' Island sightseeing",
+              "location": "Princes' Islands, Istanbul",
+              "details": "Day 4 stop per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        },
+        {
+          "title": "Spiritual Itinerary to Varanasi",
+          "destination": "Varanasi",
+          "country": "India",
+          "days": null,
+          "summary": "Own-blog spiritual Varanasi itinerary: a 10-temple circuit, must-do experiences and ghats context, plus must-try food spots.",
+          "source_urls": [
+            "https://wheresachi.com/spiritual-itinerary-to-varanasi/"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Kashi Vishwanath Temple - The Abode of Lord Shiva",
+              "location": "Varanasi",
+              "details": "Temple 1 in her Varanasi itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Kaal Bhairav Temple - Guardian of Kashi",
+              "location": "Varanasi",
+              "details": "Temple 2 in her Varanasi itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Mrityunjay Mahadev Temple - Conqueror of Death",
+              "location": "Varanasi",
+              "details": "Temple 3 in her Varanasi itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Kashi Raj Kali Temple - Hidden Royal Shrine",
+              "location": "Varanasi",
+              "details": "Temple 4 in her Varanasi itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Durga Kund Mandir - The Warrior Goddess",
+              "location": "Varanasi",
+              "details": "Temple 5 in her Varanasi itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Tulsi Manas Mandir - The Epic's Birthplace",
+              "location": "Varanasi",
+              "details": "Temple 6 in her Varanasi itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Sankat Mochan Hanuman Temple - Reliever of Troubles",
+              "location": "Varanasi",
+              "details": "Temple 7 in her Varanasi itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Nepali Temple (Kathwala Temple) - A Slice of Nepal",
+              "location": "Varanasi",
+              "details": "Temple 8 in her Varanasi itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Annapurna Temple - Goddess of Nourishment",
+              "location": "Varanasi",
+              "details": "Temple 9 in her Varanasi itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Bharat Mata Mandir - Mother India Temple",
+              "location": "Varanasi",
+              "details": "Temple 10 in her Varanasi itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Kashi Chat Bhandar",
+              "location": "Varanasi",
+              "details": "Must-try food spot per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Blue Lassi Shop",
+              "location": "Varanasi",
+              "details": "Must-try food spot per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Deena Chat Bhandar",
+              "location": "Varanasi",
+              "details": "Must-try food spot per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Baati Chokha Restaurant",
+              "location": "Varanasi",
+              "details": "Must-try food spot per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Ram Bhandar",
+              "location": "Varanasi",
+              "details": "Must-try food spot per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Banarasi Paan Bhandar",
+              "location": "Varanasi",
+              "details": "Must-try food spot per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Pappu Chai Stall",
+              "location": "Varanasi",
+              "details": "Must-try food spot per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Vishwanath Misthan Bhandar",
+              "location": "Varanasi",
+              "details": "Must-try food spot per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Laxmi Chai Wala",
+              "location": "Varanasi",
+              "details": "Must-try food spot per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Ksheer Sagar",
+              "location": "Varanasi",
+              "details": "Must-try food spot per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Istanbul published 2023-04-24, updated 2026-08-03; Varanasi published 2025-04-20, updated 2026-08-03 (exact own-site metadata)."
+    },
+    {
+      "handle": "@radhika_nomllers",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "Triund Trek Guide: Everything You Need to Know",
+          "destination": "Triund (Dharamshala)",
+          "country": "India",
+          "days": 2,
+          "summary": "Own-site 2-day weekend Triund trek plan: arrive McLeodganj and explore on Day 1, trek McLeodganj to Triund on Day 2; also covers how to reach from Delhi, costs, accommodation and seasons.",
+          "source_urls": [
+            "https://nomllers.com/triund-trek-budget/"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "transport",
+              "name": "Arrive McLeodganj early morning",
+              "location": "McLeodganj",
+              "details": "Day 1 arrival per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "hotel",
+              "name": "HosteLaVie",
+              "location": "McLeodganj",
+              "details": "Her named stay (breakfast included) per the guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Bhagsu Waterfall",
+              "location": "McLeodganj",
+              "details": "~20 min hike from most hostels per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Shiva Cafe",
+              "location": "Bhagsu, McLeodganj",
+              "details": "Tea and Maggi with sunset view per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "other",
+              "name": "McLeodganj local market",
+              "location": "McLeodganj",
+              "details": "Explore per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "transport",
+              "name": "Shared taxi to Triund trek starting point",
+              "location": "McLeodganj",
+              "details": "Route option per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Trek McLeodganj to Triund (~8 km, 3-4 hours)",
+              "location": "Triund",
+              "details": "Day 2 trek per her guide; register at the trailhead.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Triund top (afternoon)",
+              "location": "Triund",
+              "details": "Reach by afternoon per her guide.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Last updated ~2025-07-29 per crawl metadata."
+    },
+    {
+      "handle": "@kritika_goel",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "Budapest in 4 Days: Ultimate Itinerary and Insider Tips",
+          "destination": "Budapest",
+          "country": "Hungary",
+          "days": 4,
+          "summary": "Creator-attributed 4-day Budapest plan: highlights include Heroes' Square, City Park and Szechenyi Thermal Baths on Day 3, Fisherman's Bastion sunrise and Pest-side cafés and shops on Day 4, plus practical tips (Budapest Card, Tram 2, food and hidden gems).",
+          "source_urls": [
+            "https://www.thereelstars.com/lifestyle/travel/budapest-in-4-days-travel-creator-kritika-goels-ultimate-long-weekend-itinerary/",
+            "https://www.whosthat360.com/travel/budapest-in-4-days-kritika-goels-ultimate-itinerary-and-insider-tips-9524962"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Heroes' Square",
+              "location": "Budapest",
+              "details": "Day 3 stop per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "City Park",
+              "location": "Budapest",
+              "details": "Day 3 stop per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Szechenyi Thermal Baths (outdoor thermal pools, neo-Baroque, floating chessboards)",
+              "location": "Budapest",
+              "details": "Day 3 highlight per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Fisherman's Bastion at sunrise",
+              "location": "Budapest",
+              "details": "Day 4 stop per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Pest side neighborhoods",
+              "location": "Budapest",
+              "details": "Day 4 area per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "restaurant",
+              "name": "Boutique cafes",
+              "location": "Budapest",
+              "details": "Day 4 per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "other",
+              "name": "Independent shops",
+              "location": "Budapest",
+              "details": "Day 4 per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "restaurant",
+              "name": "New York Cafe",
+              "location": "Budapest",
+              "details": "Day 4 highlight per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Budapest Card (public transport and discounts)",
+              "location": "Budapest",
+              "details": "Practical tip per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "transport",
+              "name": "Tram 2 (Danube views)",
+              "location": "Budapest",
+              "details": "Practical tip per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Gulyas, Porkolt, Froccs, Langos, Chimney Cake",
+              "location": "Budapest",
+              "details": "Food tips per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Philosophers' Garden",
+              "location": "Budapest",
+              "details": "Hidden gem per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Hospital in the Rock Museum",
+              "location": "Budapest",
+              "details": "Hidden gem per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Great Market Hall (paprika, Tokaji wine, crafts)",
+              "location": "Budapest",
+              "details": "Shopping tip per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "High Note SkyBar (rooftop)",
+              "location": "Budapest",
+              "details": "Nightlife tip per the editorial.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        },
+        {
+          "title": "Taiwan 5-Day Itinerary (video guide)",
+          "destination": "Taiwan",
+          "country": "Taiwan",
+          "days": 5,
+          "summary": "Her own YouTube guide video presenting a Taiwan 5-day itinerary: Miaoli (Shine Mood Resort, Shengxing Old Street, Hakka Lei Tea workshop, Old Mountain Line Rail Bike), the 2026 Taiwan Lantern Festival, Alishan (tea plantation, forest railway, Shenmu giant trees, cherry blossoms, Tsou Cultural Park), then HSR to Taipei (Taipei 101, Din Tai Fung, Gold Museum, Yangming Spring).",
+          "source_urls": [
+            "https://www.youtube.com/watch?v=KZxxi0_aIV0"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "day": null,
+              "item_type": "hotel",
+              "name": "Shine Mood Resort",
+              "location": "Miaoli",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Shengxing Old Street",
+              "location": "Miaoli",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Hakka Lei Tea DIY Workshop",
+              "location": "Miaoli",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Old Mountain Line Rail Bike Ride",
+              "location": "Miaoli",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "hotel",
+              "name": "voco Chiayi",
+              "location": "Chiayi",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "2026 Taiwan Lantern Festival",
+              "location": "Chiayi",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Alishan tea plantation (Drizzle Tea)",
+              "location": "Alishan",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "transport",
+              "name": "Alishan Forest Railway",
+              "location": "Alishan",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Shenmu Station and giant trees",
+              "location": "Alishan",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Alishan cherry blossoms",
+              "location": "Alishan",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Tsou Cultural Park",
+              "location": "Alishan",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "transport",
+              "name": "HSR to Taipei",
+              "location": "Taipei",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Taipei 101 Observatory",
+              "location": "Taipei",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Din Tai Fung",
+              "location": "Taipei",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "activity",
+              "name": "Gold Museum",
+              "location": "New Taipei",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "restaurant",
+              "name": "Yangming Spring (Michelin Green Star)",
+              "location": "Taipei",
+              "details": "Named in her Taiwan video.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Budapest guide updated ~2026-03-10 (crawl-inferred); Taiwan video published ~2026-03-29 on her own channel."
+    }
+  ]
+}

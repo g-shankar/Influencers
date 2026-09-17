@@ -1,0 +1,1171 @@
+{
+  "batch": 5,
+  "extractions": [
+    {
+      "handle": "@gokylahgo",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "4 days in Peru: Machu Picchu, Lima and the desert",
+          "destination": "Peru",
+          "country": "Peru",
+          "days": 4,
+          "summary": "Kylah's 4-day Peru plan: Day 1 fly Lima to Cusco and head to the Sacred Valley; Day 2 same-day Machu Picchu trip then back to Lima that night; Day 3 explore Lima's city center and food scene; Day 4 full-day desert excursion (about 13 hours, around $100). She says she will link the Machu Picchu tour and recommends it.",
+          "source_urls": [
+            "https://urlebird.com/video/yes-you-can-see-machu-picchu-lima-and-the-desert-with-just-4-day-7685523563368942862/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "transport",
+              "name": "Fly Lima to Cusco, transfer to Sacred Valley",
+              "location": "Sacred Valley, Peru",
+              "details": "Overnight in the Sacred Valley.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Machu Picchu day trip",
+              "location": "Machu Picchu, Peru",
+              "details": "Same-day trip; creator says she will link the tour and recommends it.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "transport",
+              "name": "Return to Lima",
+              "location": "Lima, Peru",
+              "details": "Back to Lima the same night.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Explore Lima city center and food scene",
+              "location": "Lima, Peru",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Full-day desert excursion",
+              "location": "Peru (desert, from Lima)",
+              "details": "About 13 hours; creator says it cost around $100.",
+              "booking_link": null,
+              "price_hint": "around $100 (creator's words)"
+            }
+          ]
+        }
+      ],
+      "notes": "Itinerary date and activity date coincide (2026-09-14). Creator base not independently established."
+    },
+    {
+      "handle": "@lisarosanty",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "3-day San Francisco itinerary",
+          "destination": "San Francisco, California",
+          "country": "United States",
+          "days": 3,
+          "summary": "Lisa's 3-day San Francisco plan. Day 1: Golden Gate Bridge viewpoints (Battery Spencer, Fort Point, Golden Gate Overlook), Palace of Fine Arts, Fisherman's Wharf & Pier 39, Alcatraz tour or SF Bay cruise. Day 2: cable car (Powell & Hyde or Powell & Mason), Lombard Street, Chinatown (Dragon Gate, Golden Gate Fortune Cookie Factory), Ghirardelli Square, Twin Peaks. Day 3: Coit Tower, Ferry Building Marketplace, Golden Gate Park, Painted Ladies at Alamo Square, Mission District + Dolores Park. She also sells a downloadable SF guide PDF (link in bio).",
+          "source_urls": [
+            "https://www.tiktok.com/@lisarosanty/video/7600235232914132244"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Golden Gate Bridge viewpoints",
+              "location": "San Francisco, California",
+              "details": "Battery Spencer, Fort Point, Golden Gate Overlook.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Palace of Fine Arts",
+              "location": "San Francisco, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Fisherman's Wharf & Pier 39",
+              "location": "San Francisco, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Alcatraz tour or San Francisco Bay cruise",
+              "location": "San Francisco, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "Alcatraz from $48; bay cruise from $28 (creator's words)"
+            },
+            {
+              "day": 2,
+              "item_type": "transport",
+              "name": "Cable car",
+              "location": "San Francisco, California",
+              "details": "Powell & Hyde or Powell & Mason lines.",
+              "booking_link": null,
+              "price_hint": "$8 one way / $13 all-day (creator's words)"
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Lombard Street",
+              "location": "San Francisco, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Chinatown",
+              "location": "San Francisco, California",
+              "details": "Dragon Gate, Golden Gate Fortune Cookie Factory.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Ghirardelli Square",
+              "location": "San Francisco, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Twin Peaks",
+              "location": "San Francisco, California",
+              "details": "501 Twin Peaks Blvd.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Coit Tower",
+              "location": "San Francisco, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "$10 (creator's words)"
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Ferry Building Marketplace",
+              "location": "San Francisco, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Golden Gate Park",
+              "location": "San Francisco, California",
+              "details": "Japanese Tea Garden, SF Botanical Garden, Conservatory of Flowers.",
+              "booking_link": null,
+              "price_hint": "Tea Garden $18.50; Botanical Garden $15; Conservatory $15 (creator's words)"
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Painted Ladies at Alamo Square",
+              "location": "San Francisco, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Mission District + Dolores Park",
+              "location": "San Francisco, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Bio states California."
+    },
+    {
+      "handle": "@goingwithnicole",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "3-day San Francisco trip",
+          "destination": "San Francisco, California",
+          "country": "United States",
+          "days": 3,
+          "summary": "Nicole's 3-day San Francisco trip: caption states 'everything we did during our 3 day trip'; the day-by-day plan is presented in-video and no stops are named in the caption text.",
+          "source_urls": [
+            "https://www.tiktok.com/@goingwithnicole/video/7423336321608944926"
+          ],
+          "confidence": "medium",
+          "items": []
+        },
+        {
+          "title": "5+ things to do in Kuching",
+          "destination": "Kuching, Sarawak",
+          "country": "Malaysia",
+          "days": null,
+          "summary": "Nicole's guide to 5+ things to do in Kuching (Sarawak, Borneo, Malaysia); the list is presented in-video and no stops are named in the caption text.",
+          "source_urls": [
+            "https://www.tiktok.com/@goingwithnicole/video/7686211027607866655"
+          ],
+          "confidence": "medium",
+          "items": []
+        }
+      ],
+      "notes": "Stop-level detail is in-video, not in caption text; no item-level claims made. Bio states Minnesota; currently backpacking SE Asia."
+    },
+    {
+      "handle": "@epicamerica_",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "5-day Los Angeles itinerary",
+          "destination": "Los Angeles, California",
+          "country": "United States",
+          "days": 5,
+          "summary": "Erfan's 5-day Los Angeles plan. Day 1 (Beverly Hills & Melrose): Beverly Hills Sign, Rodeo Drive, Beverly Hills Hotel, Melrose Avenue, LACMA Urban Light, Will Rogers Memorial Park. Day 2 (Hollywood Studios & Griffith Park): Warner Bros Studio, Griffith Observatory, Hollywood Hills, Runyon Canyon. Day 3 (Hollywood Icons): Hollywood Walk of Fame, Dolby Theatre, TCL Chinese Theatre. Day 4 (Downtown LA): Downtown LA skyline, The Last Bookstore. Day 5 (Santa Monica & Venice): Santa Monica Pier, Venice Beach Skatepark, Venice Sign, Venice Canals, sunset at Santa Monica.",
+          "source_urls": [
+            "https://www.tiktok.com/@epicamerica_/video/7615667752472169759"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Beverly Hills Sign",
+              "location": "Beverly Hills, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Rodeo Drive",
+              "location": "Beverly Hills, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "hotel",
+              "name": "Beverly Hills Hotel",
+              "location": "Beverly Hills, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Melrose Avenue",
+              "location": "Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "LACMA Urban Light",
+              "location": "Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Will Rogers Memorial Park",
+              "location": "Beverly Hills, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Warner Bros Studio",
+              "location": "Burbank, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Griffith Observatory",
+              "location": "Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Hollywood Hills",
+              "location": "Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Runyon Canyon",
+              "location": "Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Hollywood Walk of Fame",
+              "location": "Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Dolby Theatre",
+              "location": "Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "TCL Chinese Theatre",
+              "location": "Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Downtown LA skyline",
+              "location": "Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "The Last Bookstore",
+              "location": "Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Santa Monica Pier",
+              "location": "Santa Monica, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Venice Beach Skatepark",
+              "location": "Venice, Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Venice Sign",
+              "location": "Venice, Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Venice Canals",
+              "location": "Venice, Los Angeles, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Sunset at Santa Monica",
+              "location": "Santa Monica, California",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Bio indicates US West Coast base."
+    },
+    {
+      "handle": "@carissamonyce",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Washington DC spring itinerary (3 days)",
+          "destination": "Washington, DC",
+          "country": "United States",
+          "days": 3,
+          "summary": "Carissa's 3-day Washington DC spring itinerary (sponsored by @visitwashingtondc). Day 1: stay at Arlo Hotel (Downtown DC), Big Bus tour, dinner at Del Frisco's Double Eagle (wagyu steak tacos), nightcap at ART Rooftop. Day 2: breakfast at Busboys and Poets, NMAAHC (free guided tours Tuesday/Thursday), lunch at Sweet Home Cafe inside NMAAHC, City Cruises tour, dinner at Fish Shop DC at The Wharf. Day 3: The Black Broadway walking tour with Briana.",
+          "source_urls": [
+            "https://urlebird.com/video/washington-dcs-spring-itinerary-ad-washington-dc-day-1-stay-l-7637628099324103950/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "hotel",
+              "name": "Arlo Hotels (Downtown DC)",
+              "location": "Washington, DC",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Big Bus Tours",
+              "location": "Washington, DC",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Del Frisco's Double Eagle",
+              "location": "Washington, DC",
+              "details": "Wagyu steak tacos.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "ART Rooftop at Arlo hotel",
+              "location": "Washington, DC",
+              "details": "Nightcap.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "restaurant",
+              "name": "Busboys and Poets",
+              "location": "Washington, DC",
+              "details": "Breakfast.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "National Museum of African American History and Culture (NMAAHC)",
+              "location": "Washington, DC",
+              "details": "Free guided tours Tuesday/Thursday.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "restaurant",
+              "name": "Sweet Home Cafe (inside NMAAHC)",
+              "location": "Washington, DC",
+              "details": "Lunch.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "City Cruises tour",
+              "location": "Washington, DC",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "restaurant",
+              "name": "Fish Shop DC at The Wharf",
+              "location": "Washington, DC",
+              "details": "Dinner.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "The Black Broadway walking tour with Briana",
+              "location": "Washington, DC",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Sponsored by @visitwashingtondc. Collabstr lists Pensacola, Florida as base."
+    },
+    {
+      "handle": "@lilmsawkward",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "African diaspora cultural experiences guide",
+          "destination": "Hopkins, Belize",
+          "country": "Belize",
+          "days": null,
+          "summary": "Alexa's cultural-experience guide for African diaspora travel: the Garifuna Cultural Experience with Palmento Grove at the Kalipuna Cultural Heritage Site in Hopkins, Belize; tours in Salvador de Bahia, Brazil with YourTourBrazil (guides Wilson and Monia); and a tour in San Basilio de Palenque with Paletur Minikusuto.",
+          "source_urls": [
+            "https://urlebird.com/video/the-experiences-i-had-and-how-you-can-do-the-same-hopkins-beli-7682824671422647582/"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Garifuna Cultural Experience",
+              "location": "Kalipuna Cultural Heritage Site, Hopkins, Belize",
+              "details": "Booked via Palmento Grove (@palmentogrovebelize).",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Tour with YourTourBrazil",
+              "location": "Salvador de Bahia, Brazil",
+              "details": "Guides Wilson and Monia.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Tour with Paletur Minikusuto",
+              "location": "San Basilio de Palenque",
+              "details": "",
+              "booking_link": "",
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Multi-destination experiences guide, not a day-by-day trip; days=null and item day numbers reflect presentation order only. Bio states DC."
+    },
+    {
+      "handle": "@callmecandace.tv",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "4-day El Salvador itinerary",
+          "destination": "El Salvador",
+          "country": "El Salvador",
+          "days": 4,
+          "summary": "Candace's 4-day El Salvador plan. Day 1: ~4-hour flight ATL to SAL ($12 entry fee), drive about an hour from the airport to Hotel Finca Campo Bello (2 nights, breakfast included; coffee farm; Volcano Izalco view); street food; dinner at Dos Alas Restaurant (espresso martini, burger). Day 2: Cafe Albania (ziplining, bungee jumping, Rainbow Slide; $5-$20 per attraction), lunch street food. Day 3: El Tazumal (Mayan ruins), Santa Teresa Hot Springs, check into Airbnb in Surf City near Nawi Beach House. Day 4: Nawi Beach House (lounging, horseback riding on the beach, massage), sunset views.",
+          "source_urls": [
+            "https://www.tiktok.com/@callmecandace.tv/video/7479596735036181790"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "flight",
+              "name": "Flight ATL to SAL",
+              "location": "El Salvador International Airport, El Salvador",
+              "details": "About 4 hours.",
+              "booking_link": null,
+              "price_hint": "$12 entry fee (creator's words)"
+            },
+            {
+              "day": 1,
+              "item_type": "transport",
+              "name": "Drive to Hotel Finca Campo Bello",
+              "location": "El Salvador",
+              "details": "About 1 hour from the airport.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "hotel",
+              "name": "Hotel Finca Campo Bello",
+              "location": "El Salvador",
+              "details": "2 nights, breakfast included; coffee farm; Volcano Izalco view.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Dos Alas Restaurant",
+              "location": "El Salvador",
+              "details": "Espresso martini and burger.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Cafe Albania",
+              "location": "El Salvador",
+              "details": "Ziplining, bungee jumping, Rainbow Slide.",
+              "booking_link": null,
+              "price_hint": "$5-$20 per attraction (creator's words)"
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "El Tazumal (Mayan ruins)",
+              "location": "El Salvador",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Santa Teresa Hot Springs",
+              "location": "El Salvador",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "hotel",
+              "name": "Airbnb in Surf City (near Nawi Beach House)",
+              "location": "Surf City, El Salvador",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Nawi Beach House",
+              "location": "Surf City, El Salvador",
+              "details": "Lounging, horseback riding on the beach, massage; sunset views.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Bio lists ATL, Chicago, NYC."
+    },
+    {
+      "handle": "@twirlliketalia",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "One-day Chicago itinerary",
+          "destination": "Chicago, Illinois",
+          "country": "United States",
+          "days": 1,
+          "summary": "Talia's one-day Chicago itinerary, booked via the Go City Chicago Pass: Wrigley Building & Riverwalk, coffee at Buttercup, Millennium Park & the Bean, Willis Tower Skydeck, deep dish pizza at Pequod's, Hancock Observatory, Navy Pier & Ferris wheel, Milton Lee Olive Park, dinner at Tre Dita.",
+          "source_urls": [
+            "https://www.tiktok.com/@twirlliketalia/video/7602314024511999249"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Wrigley Building & Riverwalk",
+              "location": "Chicago, Illinois",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Buttercup",
+              "location": "Chicago, Illinois",
+              "details": "Coffee.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Millennium Park & the Bean",
+              "location": "Chicago, Illinois",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Willis Tower Skydeck",
+              "location": "Chicago, Illinois",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Pequod's",
+              "location": "Chicago, Illinois",
+              "details": "Deep dish pizza.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Hancock Observatory",
+              "location": "Chicago, Illinois",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Navy Pier & Ferris wheel",
+              "location": "Chicago, Illinois",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Milton Lee Olive Park",
+              "location": "Chicago, Illinois",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Tre Dita",
+              "location": "Chicago, Illinois",
+              "details": "Dinner.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Creator states she is based in San Diego, California."
+    },
+    {
+      "handle": "@christian.the.creative",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "4-day October Olympic National Park itinerary",
+          "destination": "Olympic National Park, Washington",
+          "country": "United States",
+          "days": 4,
+          "summary": "Christian's 4-day October Olympic National Park itinerary. Day 1: Hurricane Ridge + secret trail (ask Sydney). Day 2: Lake Crescent, Marymere Falls, Sol Duc Falls (Salmon Cascades later in October). Day 3: Hoh Rain Forest - Hall of Mosses, Spruce Nature Trail, Hoh River Trail. Day 4: Rialto Beach, Hole-in-the-Wall (tides permitting), Forks. Stay: Maitland Manor in Port Angeles.",
+          "source_urls": [
+            "https://urlebird.com/video/full-october-olympic-national-park-itinerary-if-youre-planning-7680272896685575438/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "hotel",
+              "name": "Maitland Manor",
+              "location": "Port Angeles, Washington",
+              "details": "Stay; breakfast/grab-and-go; ask Sydney about the secret trail.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Hurricane Ridge + secret trail",
+              "location": "Olympic National Park, Washington",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Lake Crescent",
+              "location": "Olympic National Park, Washington",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Marymere Falls",
+              "location": "Olympic National Park, Washington",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Sol Duc Falls",
+              "location": "Olympic National Park, Washington",
+              "details": "Salmon Cascades later in October.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Hoh Rain Forest trails",
+              "location": "Olympic National Park, Washington",
+              "details": "Hall of Mosses, Spruce Nature Trail, Hoh River Trail.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Rialto Beach",
+              "location": "Olympic National Park, Washington",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Hole-in-the-Wall",
+              "location": "Olympic National Park, Washington",
+              "details": "Tides permitting.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Forks",
+              "location": "Forks, Washington",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Bio states Los Angeles."
+    },
+    {
+      "handle": "@skylietravels",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "5-day Scotland itinerary (under $1,000)",
+          "destination": "Scotland",
+          "country": "United Kingdom",
+          "days": 5,
+          "summary": "Skylietravels' 5-day Scotland itinerary for less than $1,000: Edinburgh to the Isle of Skye. The day-by-day detail is presented in-video; the caption text names only the endpoints, duration, and budget.",
+          "source_urls": [
+            "https://urlebird.com/video/steal-my-5-day-scotland-itinerary-for-less-than-1000-this-was-t-7685861774561791263/"
+          ],
+          "confidence": "low",
+          "items": []
+        }
+      ],
+      "notes": "Base not independently established; North America lane widened for this row. Day-by-day detail is in-video; no item-level claims made."
+    },
+    {
+      "handle": "@detouristahq",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Bangkok itinerary (6 days, 2026 prices)",
+          "destination": "Bangkok, Thailand",
+          "country": "Thailand",
+          "days": 6,
+          "summary": "Marcos' 6-day Bangkok/Thailand itinerary with 2026 prices in Thai baht. Day 1 (Bangkok Old City): Wat Arun, Grand Palace, Wat Pho Reclining Buddha, Museum Siam, sunset Wat Arun view, Wat Pho Pier + Soi Tha Suphan, Tyme Rooftop, ICONSIAM. Day 2 (Siam, Mahanakhon & river cruise): Pratunam Market, Platinum Mall, LV Cafe, Siam Paragon, Gourmet Eats, Bangkok Art & Culture Centre / Jim Thompson House, Mahanakhon Skywalk, Chao Phraya River Cruise at sunset. Day 3 (Ancient City + Chinatown). Day 4 (Pattaya day tour). Day 5 (Ayutthaya day tour). Day 6 (floating + train market).",
+          "source_urls": [
+            "https://www.tiktok.com/@detouristahq/video/7618152560796486933"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Wat Arun",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿200 + costume rental ฿200 (creator's words)"
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Grand Palace",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿500 (creator's words)"
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Wat Pho Reclining Buddha",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿300 (creator's words)"
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Museum Siam",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿100 (creator's words)"
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Sunset Wat Arun view",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Wat Pho Pier + Soi Tha Suphan",
+              "location": "Bangkok, Thailand",
+              "details": "Free.",
+              "booking_link": null,
+              "price_hint": "free"
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Tyme Rooftop",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿1.4K/table consumable (creator's words)"
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "ICONSIAM",
+              "location": "Bangkok, Thailand",
+              "details": "Free.",
+              "booking_link": null,
+              "price_hint": "free"
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Pratunam Market",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Platinum Mall",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "restaurant",
+              "name": "LV Cafe",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Siam Paragon",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "restaurant",
+              "name": "Gourmet Eats",
+              "location": "Bangkok, Thailand",
+              "details": "Lunch.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Bangkok Art & Culture Centre / Jim Thompson House",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿250 (creator's words)"
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Mahanakhon Skywalk",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Chao Phraya River Cruise (sunset)",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿800 (creator's words)"
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Ancient City + Erawan Museum",
+              "location": "Samut Prakan, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿600 combo (creator's words)"
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Chinatown",
+              "location": "Bangkok, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Pattaya day tour: Sanctuary of Truth, Jomtien Beach, Khao Chi Chan Buddha, Nongnooch Pattaya Garden",
+              "location": "Pattaya, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "Sanctuary of Truth ฿450; Nongnooch ฿380 (creator's words)"
+            },
+            {
+              "day": 4,
+              "item_type": "transport",
+              "name": "Pattaya transport",
+              "location": "Pattaya, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿3.9K/car (creator's words)"
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Ayutthaya day tour: Bang Pa-In Palace, Wat Chaiwatthanaram, Wat Phra Si Sanphet, Wat Mahathat, Wat Chai Mongkhon",
+              "location": "Ayutthaya, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "Bang Pa-In ฿100; Wat Chaiwatthanaram ฿50; Wat Phra Si Sanphet ฿50; Wat Mahathat ฿50; Wat Chai Mongkhon ฿40 (creator's words)"
+            },
+            {
+              "day": 5,
+              "item_type": "transport",
+              "name": "Ayutthaya join-in tour",
+              "location": "Ayutthaya, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿1.5K (creator's words)"
+            },
+            {
+              "day": 6,
+              "item_type": "activity",
+              "name": "Maeklong Railway Market",
+              "location": "Samut Songkhram, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "item_type": "activity",
+              "name": "Damnoen Saduak Floating Market",
+              "location": "Ratchaburi, Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "item_type": "transport",
+              "name": "Floating/train market join-in tour",
+              "location": "Thailand",
+              "details": "",
+              "booking_link": null,
+              "price_hint": "฿840 (creator's words)"
+            }
+          ]
+        }
+      ],
+      "notes": "Lane widened: creator appears Philippines-based."
+    }
+  ]
+}

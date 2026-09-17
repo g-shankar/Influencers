@@ -1,0 +1,682 @@
+[
+ {
+  "batch": 5,
+  "handle": "@detouristahq",
+  "platform": "tiktok",
+  "title": "Bangkok itinerary (6 days, 2026 prices)",
+  "destination": "Bangkok, Thailand",
+  "country": "Thailand",
+  "days": 6,
+  "summary": "Marcos' 6-day Bangkok/Thailand itinerary with 2026 prices in Thai baht. Day 1 (Bangkok Old City): Wat Arun, Grand Palace, Wat Pho Reclining Buddha, Museum Siam, sunset Wat Arun view, Wat Pho Pier + Soi Tha Suphan, Tyme Rooftop, ICONSIAM. Day 2 (Siam, Mahanakhon & river cruise): Pratunam Market, Platinum Mall, LV Cafe, Siam Paragon, Gourmet Eats, Bangkok Art & Culture Centre / Jim Thompson House, Mahanakhon Skywalk, Chao Phraya River Cruise at sunset. Day 3 (Ancient City + Chinatown). Day 4 (Pattaya day tour). Day 5 (Ayutthaya day tour). Day 6 (floating + train market).",
+  "confidence": "high",
+  "source_urls": [
+   "https://www.tiktok.com/@detouristahq/video/7618152560796486933"
+  ],
+  "items": [
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Wat Arun",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿200 + costume rental ฿200 (creator's words)"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Grand Palace",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿500 (creator's words)"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Wat Pho Reclining Buddha",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿300 (creator's words)"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Museum Siam",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿100 (creator's words)"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Sunset Wat Arun view",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Wat Pho Pier + Soi Tha Suphan",
+    "location": "Bangkok, Thailand",
+    "details": "Free.",
+    "booking_link": null,
+    "price_hint": "free"
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Tyme Rooftop",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿1.4K/table consumable (creator's words)"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "ICONSIAM",
+    "location": "Bangkok, Thailand",
+    "details": "Free.",
+    "booking_link": null,
+    "price_hint": "free"
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Pratunam Market",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Platinum Mall",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "restaurant",
+    "name": "LV Cafe",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Siam Paragon",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "restaurant",
+    "name": "Gourmet Eats",
+    "location": "Bangkok, Thailand",
+    "details": "Lunch.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Bangkok Art & Culture Centre / Jim Thompson House",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿250 (creator's words)"
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Mahanakhon Skywalk",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Chao Phraya River Cruise (sunset)",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿800 (creator's words)"
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Ancient City + Erawan Museum",
+    "location": "Samut Prakan, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿600 combo (creator's words)"
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Chinatown",
+    "location": "Bangkok, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Pattaya day tour: Sanctuary of Truth, Jomtien Beach, Khao Chi Chan Buddha, Nongnooch Pattaya Garden",
+    "location": "Pattaya, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "Sanctuary of Truth ฿450; Nongnooch ฿380 (creator's words)"
+   },
+   {
+    "day": 4,
+    "item_type": "transport",
+    "name": "Pattaya transport",
+    "location": "Pattaya, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿3.9K/car (creator's words)"
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Ayutthaya day tour: Bang Pa-In Palace, Wat Chaiwatthanaram, Wat Phra Si Sanphet, Wat Mahathat, Wat Chai Mongkhon",
+    "location": "Ayutthaya, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "Bang Pa-In ฿100; Wat Chaiwatthanaram ฿50; Wat Phra Si Sanphet ฿50; Wat Mahathat ฿50; Wat Chai Mongkhon ฿40 (creator's words)"
+   },
+   {
+    "day": 5,
+    "item_type": "transport",
+    "name": "Ayutthaya join-in tour",
+    "location": "Ayutthaya, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿1.5K (creator's words)"
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Maeklong Railway Market",
+    "location": "Samut Songkhram, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Damnoen Saduak Floating Market",
+    "location": "Ratchaburi, Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "transport",
+    "name": "Floating/train market join-in tour",
+    "location": "Thailand",
+    "details": "",
+    "booking_link": null,
+    "price_hint": "฿840 (creator's words)"
+   }
+  ]
+ },
+ {
+  "batch": 5,
+  "handle": "@vitortrip",
+  "platform": "tiktok",
+  "title": "Athens 2026: 3-Day Guide",
+  "destination": "Athens, Greece",
+  "country": "Greece",
+  "days": 3,
+  "summary": "Three-day Athens guide positioned for 2026 with local-style logistics per day.",
+  "confidence": "high",
+  "source_urls": [
+   "https://www.tiktok.com/@vitortrip/photo/7604583232327175446"
+  ],
+  "items": [
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "The Classics",
+    "location": "Athens",
+    "details": "Acropolis early (enter via South Slope gate near Metro to skip tour groups); lunch at Scholarhio in Plaka (18-dish tray, point at what you want); Anafiotika (quiet residential, keep volume down); sunset at Philopappos Hill (bring wine and a blanket)",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Market and views",
+    "location": "Athens",
+    "details": "Ancient Agora (Temple of Hephaestus, better preserved than Parthenon, less crowded); street art in Psyri ('Little Kook' cafe); Monastiraki Flea Market (watch pockets); Mount Lycabettus (walk free or EUR10 funicular)",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "History and chill",
+    "location": "Athens",
+    "details": "National Archaeological Museum; Guard Change at Syntagma; National Garden; columns of Olympian Zeus; run a lap at the Panathenaic Stadium; Acropolis Museum 2nd-floor restaurant for Parthenon views",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 5,
+  "handle": "@skylietravels",
+  "platform": "tiktok",
+  "title": "5-day Scotland itinerary (under $1,000)",
+  "destination": "Scotland",
+  "country": "United Kingdom",
+  "days": 5,
+  "summary": "Skylietravels' 5-day Scotland itinerary for less than $1,000: Edinburgh to the Isle of Skye. The day-by-day detail is presented in-video; the caption text names only the endpoints, duration, and budget.",
+  "confidence": "low",
+  "source_urls": [
+   "https://urlebird.com/video/steal-my-5-day-scotland-itinerary-for-less-than-1000-this-was-t-7685861774561791263/",
+   "https://www.tiktok.com/@skylietravels/video/7685861774561791263"
+  ],
+  "items": []
+ },
+ {
+  "batch": 5,
+  "handle": "@lilmsawkward",
+  "platform": "tiktok",
+  "title": "African diaspora cultural experiences guide",
+  "destination": "Hopkins, Belize",
+  "country": "Belize",
+  "days": null,
+  "summary": "Alexa's cultural-experience guide for African diaspora travel: the Garifuna Cultural Experience with Palmento Grove at the Kalipuna Cultural Heritage Site in Hopkins, Belize; tours in Salvador de Bahia, Brazil with YourTourBrazil (guides Wilson and Monia); and a tour in San Basilio de Palenque with Paletur Minikusuto.",
+  "confidence": "medium",
+  "source_urls": [
+   "https://urlebird.com/video/the-experiences-i-had-and-how-you-can-do-the-same-hopkins-beli-7682824671422647582/",
+   "https://www.tiktok.com/@lilmsawkward/video/7682824671422647582"
+  ],
+  "items": [
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Garifuna Cultural Experience",
+    "location": "Kalipuna Cultural Heritage Site, Hopkins, Belize",
+    "details": "Booked via Palmento Grove (@palmentogrovebelize).",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Tour with YourTourBrazil",
+    "location": "Salvador de Bahia, Brazil",
+    "details": "Guides Wilson and Monia.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Tour with Paletur Minikusuto",
+    "location": "San Basilio de Palenque",
+    "details": "",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 6,
+  "handle": "@chloejadetravels",
+  "platform": "tiktok",
+  "title": "Mali travel guide",
+  "destination": "Mali",
+  "country": "Mali",
+  "days": null,
+  "summary": "Structured Mali guide (overview, visa tips, things to do, Bamako, Niger River), published 2024-10-09 (verified 2026-09-16).",
+  "confidence": "high",
+  "source_urls": [
+   "https://www.chloejade.co/post/travel-to-mali-during-a-coup"
+  ],
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Things to do in Mali",
+    "location": "Mali",
+    "details": "Guide section",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Discover Bamako",
+    "location": "Bamako",
+    "details": "Guide section",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Experience the Niger River",
+    "location": "Niger River",
+    "details": "Guide section",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "How to get a Mali visa",
+    "location": "Mali",
+    "details": "Guide section with tips",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 6,
+  "handle": "@polkadotpassport",
+  "platform": "tiktok",
+  "title": "London travel & food guides (creator series)",
+  "destination": "London",
+  "country": "United Kingdom",
+  "days": null,
+  "summary": "London-based travel & food creator Nicola; browser verification 2026-09-16 passed content fit.",
+  "confidence": "medium",
+  "source_urls": [
+   "https://urlebird.com/user/polkadotpassport/",
+   "https://www.tiktok.com/@polkadotpassport/"
+  ],
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Travel & food guide posts",
+    "location": "London",
+    "details": "Per browser verification 2026-09-16",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 7,
+  "handle": "@boyeatsworld",
+  "platform": "instagram",
+  "title": "48 Hours in Busan with Kids",
+  "destination": "Busan",
+  "country": "South Korea",
+  "days": 2,
+  "summary": "Creator-authored 48-hour Busan itinerary with kids, published 2026-02-23. Explicit Day One and Day Two with sequenced stops.",
+  "confidence": "high",
+  "source_urls": [
+   "https://boyeatsworld.com.au/48-hours-in-busan-with-kids/"
+  ],
+  "items": []
+ },
+ {
+  "batch": 7,
+  "handle": "@the5worldexplorers",
+  "platform": "instagram",
+  "title": "5 Days in Hong Kong",
+  "destination": "Hong Kong",
+  "country": "China",
+  "days": 5,
+  "summary": "Creator-authored 5-day Hong Kong itinerary, published 2025-04-12 (modified 2026-09-07). Explicit Days 1-5.",
+  "confidence": "high",
+  "source_urls": [
+   "https://www.the5worldexplorers.com/5-days-in-hong-kong/"
+  ],
+  "items": []
+ },
+ {
+  "batch": 7,
+  "handle": "@aakanksha.monga",
+  "platform": "instagram",
+  "title": "Planning Tokyo trip: follow this easy itinerary",
+  "destination": "Tokyo",
+  "country": "Japan",
+  "days": null,
+  "summary": "Creator-attributed 3-5 day Tokyo plan summarized in the editorial: travel basics and timing, etiquette, smart commuting, central neighbourhoods and food, cultural landmarks and temples, shopping districts and modern attractions.",
+  "confidence": "medium",
+  "source_urls": [
+   "https://www.whosthat360.com/travel/planning-tokyo-trip-follow-this-easy-itinerary-by-aakanksha-monga-11690742"
+  ],
+  "items": [
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Travel basics and planning",
+    "location": "Tokyo",
+    "details": "Section of her Tokyo plan.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Cultural etiquette",
+    "location": "Tokyo",
+    "details": "Section of her Tokyo plan.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Smart commuting",
+    "location": "Tokyo",
+    "details": "Section of her Tokyo plan.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Ideal travel timing",
+    "location": "Tokyo",
+    "details": "Section of her Tokyo plan.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Central neighbourhoods and food",
+    "location": "Tokyo",
+    "details": "Section of her Tokyo plan.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Cultural landmarks and temples",
+    "location": "Tokyo",
+    "details": "Section of her Tokyo plan.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Shopping districts",
+    "location": "Tokyo",
+    "details": "Section of her Tokyo plan.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Modern attractions",
+    "location": "Tokyo",
+    "details": "Section of her Tokyo plan.",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 8,
+  "handle": "@emilyeatsandexplores",
+  "platform": "instagram",
+  "title": "Costa Rica with Emily Cooper — 7 days",
+  "destination": "Costa Rica",
+  "country": "Costa Rica",
+  "days": 7,
+  "summary": "Emily Cooper's hosted 7-day Costa Rica group trip (TrovaTrip, July 14–20, 2024): Arenal volcano hike and hot springs, Tenorio option, Selvatura hanging bridges, rainforest night walk, zipline — with named hotels, transfers and meals. Trip predates the 2024-09-16 content-fit cutoff, so it is extracted for the DB but not used as content-fit evidence.",
+  "confidence": "high",
+  "source_urls": [
+   "https://trovatrip.com/trip/central-america/costa-rica/costa-rica-with-emily-cooper-jul-2024"
+  ],
+  "items": [
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Arrival hotel",
+    "location": "Costa Rica",
+    "details": "Group trip arrival; transfers included.",
+    "booking_link": "https://trovatrip.com/trip/central-america/costa-rica/costa-rica-with-emily-cooper-jul-2024",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Arenal volcano hike",
+    "location": "La Fortuna, Costa Rica",
+    "details": "Guided Arenal hike.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Hot springs",
+    "location": "La Fortuna, Costa Rica",
+    "details": "Hot springs visit.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Tenorio (optional)",
+    "location": "Tenorio Volcano National Park, Costa Rica",
+    "details": "Optional Tenorio excursion.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Selvatura hanging bridges",
+    "location": "Monteverde, Costa Rica",
+    "details": "Hanging bridges walk.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Rainforest night walk + zipline",
+    "location": "Monteverde, Costa Rica",
+    "details": "Night walk and zipline.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "transport",
+    "name": "Departure transfers",
+    "location": "Costa Rica",
+    "details": "Group trip departure transfers.",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ },
+ {
+  "batch": 8,
+  "handle": "@travelforphoebe",
+  "platform": "instagram",
+  "title": "2-day Mount Fuji itinerary",
+  "destination": "Mount Fuji",
+  "country": "Japan",
+  "days": 2,
+  "summary": "Phoebe Lee's own 2-day Mount Fuji itinerary (updated ~May 2025): shrine visits, a guided one-day tour of the iconic viewpoints, the World Heritage Centre and Shiraito Falls, with her Klook discount code for tour bookings. Stops are listed as published by the creator and not day-labeled, so day=null.",
+  "confidence": "medium",
+  "source_urls": [
+   "https://travelforphoebe.com/the-best-2-day-itinerary-on-mount-fuji/"
+  ],
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Yamamiya Sengen Shrine",
+    "location": "Mount Fuji, Japan",
+    "details": "One of the oldest shrines connected to Mount Fuji; open-air altar that faces the mountain directly.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Fujisan Hongu Sengen Taisha",
+    "location": "Mount Fuji, Japan",
+    "details": "Must-stop shrine; peaceful, full of history, with a pond with views of the mountain.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "One-day tour: Arakurayama Sengen Park, Oshino Hakkai, Lawson viewpoint",
+    "location": "Mount Fuji, Japan",
+    "details": "Guided one-day tour covering Arakurayama Sengen Park, Oshino Hakkai and the famous Lawson with Fuji in the background; seasonal cherry blossoms or autumn leaves; bookable with her Klook discount code TRAVELFORPHOEBEKLOOK.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Mt. Fuji World Heritage Centre",
+    "location": "Mount Fuji, Japan",
+    "details": "Modern, interactive museum about Mount Fuji with an observation deck with mountain views.",
+    "booking_link": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Shiraito Falls",
+    "location": "Mount Fuji, Japan",
+    "details": "Listed stop on her 2-day Mount Fuji itinerary.",
+    "booking_link": null,
+    "price_hint": null
+   }
+  ]
+ }
+]

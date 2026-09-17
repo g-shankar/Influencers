@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "batches": {
+    "5": {
+      "batch": 5,
+      "rows": 25,
+      "included": 25,
+      "non_passing": []
+    },
+    "6": {
+      "batch": 6,
+      "rows": 25,
+      "included": 25,
+      "non_passing": []
+    },
+    "7": {
+      "batch": 7,
+      "rows": 25,
+      "included": 25,
+      "non_passing": []
+    },
+    "8": {
+      "batch": 8,
+      "rows": 25,
+      "included": 25,
+      "non_passing": []
+    }
+  },
+  "errors": [],
+  "warnings": []
+}

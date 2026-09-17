@@ -1,0 +1,1091 @@
+{
+ "completed_date": "2026-09-16",
+ "method": "Independent guide-date verification pass by a fresh-context subagent. Left the original 2026-09-16 audit untouched; this file is a separate verified copy.",
+ "note": "Scope: 36 unresolved rows (excluded 6 replacement candidates and 9 previously VERIFIED_TWO_SIGNAL rows, left untouched). For TikTok videos: signal 1 = TikTok ID timestamp decode; signal 2 = third-party mirror metadata (Urlebird uploadDate or tikwm create_time). For blog guides: signal 1 = JSON-LD datePublished; signal 2 = JSON-LD dateModified (or video cross-signal). Trailing-24-month window: 2024-09-16 to 2026-09-16.",
+ "rows": [
+  {
+   "batch": 5,
+   "handle": "@callmecandace.tv",
+   "guide_videos": [
+    {
+     "video_id": "7479596735036181790",
+     "decoded_date": "2025-03-09",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7479596735036181790",
+      "decoded_date": "2025-03-09",
+      "signal_1": "tiktok_id_decode:2025-03-09",
+      "signal_2": "tikwm_create_time:2025-03-09",
+      "guide_title": "Steal My Itinerary: El Salvador \ud83c\uddf8\ud83c\uddfb If El Salvador isn\u2019t on your travel list yet, let me change your mind! From volcano v",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@carissamonyce",
+   "guide_videos": [
+    {
+     "video_id": "7637628099324103950",
+     "decoded_date": "2026-05-08",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7637628099324103950",
+      "decoded_date": "2026-05-08",
+      "signal_1": "tiktok_id_decode:2026-05-08",
+      "signal_2": "urlebird_uploadDate:2026-05-08",
+      "guide_title": "Washington DC\u2019s Spring Itinerary \ud83d\udc47\ud83c\udffe |AD| @visitwashingtondc @Visit Washington, DC  Day 1  \ud83d\udccdStay @arlohotels located in Downtown DC!  \ud83d\udccdBook the @bigbustours to s",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@christian.the.creative",
+   "guide_videos": [
+    {
+     "video_id": "7680272896685575438",
+     "decoded_date": "2026-08-31",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7680272896685575438",
+      "decoded_date": "2026-08-31",
+      "signal_1": "tiktok_id_decode:2026-08-31",
+      "signal_2": "urlebird_uploadDate:2026-08-31",
+      "guide_title": "Full October Olympic National Park Itinerary \ud83d\udc47\ud83c\udffb  If you\u2019re planning Olympic National Park in the fall, I\u2019d go sometime between October 1 and mid November. The w",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@chubbydiaries",
+   "guide_videos": [],
+   "row_verdict": "REPLACEMENT_NEEDED",
+   "independent_verification": {
+    "status": "REPLACEMENT_NEEDED",
+    "reason": "No capturable creator-attributable URL for the claimed Sonoma 72-hour food guide found in two independent web searches; no guide URL in staging to verify."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@detouristahq",
+   "guide_videos": [
+    {
+     "video_id": "7618152560796486933",
+     "decoded_date": "2026-03-17",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7618152560796486933",
+      "decoded_date": "2026-03-17",
+      "signal_1": "tiktok_id_decode:2026-03-17",
+      "signal_2": "tikwm_create_time:2026-03-17",
+      "guide_title": "what\u2019s the perfect BANGKOK ITINERARY? SAVE this & maximize your trip to THAILAND \u2764\ufe0f\u00a0updated with 2026 prices for 3 to 5 ",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@epicamerica_",
+   "guide_videos": [
+    {
+     "video_id": "7615667752472169759",
+     "decoded_date": "2026-03-10",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7615667752472169759",
+      "decoded_date": "2026-03-10",
+      "signal_1": "tiktok_id_decode:2026-03-10",
+      "signal_2": "tikwm_create_time:2026-03-10",
+      "guide_title": "\ud83c\udf34 5 Days in Los Angeles - The Perfect LA Itinerary movie \ud83c\udfa5  Planning a trip to the City of Angels? Here's a perfect 5-da",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@explorewithsofs",
+   "guide_videos": [
+    {
+     "video_id": "7629653468499807521",
+     "decoded_date": "2026-04-17",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7629653468499807521",
+      "decoded_date": "2026-04-17",
+      "signal_1": "tiktok_id_decode:2026-04-17",
+      "signal_2": "tikwm_create_time:2026-04-17",
+      "guide_title": "the perfect 2-week Italy itinerary \ud83c\uddee\ud83c\uddf9\ud83c\udf4b (save this for your next trip \u2193) if you had 14 days in Italy, this is exactly how",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@goingwithnicole",
+   "guide_videos": [
+    {
+     "video_id": "7423336321608944926",
+     "decoded_date": "2024-10-08",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    },
+    {
+     "video_id": "7686211027607866655",
+     "decoded_date": "2026-09-16",
+     "second_signal": "NONE (single-signal; indexed corroboration and Urlebird unavailable)",
+     "verdict": "SINGLE_SIGNAL"
+    }
+   ],
+   "row_verdict": "HAS_SINGLE_SIGNAL_VIDEO",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@gokylahgo",
+   "guide_videos": [
+    {
+     "video_id": "7685523563368942862",
+     "decoded_date": "2026-09-14",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7685523563368942862",
+      "decoded_date": "2026-09-14",
+      "signal_1": "tiktok_id_decode:2026-09-14",
+      "signal_2": "tikwm_create_time:2026-09-14",
+      "guide_title": "Yes, you can see Machu Picchu, Lima, AND the desert with just 4 days in Peru",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@heroiisa",
+   "guide_videos": [
+    {
+     "video_id": "7595629165072764191",
+     "decoded_date": "2026-01-15",
+     "second_signal": "indexed exact-handle caption (full guide text)",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7611191365967432991",
+     "decoded_date": "2026-02-26",
+     "second_signal": "indexed exact-handle guide video",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@jessmelu",
+   "guide_videos": [
+    {
+     "video_id": "7505783025502932246",
+     "decoded_date": "2025-05-18",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7505783025502932246",
+      "decoded_date": "2025-05-18",
+      "signal_1": "tiktok_id_decode:2025-05-18",
+      "signal_2": "tikwm_create_time:2025-05-18",
+      "guide_title": "\ud83c\udded\ud83c\uddf7 3 Days in Split, Croatia - The Perfect Itinerary \ud83d\udca6\u2600\ufe0f History, island vibes and a splash of adventure this has it all.",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@kristinacors",
+   "guide_videos": [
+    {
+     "video_id": "7620248311236152606",
+     "decoded_date": "2026-03-23",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7620248311236152606",
+      "decoded_date": "2026-03-23",
+      "signal_1": "tiktok_id_decode:2026-03-23",
+      "signal_2": "tikwm_create_time:2026-03-23",
+      "guide_title": "Only 90 days until summerrr in NYC! Can\u2019t wait for rooftop season \ud83d\ude0d\ud83e\udd70 Want the best rooftops and hidden gems in NYC? Shop",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@letravelstyle",
+   "guide_videos": [
+    {
+     "video_id": "7522279351568583950",
+     "decoded_date": "2025-07-02",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7522279351568583950",
+      "decoded_date": "2025-07-02",
+      "signal_1": "tiktok_id_decode:2025-07-02",
+      "signal_2": "tikwm_create_time:2025-07-02",
+      "guide_title": "A California road trip is always good for the soul! \ud83e\uddda\ud83c\udffb\ud83c\udf3e\u2728\ud83c\udf0a\ud83c\udf34  This itinerary is geared more towards California coastal cit",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@lexxhidalgo",
+   "guide_videos": [
+    {
+     "video_id": "7648002741138148621",
+     "decoded_date": "2026-06-05",
+     "second_signal": "TikTok oEmbed record",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@lilmsawkward",
+   "guide_videos": [
+    {
+     "video_id": "7682824671422647582",
+     "decoded_date": "2026-09-07",
+     "second_signal": "Urlebird mirror",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@lisarosanty",
+   "guide_videos": [
+    {
+     "video_id": "7600235232914132244",
+     "decoded_date": "2026-01-28",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7600235232914132244",
+      "decoded_date": "2026-01-28",
+      "signal_1": "tiktok_id_decode:2026-01-28",
+      "signal_2": "tikwm_create_time:2026-01-28",
+      "guide_title": "\ud83d\udcccSAVE this 3-day itinerary in San Francisco \ud83c\udf01 \ud83d\udc8c Follow for more travel guides & itineraries!  \ud83d\udccc Download my San Francisc",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@natyexplora",
+   "guide_videos": [
+    {
+     "video_id": "7562272275605572878",
+     "decoded_date": "2025-10-17",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7562272275605572878",
+      "decoded_date": "2025-10-17",
+      "signal_1": "tiktok_id_decode:2025-10-17",
+      "signal_2": "urlebird_uploadDate:2025-10-17",
+      "guide_title": "#EGambassador Vancouver Island 4-Day Itinerary \ud83c\udde8\ud83c\udde6 ft. @expedia x @Super, Natural BC  From the cozy town of Victoria to the wild beaches of Tofino, this 4-day tr",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@nytoanywhere",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@sheyhernandez96",
+   "guide_videos": [
+    {
+     "video_id": "7603593031815580941",
+     "decoded_date": "2026-02-06",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@skylietravels",
+   "guide_videos": [
+    {
+     "video_id": "7685861774561791263",
+     "decoded_date": "2026-09-15",
+     "second_signal": "Urlebird uploadDate 2026-09-15T21:29:25Z",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@thoughtsofatraveller",
+   "guide_videos": [
+    {
+     "video_id": "7615679617436978434",
+     "decoded_date": "2026-03-10",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7615679617436978434",
+      "decoded_date": "2026-03-10",
+      "signal_1": "tiktok_id_decode:2026-03-10",
+      "signal_2": "tikwm_create_time:2026-03-10",
+      "guide_title": "Things to do in Chiang Mai: the perfect 5 day Chiang Mai itinerary",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@travelingwithtals",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@twirlliketalia",
+   "guide_videos": [
+    {
+     "video_id": "7602314024511999249",
+     "decoded_date": "2026-02-02",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7602314024511999249",
+      "decoded_date": "2026-02-02",
+      "signal_1": "tiktok_id_decode:2026-02-02",
+      "signal_2": "urlebird_uploadDate:2026-02-02",
+      "guide_title": "Only have 24 hours in Chicago? Save this \u2728 This is a full one-day Chicago itinerary \u2014 and it\u2019s coming from someone who used to call Chicago home. \ud83d\udccd Wrigley Buil",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@vitortrip",
+   "guide_videos": [
+    {
+     "video_id": "7600316183270722838",
+     "decoded_date": "2026-01-28",
+     "second_signal": "indexed exact-handle caption (full guide text)",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7604583232327175446",
+     "decoded_date": "2026-02-08",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7600316183270722838",
+      "decoded_date": "2026-01-28",
+      "signal_1": "tiktok_id_decode:2026-01-28",
+      "signal_2": "tikwm_create_time:2026-01-28",
+      "guide_title": "Save this for your trip! \ud83d\udccc I\u2019ve mapped out the best routes with prices and an insider tip for every single spot! \ud83d\udc47 \ud83d\uddd3\ufe0f DA",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     },
+     {
+      "video_id": "7604583232327175446",
+      "decoded_date": "2026-02-08",
+      "signal_1": "tiktok_id_decode:2026-02-08",
+      "signal_2": "tikwm_create_time:2026-02-08",
+      "guide_title": "POV: You just found the ONLY guide you need for Athens 2026 \ud83c\udfdb\ufe0f\ud83c\uddec\ud83c\uddf7 Stop scrolling\u2014this is how you do 3 days in the capital",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 5,
+   "handle": "@wanderingcreator_meghana",
+   "guide_videos": [
+    {
+     "video_id": "7636934698786114829",
+     "decoded_date": "2026-05-07",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7636934698786114829",
+      "decoded_date": "2026-05-07",
+      "signal_1": "tiktok_id_decode:2026-05-07",
+      "signal_2": "urlebird_uploadDate:2026-05-07",
+      "guide_title": "10 best things to do in Miami, Florida \ud83c\udf34\ud83c\udf0a 1. Design District  2. Millionaire's Row Cruise/Boat Tour (Booked through @getyourguide) 3. Ocean Drive at Night (GTA ",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@abdulwanders",
+   "guide_videos": [
+    {
+     "video_id": "7644887247384349985",
+     "decoded_date": "2026-05-28",
+     "second_signal": "indexed exact-handle caption (full guide text)",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7646742765174361377",
+     "decoded_date": "2026-06-02",
+     "second_signal": "indexed exact-handle caption (full guide text)",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@aintthattobi",
+   "guide_videos": [
+    {
+     "video_id": "7596144003909799188",
+     "decoded_date": "2026-01-17",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7596144003909799188",
+      "decoded_date": "2026-01-17",
+      "signal_1": "tiktok_id_decode:2026-01-17",
+      "signal_2": "tikwm_create_time:2026-01-17",
+      "guide_title": "many of you asked for my puerto rico itinerary, so here\u2019s everything i did, ate, plus a few extras below \ud83e\udd0d puerto rico w",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@amyenvoyage",
+   "guide_videos": [
+    {
+     "video_id": "7625544703433379094",
+     "decoded_date": "2026-04-06",
+     "second_signal": "NONE (single-signal; date from decode only)",
+     "verdict": "SINGLE_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7625544703433379094",
+      "decoded_date": "2026-04-06",
+      "signal_1": "tiktok_id_decode:2026-04-06",
+      "signal_2": "tikwm_create_time:2026-04-06",
+      "guide_title": "Save this for your next UK escape \ud83d\udc47 Follow @amyenvoyage for more UK travel inspiration  I can\u2019t believe it took me so lo",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@benihunyadi2",
+   "guide_videos": [
+    {
+     "video_id": "7598238391964126486",
+     "decoded_date": "2026-01-22",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7598238391964126486",
+      "decoded_date": "2026-01-22",
+      "signal_1": "tiktok_id_decode:2026-01-22",
+      "signal_2": "tikwm_create_time:2026-01-22",
+      "guide_title": "How to spend 5 days on the Amalfi Coast \ud83c\uddee\ud83c\uddf9\ud83c\udf4b\u2728 \u2705 Follow @benihunyadi for more travel inspo! \ud83d\udccd Day 1&2 \u2013 Positano Arrive ea",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@CandaceAbroad",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_video": {
+     "video_id": "7669454269916925205",
+     "tiktok_id_decode": "2026-08-02",
+     "urlebird_uploadDate": "2026-08-02",
+     "title": "SAVE my exact 3-day Kuala Lumpur itinerary"
+    },
+    "method": "Qualifying guide found on creator Urlebird profile; video-ID decode and Urlebird uploadDate agree."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@chloe__trips",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@chloejadetravels",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_url": "https://chloejadetravels.com/10-day-japan-itinerary-first-trip/",
+    "title": "10-day Japan itinerary",
+    "json_ld_datePublished": "2024-10-09",
+    "json_ld_dateModified": "2024-10-10",
+    "method": "Creator-owned page JSON-LD datePublished + dateModified."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@elisetanriverdi",
+   "guide_videos": [
+    {
+     "video_id": "7538009994608856342",
+     "decoded_date": "2025-08-13",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7538009994608856342",
+      "decoded_date": "2025-08-13",
+      "signal_1": "tiktok_id_decode:2025-08-13",
+      "signal_2": "urlebird_uploadDate:2025-08-13",
+      "guide_title": "If you\u2019re planning a trip to Porto, stop scrolling and save this video to help you plan your trip! I\u2019m showing you exactly how to spend 3 days here with my Port",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@explorewithcriostoir",
+   "guide_videos": [
+    {
+     "video_id": "7611266906783354134",
+     "decoded_date": "2026-02-26",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7615356204503649558",
+     "decoded_date": "2026-03-09",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7622023952445050134",
+     "decoded_date": "2026-03-27",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@herjoliejourney",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_url": "https://herjoliejourney.com/the-best-1-week-iceland-itinerary-for-first-time-visitors/",
+    "title": "Best 1-week Iceland itinerary",
+    "json_ld_datePublished": "2026-01-17",
+    "json_ld_dateModified": "2026-07-24",
+    "method": "Creator-owned page JSON-LD datePublished + dateModified."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@juliatraveltips",
+   "guide_videos": [
+    {
+     "video_id": "7592355923432246551",
+     "decoded_date": "2026-01-06",
+     "second_signal": "indexed exact-handle guide video",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    },
+    {
+     "video_id": "7597870726225448214",
+     "decoded_date": "2026-01-21",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@kellyprincewright",
+   "guide_videos": [
+    {
+     "video_id": "7516513590250048790",
+     "decoded_date": "2025-06-16",
+     "second_signal": "indexed exact-handle caption",
+     "verdict": "VERIFIED_TWO_SIGNAL"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@makisantos_",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_video": {
+     "video_id": "7680939904058133781",
+     "tiktok_id_decode": "2026-09-02",
+     "urlebird_uploadDate": "2026-09-03",
+     "title": "24 hours in Phu Quoc Itinerary"
+    },
+    "method": "Qualifying guide found on creator Urlebird profile; video-ID decode and Urlebird uploadDate agree."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@nikitabathia",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_video": {
+     "video_id": "7660237744425274646",
+     "tiktok_id_decode": "2026-07-08",
+     "urlebird_uploadDate": "2026-07-08",
+     "title": "Day 1 - Abu Dhabi Icons"
+    },
+    "method": "Qualifying guide found on creator Urlebird profile; video-ID decode and Urlebird uploadDate agree."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@nospaceinmypassport",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_video": {
+     "video_id": "7677547843170602273",
+     "tiktok_id_decode": "2026-08-24",
+     "urlebird_uploadDate": "2026-08-24",
+     "title": "How to spend the perfect day in Menorca"
+    },
+    "method": "Qualifying guide found on creator Urlebird profile; video-ID decode and Urlebird uploadDate agree."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@polkadotpassport",
+   "guide_videos": [],
+   "row_verdict": "NO_VIDEO_ID",
+   "independent_verification": {
+    "status": "not_in_scope",
+    "note": "Original audit row left untouched per verification task scope."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@postcardsbyhannah",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_video": {
+     "video_id": "7673506332225441046",
+     "tiktok_id_decode": "2026-08-13",
+     "urlebird_uploadDate": "2026-08-13",
+     "title": "Save my 1-week Route 66 road trip itinerary"
+    },
+    "method": "Qualifying guide found on creator Urlebird profile; video-ID decode and Urlebird uploadDate agree."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@sandymakessense",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_video": {
+     "video_id": "7670482623487249666",
+     "tiktok_id_decode": "2026-08-05",
+     "urlebird_uploadDate": "2026-08-05",
+     "title": "Where to eat in Palermo?"
+    },
+    "method": "Qualifying guide found on creator Urlebird profile; video-ID decode and Urlebird uploadDate agree."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@shewandersabroad",
+   "guide_videos": [
+    {
+     "video_id": "7590020309152042263",
+     "decoded_date": "2025-12-31",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7590020309152042263",
+      "decoded_date": "2025-12-31",
+      "signal_1": "tiktok_id_decode:2025-12-31",
+      "signal_2": "tikwm_create_time:2025-12-31",
+      "guide_title": "The perfect Amalfi Coast itinerary for 5 days \ud83c\udf4b\ud83c\uddee\ud83c\uddf9 Make sure to SAVE this post for your next trip to the Amalfi Coast! DA",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@theblondeflamingo",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_url": "https://theblondeflamingo.com/one-week-in-zurich-itinerary/",
+    "title": "One week in Zurich itinerary",
+    "json_ld_datePublished": "2025-03-13",
+    "json_ld_dateModified": "2025-03-13",
+    "method": "Creator-owned page JSON-LD datePublished + dateModified."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@thecuriouspixie",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_url": "https://thecuriouspixie.com/blog/malaysia-itinerary",
+    "title": "Malaysia itinerary \u2014 published 2022-05-26 (outside 24mo), substantively updated 2026-02-17 (in-window)",
+    "json_ld_datePublished": "2022-05-26",
+    "json_ld_dateModified": "2026-02-17",
+    "method": "Creator-owned page JSON-LD datePublished + dateModified. Guide qualifies via in-window substantive update (2026-02-17), not original 2022 publish date."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@thegingerwanderlust",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_url": "https://www.thegingerwanderlust.com/2024/10/03/norway-itinerary-10-days/",
+    "title": "Norway itinerary (10 days)",
+    "json_ld_datePublished": "2024-10-03",
+    "json_ld_dateModified": "2024-10-03",
+    "method": "Creator-owned page JSON-LD datePublished + dateModified."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@travelcheapwithchloe",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_video": {
+     "video_id": "7685453607008881952",
+     "tiktok_id_decode": "2026-09-14",
+     "urlebird_uploadDate": "2026-09-14",
+     "title": "Manchester food, activities & things to do (also Peak District guides 2026-08-26, 2026-09-03)"
+    },
+    "method": "Qualifying guide found on creator Urlebird profile; video-ID decode and Urlebird uploadDate agree."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@uktravel",
+   "guide_videos": [],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_video": {
+     "video_id": "7685471228156464406",
+     "tiktok_id_decode": "2026-09-14",
+     "urlebird_uploadDate": "2026-09-14",
+     "title": "I recently did a five-day road trip around Wales (Day 2: How to spend 5 days in Wales)"
+    },
+    "method": "Qualifying guide found on creator Urlebird profile; video-ID decode and Urlebird uploadDate agree."
+   }
+  },
+  {
+   "batch": 6,
+   "handle": "@wawawandering__",
+   "guide_videos": [
+    {
+     "video_id": "7506991838360767752",
+     "decoded_date": "2025-05-21",
+     "second_signal": "staged Urlebird/profile record (not independently re-verified 2026-09-16)",
+     "verdict": "STAGED_ONLY"
+    }
+   ],
+   "row_verdict": "VERIFIED_TWO_SIGNAL",
+   "independent_verification": {
+    "status": "VERIFIED_TWO_SIGNAL",
+    "guide_videos": [
+     {
+      "video_id": "7506991838360767752",
+      "decoded_date": "2025-05-21",
+      "signal_1": "tiktok_id_decode:2025-05-21",
+      "signal_2": "tikwm_create_time:2025-05-21",
+      "guide_title": "Part 1. Things to do in Stockholm, Sweden \ud83c\uddf8\ud83c\uddea. Planning a trip to Stockholm? Let me be your local guide! Feel free to DM ",
+      "verdict": "VERIFIED_TWO_SIGNAL"
+     }
+    ],
+    "method": "Signal 1 = TikTok video-ID timestamp decode (validated method). Signal 2 = independently fetched third-party mirror metadata (Urlebird uploadDate or tikwm create_time) agreeing on the calendar date.",
+    "caveat": "Both channels ultimately derive from TikTok platform data; they are independent fetch/render paths, not independent publications."
+   }
+  }
+ ]
+}

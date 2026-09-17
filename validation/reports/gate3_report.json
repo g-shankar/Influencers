@@ -2,9 +2,9 @@
   "gate": 3,
   "name": "source liveness",
   "status": "PASS",
-  "itineraries_checked": 95,
-  "urls_checked": 105,
-  "urls_reachable": 90,
+  "itineraries_checked": 187,
+  "urls_checked": 220,
+  "urls_reachable": 193,
   "dead_itineraries": [],
   "overridden_script_false_negatives": [
     {
@@ -108,7 +108,7 @@
     {
       "batch": 2,
       "handle": "@wildweroam",
-      "title": "Two Weeks in Portugal (2016 Trip Fragments)",
+      "title": "Portugal trip fragments: Armona 2016 + Berlengas camping 2018",
       "verified_by_manual_browser_fetch": [
         "https://www.wildweroam.com/blog/2017/11/28/portugal",
         "https://www.wildweroam.com/blog/2018/09/27/camping-on-berlengas"
@@ -134,18 +134,6 @@
     {
       "batch": 4,
       "handle": "@themomtrotter",
-      "title": "Utah National Parks + Southwest RV Road Trip with Kids",
-      "verified_by_manual_browser_fetch": [
-        "https://themomtrotter.com/utah-national-parks-southwest-road-trip/"
-      ],
-      "script_statuses": {
-        "https://themomtrotter.com/utah-national-parks-southwest-road-trip/": null
-      },
-      "evidence_file": "validation/reports/gate3_override_evidence.json"
-    },
-    {
-      "batch": 4,
-      "handle": "@themomtrotter",
       "title": "St. Croix Family Itinerary",
       "verified_by_manual_browser_fetch": [
         "https://themomtrotter.com/things-to-do-in-st-croix/"
@@ -157,6 +145,16 @@
     }
   ],
   "url_results": {
+    "http://orlaghclaire.com/travel/a-9-day-road-trip-across-the-east-coast-of-america-travel-route/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "http://www.bigworldsmallpockets.com/montenegro-travel-guide/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "http://www.oneikathetraveller.com/south-africa-botswana-zambia-itinerary.html": {
       "status": 200,
       "error": null,
@@ -217,6 +215,11 @@
       "error": null,
       "reachable": true
     },
+    "https://claudiatravels.com/best-weekend-in-montreal/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://farfetch.com/me/style-guide/destination-style/travelling-to-taiwan-with-nataly-murad-osmann/": {
       "status": null,
       "error": "HTTPError: HTTP Error 403: Forbidden",
@@ -232,6 +235,11 @@
       "error": null,
       "reachable": true
     },
+    "https://fivefortheroad.com/london-paris-itinerary-with-kids/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://girlvsglobe.com/things-to-do-in-menorca/": {
       "status": null,
       "error": "RemoteDisconnected: Remote end closed connection without response",
@@ -242,12 +250,37 @@
       "error": "RemoteDisconnected: Remote end closed connection without response",
       "reachable": false
     },
+    "https://globetotting.com/three-days-in-amsterdam-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://heleneinbetween.com/2026/01/walking-the-cotswold-way-full-guide-everything-you-need-to-know.html": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://herjoliejourney.com/faroe-islands-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://holrmagazine.com/borneo-emmett-sparling/": {
       "status": 200,
       "error": null,
       "reachable": true
     },
+    "https://inditales.com/things-to-do-in-ooty-5-dat-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://info606777.wixsite.com/storyofsavannah/post/3-week-west-coast-usa-road-trip-hotel-itinerary": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://isharethese.com/nara-one-day-itinerary/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -267,6 +300,11 @@
       "error": null,
       "reachable": true
     },
+    "https://juliatraveltips.com/itineraries/new-york-city": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://karaandnate.com/italy-vespa-tour/": {
       "status": 200,
       "error": null,
@@ -282,7 +320,22 @@
       "error": null,
       "reachable": true
     },
+    "https://lalarebelo.com/belize/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://laxtoluxury.com/four-day-fall-foliage-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://letravelstyle.com/california-road-trip-itinerary-10-days/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://mailchi.mp/mumpacktravel/newsletter-11031411": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -302,12 +355,32 @@
       "error": null,
       "reachable": true
     },
+    "https://mletraveldiary.com/destinations/santa-barbara-day-trip-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://mumpacktrips.com.au/luxe-komodo-womens-adventure-2026-2027/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://neoreach.com/tiktok-travel/": {
       "status": 200,
       "error": null,
       "reachable": true
     },
     "https://nikkionherway.com/slovenia-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://nomllers.com/triund-trek-budget/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://outsidesuburbia.com/art/2-days-in-bern-a-slow-travel-guide-to-switzerlands-most-charming-capital/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -332,6 +405,11 @@
       "error": null,
       "reachable": true
     },
+    "https://shewandersabroad.com/5-day-amalfi-coast-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://simply-slow-traveler.com": {
       "status": 200,
       "error": null,
@@ -342,15 +420,35 @@
       "error": null,
       "reachable": true
     },
+    "https://the-shooting-star.com/perfect-3-day-goa-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://theblondeflamingo.com/top-things-to-do-in-sharjah-your-ultimate-guide/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://thecuriouspixie.com/colombia-travel-guide/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://thegingerwanderlust.com/2024/10/03/ultimate-norway-road-trip-itinerary-best-places-to-see-near-bergen/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://themomtrotter.com/things-to-do-in-st-croix/": {
       "status": null,
       "error": "HTTPError: HTTP Error 503: Service Unavailable",
       "reachable": false
     },
     "https://themomtrotter.com/utah-national-parks-southwest-road-trip/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://theplanetd.com/3-days-in-istanbul-itinerary/": {
       "status": 200,
@@ -377,6 +475,121 @@
       "error": null,
       "reachable": true
     },
+    "https://thrillingtravel.in/things-to-do-in-seville-spain.html": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://tinboxtraveller.co.uk/a-day-trip-from-lake-garda-to-venice-with-kids/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://travelbabbo.com/six-asian-countries-with-kids/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://travelforphoebe.com/the-best-2-day-itinerary-on-mount-fuji/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://travelingmel.com/iceland-without-a-car-based-in-reykjavik/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://travelwithaudy.com/StartHere": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://travelynnfamily.com/indonesia-with-kids-java-bali-and-lombok/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://trovatrip.com/trip/central-america/costa-rica/costa-rica-with-emily-cooper-jul-2024": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://urlebird.com/user/CandaceAbroad/": {
+      "status": null,
+      "error": "RemoteDisconnected: Remote end closed connection without response",
+      "reachable": false
+    },
+    "https://urlebird.com/user/makisantos_/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://urlebird.com/user/nikitabathia/": {
+      "status": null,
+      "error": "RemoteDisconnected: Remote end closed connection without response",
+      "reachable": false
+    },
+    "https://urlebird.com/user/nospaceinmypassport/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://urlebird.com/user/postcardsbyhannah/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://urlebird.com/user/sandymakessense/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://urlebird.com/user/travelcheapwithchloe/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://urlebird.com/user/uktravel/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://urlebird.com/video/full-october-olympic-national-park-itinerary-if-youre-planning-7680272896685575438/": {
+      "status": null,
+      "error": "RemoteDisconnected: Remote end closed connection without response",
+      "reachable": false
+    },
+    "https://urlebird.com/video/the-experiences-i-had-and-how-you-can-do-the-same-hopkins-beli-7682824671422647582/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://urlebird.com/video/things-to-do-in-chiang-mai-the-perfect-5-day-chiang-mai-itinerar-7615679617436978434/": {
+      "status": null,
+      "error": "RemoteDisconnected: Remote end closed connection without response",
+      "reachable": false
+    },
+    "https://urlebird.com/video/washington-dcs-spring-itinerary-ad-washington-dc-day-1-stay-l-7637628099324103950/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://urlebird.com/video/yes-you-can-see-machu-picchu-lima-and-the-desert-with-just-4-day-7685523563368942862/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://wheresachi.com/discover-istanbul-an-ultimate-4-days-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://wheresachi.com/spiritual-itinerary-to-varanasi/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.adventurouskate.com/three-days-in-dubrovnik-itinerary/": {
       "status": 200,
       "error": null,
@@ -388,6 +601,26 @@
       "reachable": true
     },
     "https://www.afar.com/magazine/9-tiktok-accounts-giving-smart-useful-travel-advice": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.airial.travel/attractions/sweden/sandhamn/sandhamn-stockholm-PPUrjjEG": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.amyenvoyage.com/best-things-to-do-in-helsinki-4-day-itinerary-hidden-gems/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.bigworldsmallpockets.com/one-day-bordeaux-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.chloejade.co/post/travel-to-mali-during-a-coup": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -407,10 +640,35 @@
       "error": null,
       "reachable": true
     },
+    "https://www.courtandnate.com/blog/oregon-to-california": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.instagram.com/p/DdIDOj4iUn2/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.jessicanabongo.com/georgia-trip": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.lemon8-app.com/sightsofsara/7220679971399287301?region=us": {
       "status": null,
       "error": "HTTPError: HTTP Error 404: Not Found",
       "reachable": false
+    },
+    "https://www.marcieinmommyland.com/7-days-in-paris-with-kids/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.my-travelmonkey.com/3-day-istanbul-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://www.nomadicmatt.com/travel-blogs/croatia-itinerary/": {
       "status": 200,
@@ -433,6 +691,11 @@
       "reachable": true
     },
     "https://www.onegirlwandering.com/2023/06/25/the-perfect-two-week-itinerary-for-your-first-trip-to-japan/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.ourfamilypassport.com/where-to-go-in-fiji-with-kids/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -487,6 +750,11 @@
       "error": "HTTPError: HTTP Error 401: Unauthorized",
       "reachable": false
     },
+    "https://www.the5worldexplorers.com/5-days-in-hong-kong/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.theblondeabroad.com/itinerary-two-weeks-morocco/comment-page-13/": {
       "status": 200,
       "error": null,
@@ -522,12 +790,162 @@
       "error": null,
       "reachable": true
     },
+    "https://www.thereelstars.com/lifestyle/travel/budapest-in-4-days-travel-creator-kritika-goels-ultimate-long-weekend-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@CandaceAbroad/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@abdulwanders/video/7644887247384349985": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@abdulwanders/video/7646742765174361377": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@aintthattobi/video/7596144003909799188": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@amyenvoyage/video/7625544703433379094": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@benihunyadi2/video/7598238391964126486": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@callmecandace.tv/video/7479596735036181790": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@carissamonyce/video/7637628099324103950": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@christian.the.creative/video/7680272896685575438": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@detouristahq/video/7618152560796486933": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@elisetanriverdi/video/7538009994608856342": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@epicamerica_/video/7615667752472169759": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@evapzc/video/7682434874808028448": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@explorewithcriostoir/video/7611266906783354134": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@explorewithcriostoir/video/7615356204503649558": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@explorewithcriostoir/video/7622023952445050134": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@explorewithsofs/video/7629653468499807521": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@gokylahgo/video/7685523563368942862": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@gopharitravels/video/7669759701118094599": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@heleneinbetween/video/7606063553845431566": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@heroiisa/video/7595629165072764191": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@hudsonandemily/video/7619036734390553874?_r=1&_d=secCgYIASAHKAESPgo8ovXHD7NaPo7riw5R7iWLZyHpzGuBlmmhFccgpnHwo84XV7mk23r%2FWdbI745LVuemWk%2FqnKJ7s70FETfdGgA%3D&_svg=1&checksum=0cb32fccaa648231d422b40f0d0eb980ede8084b3747b2783f5ac3a262e4b6e7&item_author_type=2&link_reflow_popup_iteration_s": {
       "status": 200,
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@jessmelu/video/7505783025502932246": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@juliatraveltips/video/7597870726225448214": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@kellyprincewright/video/7516513590250048790": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@kristinacors/video/7620248311236152606": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@lexxhidalgo/video/7648002741138148621": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@lilmsawkward/video/7682824671422647582": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@lisarosanty/video/7600235232914132244": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@lostleblanc/video/7394475609621056775": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@makisantos_/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -552,7 +970,42 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@natyexplora/video/7562272275605572878": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@nikitabathia/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@nospaceinmypassport/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@postcardsbyhannah/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@postcardsfromayana/video/7647181012379782413": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@sandymakessense/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@shewandersabroad/video/7590020309152042263": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@sheyhernandez96/photo/7603593031815580941": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -567,12 +1020,72 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@skylietravels/video/7685861774561791263": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@thenationalparktravelers/video/7305560011382476075": {
       "status": 200,
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@thoughtsofatraveller/video/7615679617436978434": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@travelcheapwithchloe/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@travelwithjaro/video/7471887027437423880": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@travelwithkna/video/7664743750920359189": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@travelwithveronicca/video/7633894081160088854": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@trip.on.the.road/video/7630336428966415618": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@twirlliketalia/video/7602314024511999249": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@uktravel/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@vitortrip/photo/7600316183270722838": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@vitortrip/photo/7604583232327175446": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@wanderingcreator_meghana/video/7636934698786114829": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@wawawandering__/video/7506991838360767752": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -597,7 +1110,37 @@
       "error": null,
       "reachable": true
     },
+    "https://www.wheregoesrose.com/3-day-busan-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.wheretofindme.co.uk/tokyo-guide": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.whosthat360.com/travel/aakanksha-mongas-30-day-thailand-guide-hidden-spots-budget-tips-more-10748815": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.whosthat360.com/travel/budapest-in-4-days-kritika-goels-ultimate-itinerary-and-insider-tips-9524962": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.whosthat360.com/travel/planning-a-cinque-terre-trip-tanya-khanijow-shares-the-perfect-4-day-italy-itinerary-11585313": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.whosthat360.com/travel/planning-tokyo-trip-follow-this-easy-itinerary-by-aakanksha-monga-11690742": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.whosthat360.com/travel/tanya-khanijows-singapore-itinerary-top-attractions-tips-hidden-gems-10854816": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -617,13 +1160,23 @@
       "error": "HTTPError: HTTP Error 404: Not Found",
       "reachable": false
     },
+    "https://www.youtube.com/shorts/RzkqlJVppEU": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/shorts/haWUOIhreCg": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.youtube.com/watch?v=6E62FzhNyU4": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
     "https://www.youtube.com/watch?v=7gIimcGyMoU": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
@@ -633,7 +1186,7 @@
       "reachable": true
     },
     "https://www.youtube.com/watch?v=BV7Phig5jn0": {
-      "status": 200,
+      "status": 204,
       "error": null,
       "reachable": true
     },
@@ -647,13 +1200,23 @@
       "error": null,
       "reachable": true
     },
+    "https://www.youtube.com/watch?v=KZxxi0_aIV0": {
+      "status": 204,
+      "error": null,
+      "reachable": true
+    },
     "https://www.youtube.com/watch?v=_qMcEMjLYhw": {
       "status": 204,
       "error": null,
       "reachable": true
     },
-    "https://www.youtube.com/watch?v=e4r0khsE8hQ": {
+    "https://www.youtube.com/watch?v=aaiePDUOSgg": {
       "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=e4r0khsE8hQ": {
+      "status": 204,
       "error": null,
       "reachable": true
     },
@@ -663,12 +1226,12 @@
       "reachable": true
     },
     "https://www.youtube.com/watch?v=x6U2Lnb3spU": {
-      "status": 200,
+      "status": 204,
       "error": null,
       "reachable": true
     },
     "https://www.youtube.com/watch?v=y_maOz6qpbY": {
-      "status": 200,
+      "status": 204,
       "error": null,
       "reachable": true
     },
@@ -685,7 +1248,20 @@
   },
   "errors": [],
   "warnings": [
-    "batch4 @mgtenazas 'Maldives on a Budget: Local-Island Stays': 1 unreachable URL(s), 1 reachable"
+    "batch4 @mgtenazas 'Maldives on a Budget: Local-Island Stays': 1 unreachable URL(s), 1 reachable",
+    "batch5 @gokylahgo '4 days in Peru: Machu Picchu, Lima and the desert': 1 unreachable URL(s), 1 reachable",
+    "batch5 @carissamonyce 'Washington DC spring itinerary (3 days)': 1 unreachable URL(s), 1 reachable",
+    "batch5 @lilmsawkward 'African diaspora cultural experiences guide': 1 unreachable URL(s), 1 reachable",
+    "batch5 @christian.the.creative '4-day October Olympic National Park itinerary': 1 unreachable URL(s), 1 reachable",
+    "batch5 @thoughtsofatraveller 'The perfect 5 day Chiang Mai itinerary': 1 unreachable URL(s), 1 reachable",
+    "batch6 @uktravel 'Wales road trip series (Day 1 / Day 2 / Day 3 / five-day)': 1 unreachable URL(s), 1 reachable",
+    "batch6 @nikitabathia 'Abu Dhabi travel guide (Day 1 itinerary)': 1 unreachable URL(s), 1 reachable",
+    "batch6 @sandymakessense 'Palermo food guide': 1 unreachable URL(s), 1 reachable",
+    "batch6 @CandaceAbroad '3-day Kuala Lumpur itinerary': 1 unreachable URL(s), 1 reachable",
+    "batch6 @nospaceinmypassport 'Perfect-day Menorca guide': 1 unreachable URL(s), 1 reachable",
+    "batch6 @makisantos_ 'Phu Quoc itineraries (24 hours + 2 days)': 1 unreachable URL(s), 1 reachable",
+    "batch6 @travelcheapwithchloe 'Manchester guide / Peak District routes': 1 unreachable URL(s), 1 reachable",
+    "batch6 @postcardsbyhannah '1-week Route 66 road trip itinerary': 1 unreachable URL(s), 1 reachable"
   ],
   "caveat": "UNREACHABLE means not fetchable by script (bot-blocking possible); the evidence council verifies these in a real browser before any waiver."
 }

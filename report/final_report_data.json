@@ -1,0 +1,202 @@
+{
+  "stage": 1,
+  "generated_at": "2026-09-17",
+  "business_ready": false,
+  "business_readiness_note": "Research verified (evidence-only audit). Not business-ready: no supplier/partner access, no commercial terms, no demand validation, no booking/payment/attribution system.",
+  "confidence": {
+    "high": 109,
+    "medium": 68,
+    "low": 7
+  },
+  "coverage": {
+    "destinations": 164,
+    "items": 1786,
+    "longest_days": 90,
+    "longest_title": "3-Month Southeast Asia Itinerary: The Banana Pancake Trail",
+    "no_fixed_length": 37,
+    "shortest_days": 1,
+    "sources": 219,
+    "trips_7_days_or_more": 67
+  },
+  "creators": {
+    "instagram": 100,
+    "niche_counts": {
+      "adventure": 26,
+      "solo": 15,
+      "budget": 15,
+      "family travel": 12,
+      "travel": 10,
+      "luxury": 10,
+      "couples": 7,
+      "cultural": 6,
+      "points-miles": 5,
+      "travel-guides": 4,
+      "family": 4,
+      "uk-travel": 3,
+      "solo travel": 3,
+      "luxury-travel": 3,
+      "itineraries": 3,
+      "beach": 3,
+      "travel-london": 2,
+      "solo travel itineraries": 2,
+      "solo travel guides": 2,
+      "solo budget travel": 2,
+      "roadtrip": 2,
+      "food": 2,
+      "city-guides": 2,
+      "adventure-travel": 2,
+      "uk-travel-blogger": 1,
+      "uk-europe-travel": 1,
+      "travel-ugc": 1,
+      "travel-lifestyle-food": 1,
+      "travel-itineraries": 1,
+      "travel journalist Mexico": 1,
+      "travel guides / luxury hotels / food": 1,
+      "travel guides / city itineraries": 1,
+      "travel experiences": 1,
+      "travel creator (Asia itineraries / promo codes)": 1,
+      "travel creator": 1,
+      "sweden-travel": 1,
+      "solo-female-travel": 1,
+      "solo travel, Africa": 1,
+      "solo travel guidebooks": 1,
+      "solo travel expert": 1,
+      "solo travel experiences": 1,
+      "solo female travel": 1,
+      "slow travel / sustainable travel": 1,
+      "slow travel": 1,
+      "road-trips": 1,
+      "road trip": 1,
+      "nyc-travel": 1,
+      "luxury-travel-wellness": 1,
+      "luxury-travel-hotels": 1,
+      "luxury solo travel": 1,
+      "london-travel-blogger": 1,
+      "itineraries-maps": 1,
+      "ireland-travel": 1,
+      "guides": 1,
+      "food travel itineraries": 1,
+      "food and travel": 1,
+      "family budget travel Brazil": 1,
+      "cultural travel / African diaspora experiences": 1,
+      "cultural travel": 1,
+      "cruise": 1,
+      "cinematic travel films / national parks": 1,
+      "budget/micro-trip travel itineraries": 1,
+      "budget-uk-travel": 1,
+      "budget-travel": 1,
+      "budget travel hacks": 1,
+      "budget travel Mexico": 1,
+      "budget travel": 1,
+      "budget solo travel": 1,
+      "budget slow travel Brazil": 1,
+      "budget slow travel": 1,
+      "US road-trip / city travel": 1,
+      "UK/Europe walking travel blogger": 1,
+      "UK London guides": 1,
+      "Southeast Asia budget travel / itineraries": 1,
+      "London & travel, photography itineraries": 1,
+      "Italian travel creator": 1,
+      "French travel, road trips": 1,
+      "Canada travel guides": 1,
+      "California/US travel guides and itineraries": 1
+    },
+    "tiktok": 100,
+    "total": 200,
+    "unknown_followers": 28,
+    "with_itineraries": 135,
+    "with_known_followers": 172,
+    "without_itineraries": 65
+  },
+  "itineraries": {
+    "total": 184,
+    "yield_per_creator": 0.92
+  },
+  "top_creators_by_reach": [
+    {
+      "handle": "@erikakullberg",
+      "platform": "tiktok",
+      "followers": "9.3M",
+      "profile": "https://www.tiktok.com/@erikakullberg",
+      "itineraries": 0
+    },
+    {
+      "handle": "@muradosmann",
+      "platform": "instagram",
+      "followers": "4.3M",
+      "profile": "https://www.instagram.com/muradosmann",
+      "itineraries": 2
+    },
+    {
+      "handle": "@jordentually",
+      "platform": "tiktok",
+      "followers": "3.7M",
+      "profile": "https://www.tiktok.com/@jordentually",
+      "itineraries": 1
+    },
+    {
+      "handle": "@thegermantravelguy",
+      "platform": "tiktok",
+      "followers": "3.1M",
+      "profile": "https://www.tiktok.com/@thegermantravelguy",
+      "itineraries": 0
+    },
+    {
+      "handle": "@doyoutravel",
+      "platform": "instagram",
+      "followers": "2.9M",
+      "profile": "https://www.instagram.com/doyoutravel",
+      "itineraries": 0
+    },
+    {
+      "handle": "@lexxhidalgo",
+      "platform": "tiktok",
+      "followers": "2.7M",
+      "profile": "https://www.tiktok.com/@lexxhidalgo",
+      "itineraries": 1
+    },
+    {
+      "handle": "@thebucketlistfamily",
+      "platform": "instagram",
+      "followers": "2.6M",
+      "profile": "https://www.instagram.com/thebucketlistfamily",
+      "itineraries": 2
+    },
+    {
+      "handle": "@drewbinsky",
+      "platform": "instagram",
+      "followers": "2.4M",
+      "profile": "https://www.instagram.com/drewbinsky",
+      "itineraries": 0
+    },
+    {
+      "handle": "@danmaniel",
+      "platform": "tiktok",
+      "followers": "2.4M",
+      "profile": "https://www.tiktok.com/@danmaniel",
+      "itineraries": 0
+    },
+    {
+      "handle": "@highonlifee",
+      "platform": "instagram",
+      "followers": "2.1M",
+      "profile": "https://www.instagram.com/highonlifee",
+      "itineraries": 0
+    }
+  ],
+  "validation": {
+    "batches": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "gate1_itineraries": 187,
+    "gates": "all 7 PASS",
+    "quarantined": 11
+  }
+}

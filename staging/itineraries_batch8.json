@@ -1,0 +1,585 @@
+{
+ "batch": 8,
+ "extractions": [
+  {
+   "handle": "@pasaportete",
+   "itineraries": [
+    {
+     "confidence": "medium",
+     "country": "USA",
+     "days": 3,
+     "destination": "Miami",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Post-cruise base; poolside and hotel-room content; Downtown location with access to Brickell, Wynwood and Design District.",
+       "item_type": "hotel",
+       "location": "Downtown Miami, Miami, USA",
+       "name": "Gale Miami Hotel & Residences",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Beach time as part of the post-cruise extension.",
+       "item_type": "activity",
+       "location": "Miami Beach, USA",
+       "name": "Miami Beach",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Neighborhoods reachable from Downtown base; murals and design-district exploring.",
+       "item_type": "activity",
+       "location": "Miami, USA",
+       "name": "Wynwood and Design District",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Restaurant featured in the Miami carousel.",
+       "item_type": "restaurant",
+       "location": "Miami, USA",
+       "name": "Casa Gia",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.instagram.com/p/DdIDOj4iUn2/"
+     ],
+     "summary": "Teté (@pasaportete) documents a multi-day post-cruise stay in Miami with her partner: poolside/hotel time at the Gale Miami Hotel & Residences in Downtown Miami, beach time, dining at Casa Gia, and practical guidance on pre/post-cruise Miami stays with Downtown access to Brickell, Wynwood and the Design District. Published as an Instagram carousel on 2026-09-10.",
+     "title": "Miami post-cruise extension"
+    }
+   ],
+   "notes": "Itinerary reconstructed from the 2026-09-10 Instagram carousel summary; day splits are inferred from the multi-day photo sequence, not explicitly day-labeled by the creator.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@marieldeviaje",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. marieldeviaje.com publishes structured destination guides (e.g. a 2-day San Luis Potosí guide), but no guide with a verifiable publication date on/after 2024-09-16 was confirmed during this pass, so nothing is extracted rather than guessing.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@viajandocomgabi",
+   "itineraries": [
+    {
+     "confidence": "medium",
+     "country": "Sri Lanka",
+     "days": 5,
+     "destination": "Mirissa",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "The viral hill of coconut trees overlooking Mirissa beach.",
+       "item_type": "activity",
+       "location": "Mirissa, Sri Lanka",
+       "name": "Coconut Tree Hill",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Praia secreta — hidden beach cove.",
+       "item_type": "activity",
+       "location": "Mirissa, Sri Lanka",
+       "name": "Secret Beach Mirissa",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Rock viewpoint; creator notes she still wants to return for it.",
+       "item_type": "activity",
+       "location": "Mirissa, Sri Lanka",
+       "name": "Parrot Rock",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Turtle-spotting beach; on the creator's return list.",
+       "item_type": "activity",
+       "location": "Mirissa, Sri Lanka",
+       "name": "Turtle Beach",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Sunset-watching; creator plans to return for it.",
+       "item_type": "activity",
+       "location": "Mirissa, Sri Lanka",
+       "name": "Mirissa sunset",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.youtube.com/watch?v=aaiePDUOSgg"
+     ],
+     "summary": "Gabriela (@viajandocomgabi) spends 5 days in Mirissa, Sri Lanka, covering Coconut Tree Hill, Secret Beach, Parrot Rock, Turtle Beach and sunsets, with a focus on whether the viral destination is worth it and what it costs. Published on her 'Viajando Com Gabi' YouTube channel (crawled April 2026).",
+     "title": "Mirissa in 5 days — is it worth the hype (and how much does it cost?)"
+    }
+   ],
+   "notes": "Day splits are inferred from the 5-day trip framing; the video description lists the spots without explicit day labels. Video carries affiliate discount links (purchase intent present).",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@lalarebelo",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Belize",
+     "days": 8,
+     "destination": "Belize",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "International arrival via Panama (Copa), then domestic hop to San Pedro with Tropic Air.",
+       "item_type": "flight",
+       "location": "San Pedro, Ambergris Caye, Belize",
+       "name": "Copa Airlines via Panama + Tropic Air",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Base for the first 3 nights on Ambergris Caye.",
+       "item_type": "hotel",
+       "location": "San Pedro, Ambergris Caye, Belize",
+       "name": "San Pedro hotel (3 nights)",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Snorkeling in the marine reserve.",
+       "item_type": "activity",
+       "location": "Ambergris Caye, Belize",
+       "name": "Hol Chan Marine Reserve snorkeling",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Snorkel stop with nurse sharks and rays.",
+       "item_type": "activity",
+       "location": "Ambergris Caye, Belize",
+       "name": "Shark Ray Alley",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Transfer south to Placencia for the second half of the trip.",
+       "item_type": "transport",
+       "location": "Placencia, Belize",
+       "name": "Caye Caulker / San Pedro transfer to Placencia",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Hotel base for 2 nights in Placencia.",
+       "item_type": "hotel",
+       "location": "Placencia, Belize",
+       "name": "Placencia hotel (2 nights)",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Two nights aboard a sailboat with The Moorings.",
+       "item_type": "hotel",
+       "location": "Placencia, Belize",
+       "name": "The Moorings sailboat (2 nights)",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Scenic flight over the Great Blue Hole.",
+       "item_type": "activity",
+       "location": "Lighthouse Reef, Belize",
+       "name": "Blue Hole scenic overflight (Tropic Air)",
+       "price_hint": "~$230"
+      }
+     ],
+     "source_urls": [
+      "https://lalarebelo.com/belize/"
+     ],
+     "summary": "Lala Rebelo's 7-night Belize route: 3 nights in San Pedro (Ambergris Caye) and 4 nights in Placencia — 2 in a hotel and 2 aboard a sailboat with The Moorings. Covers Hol Chan Marine Reserve snorkeling, Shark Ray Alley, the Caye Caulker/San Pedro transfer, and a Blue Hole scenic overflight. Originally traveled January 2022; guide maintained on her blog.",
+     "title": "Belize in 7 nights — San Pedro + Placencia (incl. sailboat)"
+    }
+   ],
+   "notes": "Richest structured source in batch 8. Trip itself was January 2022 (before the content-fit cutoff), so this itinerary is extracted for the DB but was NOT used as the content-fit evidence; content fit rests on her 2024+ guide publishing cadence. Day splits follow the guide's 3n/2n/2n structure.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@joujoutravels",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Jackie Rezk is a solo-travel guide creator (838k blog readers/yr), but no single structured itinerary with verifiable details was captured during this pass, so nothing is extracted rather than guessing.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@the.wanderlust.blonde",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. London/UK guide-format content ('things to do in London') confirmed by bio, but no specific structured itinerary was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@wheregoesrose",
+   "platform": "instagram",
+   "itineraries": [
+    {
+     "confidence": "medium",
+     "country": "South Korea",
+     "days": 3,
+     "destination": "Busan",
+     "items": [],
+     "source_urls": [
+      "https://www.wheregoesrose.com/3-day-busan-itinerary/"
+     ],
+     "summary": "Rose's own '3 Day Busan Itinerary' (updated ~Sep 2025, within trailing 24 months). Day-by-day stops were not captured during this pass (scripted profile/page fetches blocked), so items are left empty rather than invented; her own site also hosts solo guides for Patagonia, Panama and Chile.",
+     "title": "3 Day Busan Itinerary"
+    }
+   ],
+   "notes": "Replacement for @wanderingcreator_meghana (duplicate of batch 5). Creator-owned structured itinerary evidence: '3 Day Busan Itinerary' on wheregoesrose.com. Items intentionally empty - no day-level detail was observed."
+  },
+  {
+   "handle": "@emilyeatsandexplores",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Costa Rica",
+     "days": 7,
+     "destination": "Costa Rica",
+     "items": [
+      {
+       "booking_link": "https://trovatrip.com/trip/central-america/costa-rica/costa-rica-with-emily-cooper-jul-2024",
+       "day": 1,
+       "details": "Group trip arrival; transfers included.",
+       "item_type": "hotel",
+       "location": "Costa Rica",
+       "name": "Arrival hotel",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Guided Arenal hike.",
+       "item_type": "activity",
+       "location": "La Fortuna, Costa Rica",
+       "name": "Arenal volcano hike",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Hot springs visit.",
+       "item_type": "activity",
+       "location": "La Fortuna, Costa Rica",
+       "name": "Hot springs",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Optional Tenorio excursion.",
+       "item_type": "activity",
+       "location": "Tenorio Volcano National Park, Costa Rica",
+       "name": "Tenorio (optional)",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Hanging bridges walk.",
+       "item_type": "activity",
+       "location": "Monteverde, Costa Rica",
+       "name": "Selvatura hanging bridges",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Night walk and zipline.",
+       "item_type": "activity",
+       "location": "Monteverde, Costa Rica",
+       "name": "Rainforest night walk + zipline",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Group trip departure transfers.",
+       "item_type": "transport",
+       "location": "Costa Rica",
+       "name": "Departure transfers",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://trovatrip.com/trip/central-america/costa-rica/costa-rica-with-emily-cooper-jul-2024"
+     ],
+     "summary": "Emily Cooper's hosted 7-day Costa Rica group trip (TrovaTrip, July 14–20, 2024): Arenal volcano hike and hot springs, Tenorio option, Selvatura hanging bridges, rainforest night walk, zipline — with named hotels, transfers and meals. Trip predates the 2024-09-16 content-fit cutoff, so it is extracted for the DB but not used as content-fit evidence.",
+     "title": "Costa Rica with Emily Cooper — 7 days"
+    }
+   ],
+   "notes": "Full day-by-day plan with hotels, transfers, meals and prices on the TrovaTrip page; item detail above is condensed from the page summary.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@melissagasia",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Slow-travel creator; no specific structured itinerary was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@travelsonbudget",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Thuy's Travel Hacks Academy is a structured program rather than a destination itinerary; IG reels (Kazakhstan, Thailand, Sep 2026) are tip-format.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@emsbudgettravel",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Budget-travel guide creator; no specific structured itinerary was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@bigworldsmallpockets",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "France",
+     "days": 1,
+     "destination": "Bordeaux",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Timed hour-by-hour budget itinerary; full stop list on the guide page.",
+       "item_type": "activity",
+       "location": "Bordeaux, France",
+       "name": "Bordeaux one-day timed route",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.bigworldsmallpockets.com/one-day-bordeaux-itinerary/"
+     ],
+     "summary": "Steph's timed one-day Bordeaux itinerary for budget travelers (guide updated ~September 11, 2026). Hour-by-hour structure with budget guidance.",
+     "title": "One day in Bordeaux — timed budget itinerary"
+    },
+    {
+     "confidence": "high",
+     "country": "Montenegro",
+     "days": 7,
+     "destination": "Montenegro",
+     "items": [
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Day-by-day destinations across Montenegro; full breakdown on the guide page.",
+       "item_type": "activity",
+       "location": "Montenegro",
+       "name": "Montenegro 7-day route",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "http://www.bigworldsmallpockets.com/montenegro-travel-guide/"
+     ],
+     "summary": "Steph's 7-day Montenegro itinerary with day-by-day destinations across the country, written for budget/slow travelers.",
+     "title": "Montenegro in 7 days — day-by-day"
+    }
+   ],
+   "notes": "Both guides carry affiliate disclosures (purchase intent present). Item detail condensed; full stop lists live on the guide pages.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@thenomadicsunny",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Solo-female budget travel creator; no specific structured itinerary was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@mletraveldiary",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "USA",
+     "days": 1,
+     "destination": "Santa Barbara",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "7:00 AM start.",
+       "item_type": "activity",
+       "location": "Santa Barbara, USA",
+       "name": "Chase Palm Park",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "8:30 AM stop.",
+       "item_type": "activity",
+       "location": "Santa Barbara, USA",
+       "name": "Chromatic Gate",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Remaining timed stops through the day; full list on the guide page.",
+       "item_type": "activity",
+       "location": "Santa Barbara, USA",
+       "name": "Santa Barbara full-day sequence",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://mletraveldiary.com/destinations/santa-barbara-day-trip-itinerary/"
+     ],
+     "summary": "Marissa Ellsworth's timed full-day Santa Barbara itinerary (guide updated ~July 2025): 7:00 AM Chase Palm Park, 8:30 AM Chromatic Gate, and a full day's sequenced stops. Affiliate disclosure on the page.",
+     "title": "Santa Barbara full day-trip itinerary"
+    }
+   ],
+   "notes": "Timed itinerary; full stop list on the guide page. Creator is Marissa Ellsworth — distinct from TikTok's @marissadaily_.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@_experienceaddict_",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Bio reads 'Travel Tips & Trip Itineraries' (city-break queen), but no specific structured itinerary was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@jayunaccompanied",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Experience/road-trip guide creator ('Hidden Gems, Road Trips, Outdoors'); no specific structured itinerary was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@world.of.sofiab",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Solo-travel recommendations creator (world-of-sofiab.com); no specific structured itinerary was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@journeyswithkris",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Bio explicitly 'Things to do • itineraries • food'; no single itinerary permalink was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@jessieonajourney",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Publishes NYC photo tours & itineraries (jessieonajourney.com); no single itinerary permalink was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@grrrltraveler",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. 'Sustainable & Mindful Guides for Cultural Explorers' (grrrltraveler.com); no single itinerary permalink was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@kaylendoestuff",
+   "platform": "instagram",
+   "itineraries": [],
+   "notes": "Replacement for @adventurouskate (duplicate of staging/pilot_handles.txt). No extractable day-by-day itinerary found during this pass: creator's structured content is the paid 'The First Solo Trip Playbook' travel-planning guide (promoted in IG reel 2026-09-15) plus itinerary-planning video series ('this is how I prep: flight edition; next one I'll do how I plan my itinerary'). Scripted page fetches blocked, so no day-level detail was observed or invented."
+  },
+  {
+   "handle": "@hey_ciara",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Solo-travel how-to/blog creator (heyciara.com/blog); no specific structured itinerary was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@travelforphoebe",
+   "platform": "instagram",
+   "itineraries": [
+    {
+     "confidence": "medium",
+     "country": "Japan",
+     "days": 2,
+     "destination": "Mount Fuji",
+     "items": [
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "One of the oldest shrines connected to Mount Fuji; open-air altar that faces the mountain directly.",
+       "item_type": "activity",
+       "location": "Mount Fuji, Japan",
+       "name": "Yamamiya Sengen Shrine",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Must-stop shrine; peaceful, full of history, with a pond with views of the mountain.",
+       "item_type": "activity",
+       "location": "Mount Fuji, Japan",
+       "name": "Fujisan Hongu Sengen Taisha",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Guided one-day tour covering Arakurayama Sengen Park, Oshino Hakkai and the famous Lawson with Fuji in the background; seasonal cherry blossoms or autumn leaves; bookable with her Klook discount code TRAVELFORPHOEBEKLOOK.",
+       "item_type": "activity",
+       "location": "Mount Fuji, Japan",
+       "name": "One-day tour: Arakurayama Sengen Park, Oshino Hakkai, Lawson viewpoint",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Modern, interactive museum about Mount Fuji with an observation deck with mountain views.",
+       "item_type": "activity",
+       "location": "Mount Fuji, Japan",
+       "name": "Mt. Fuji World Heritage Centre",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Listed stop on her 2-day Mount Fuji itinerary.",
+       "item_type": "activity",
+       "location": "Mount Fuji, Japan",
+       "name": "Shiraito Falls",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://travelforphoebe.com/the-best-2-day-itinerary-on-mount-fuji/"
+     ],
+     "summary": "Phoebe Lee's own 2-day Mount Fuji itinerary (updated ~May 2025): shrine visits, a guided one-day tour of the iconic viewpoints, the World Heritage Centre and Shiraito Falls, with her Klook discount code for tour bookings. Stops are listed as published by the creator and not day-labeled, so day=null.",
+     "title": "2-day Mount Fuji itinerary"
+    }
+   ],
+   "notes": "Replacement for @packslight (duplicate of batch-4 TikTok entry). Among the richest structured sources for the replacements: own 2-day Mount Fuji itinerary plus own South Africa and Vietnam travel guides (updated ~Mar 2026) on travelforphoebe.com."
+  },
+  {
+   "handle": "@sologirlstravelguide",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Alexa West authors 'The Solo Girl's Travel Guide' guidebooks (structured itineraries in book form); no single web itinerary permalink was captured during this pass.",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@trustedtravelgirl",
+   "itineraries": [],
+   "notes": "No extractable itinerary found. Solo-travel expert (trustedtravelgirl.com); no specific structured itinerary was captured during this pass.",
+   "platform": "instagram"
+  }
+ ]
+}

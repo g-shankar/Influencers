@@ -1,0 +1,49 @@
+{
+ "context": "reconstructed selection rows",
+ "packets": [
+  {
+   "handle": "@heroiisa",
+   "platform": "tiktok",
+   "claim": "Creator selected as travel influencer",
+   "itineraries": [],
+   "selection_notes": "RECONSTRUCTED 2026-09-16: original selection row lost to a coordinator write error (partial write left 2 of 25 rows in staging/selection_batch5.csv). Restored from batch5.csv + staging/itineraries_batch5.json + live-browser verdicts (staging/browser_verdicts_tiktok.md) + oEmbed/video-ID re-verification 2026-09-16. Original desk notes preserved: 'Browser fail on TikTok grid; Urlebird 403; desk-rese"
+  },
+  {
+   "handle": "@nytoanywhere",
+   "platform": "tiktok",
+   "claim": "Creator selected as travel influencer",
+   "itineraries": [],
+   "selection_notes": "RECONSTRUCTED 2026-09-16: original selection row lost to a coordinator write error (partial write left 2 of 25 rows in staging/selection_batch5.csv). Restored from batch5.csv + staging/itineraries_batch5.json + live-browser verdicts (staging/browser_verdicts_tiktok.md) + oEmbed/video-ID re-verification 2026-09-16. Activity: latest post ≈2026-09-14/15 (live browser 2026-09-16, ID-decode cross-valid"
+  },
+  {
+   "handle": "@chubbydiaries",
+   "platform": "tiktok",
+   "claim": "Creator selected as travel influencer",
+   "itineraries": [],
+   "selection_notes": "RECONSTRUCTED 2026-09-16: original selection row lost to a coordinator write error (partial write left 2 of 25 rows in staging/selection_batch5.csv). Restored from batch5.csv + staging/itineraries_batch5.json + live-browser verdicts (staging/browser_verdicts_tiktok.md) + oEmbed/video-ID re-verification 2026-09-16. Activity: latest post ≈2026-07-31 (live browser 2026-09-16, ID-decode cross-validate"
+  },
+  {
+   "handle": "@lexxhidalgo",
+   "platform": "tiktok",
+   "claim": "Creator selected as travel influencer",
+   "itineraries": [],
+   "selection_notes": "RECONSTRUCTED 2026-09-16: original selection row lost to a coordinator write error (partial write left 2 of 25 rows in staging/selection_batch5.csv). Restored from batch5.csv + staging/itineraries_batch5.json + live-browser verdicts (staging/browser_verdicts_tiktok.md) + oEmbed/video-ID re-verification 2026-09-16. Activity: latest post ≈2026-09-01 (live browser 2026-09-16, ID-decode cross-validate"
+  },
+  {
+   "handle": "@sheyhernandez96",
+   "platform": "tiktok",
+   "claim": "Creator selected as travel influencer",
+   "itineraries": [
+    {
+     "title": "Chicago Guide",
+     "items": 9,
+     "confidence": "medium",
+     "source_urls": [
+      "https://www.tiktok.com/@sheyhernandez96/photo/7603593031815580941"
+     ]
+    }
+   ],
+   "selection_notes": "RECONSTRUCTED 2026-09-16: original selection row lost to a coordinator write error (partial write left 2 of 25 rows in staging/selection_batch5.csv). Restored from batch5.csv + staging/itineraries_batch5.json + live-browser verdicts (staging/browser_verdicts_tiktok.md) + oEmbed/video-ID re-verification 2026-09-16. Activity: latest post ≈2026-09-14/15 (live browser 2026-09-16, ID-decode cross-valid"
+  }
+ ]
+}

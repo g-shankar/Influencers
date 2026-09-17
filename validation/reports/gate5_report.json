@@ -1,0 +1,209 @@
+{
+  "gate": 5,
+  "name": "db reconciliation",
+  "status": "FAIL",
+  "results": {
+    "influencers_total": {
+      "value": 200,
+      "expected": 200,
+      "pass": true
+    },
+    "platform_instagram": {
+      "value": 100,
+      "expected": 100,
+      "pass": true
+    },
+    "platform_tiktok": {
+      "value": 100,
+      "expected": 100,
+      "pass": true
+    },
+    "empty_followers": {
+      "value": 0,
+      "expected": 0,
+      "pass": true
+    },
+    "duplicate_handles": {
+      "value": 0,
+      "expected": 0,
+      "pass": true
+    },
+    "itineraries_total": {
+      "value": 180,
+      "gate1_total": 186
+    },
+    "items_total": {
+      "value": 1650
+    },
+    "confidence_split": {
+      "high": 100,
+      "low": 9,
+      "medium": 71
+    },
+    "orphan_items": {
+      "value": 0,
+      "expected": 0,
+      "pass": true
+    },
+    "orphan_itineraries": {
+      "value": 0,
+      "expected": 0,
+      "pass": true
+    },
+    "orphan_posts": {
+      "value": 0,
+      "expected": 0,
+      "pass": true
+    },
+    "itineraries_without_source": {
+      "value": 0,
+      "expected": 0,
+      "pass": true
+    },
+    "duplicate_itineraries": [],
+    "quarantined_with_itineraries": {
+      "value": 0,
+      "expected": 0,
+      "pass": true
+    },
+    "quarantined_handles": [
+      "@africansafari",
+      "@limsawkward",
+      "@marklharriosn",
+      "@martinsilvaq",
+      "@nastasiawong",
+      "@nomadicmovement",
+      "@oceanwanderer",
+      "@rachid_dahnoun",
+      "@sidewalkerdaily",
+      "@thenationalparktravelers"
+    ],
+    "top_countries": [
+      [
+        "USA",
+        15
+      ],
+      [
+        "United States",
+        14
+      ],
+      [
+        "United Kingdom",
+        10
+      ],
+      [
+        "Italy",
+        9
+      ],
+      [
+        "Japan",
+        8
+      ],
+      [
+        "Spain",
+        6
+      ],
+      [
+        "Indonesia",
+        5
+      ],
+      [
+        "India",
+        5
+      ],
+      [
+        "Thailand",
+        4
+      ],
+      [
+        "Iceland",
+        4
+      ],
+      [
+        "Croatia",
+        4
+      ],
+      [
+        "Canada",
+        4
+      ],
+      [
+        "Unknown",
+        3
+      ],
+      [
+        "United Arab Emirates",
+        3
+      ],
+      [
+        "Turkey",
+        3
+      ]
+    ],
+    "top_destinations": [
+      [
+        "Various",
+        3
+      ],
+      [
+        "Taiwan",
+        3
+      ],
+      [
+        "Southeast Asia",
+        3
+      ],
+      [
+        "Istanbul",
+        3
+      ],
+      [
+        "Faroe Islands",
+        3
+      ],
+      [
+        "Wales",
+        2
+      ],
+      [
+        "Tokyo",
+        2
+      ],
+      [
+        "Scotland",
+        2
+      ],
+      [
+        "San Francisco, California",
+        2
+      ],
+      [
+        "Phu Quoc",
+        2
+      ],
+      [
+        "Oahu, Hawaii",
+        2
+      ],
+      [
+        "Iceland",
+        2
+      ],
+      [
+        "Great Ocean Road, Victoria",
+        2
+      ],
+      [
+        "Egypt",
+        2
+      ],
+      [
+        "Cotswolds, England",
+        2
+      ]
+    ]
+  },
+  "errors": [
+    "itineraries_total: db=180 != gate1(186) - skipped(3)"
+  ]
+}

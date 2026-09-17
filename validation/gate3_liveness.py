@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Gate 3 — source URL liveness (fail-closed).
 
-For every itinerary in the four canonical staging files, fetches each
-source_url and records reachability. An itinerary with ZERO reachable
-sources fails the gate.
+For every itinerary in the canonical staging files (batches from stage.json),
+fetches each source_url and records reachability. An itinerary with ZERO
+reachable sources fails the gate.
 
 Caveat, stated plainly: some sites block bots, so UNREACHABLE here means
 "not fetchable by script" — the evidence council (gate 4 brief) does the
@@ -17,6 +17,10 @@ import sys
 import urllib.request
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
+
+import sys as _sys
+_sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from stage_config import load as load_stage
 
 ROOT = Path(__file__).resolve().parents[1]
 STAGING = ROOT / "staging"
@@ -43,7 +47,7 @@ def fetch(url):
 
 def main():
     REPORTS.mkdir(parents=True, exist_ok=True)
-    files = [STAGING / f"itineraries_batch{n}.json" for n in range(1, 5)]
+    files = [STAGING / f"itineraries_batch{n}.json" for n in load_stage()["batches"]]
     missing = [f.name for f in files if not f.exists()]
     if missing:
         report = {"gate": 3, "name": "source liveness", "status": "NOT READY",

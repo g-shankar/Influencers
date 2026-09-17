@@ -1,0 +1,202 @@
+{
+ "completed_date": "2026-09-16",
+ "note": "Five-criteria evidence records for the 14 creators remediated or strengthened in the 2026-09-16 research pass. Staged selection fields (identity_check, reach_floor, activity_check, exclusions_check) were PASS for all 14; this report documents the GUIDE criterion evidence found 2026-09-16 and any strengthening of the other four. Unknowns remain unknown.",
+ "records": [
+  {
+   "activity": "Staged PASS; guide video 2026-01-15 within window; travel niche active.",
+   "exclusions": "Staged PASS; none found in 2026-09-16 research.",
+   "guide": {
+    "date": "2026-01-15",
+    "date_two_signal": "PASS (video-ID decode 2026-01-15 + indexed exact-handle caption with full day-by-day text)",
+    "evidence": "Indexed TikTok caption gives a complete 4-day Costa Brava itinerary: Day 1 train Barcelona->Girona (38 min), explore Girona, bus to Palafrugell (1h10); Day 2 walk Palafrugell->Calella de Palafrugell (50 min), El Golfet via Cami de Ronda, bus to Begur; Day 3 Cami de Ronda coves (Platja Fonda, Cala Malaret, Aiguablava); Day 4 Illa Roja / Sa Riera / Cala Aiguafreda / Cala Sa Tuna, bus back to Barcelona (2h35). A second exact-handle guide video (7611191365967432991, 2026-02-26) is also indexed.",
+    "url": "https://www.tiktok.com/@heroiisa/video/7595629165072764191"
+   },
+   "handle": "@heroiisa",
+   "identity": "Staged PASS (solo-budget-travel). Creator-discovery profiles list @heroiisa as a travel creator.",
+   "reach": "Staged 139.3K TikTok followers, reach_floor PASS.",
+   "verdict": "INCLUDE - guide criterion now met with two-signal date"
+  },
+  {
+   "activity": "Staged PASS; blog updated ~2026-09-03 (search index); Heepsy recency 31.82 days.",
+   "exclusions": "Staged PASS; none found in 2026-09-16 research.",
+   "guide": {
+    "date": "updated ~2026-09-03",
+    "date_two_signal": "STAGED (search-index 'updated 13 days ago' observed 2026-09-16; exact page publication metadata not yet captured)",
+    "evidence": "Creator-owned blog: 'The Ultimate 10 Days in California Road Trip Itinerary' - Days 1-2 San Diego, Days 3-4 Los Angeles, Day 5 Santa Barbara, Day 6 Big Sur, Day 7 Carmel-by-the-Sea/Monterey, Days 8-9 Yosemite, Day 10 San Francisco.",
+    "url": "https://letravelstyle.com/california-road-trip-itinerary-10-days/"
+   },
+   "handle": "@letravelstyle",
+   "identity": "Strengthened 2026-09-16: Courtney Delfino, travel writer (creator-owned about page).",
+   "reach": "Staged 195.1K; Heepsy search evidence 153.5K Instagram followers (2026-09-16).",
+   "verdict": "INCLUDE - guide criterion met; removed from exclusion file"
+  },
+  {
+   "activity": "Staged PASS; guide 2026-01-28 within window.",
+   "exclusions": "Staged PASS; none found.",
+   "guide": {
+    "date": "2026-01-28",
+    "date_two_signal": "PASS (video-ID decode 2026-01-28 + indexed exact-handle caption with full day-by-day text)",
+    "evidence": "Indexed caption gives a full 3-day London itinerary: Day 1 Royal Vibes (London Eye, Big Ben, Westminster Abbey, Buckingham Palace, Horse Guards, National Gallery, Leicester Sq, Shaftesbury Fountain, Carnaby St, Oxford St); Day 2 Skylines & History (Tate Modern, Borough Market, Shard, Tower Bridge, Tower of London, St Dunstan in the East, Sky Garden, Leadenhall Market, St Paul's); Day 3 Color & Culture (British Museum, Neal's Yard). 58.9K-85.7K likes.",
+    "url": "https://www.tiktok.com/@vitortrip/photo/7600316183270722838"
+   },
+   "handle": "@vitortrip",
+   "identity": "Staged PASS (travel-guides).",
+   "reach": "Staged 25.7K TikTok followers, reach_floor PASS.",
+   "verdict": "INCLUDE - extraction strengthened to high confidence"
+  },
+  {
+   "activity": "Staged PASS; guide 2026-02-06 within window.",
+   "exclusions": "Staged PASS; none found.",
+   "guide": {
+    "date": "2026-02-06",
+    "date_two_signal": "PASS (video-ID decode 2026-02-06 + indexed exact-handle caption)",
+    "evidence": "Nine-stop Chicago photo guide (video 7603593031815580941); indexed engagement 11.9K-20.2K likes.",
+    "url": "https://www.tiktok.com/@sheyhernandez96/video/7603593031815580941"
+   },
+   "handle": "@sheyhernandez96",
+   "identity": "Staged PASS (city-guides).",
+   "reach": "Staged 60.3K TikTok followers, reach_floor PASS.",
+   "verdict": "INCLUDE - two-signal date persisted"
+  },
+  {
+   "activity": "Staged PASS; series posted 2026-06-05 within window.",
+   "exclusions": "Staged PASS; none found.",
+   "guide": {
+    "date": "2026-06-05",
+    "date_two_signal": "PASS (video-ID decode 2026-06-05 + TikTok oEmbed record)",
+    "evidence": "'DAY TWO ITINERARY!!! (posting all 5 today) #roadtrip #itinerary #california #morrobay #carmel bigsur' - Day 2 covers Morro Bay, Carmel, Big Sur; all 5 days posted same day. Days 1/3/4/5 stops not captured in indexed evidence and not invented.",
+    "url": "https://www.tiktok.com/@lexxhidalgo/video/7648002741138148621"
+   },
+   "handle": "@lexxhidalgo",
+   "identity": "Lexi Hidalgo (staged PASS; Singapore Tourism Board 2026 KOL doc).",
+   "reach": "2.7M TikTok / 815K Instagram per official STB document (strengthened).",
+   "verdict": "INCLUDE (medium confidence - guide series verified, partial item detail)"
+  },
+  {
+   "activity": "Staged PASS; guide ~2025-08-07 within window.",
+   "exclusions": "Staged PASS; none found.",
+   "guide": {
+    "date": "~2025-08-07",
+    "date_two_signal": "PASS (video-ID decode + live-browser verification 2026-09-16)",
+    "evidence": "'everything I ate in Sonoma County in 72 hours' - 72-hour food itinerary structure verified; individual restaurant/food stops not captured in indexed evidence and not invented.",
+    "url": "unknown - no capturable public URL found 2026-09-16"
+   },
+   "handle": "@chubbydiaries",
+   "identity": "Strengthened 2026-09-16: Jeff Jenkins, founder of Chubby Diaries (plus-size travel platform since 2018), host of National Geographic/Disney+ 'Never Say Never with Jeff Jenkins'.",
+   "reach": "Staged 86.3K TikTok followers, reach_floor PASS.",
+   "verdict": "CONDITIONAL (low) - no itinerary record persisted: guide structure verified but no capturable public URL found; needs URL capture or replacement"
+  },
+  {
+   "activity": "Staged PASS; guide video 2026-09-07 within window.",
+   "exclusions": "Staged PASS; none found.",
+   "guide": {
+    "date": "2026-09-07",
+    "date_two_signal": "PASS (video-ID decode 2026-09-07 + Urlebird mirror)",
+    "evidence": "African diaspora cultural-experiences video (7682824671422647582) with indexed engagement; multi-destination experiences guide record retained.",
+    "url": "https://www.tiktok.com/@lilmsawkward/video/7682824671422647582"
+   },
+   "handle": "@lilmsawkward",
+   "identity": "Strengthened 2026-09-16: Alexa Moore; @lilmsawkward confirmed genuine handle, @limsawkward is the typo.",
+   "reach": "Strengthened: indexed Instagram showed 113K followers (staged TikTok 123.5K).",
+   "verdict": "INCLUDE - formal council adjudication of guide qualification still required"
+  },
+  {
+   "activity": "Staged PASS; guide 2026-09-15 within window.",
+   "exclusions": "Staged PASS; none found.",
+   "guide": {
+    "date": "2026-09-15",
+    "date_two_signal": "PASS (video-ID decode 2026-09-15 + Urlebird uploadDate 2026-09-15T21:29:25Z)",
+    "evidence": "'5-day Scotland itinerary (under $1,000)': Edinburgh to Isle of Skye. Day-by-day stops delivered in-video and not transcribed; route anchors and budget framing as stated.",
+    "url": "https://www.tiktok.com/@skylietravels/video/7685861774561791263"
+   },
+   "handle": "@skylietravels",
+   "identity": "Staged PASS (solo budget travel).",
+   "reach": "Staged 70.3K TikTok followers, reach_floor PASS.",
+   "verdict": "INCLUDE (medium) - removed from exclusion file"
+  },
+  {
+   "activity": "Staged PASS; guide 2026-01-21 within window.",
+   "exclusions": "Staged PASS; paid itinerary product disclosed on creator site (not an exclusion).",
+   "guide": {
+    "date": "2026-01-21",
+    "date_two_signal": "PASS (video-ID decode 2026-01-21 + indexed exact-handle caption)",
+    "evidence": "Creator-owned julatraveltips.com sells structured itineraries with daily plans and maps (Rome 5-day, Paris 5-day, Amalfi 7-day, Dublin 3-day also listed). TikTok video promotes the 5-day NYC map+itinerary (114K-130K likes): day-by-day plan with timings, map of curated spots, restaurant tips; The Edge NYC and Manhattan/Brooklyn neighborhoods evidenced. Full stop list behind product paywall and not invented. Rome 5-day video (7592355923432246551, 2026-01-06) also indexed.",
+    "url": "https://juliatraveltips.com/itineraries/new-york-city + https://www.tiktok.com/@juliatraveltips/video/7597870726225448214"
+   },
+   "handle": "@juliatraveltips",
+   "identity": "Strengthened 2026-09-16: Julia Ghile (creator-owned site).",
+   "reach": "Staged 21.8K, reach_floor PASS.",
+   "verdict": "INCLUDE (medium) - removed from exclusion file"
+  },
+  {
+   "activity": "Staged PASS; guides 2026-05-28 and 2026-06-02 within window.",
+   "exclusions": "Staged PASS; none found.",
+   "guide": {
+    "date": "2026-05-28 and 2026-06-02",
+    "date_two_signal": "PASS both (video-ID decodes + indexed exact-handle captions with full guide text)",
+    "evidence": "France mini guide (7644887247384349985, 12.7K likes): transport (TGV + rental car), gateways (Paris/Lyon/Nice/Marseille), 8 regional blocks (Paris/Versailles/Chantilly, Loire chateaux, Riviera, Brittany, Normandy, Dordogne/Provence/Burgundy, Alps/Pyrenees, Alsace). Aswan guide (7646742765174361377, 69.8K-229K likes): logistics, Philae Temple, Nile islands, riverside viewpoints, Nubian culture, best time Oct-Apr.",
+    "url": "https://www.tiktok.com/@abdulwanders/video/7644887247384349985 + https://www.tiktok.com/@abdulwanders/video/7646742765174361377"
+   },
+   "handle": "@abdulwanders",
+   "identity": "Staged PASS (luxury-travel).",
+   "reach": "Staged 69.2K, reach_floor PASS.",
+   "verdict": "INCLUDE - two high-confidence guides"
+  },
+  {
+   "activity": "Staged PASS; Helsinki page updated 2026.",
+   "exclusions": "Staged PASS; affiliate-link disclosure on page (not an exclusion).",
+   "guide": {
+    "date": "page updated 2026",
+    "date_two_signal": "STAGED (creator-owned page inspected 2026-09-16; formal publication-date metadata persistence pending)",
+    "evidence": "Creator-owned 4-day Helsinki itinerary with explicit daily plans: Day 1 Solo Sokos Hotel Pier 4 + Rue Madame; Day 2 architecture/design tour (Finlandia Hall, Design District, Oodi, Rock Church, sauna boat); Day 3 Market Square, Suomenlinna, Usva Spa, Hansa Cafe, Kupoli; Day 4 bike/food tour, Central Park, Seurasaari, Huvilakatu, cathedrals, Restaurant Jason.",
+    "url": "https://www.amyenvoyage.com/best-things-to-do-in-helsinki-4-day-itinerary-hidden-gems/"
+   },
+   "handle": "@amyenvoyage",
+   "identity": "Staged PASS (uk-travel).",
+   "reach": "Staged 169.4K, reach_floor PASS.",
+   "verdict": "INCLUDE - extraction replaced with high-confidence Helsinki record"
+  },
+  {
+   "activity": "Staged PASS; guides 2026-02-26 / 2026-03-09 / 2026-03-27 within window.",
+   "exclusions": "Staged PASS; none found.",
+   "guide": {
+    "date": "2026-02-26 / 2026-03-09 / 2026-03-27",
+    "date_two_signal": "PASS each (video-ID decodes + indexed exact-handle captions)",
+    "evidence": "Ireland scenic-drive guide series: Copper Coast Drive, Molls Gap, Doolough Valley, Causeway Coastal Route, Fanad Drive, Ring of Kerry; plus Ireland recommendations travel map and personalized-itinerary offer.",
+    "url": "https://www.tiktok.com/@explorewithcriostoir/video/7611266906783354134 + .../7615356204503649558 + .../7622023952445050134"
+   },
+   "handle": "@explorewithcriostoir",
+   "identity": "Staged PASS (ireland-travel).",
+   "reach": "Staged 103.6K, reach_floor PASS.",
+   "verdict": "INCLUDE - extraction strengthened (medium)"
+  },
+  {
+   "activity": "Staged PASS; guide 2025-06-16 within window.",
+   "exclusions": "Staged PASS; Tourism Ireland partnership disclosed in caption (AD - not an exclusion).",
+   "guide": {
+    "date": "2025-06-16",
+    "date_two_signal": "PASS (video-ID decode 2025-06-16 + indexed exact-handle caption)",
+    "evidence": "Dublin literary guide naming The Shelbourne, Sweny's Pharmacy, Oscar Wilde's Home. Replaces Wales guide (2023-09-23, outside recency window).",
+    "url": "https://www.tiktok.com/@kellyprincewright/video/7516513590250048790"
+   },
+   "handle": "@kellyprincewright",
+   "identity": "Staged PASS (uk-travel).",
+   "reach": "Staged 607.9K, reach_floor PASS.",
+   "verdict": "INCLUDE (medium) - needs council review of replacement"
+  },
+  {
+   "activity": "Staged PASS; page modified 2026-09-07.",
+   "exclusions": "Staged PASS; none found.",
+   "guide": {
+    "date": "published 2025-04-12, modified 2026-09-07",
+    "date_two_signal": "STAGED (creator-owned page metadata; formal evidence persistence pending)",
+    "evidence": "Creator-owned page with explicit Days 1-5: Day 1 Disneyland Hotel; Day 2 Bakehouse, Avenue of Stars; Day 3 Disneyland; Day 4 rest day (dolphin tour/Buddha/Tai O honestly marked not-done); Day 5 Mid-Levels Escalator, Botanical Gardens, Peak Tram, Victoria Peak.",
+    "url": "https://www.the5worldexplorers.com/5-days-in-hong-kong/"
+   },
+   "handle": "@the5worldexplorers",
+   "identity": "Staged PASS (family travel).",
+   "reach": "Staged 19.7K (Feedspot), reach_floor PASS.",
+   "verdict": "INCLUDE - removed from exclusion file; re-extraction done, council review pending"
+  }
+ ]
+}

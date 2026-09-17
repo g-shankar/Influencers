@@ -1,0 +1,243 @@
+{
+ "stage": "stage1_100_to_200",
+ "date": "2026-09-16",
+ "method": "3 fresh-context verifier subagents (model family differs from extraction workers); claim packets with per-claim source URLs; evidence-only rubric",
+ "sample": {
+  "packets": 31,
+  "of_itineraries": 86,
+  "pct": 36,
+  "note": "stratified across batches 5-8; includes all 4 low-confidence records"
+ },
+ "result": {
+  "PASS": 24,
+  "FAIL": 0,
+  "UNVERIFIABLE": 7
+ },
+ "fail_rate": 0.0,
+ "escalation_triggered": false,
+ "gate4_outcome": "CONDITIONAL PASS — all 7 UNVERIFIABLE records corrected (2 re-extracted from verified sources, 5 itineraries excluded from DB load with creators retained); 0 FAILs (no fabrication detected)",
+ "corrections": [
+  "@kellyprincewright re-extracted from indexed TikTok caption (9 verified Wales stops; conf medium)",
+  "@boyeatsworld re-extracted: post URL verified via creator-site internal link; items empty, not invented; conf low",
+  "5 itineraries excluded from DB load: @letravelstyle, @chloe__trips, @juliatraveltips, @skylietravels, @the5worldexplorers (creators retained in influencers.csv)"
+ ],
+ "verdicts": [
+  {
+   "batch": 5,
+   "handle": "@detouristahq",
+   "title": "Bangkok itinerary (6 days, 2026 prices)",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 5,
+   "handle": "@natyexplora",
+   "title": "Vancouver Island 4-Day Itinerary (#EGambassador with Expedia",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 5,
+   "handle": "@carissamonyce",
+   "title": "Washington DC spring itinerary (3 days)",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 5,
+   "handle": "@vitortrip",
+   "title": "Athens 2026: 3-Day Guide",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 5,
+   "handle": "@explorewithsofs",
+   "title": "Two-Week Italy Route",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 5,
+   "handle": "@letravelstyle",
+   "title": "California Coastal Road-Trip Itinerary",
+   "verdict": "UNVERIFIABLE",
+   "note": "UNVERIFIABLE: 0 items, unextractable. Itinerary excluded; creator retained."
+  },
+  {
+   "batch": 5,
+   "handle": "@skylietravels",
+   "title": "5-day Scotland itinerary (under $1,000)",
+   "verdict": "UNVERIFIABLE",
+   "note": "UNVERIFIABLE: creator has zero indexed presence; 0 items. Itinerary excluded; creator retained."
+  },
+  {
+   "batch": 5,
+   "handle": "@wanderingcreator_meghana",
+   "title": "Miami Guide (10 activities)",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 5,
+   "handle": "@thoughtsofatraveller",
+   "title": "The perfect 5 day Chiang Mai itinerary",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 5,
+   "handle": "@lilmsawkward",
+   "title": "African diaspora cultural experiences guide",
+   "verdict": "PASS",
+   "note": "PASS with caveat: named entities verified real; creator-video link uncheckable without TikTok access."
+  },
+  {
+   "batch": 6,
+   "handle": "@theblondeflamingo",
+   "title": "Top Things To Do in Sharjah (ultimate guide)",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 6,
+   "handle": "@kellyprincewright",
+   "title": "Wales cant-miss stops guide",
+   "verdict": "UNVERIFIABLE",
+   "note": "UNVERIFIABLE -> re-extracted from indexed TikTok caption: 9 verified Wales stops; conf medium."
+  },
+  {
+   "batch": 6,
+   "handle": "@chloejadetravels",
+   "title": "Mali travel guide",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 6,
+   "handle": "@amyenvoyage",
+   "title": "Lyme Regis guide / Helsinki four-day itinerary",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 6,
+   "handle": "@chloe__trips",
+   "title": "Travel guides (creator series)",
+   "verdict": "UNVERIFIABLE",
+   "note": "UNVERIFIABLE: placeholder series row, no evidenced guide. Itinerary excluded; creator retained."
+  },
+  {
+   "batch": 6,
+   "handle": "@polkadotpassport",
+   "title": "London travel & food guides (creator series)",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 6,
+   "handle": "@elisetanriverdi",
+   "title": "Porto three-day itinerary",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 6,
+   "handle": "@juliatraveltips",
+   "title": "Itineraries & maps (creator series)",
+   "verdict": "UNVERIFIABLE",
+   "note": "UNVERIFIABLE: placeholder series row, no evidenced guide. Itinerary excluded; creator retained."
+  },
+  {
+   "batch": 7,
+   "handle": "@boyeatsworld",
+   "title": "48 Hours in Busan with Kids",
+   "verdict": "UNVERIFIABLE",
+   "note": "UNVERIFIABLE -> re-extracted: post URL verified via creator-site internal link; items empty (not invented); conf low."
+  },
+  {
+   "batch": 7,
+   "handle": "@fivefortheroadblog",
+   "title": "London Paris Itinerary with Kids",
+   "verdict": "PASS",
+   "note": "PASS with caveat: 13-day vs 12-day ambiguity across source pages; verify on source page."
+  },
+  {
+   "batch": 7,
+   "handle": "@ourfamilypassport",
+   "title": "Where to Go in Fiji with Kids",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 7,
+   "handle": "@the5worldexplorers",
+   "title": "5 Days in Hong Kong",
+   "verdict": "UNVERIFIABLE",
+   "note": "UNVERIFIABLE: specific post not found. Itinerary excluded; creator retained."
+  },
+  {
+   "batch": 7,
+   "handle": "@ting_dalton",
+   "title": "3-Day Istanbul Itinerary",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 7,
+   "handle": "@kritika_goel",
+   "title": "Budapest in 4 Days: Ultimate Itinerary and Insider Tips",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 7,
+   "handle": "@aakanksha.monga",
+   "title": "Planning Tokyo trip: follow this easy itinerary",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 7,
+   "handle": "@wheresachi",
+   "title": "Spiritual Itinerary to Varanasi",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 7,
+   "handle": "@kritika_goel",
+   "title": "Taiwan 5-Day Itinerary (video guide)",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 8,
+   "handle": "@emilyeatsandexplores",
+   "title": "Costa Rica with Emily Cooper — 7 days",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 8,
+   "handle": "@bigworldsmallpockets",
+   "title": "Montenegro in 7 days — day-by-day",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 8,
+   "handle": "@pasaportete",
+   "title": "Miami post-cruise extension",
+   "verdict": "PASS",
+   "note": ""
+  },
+  {
+   "batch": 8,
+   "handle": "@travelforphoebe",
+   "title": "2-day Mount Fuji itinerary",
+   "verdict": "PASS",
+   "note": ""
+  }
+ ]
+}
