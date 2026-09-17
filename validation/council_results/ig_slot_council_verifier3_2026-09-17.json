@@ -1,0 +1,107 @@
+{
+ "verifier": "verifier #3 of 3 \u2014 fresh-context evidence council",
+ "date": "2026-09-17",
+ "candidate": {
+  "handle": "@mylifesatravelmovie",
+  "platform": "instagram",
+  "real_name": "Alyssa Ramos",
+  "niche": "solo female adventure travel"
+ },
+ "method": "Each cited URL fetched independently with curl on 2026-09-17; claims checked against page content. Muck Rack returned HTTP 403 (bot-blocked) and was not used.",
+ "today_utc": "2026-09-17",
+ "claims": [
+  {
+   "id": "C1",
+   "claim": "@mylifesatravelmovie is Alyssa Ramos, one named individual",
+   "verdict": "VERIFIED",
+   "evidence": [
+    {
+     "url": "https://mylifesamovie.com/about-alyssa-ramos/",
+     "quote": "For more than a decade, Alyssa Ramos has dedicated her life to exploring the world",
+     "fetch": "HTTP 200, 2026-09-17"
+    },
+    {
+     "url": "https://mylifesamovie.com/about-alyssa-ramos/",
+     "quote": "About Alyssa Ramos, one of the first original travel bloggers.",
+     "fetch": "HTTP 200, 2026-09-17"
+    },
+    {
+     "url": "https://canvasrebel.com/meet-alyssa-ramos/",
+     "quote": "Meet Alyssa Ramos \u2014 interview article dated August 5, 2024 (independent third-party source)",
+     "fetch": "HTTP 200, 2026-09-17"
+    },
+    {
+     "url": "https://muckrack.com/alyssa-ramos/articles",
+     "quote": null,
+     "note": "UNVERIFIABLE via direct fetch: HTTP 403 Cloudflare bot-block; not needed for verdict"
+    }
+   ]
+  },
+  {
+   "id": "C2",
+   "claim": "Official page states 'Instagram - @MyLifesATravelMovie - 209k'",
+   "verdict": "VERIFIED",
+   "evidence": [
+    {
+     "url": "https://mylifesamovie.com/work-with-me/",
+     "quote": "Social Media Numbers Instagram - @MyLifesATravelMovie - 209k Instagram - @ MyLifesATravelTRIBE (group trips) - 9,890 TikTok - @ MyLifesATravelMovie - 134k Facebook - @ MyLifesATravelMovie - 66.5k YouTube - @ MyLifesATravelMovie - 26k",
+     "fetch": "HTTP 200, 2026-09-17"
+    }
+   ],
+   "policy_question": {
+    "question": "Does creator-attested '209k' satisfy the >=10,000 reach floor as a cited figure (recorded '209K'), or must it be 'unknown'?",
+    "answer": "(a) - accept as cited '209K'",
+    "reasoning": "1) Creator-attested on her own official page: a single consistent figure, unlike the conflicting third-party abbreviations (87.1K/81.8K/82.5K) that sank @sarahdegheselle. 2) The dataset's own followers_approx convention already records cited K-figures (e.g. 234K, 189K rows); recording '209K' is consistent, not a lowering. 3) 209k is unambiguously above the 10,000 floor. 4) Recording 'unknown' would discard strictly-better evidence than many existing rows. Caveat to record in DB notes: figure is rounded to the nearest thousand by the creator herself; never present it as an exact integer."
+   }
+  },
+  {
+   "id": "C3",
+   "claim": "Instagram travel posts on/after 2026-06-18, directly verifiable",
+   "verdict": "VERIFIED",
+   "evidence": [
+    {
+     "url": "https://mylifesamovie.com/tag/travel-guide/",
+     "quote": "33 instagram.com/p|reel URLs in page HTML (e.g. https://www.instagram.com/reel/DdWcGJ0oBuO/)",
+     "fetch": "HTTP 200, 2026-09-17"
+    },
+    {
+     "url": "https://mylifesamovie.com/tag/travel-guide/",
+     "quote": "feed relative dates: '2 days ago' x1, '1 week ago' x1, '2 weeks ago' x4, '3 weeks ago' x2",
+     "fetch": "HTTP 200, 2026-09-17"
+    },
+    {
+     "url": "https://mylifesamovie.com/tag/travel-guide/",
+     "quote": "'3 weeks ago' item caption tail: send you my full customized roadtrip itinerary for here and some of the other Balkans like Kosovo, Albania, and Montenegro!",
+     "fetch": "HTTP 200, 2026-09-17"
+    }
+   ],
+   "date_bound": "Fetch date 2026-09-17; '3 weeks ago' ~= 2026-08-27; '2 days ago' ~= 2026-09-15. All on/after 2026-06-18.",
+   "sufficiency": "SUFFICIENT with documented limitation. Instagram's anonymous embed (instagram.com/reel/DdWcGJ0oBuO/embed/captioned/, HTTP 200) no longer exposes an absolute post timestamp in fetchable HTML - verified by inspection. Given that, the (relative label + fetch date) bound on the creator's OWN domain embedding her OWN feed is the strongest available evidence without login, and it is creator-attributable - materially stronger than the third-party Heepsy 'recency' signal rejected for @sarahdegheselle. Limitation: relative labels are week-granular, not day-exact."
+  },
+  {
+   "id": "C4",
+   "claim": "'Ultimate Balkans Roadtrip Travel Guide for Luxury Adventurers' is a published structured guide dated 2026-08-24, in window >= 2024-09-16",
+   "verdict": "VERIFIED",
+   "evidence": [
+    {
+     "url": "https://mylifesamovie.com/ultimate-balkans-roadtrip-travel-guide/",
+     "quote": "title 'Ultimate Balkans Roadtrip Travel Guide for Luxury Adventurers'; 36 'Day N' headings; ~70k chars of guide text - a real structured guide, not a stub",
+     "fetch": "HTTP 200, 2026-09-17"
+    },
+    {
+     "url": "https://mylifesamovie.com/wp-json/wp/v2/posts?search=Balkans&_fields=date,link,title",
+     "quote": "1 record: date 2026-08-24T15:12:24, link matches the guide URL",
+     "fetch": "HTTP 200, 2026-09-17"
+    }
+   ],
+   "window_check": "2026-08-24 >= 2024-09-16 - within guide window."
+  }
+ ],
+ "overall_verdict": "PASS",
+ "conditions": [
+  "Record followers_approx as '209K' (cited, creator-attested), never as an exact integer; note the rounding caveat in DB notes.",
+  "Record the recent-post evidence as the site-embedded feed bound (relative label + 2026-09-17 fetch), not as an Instagram-native timestamp.",
+  "Extract the Balkans guide (2026-08-24) as the itinerary source, not the DM-gated 'comment Balkans' offer and not the out-of-window 2022 Antarctica post."
+ ],
+ "blockers": []
+}

@@ -1,0 +1,12 @@
+{
+ "gate": 6,
+ "name": "money-firewall / commercial-framing",
+ "date": "2026-09-17",
+ "scope": "replacement slot @mylifesatravelmovie extraction (2 itineraries, 45 items) + regenerated artifacts",
+ "method": "regex scan for projection/recommendation/CTA/sales language over all new extraction text; manual review of every $-figure context",
+ "commercial_framing_flags": [],
+ "dollar_figures": 13,
+ "dollar_figures_assessment": "all 13 are source-grounded prices from the creator's own guide (rental-car rates, water taxis, hotel nightly rates, cable-car fare); none are projections, recommendations, or commercial claims by us",
+ "verdict": "PASS",
+ "login_used": false
+}

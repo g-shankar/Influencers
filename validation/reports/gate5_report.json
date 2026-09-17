@@ -1,7 +1,7 @@
 {
   "gate": 5,
   "name": "db reconciliation",
-  "status": "FAIL",
+  "status": "PASS",
   "results": {
     "influencers_total": {
       "value": 200,
@@ -29,16 +29,20 @@
       "pass": true
     },
     "itineraries_total": {
-      "value": 180,
-      "gate1_total": 186
+      "value": 186,
+      "gate1_total": 189
+    },
+    "itineraries_reconciled": {
+      "value": 186,
+      "pass": true
     },
     "items_total": {
-      "value": 1650
+      "value": 1831
     },
     "confidence_split": {
-      "high": 100,
-      "low": 9,
-      "medium": 71
+      "high": 111,
+      "low": 7,
+      "medium": 68
     },
     "orphan_items": {
       "value": 0,
@@ -81,19 +85,19 @@
     "top_countries": [
       [
         "USA",
-        15
+        17
       ],
       [
         "United States",
         14
       ],
       [
-        "United Kingdom",
-        10
-      ],
-      [
         "Italy",
         9
+      ],
+      [
+        "United Kingdom",
+        8
       ],
       [
         "Japan",
@@ -101,7 +105,7 @@
       ],
       [
         "Spain",
-        6
+        7
       ],
       [
         "Indonesia",
@@ -109,6 +113,10 @@
       ],
       [
         "India",
+        5
+      ],
+      [
+        "Canada",
         5
       ],
       [
@@ -120,16 +128,12 @@
         4
       ],
       [
+        "Egypt",
+        4
+      ],
+      [
         "Croatia",
         4
-      ],
-      [
-        "Canada",
-        4
-      ],
-      [
-        "Unknown",
-        3
       ],
       [
         "United Arab Emirates",
@@ -141,10 +145,6 @@
       ]
     ],
     "top_destinations": [
-      [
-        "Various",
-        3
-      ],
       [
         "Taiwan",
         3
@@ -162,19 +162,7 @@
         3
       ],
       [
-        "Wales",
-        2
-      ],
-      [
         "Tokyo",
-        2
-      ],
-      [
-        "Scotland",
-        2
-      ],
-      [
-        "San Francisco, California",
         2
       ],
       [
@@ -183,6 +171,10 @@
       ],
       [
         "Oahu, Hawaii",
+        2
+      ],
+      [
+        "New York City, USA",
         2
       ],
       [
@@ -200,10 +192,20 @@
       [
         "Cotswolds, England",
         2
+      ],
+      [
+        "Cinque Terre",
+        2
+      ],
+      [
+        "California, USA",
+        2
+      ],
+      [
+        "Amalfi Coast",
+        2
       ]
     ]
   },
-  "errors": [
-    "itineraries_total: db=180 != gate1(186) - skipped(3)"
-  ]
+  "errors": []
 }

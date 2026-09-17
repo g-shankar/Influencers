@@ -73,14 +73,6 @@
       "reason": "Full re-verification 2026-09-16 (worker7): UNVERIFIABLE. TikTok video URL unfetchable (rate-limited) with no indexed caption found anywhere; AFAR article's mention of the account could not be confirmed. Independent re-check confirmed no trace of the video caption. Excluded from DB load via --exclude-json. Do not attribute until a reachable source is produced.",
       "status": "quarantined",
       "scope": "itinerary"
-    },
-    {
-      "handle": "@sarahdegheselle",
-      "platform": "instagram",
-      "reason": "Gate 4 council QUARANTINE 2026-09-16: no exact follower integer (only abbreviated third-party estimates 81.8K-87.1K, unverified) and no directly-dated Instagram post on/after 2026-06-18. Instagram login-walled on 2026-09-16/17 so no live read was possible. Identity (Sarah De Gheselle) and Dalat guide date (2026-03-10, WP REST API + JSON-LD two-signal) verified; this is a verification-access block, not a content failure.",
-      "cure": "Live Instagram read of instagram.com/sarahdegheselle: exact follower integer from profile header + latest post date from grid. If exact >= 10,000 and a travel post >= 2026-06-18, clear the quarantine (morning retry cron scheduled 2026-09-17 06:30 EDT).",
-      "status": "quarantined",
-      "added": "2026-09-16"
     }
   ],
   "manual_checklist": [
@@ -137,16 +129,11 @@
       "platform": "tiktok",
       "reason": "Full re-verification 2026-09-16 (worker7): UNVERIFIABLE. TikTok video URL unfetchable (rate-limited) with no indexed caption found anywhere; AFAR article's mention of the account could not be confirmed. Independent re-check confirmed no trace of the video caption. Excluded from DB load via --exclude-json. Do not attribute until a reachable source is produced.",
       "check_url": "https://www.tiktok.com/thenationalparktravelers"
-    },
-    {
-      "handle": "@sarahdegheselle",
-      "platform": "instagram",
-      "reason": "Gate 4 council QUARANTINE 2026-09-16: no exact follower integer (only abbreviated third-party estimates 81.8K-87.1K, unverified) and no directly-dated Instagram post on/after 2026-06-18. Instagram login-walled on 2026-09-16/17 so no live read was possible. Identity (Sarah De Gheselle) and Dalat guide date (2026-03-10, WP REST API + JSON-LD two-signal) verified; this is a verification-access block, not a content failure.",
-      "check_url": "https://www.instagram.com/sarahdegheselle"
     }
   ],
   "errors": [],
   "warnings": [
-    "quarantine entry @martinsilvaq (tiktok) not in influencers.csv"
+    "quarantine entry @martinsilvaq (tiktok) not in influencers.csv",
+    "quarantine entry @sarahdegheselle (instagram) not in influencers.csv"
   ]
 }

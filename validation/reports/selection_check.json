@@ -1,5 +1,5 @@
 {
-  "status": "PASS",
+  "status": "FAIL",
   "batches": {
     "5": {
       "batch": 5,
@@ -26,6 +26,14 @@
       "non_passing": []
     }
   },
-  "errors": [],
+  "errors": [
+    "batch5 row3 (@travelingwithtals): handle/platform not in batch5.csv",
+    "batch5 row6 (@nytoanywhere): handle/platform not in batch5.csv",
+    "batch5 row7 (@chubbydiaries): handle/platform not in batch5.csv",
+    "batch5 row16 (@goingwithnicole): handle/platform not in batch5.csv",
+    "batch6 row7 (@polkadotpassport): handle/platform not in batch6.csv",
+    "batch6 row15 (@chloe__trips): handle/platform not in batch6.csv",
+    "batch7 row17 (@boyeatsworld): handle/platform not in batch7.csv"
+  ],
   "warnings": []
 }

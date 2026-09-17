@@ -1,0 +1,58 @@
+{
+ "gate": 7,
+ "name": "final evidence-only audit",
+ "date": "2026-09-17",
+ "auditor": "fresh-context re-auditor (no prior context; evidence-only per ~/workspace/audit/CHARTER.md)",
+ "verdict": "PASS",
+ "remediation": {
+  "prior_failure": "2026-09-17 earlier audit FAIL: staging/selection_log.csv:102 (@mylifesatravelmovie row) had 25 columns vs the 23-column header; two non-schema evidence fields (activity_evidence, purchase_intent_evidence) shifted purchase_intent onward, corrupting the DictReader mapping (decision/notes/check_date/selector misread).",
+  "fix_applied": "Parent rewrote line 102 with exactly the 23 header columns, folding the two extra evidence snippets into the notes field (prefixed 'activity evidence:' and 'purchase-intent evidence:'). Verified post-fix: all 102 rows have exactly 23 columns; csv.DictReader maps purchase_intent='present', exclusions_check='pass', decision='include', check_date='2026-09-17', selector='ig-slot-worker'; notes retains 'Gate 4 mini-council' text, 'ig_slot_council_verifier', 'No Instagram login used', plus both folded evidence phrases. No restkey spill. No data lost."
+ },
+ "checks": [
+  {
+   "name": "selection_log.csv column fix",
+   "result": "PASS",
+   "evidence": "staging/selection_log.csv: header 23 cols; all 102 rows (incl. line 102) exactly 23 cols; DictReader: purchase_intent='present', exclusions_check='pass', decision='include', check_date='2026-09-17', selector='ig-slot-worker'; no restkey fields"
+  },
+  {
+   "name": "no data lost in notes fold",
+   "result": "PASS",
+   "evidence": "staging/selection_log.csv @mylifesatravelmovie notes (650 chars) contains 'Gate 4 mini-council', 'ig_slot_council_verifier', 'No Instagram login used', 'activity evidence', 'purchase-intent evidence'"
+  },
+  {
+   "name": "replacement provenance (@sarahdegheselle)",
+   "result": "PASS",
+   "evidence": "'@sarahdegheselle' absent from influencers.csv and batch7.csv; validation/quarantine.json: 1 entry, status='replaced', resolution cites Gate 4 mini-council PASS 2026-09-17 and slot filled by @mylifesatravelmovie"
+  },
+  {
+   "name": "DB counts",
+   "result": "PASS",
+   "evidence": "sqlite3 pilot.db: influencers=200 (instagram=100, tiktok=100); itineraries=186; items=1831; sources=221; posts=186; orphan_items=0; itineraries_without_source=0; confidence high=111/medium=68/low=7; creators_with_itineraries=136; followers known=173/unknown=27; both new titles present ('Ultimate Balkans Roadtrip Travel Guide for Luxury Adventurers', 'Best Things to Do in Trinidad and Cienfuegos: A 3-Day Cuba Itinerary')"
+  },
+  {
+   "name": "deck numbers match DB",
+   "result": "PASS",
+   "evidence": "travel-itinerary-pilot-report.pptx: 30 slides; all headline numbers present (200, 100 TikTok/Instagram, 186, 1,831, 221, 166, 111/68/7, 173/27, 136); Appendix B contains both new itineraries (3 and 9 days, high confidence)"
+  },
+  {
+   "name": "slide 6 audit line claims no verdict",
+   "result": "PASS",
+   "evidence": "slide 6 text: 'Audit: final evidence-only audit report: validation/council_results/gate7_audit_2026-09-17.json — read the verdict there; this slide makes no claim about it.' No 'audit: PASS' claim anywhere."
+  },
+  {
+   "name": "gate evidence files say PASS",
+   "result": "PASS",
+   "evidence": "validation/reports/gate1_report.json/gate2/gate3/gate5: status=PASS; validation/council_results/ig_slot_gate4_2026-09-17.json: verdict=PASS (verifierA verdicts PASS, verifierB overall PASS_WITH_REMEDIATION with remediation applied); validation/council_results/gate6_2026-09-17.json: verdict=PASS"
+  },
+  {
+   "name": "money firewall",
+   "result": "PASS",
+   "evidence": "deck: zero projection/recommendation/CTA/sales-language hits; 3 $ figures ($350, $1,000, $100) are creator source itinerary titles (slides 21, 26, 28); new extraction: 13 $ figures all source-stated travel prices (car rentals, taxis, hotel rates)"
+  },
+  {
+   "name": "workbook integrity",
+   "result": "PASS",
+   "evidence": "travel-influencers-directory.xlsx: sheets Influencers (200 data rows), Itineraries (186 data rows, incl. both new titles at rows 91-92), Quarantined (10 data rows); @mylifesatravelmovie present (Alyssa Ramos, 209K, 2 itineraries); @sarahdegheselle absent from all sheets"
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "gate": 4,
+ "scope": "replacement slot: @mylifesatravelmovie (Alyssa Ramos), instagram \u2014 replaces quarantined @sarahdegheselle",
+ "date": "2026-09-17",
+ "verifiers": [
+  {
+   "id": "A",
+   "report": "validation/council_results/ig_slot_evidence_verifierA_2026-09-17.json",
+   "verdict": "PASS"
+  },
+  {
+   "id": "B",
+   "report": "validation/council_results/ig_slot_evidence_verifierB_2026-09-17.json",
+   "verdict": "PASS_WITH_REMEDIATION"
+  }
+ ],
+ "coverage": "2/2 new itineraries reviewed (100%)",
+ "fail_rate": "0%",
+ "remediation_applied": "8 honestly-unnamed items given descriptive '(not named by creator)' names per dataset convention (@gopharitravels precedent); verified empty names = 0 after fix; batch7.csv + influencers.csv + selection_log.csv + quarantine.json updated",
+ "verdict": "PASS",
+ "login_used": false,
+ "notes": "Both verifiers re-fetched source pages independently (HTTP 200). Zero invented hotels/activities/restaurants/prices/day counts. Minor spelling variance 'canchanchara' vs source 'canchancara' noted, non-FAIL."
+}

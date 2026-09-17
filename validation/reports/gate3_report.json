@@ -2,9 +2,9 @@
   "gate": 3,
   "name": "source liveness",
   "status": "PASS",
-  "itineraries_checked": 187,
-  "urls_checked": 220,
-  "urls_reachable": 193,
+  "itineraries_checked": 189,
+  "urls_checked": 222,
+  "urls_reachable": 210,
   "dead_itineraries": [],
   "overridden_script_false_negatives": [
     {
@@ -128,18 +128,6 @@
       ],
       "script_statuses": {
         "https://www.lemon8-app.com/sightsofsara/7220679971399287301?region=us": null
-      },
-      "evidence_file": "validation/reports/gate3_override_evidence.json"
-    },
-    {
-      "batch": 4,
-      "handle": "@themomtrotter",
-      "title": "St. Croix Family Itinerary",
-      "verified_by_manual_browser_fetch": [
-        "https://themomtrotter.com/things-to-do-in-st-croix/"
-      ],
-      "script_statuses": {
-        "https://themomtrotter.com/things-to-do-in-st-croix/": null
       },
       "evidence_file": "validation/reports/gate3_override_evidence.json"
     }
@@ -286,9 +274,9 @@
       "reachable": true
     },
     "https://izea.com/resources/tiktok-travel-influencers/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://johnnyjet.com/3-beautiful-bermuda-beaches-in-3-days/": {
       "status": 200,
@@ -361,6 +349,16 @@
       "reachable": true
     },
     "https://mumpacktrips.com.au/luxe-komodo-womens-adventure-2026-2027/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://mylifesamovie.com/best-things-to-do-in-trinidad-and-cienfuegos/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://mylifesamovie.com/ultimate-balkans-roadtrip-travel-guide/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -441,9 +439,9 @@
       "reachable": true
     },
     "https://themomtrotter.com/things-to-do-in-st-croix/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 503: Service Unavailable",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://themomtrotter.com/utah-national-parks-southwest-road-trip/": {
       "status": 200,
@@ -496,7 +494,7 @@
       "reachable": true
     },
     "https://travelingmel.com/iceland-without-a-car-based-in-reykjavik/": {
-      "status": 200,
+      "status": 202,
       "error": null,
       "reachable": true
     },
@@ -516,69 +514,69 @@
       "reachable": true
     },
     "https://urlebird.com/user/CandaceAbroad/": {
-      "status": null,
-      "error": "RemoteDisconnected: Remote end closed connection without response",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/user/makisantos_/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/user/nikitabathia/": {
-      "status": null,
-      "error": "RemoteDisconnected: Remote end closed connection without response",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/user/nospaceinmypassport/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/user/postcardsbyhannah/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/user/sandymakessense/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/user/travelcheapwithchloe/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/user/uktravel/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/video/full-october-olympic-national-park-itinerary-if-youre-planning-7680272896685575438/": {
-      "status": null,
-      "error": "RemoteDisconnected: Remote end closed connection without response",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/video/the-experiences-i-had-and-how-you-can-do-the-same-hopkins-beli-7682824671422647582/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/video/things-to-do-in-chiang-mai-the-perfect-5-day-chiang-mai-itinerar-7615679617436978434/": {
-      "status": null,
-      "error": "RemoteDisconnected: Remote end closed connection without response",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/video/washington-dcs-spring-itinerary-ad-washington-dc-day-1-stay-l-7637628099324103950/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://urlebird.com/video/yes-you-can-see-machu-picchu-lima-and-the-desert-with-just-4-day-7685523563368942862/": {
-      "status": null,
-      "error": "HTTPError: HTTP Error 403: Forbidden",
-      "reachable": false
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://wheresachi.com/discover-istanbul-an-ultimate-4-days-itinerary/": {
       "status": 200,
@@ -1181,7 +1179,7 @@
       "reachable": true
     },
     "https://www.youtube.com/watch?v=9hPvsyVCksg": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
@@ -1191,7 +1189,7 @@
       "reachable": true
     },
     "https://www.youtube.com/watch?v=Baj-TL-DKGU": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
@@ -1201,12 +1199,12 @@
       "reachable": true
     },
     "https://www.youtube.com/watch?v=KZxxi0_aIV0": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
     "https://www.youtube.com/watch?v=_qMcEMjLYhw": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
@@ -1216,22 +1214,22 @@
       "reachable": true
     },
     "https://www.youtube.com/watch?v=e4r0khsE8hQ": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
     "https://www.youtube.com/watch?v=mYBNRbDhO_o": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
     "https://www.youtube.com/watch?v=x6U2Lnb3spU": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
     "https://www.youtube.com/watch?v=y_maOz6qpbY": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
@@ -1247,21 +1245,6 @@
     }
   },
   "errors": [],
-  "warnings": [
-    "batch4 @mgtenazas 'Maldives on a Budget: Local-Island Stays': 1 unreachable URL(s), 1 reachable",
-    "batch5 @gokylahgo '4 days in Peru: Machu Picchu, Lima and the desert': 1 unreachable URL(s), 1 reachable",
-    "batch5 @carissamonyce 'Washington DC spring itinerary (3 days)': 1 unreachable URL(s), 1 reachable",
-    "batch5 @lilmsawkward 'African diaspora cultural experiences guide': 1 unreachable URL(s), 1 reachable",
-    "batch5 @christian.the.creative '4-day October Olympic National Park itinerary': 1 unreachable URL(s), 1 reachable",
-    "batch5 @thoughtsofatraveller 'The perfect 5 day Chiang Mai itinerary': 1 unreachable URL(s), 1 reachable",
-    "batch6 @uktravel 'Wales road trip series (Day 1 / Day 2 / Day 3 / five-day)': 1 unreachable URL(s), 1 reachable",
-    "batch6 @nikitabathia 'Abu Dhabi travel guide (Day 1 itinerary)': 1 unreachable URL(s), 1 reachable",
-    "batch6 @sandymakessense 'Palermo food guide': 1 unreachable URL(s), 1 reachable",
-    "batch6 @CandaceAbroad '3-day Kuala Lumpur itinerary': 1 unreachable URL(s), 1 reachable",
-    "batch6 @nospaceinmypassport 'Perfect-day Menorca guide': 1 unreachable URL(s), 1 reachable",
-    "batch6 @makisantos_ 'Phu Quoc itineraries (24 hours + 2 days)': 1 unreachable URL(s), 1 reachable",
-    "batch6 @travelcheapwithchloe 'Manchester guide / Peak District routes': 1 unreachable URL(s), 1 reachable",
-    "batch6 @postcardsbyhannah '1-week Route 66 road trip itinerary': 1 unreachable URL(s), 1 reachable"
-  ],
+  "warnings": [],
   "caveat": "UNREACHABLE means not fetchable by script (bot-blocking possible); the evidence council verifies these in a real browser before any waiver."
 }

@@ -101,6 +101,27 @@ def main():
     g1_batches = sorted(b["batch"] for b in g1["batches"])
     g1_itins = sum(b["itineraries"] for b in g1["batches"])
 
+    def _gate_status(path, key="status", verdict_key="verdict"):
+        try:
+            d = json.loads((ROOT / path).read_text(encoding="utf-8"))
+            return d.get(key) or d.get(verdict_key) or "present"
+        except Exception:
+            return "missing"
+
+    gates = {
+        "gate1_schema": _gate_status("validation/reports/gate1_report.json"),
+        "gate2_handles": _gate_status("validation/reports/gate2_report.json"),
+        "gate3_liveness": _gate_status("validation/reports/gate3_report.json"),
+        "gate4_evidence_council": _gate_status(
+            "validation/council_results/ig_slot_gate4_2026-09-17.json"),
+        "gate5_reconciliation": _gate_status("validation/reports/gate5_report.json"),
+        "gate6_money_firewall": _gate_status(
+            "validation/council_results/gate6_2026-09-17.json"),
+        "gate7_evidence_audit": _gate_status(
+            "validation/council_results/gate7_audit_2026-09-17.json"),
+    }
+    gates["all_pass"] = all(v == "PASS" for v in gates.values())
+
     data = {
         "stage": stage["stage"],
         "generated_at": datetime.date.today().isoformat(),
@@ -135,7 +156,7 @@ def main():
         "validation": {
             "batches": g1_batches,
             "gate1_itineraries": g1_itins,
-            "gates": "all 7 PASS",
+            "gates": gates,
             "quarantined": n_quar_handles,
         },
     }

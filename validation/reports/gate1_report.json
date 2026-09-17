@@ -43,7 +43,7 @@
       "batch": 7,
       "status": "PASS",
       "extractions": 25,
-      "itineraries": 29
+      "itineraries": 31
     },
     {
       "batch": 8,
@@ -56,6 +56,7 @@
   "warnings": [
     "batch6[20].itineraries[0]: possible duplicate title+destination within batch",
     "staging/itineraries_batch9_replacements.json: non-canonical file ignored by gates",
+    "staging/itineraries_ig_slot_2026-09-17.json: non-canonical file ignored by gates",
     "staging/itineraries_replacements3_2026-09-16.json: non-canonical file ignored by gates",
     "staging/itineraries_replacements_2026-09-16.json: non-canonical file ignored by gates",
     "staging/itineraries_replacements_ig_2026-09-16.json: non-canonical file ignored by gates",

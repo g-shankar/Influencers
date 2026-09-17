@@ -78,8 +78,10 @@
    "platform": "instagram",
    "reason": "Gate 4 council QUARANTINE 2026-09-16: no exact follower integer (only abbreviated third-party estimates 81.8K-87.1K, unverified) and no directly-dated Instagram post on/after 2026-06-18. Instagram login-walled on 2026-09-16/17 so no live read was possible. Identity (Sarah De Gheselle) and Dalat guide date (2026-03-10, WP REST API + JSON-LD two-signal) verified; this is a verification-access block, not a content failure.",
    "cure": "Live Instagram read of instagram.com/sarahdegheselle: exact follower integer from profile header + latest post date from grid. If exact >= 10,000 and a travel post >= 2026-06-18, clear the quarantine (morning retry cron scheduled 2026-09-17 06:30 EDT).",
-   "status": "quarantined",
-   "added": "2026-09-16"
+   "status": "replaced",
+   "added": "2026-09-16",
+   "resolved": "2026-09-17",
+   "resolution": "Slot filled by @mylifesatravelmovie (Alyssa Ramos) per Gate 4 mini-council PASS 2026-09-17 (3/3 verifiers; reports in validation/council_results/ig_slot_council_verifier{1,2,3}_2026-09-17.json). Instagram cure never materialized: 2026-09-17 06:33 EDT cron retry and subagent research both hit the login wall; no login was used. Sarah's Dalat guide evidence retained in staging/itineraries_replacements_ig_2026-09-16.json for provenance."
   }
  ]
 }

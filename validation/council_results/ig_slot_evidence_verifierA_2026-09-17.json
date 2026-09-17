@@ -1,0 +1,47 @@
+{
+ "council": "Gate 4 evidence council — IG slot (@mylifesatravelmovie)",
+ "verifier": "A",
+ "date": "2026-09-17",
+ "method": "Independent re-fetch of both source_urls (HTTP 200, 2026-09-17); full item-by-item check against page text and raw HTML link targets. Extraction worker's notes never seen.",
+ "verdicts": [
+  {
+   "handle": "@mylifesatravelmovie",
+   "title": "Ultimate Balkans Roadtrip Travel Guide for Luxury Adventurers",
+   "verdict": "PASS",
+   "evidence": [
+    "Day count 9: source's own title '9 Day Balkans Roadtrip Itinerary – Kosovo, North Macedonia, Albania, Montenegro'; section headings Day 1 / Days 2-3 / Day 4 / Days 5 & 6 / Day 6 Alternative / Day 6 Evening / Day 7 / Day 8.",
+    "All 23 named hotels/activities/restaurants found verbatim on page (Hotel Lago Ohrid, Sapphire Hotel Prizren, Hotel Hemera, Limonce Bar, Cafe Liquid, Wine Bar and Winery Mal Sv. Kliment, Reception, Utopia Rooftop Bar, Shanghai Sushi, Restaurant Mlin, Vetoni Tourist, Coco beach club, Kraken Underwater Wine Cellar, Mkenh Winery, Kotor Cable Car, Prizren Fortress, Via Ferrata/Peja, paragliding, Perast, Budva, Aerobar, Falcon ride).",
+    "Prices source-stated: $128 paraglide link label (body text says ~$110 — discrepancy honestly noted in extraction details), $81 Peja full-day tour, $85 Peja half-day tour, $575/4-5pax/4h Budva boat, $30 RT cable car, ~$20 Vetoni bus, $20 Coco sun chair+umbrella, $100/night Budva 4-star, ~$110 Hotel Hemera w/ breakfast, ~$25 green card, ~$7 Kotor bus vs ~$70 taxi, $30-40/day Kosovo / ~$70/day Montenegro rentals.",
+    "Booking links all present in raw HTML: getyourguide.tpk.mx/{WoQYrN4y,V6Qb7UQQ,r9nURySg,LyohcXRu}, agoda.tpk.mx/{Y1dTMJaY,6PR9PqfP,YlASHQm7}, hotels.tpk.mx/Nvqt6L6Q, discovercars.tpk.mx/XIcJK1tN, skyscanner.pxf.io/jr7ev5, bookaway.com/?offer_id=34&aff_id=2158 ('Balkans Transfer Tickets'), shop.kotorcablecar.com ('Kotor - Lovcen - Kotor Cable Car' anchor).",
+    "Honest nulls kept: Skopje lunch restaurant unnamed in source -> name null; Budva hotel unnamed -> name null; Via Ferrata listed with no booking URL -> null.",
+    "Details match source wording: Sapphire owner 'helped park our car ... in the complicated pedestrian area'; Reception 'Make a reservation if you want to get a seat on the highly coveted patio'; Kraken 'I personally found it overpriced for the experience' + 'You MUST have a reservation far in advance' + 'water taxi around $100 for a roundtrip ride'; Prizren Fortress 'late afternoon' + 'panoramic views over the red rooftops'."
+   ],
+   "minor_fidelity_notes": [
+    "Cable car: price '$30 round trip' is stated next to the GetYourGuide link ($30 RT); the extraction's booking_link is the shop.kotorcablecar.com URL which also appears in the source but without an adjacent price. Both link and price are source-grounded; only the pairing crosses two source links. Not a fabrication.",
+    "Paragliding price_hint uses the $128 link label while body text says '~$110' — the extraction explicitly documents this discrepancy in details. Honest."
+   ]
+  },
+  {
+   "handle": "@mylifesatravelmovie",
+   "title": "Best Things to Do in Trinidad and Cienfuegos: A 3-Day Cuba Itinerary",
+   "verdict": "PASS",
+   "evidence": [
+    "Day count 3: article title 'A 3-Day Cuba Itinerary'; body headings 'Day 1: Best Things to do in Trinidad!' / 'Day 2: Hike to Waterfalls in Parque Guanayara' / 'Day 3: Best of Cienfuegos: Kayaking, Castillo de Jagua, and Lobster Lunch'.",
+    "All named items found: Museo Romantico, Iglesia Parroquial de la Santisima (accents), bell tower, Disco Ayala, Parque Guanayara, 'Russian limousine' old war truck, Castillo de Jagua, Parque Jose Marti (accent), Paseo del Prado, Malecon (accent), Punta Gorda, Teatro Tomas Terry (accent), cooking/salsa session, kayaking.",
+    "Details match: Disco Ayala 'government owned, so U.S. citizens can't go there ... located inside of a cave'; Guanayara hike 'arranged by a local agency' (unnamed -> honest); casa particular 'near Plaza Mayor' unnamed -> name null.",
+    "No booking links claimed; none in source. No prices claimed; none stated. Honest nulls throughout."
+   ],
+   "minor_fidelity_notes": [
+    "Drink spelled 'canchanchara' in extraction vs source's quoted 'canchancara'. Minor spelling variance of a local drink name; not a fabrication."
+   ]
+  }
+ ],
+ "sample": {
+  "itineraries_reviewed": 2,
+  "itineraries_total_new": 2,
+  "coverage": "100% of new extractions"
+ },
+ "fail_rate": 0.0,
+ "escalation_triggered": false,
+ "sent_back_for_reextraction": []
+}

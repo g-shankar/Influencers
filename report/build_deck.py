@@ -326,7 +326,9 @@ bullets(s, [
      "an independent evidence council re-verified the itineraries against live "
      "sources; corrections are recorded in QC_REPORT_STRENGTHENED.md."),
     ("Audit: ",
-     "evidence-only audit: PASS."),
+     "final evidence-only audit report: "
+     "validation/council_results/gate7_audit_2026-09-17.json — "
+     "read the verdict there; this slide makes no claim about it."),
 ], t=4.6)
 footer(s, 6, 0)
 
