@@ -1,1 +1,82 @@
-{"adjudicated_at":"2026-09-18","auditor_files":["validation/council_results/gate7_auditor_B_2026-09-18.json","validation/council_results/gate7_auditor_C_2026-09-18.json"],"auditors":{"A":{"packets":41,"records_written":0,"status":"interim handoff only; browser fetch tool failed terminally mid-chunk. 25 of 41 packets verified CONFIRMED before the failure (19 live-verified + 6 covered by gate3 override evidence). 16 packets not attempted. A follow-up auditor (A2) was spawned then closed before starting because the fetch-service 429 outage was global."},"B":{"packets":41,"records_written":41,"status":"complete file on disk"},"C":{"packets":40,"records_written":40,"status":"complete file on disk"}},"corrections_applied":[{"batch":12,"confidence":"medium (unchanged)","correction":"unsupported day 1-6 assignments removed (set null); 6-destination guide claim confirmed","handle":"@madisonbrookstravel","issue":"extraction framed 6 destinations as a day-by-day itinerary; source TikTok video is a tips video naming the same 6 destinations","title":"Greece guide: Athens, Mykonos, Santorini, Paros, Naxos, Milos"},{"batch":7,"confidence":"high -> medium","correction":"source-drift note added; claim documented as reflecting the page as captured 2026-09-08 (schema.org dateModified matches)","handle":"@fivefortheroadblog","issue":"source URL repurposed by creator to 'First Time to Europe Itinerary: Iceland, London, and Paris Trip'; original London-Paris-with-kids content (Days 1-13) no longer on page","title":"London Paris Itinerary with Kids"}],"fabrications_found":0,"manifest":"validation/council_packets/final_audit_manifest_2026-09-18.json","note":"The 69 UNVERIFIABLE packets are verification-incomplete, NOT negative evidence: no auditor found a dead source, fabricated item, or contradicted claim in any packet it could fully check. The fetch-service upstream 429 outage is a hard stop per rate-limit guardrails; re-running the 65 outage-affected packets is recommended when the service recovers.","partial_corrected":[{"batch":12,"by":"auditor C","handle":"@madisonbrookstravel","resolution":"corrected in staging/itineraries_batch12.json; DB reloaded"},{"batch":7,"by":"auditor B","handle":"@fivefortheroadblog","resolution":"corrected in staging/itineraries_batch7.json; DB reloaded"}],"sample":{"batches_represented":20,"confidence_mix":{"high":70,"low":11,"medium":41},"fraction":0.3228,"of_staging_itineraries":378,"packets":122},"status":"CONDITIONAL PASS","unverifiable_breakdown":{"fetch_service_429_outage":65,"inherent_limitation_tiktok_photo_posts_no_retrievable_caption":4},"unverifiable_detail":"65 packets could not be content-checked because the browser fetch service began returning upstream HTTP 429 for every request mid-batch (auditors A, B, C all affected; treated as terminal per rate-limit guardrails, no retries). 4 TikTok photo posts (@lorrainestravels, @_jessiecarr x3) fetched successfully but returned no caption/slide text to the text fetcher — an inherent limitation of text-fetching photo posts, not a source problem.","verdict_counts":{"CONFIRMED":51,"PARTIAL":2,"UNVERIFIABLE":69},"verdict_rationale":"CONDITIONAL (not full) PASS because 69 of 122 sampled packets could not be content-verified due to a fetch-service rate-limit outage outside the pipeline's control. Within the 53 packets fully adjudicated: 51 CONFIRMED, 2 PARTIAL (both corrected in staging with DB reload), 0 fabrications, 0 contradictions. The systematic Gate 3 liveness check independently covers all 378 staging itineraries with 0 dead sources."}
+{
+ "adjudicated_at": "2026-09-18",
+ "auditor_files": [
+  "validation/council_results/gate7_auditor_B_2026-09-18.json",
+  "validation/council_results/gate7_auditor_C_2026-09-18.json"
+ ],
+ "auditors": {
+  "A": {
+   "packets": 41,
+   "records_written": 0,
+   "status": "interim handoff only; browser fetch tool failed terminally mid-chunk. 25 of 41 packets verified CONFIRMED before the failure (19 live-verified + 6 covered by gate3 override evidence). 16 packets not attempted. A follow-up auditor (A2) was spawned then closed before starting because the fetch-service 429 outage was global."
+  },
+  "B": {
+   "packets": 41,
+   "records_written": 41,
+   "status": "complete file on disk"
+  },
+  "C": {
+   "packets": 40,
+   "records_written": 40,
+   "status": "complete file on disk"
+  }
+ },
+ "corrections_applied": [
+  {
+   "batch": 12,
+   "confidence": "medium (unchanged)",
+   "correction": "unsupported day 1-6 assignments removed (set null); 6-destination guide claim confirmed",
+   "handle": "@madisonbrookstravel",
+   "issue": "extraction framed 6 destinations as a day-by-day itinerary; source TikTok video is a tips video naming the same 6 destinations",
+   "title": "Greece guide: Athens, Mykonos, Santorini, Paros, Naxos, Milos"
+  },
+  {
+   "batch": 7,
+   "confidence": "high -> medium",
+   "correction": "source-drift note added; claim documented as reflecting the page as captured 2026-09-08 (schema.org dateModified matches)",
+   "handle": "@fivefortheroadblog",
+   "issue": "source URL reframed by creator to 'First Time to Europe Itinerary: Iceland, London, and Paris Trip'; the 13-day family itinerary content is retained (London Days 4-6, Paris Days 7-13) but Iceland added as Days 1-3 and title changed",
+   "title": "London Paris Itinerary with Kids"
+  }
+ ],
+ "fabrications_found": 0,
+ "manifest": "validation/council_packets/final_audit_manifest_2026-09-18.json",
+ "note": "The 69 UNVERIFIABLE packets are verification-incomplete, NOT negative evidence: no auditor found a dead source, fabricated item, or contradicted claim in any packet it could fully check. The fetch-service upstream 429 outage is a hard stop per rate-limit guardrails; re-running the 65 outage-affected packets is recommended when the service recovers.",
+ "partial_corrected": [
+  {
+   "batch": 12,
+   "by": "auditor C",
+   "handle": "@madisonbrookstravel",
+   "resolution": "corrected in staging/itineraries_batch12.json; DB reloaded"
+  },
+  {
+   "batch": 7,
+   "by": "auditor B",
+   "handle": "@fivefortheroadblog",
+   "resolution": "corrected in staging/itineraries_batch7.json; DB reloaded"
+  }
+ ],
+ "sample": {
+  "batches_represented": 20,
+  "confidence_mix": {
+   "high": 70,
+   "low": 11,
+   "medium": 41
+  },
+  "fraction": 0.3228,
+  "of_staging_itineraries": 378,
+  "packets": 122
+ },
+ "status": "CONDITIONAL PASS",
+ "unverifiable_breakdown": {
+  "fetch_service_429_outage": 65,
+  "inherent_limitation_tiktok_photo_posts_no_retrievable_caption": 4
+ },
+ "unverifiable_detail": "65 packets could not be content-checked because the browser fetch service began returning upstream HTTP 429 for every request mid-batch (auditors A, B, C all affected; treated as terminal per rate-limit guardrails, no retries). 4 TikTok photo posts (@lorrainestravels, @_jessiecarr x3) fetched successfully but returned no caption/slide text to the text fetcher \u2014 an inherent limitation of text-fetching photo posts, not a source problem.",
+ "verdict_counts": {
+  "CONFIRMED": 51,
+  "PARTIAL": 2,
+  "UNVERIFIABLE": 69
+ },
+ "verdict_rationale": "CONDITIONAL (not full) PASS because 69 of 122 sampled packets could not be content-verified due to a fetch-service rate-limit outage outside the pipeline's control. Within the 53 packets fully adjudicated: 51 CONFIRMED, 2 PARTIAL (both corrected in staging with DB reload), 0 fabrications, 0 contradictions. The systematic Gate 3 liveness check independently covers all 378 staging itineraries with 0 dead sources."
+}

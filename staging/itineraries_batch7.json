@@ -1507,7 +1507,7 @@
       "https://fivefortheroad.com/london-paris-itinerary-with-kids/"
      ],
      "items": [],
-     "correction_note": "2026-09-18 Gate 7 audit (PARTIAL): the source URL now serves a repurposed article ('First Time to Europe Itinerary: Iceland, London, and Paris Trip'); the London-Paris-with-kids content (Days 1-13) is no longer on the page. Schema.org dateModified 2026-09-08 matches the extraction's publication date, indicating the extraction was accurate when captured and the creator rewrote the page afterward. Confidence downgraded high->medium; claim reflects the page as captured at extraction time."
+     "correction_note": "2026-09-18 Gate 7 audit (PARTIAL): the source URL was reframed by the creator to 'First Time to Europe Itinerary: Iceland, London, and Paris Trip' (schema.org dateModified 2026-09-08). The underlying 13-day family itinerary content is retained on the page (London Days 4-6, Paris/Disneyland Paris Days 7-13), but Iceland was added as Days 1-3 and the title/scope changed — so the page no longer matches the claimed 'London Paris Itinerary with Kids' title. Confidence downgraded high->medium; claim reflects the itinerary content, which remains substantially supported."
     }
    ],
    "platform": "instagram",
