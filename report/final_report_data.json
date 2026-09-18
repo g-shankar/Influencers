@@ -10,10 +10,10 @@
   },
   "coverage": {
     "destinations": 301,
-    "items": 3421,
+    "items": 3414,
     "longest_days": 45,
     "longest_title": "Western Europe Backpacking Itinerary (2026 Update)",
-    "no_fixed_length": 80,
+    "no_fixed_length": 82,
     "shortest_days": 1,
     "sources": 405,
     "trips_7_days_or_more": 110

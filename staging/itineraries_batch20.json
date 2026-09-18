@@ -1604,7 +1604,7 @@
      "destination": "Pacific Northwest",
      "country": "United States",
      "days": 7,
-     "summary": "Creator's 7-day Pacific Northwest road-trip route: Seattle start, Snoqualmie Falls and Leavenworth, North Cascades and Diablo Lake, Olympic National Park, Mount St. Helens, Mount Rainier, and a Bainbridge Island finale; includes per-stop pricing, booking links, packing list and a free downloadable PDF.",
+     "summary": "Creator's 7-day Pacific Northwest road-trip route: Seattle start, Snoqualmie Falls and Leavenworth, North Cascades and Diablo Lake, Olympic National Park, Mount St. Helens, Mount Rainier, and a Bainbridge Island finale; includes per-stop pricing, booking links, packing list and a free downloadable PDF. [Gate 7 correction 2026-09-18: page route is Day 1 Seattle, Day 2 Mt Rainier, Day 3 Portland, Day 4 Columbia Gorge, Day 5 Oregon Coast, Day 6 Olympic NP, Day 7 Seattle; extraction-only stops' day assignments and prices nulled.]",
      "source_urls": [
       "https://themobilehomie.com/pacific-northwest-road-trip/"
      ],
@@ -1621,10 +1621,10 @@
       {
        "item_type": "activity",
        "name": "Seattle Underground Tour",
-       "day": 1,
+       "day": null,
        "description": "Subterranean history tour beneath Pioneer Square",
        "booking_link": null,
-       "price_hint": "$25-$30 per person"
+       "price_hint": null
       },
       {
        "item_type": "activity",
@@ -1640,7 +1640,7 @@
        "day": 1,
        "description": "Seattle museum stop listed on the itinerary",
        "booking_link": null,
-       "price_hint": "from $34"
+       "price_hint": null
       },
       {
        "item_type": "activity",
@@ -1661,7 +1661,7 @@
       {
        "item_type": "activity",
        "name": "Snoqualmie Falls",
-       "day": 2,
+       "day": null,
        "description": "Stop en route to Leavenworth, with Franklin Falls and Twin Falls options",
        "booking_link": null,
        "price_hint": null
@@ -1669,7 +1669,7 @@
       {
        "item_type": "activity",
        "name": "Leavenworth (Bavarian village)",
-       "day": 2,
+       "day": null,
        "description": "Bavarian-themed town with shops and restaurants; creator recommends the Enzian Inn",
        "booking_link": null,
        "price_hint": null
@@ -1677,15 +1677,15 @@
       {
        "item_type": "hotel",
        "name": "Leavenworth cabin rentals",
-       "day": 2,
+       "day": null,
        "description": "Cabin rentals via VRBO or Plum Vacation",
        "booking_link": null,
-       "price_hint": "from $125/night"
+       "price_hint": null
       },
       {
        "item_type": "activity",
        "name": "Diablo Lake overlook",
-       "day": 3,
+       "day": null,
        "description": "Vibrant turquoise lake in the North Cascades; easy viewpoint stop",
        "booking_link": null,
        "price_hint": null
@@ -1693,7 +1693,7 @@
       {
        "item_type": "activity",
        "name": "North Cascades hikes",
-       "day": 3,
+       "day": null,
        "description": "Trail options: Diablo Lake Trail, Ross Dam trailhead, Thunder Knob, Gorge Overlook",
        "booking_link": null,
        "price_hint": null
@@ -1701,31 +1701,31 @@
       {
        "item_type": "activity",
        "name": "Port Townsend ferry",
-       "day": 4,
+       "day": null,
        "description": "Ferry crossing into the Olympic Peninsula",
        "booking_link": null,
-       "price_hint": "$23.80"
+       "price_hint": null
       },
       {
        "item_type": "activity",
        "name": "Olympic National Park entry",
-       "day": 4,
+       "day": null,
        "description": "National park entry fee",
        "booking_link": null,
-       "price_hint": "$30 per vehicle"
+       "price_hint": null
       },
       {
        "item_type": "activity",
        "name": "Sol Duc Hot Springs",
-       "day": 4,
+       "day": null,
        "description": "Hot springs resort stop on the itinerary",
        "booking_link": null,
-       "price_hint": "$20-$25 per person"
+       "price_hint": null
       },
       {
        "item_type": "activity",
        "name": "Mount St. Helens",
-       "day": 5,
+       "day": null,
        "description": "Volcano viewpoints including Johnston Ridge Observatory (reservation required) and the Science and Learning Center",
        "booking_link": null,
        "price_hint": null
@@ -1733,34 +1733,34 @@
       {
        "item_type": "activity",
        "name": "Ape Canyon Trail",
-       "day": 5,
+       "day": null,
        "description": "Trail option at Mount St. Helens",
        "booking_link": null,
-       "price_hint": "$25-$30 per person"
+       "price_hint": null
       },
       {
        "item_type": "activity",
        "name": "Mount Rainier entry",
-       "day": 6,
+       "day": 2,
        "description": "National park entry fee",
        "booking_link": null,
-       "price_hint": "$30 per vehicle"
+       "price_hint": null
       },
       {
        "item_type": "hotel",
        "name": "Paradise Inn (Mount Rainier)",
-       "day": 6,
+       "day": null,
        "description": "Historic lodge at Paradise; 2026 waitlist noted on page",
        "booking_link": null,
-       "price_hint": "from $375/night"
+       "price_hint": null
       },
       {
        "item_type": "transport",
        "name": "Bainbridge Island ferry",
-       "day": 7,
+       "day": null,
        "description": "Day trip to Bainbridge Island",
        "booking_link": null,
-       "price_hint": "$10-$12 per person"
+       "price_hint": null
       },
       {
        "item_type": "other",

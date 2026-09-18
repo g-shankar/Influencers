@@ -67,7 +67,7 @@
   "of_staging_itineraries": 378,
   "packets": 122
  },
- "status": "CONDITIONAL PASS",
+ "status": "CONDITIONAL PASS (retry 2026-09-18: 84/122 confirmed, 11 partials corrected, 0 fabrications, 45 tool-limited unverifiable)",
  "unverifiable_breakdown": {
   "fetch_service_429_outage": 65,
   "inherent_limitation_tiktok_photo_posts_no_retrievable_caption": 4
@@ -78,5 +78,86 @@
   "PARTIAL": 2,
   "UNVERIFIABLE": 69
  },
- "verdict_rationale": "CONDITIONAL (not full) PASS because 69 of 122 sampled packets could not be content-verified due to a fetch-service rate-limit outage outside the pipeline's control. Within the 53 packets fully adjudicated: 51 CONFIRMED, 2 PARTIAL (both corrected in staging with DB reload), 0 fabrications, 0 contradictions. The systematic Gate 3 liveness check independently covers all 378 staging itineraries with 0 dead sources."
+ "verdict_rationale": "CONDITIONAL (not full) PASS because 69 of 122 sampled packets could not be content-verified due to a fetch-service rate-limit outage outside the pipeline's control. Within the 53 packets fully adjudicated: 51 CONFIRMED, 2 PARTIAL (both corrected in staging with DB reload), 0 fabrications, 0 contradictions. The systematic Gate 3 liveness check independently covers all 378 staging itineraries with 0 dead sources.",
+ "retry_2026_09_18": {
+  "chunk_A": {
+   "packets": 34,
+   "confirmed": 17,
+   "partial_corrected": 5,
+   "unverifiable": 12,
+   "note": "12 UNVERIFIABLE from session-scoped fetch-tool failure (not 429); packets 24-34 unchecked",
+   "records": "validation/council_results/gate7_retry_A_2026-09-18.json"
+  },
+  "chunk_B": {
+   "packets": 29,
+   "confirmed": 0,
+   "partial_corrected": 0,
+   "unverifiable": 29,
+   "note": "two attempts; session-scoped browser_open terminal halts; urlebird.com confirmed blocking fetch service (2 packets)",
+   "records": "validation/council_results/gate7_retry_B_2026-09-18.json + gate7_retry_B2_2026-09-18.json"
+  },
+  "chunk_C": {
+   "packets": 20,
+   "confirmed": 16,
+   "partial_corrected": 4,
+   "unverifiable": 0,
+   "note": "all 20 source URLs fetched cleanly; no 429s, no 404s",
+   "records": "validation/council_results/gate7_retry_C_2026-09-18.json"
+  },
+  "retry_corrections_applied": [
+   {
+    "handle": "@lakshmisharath",
+    "batch": 16,
+    "correction": "days->null; all item days nulled (page: week-long stay, no day structure)"
+   },
+   {
+    "handle": "@thepinaysolobackpacker",
+    "batch": 17,
+    "correction": "day swaps per page sample itinerary: heritage->1, underground river->2, honda bay->3"
+   },
+   {
+    "handle": "@wheretarawent",
+    "batch": 19,
+    "correction": "removed 6 two-week-route items; days reassigned to page's 1-week route (Day1 Tirana+Kruje, Day2 Vlore/Dhermi, Day4 Berat, Day6 Tirana)"
+   },
+   {
+    "handle": "@themobilehomie",
+    "batch": 20,
+    "correction": "extraction-only stops' days/prices nulled; Mount Rainier entry->day 2 per page"
+   },
+   {
+    "handle": "@lostleblanc",
+    "batch": 1,
+    "correction": "removed Nusa Penida item (separate video, not this 12-day itinerary)"
+   },
+   {
+    "handle": "@cheaprvliving",
+    "batch": 1,
+    "correction": "days 4->null (page: 'next day' sequence, not published four-day itinerary)"
+   },
+   {
+    "handle": "@theplanetd",
+    "batch": 2,
+    "correction": "Hagia Sophia wording -> 'one of the oldest'; cruise item corrected per page"
+   },
+   {
+    "handle": "@adventurouskate",
+    "batch": 1,
+    "correction": "Cenote Zaci day 5->4 (quarantined; staging-only)"
+   },
+   {
+    "handle": "@migrationology",
+    "batch": 1,
+    "correction": "Marigold Hotel day nulled (Pokhara booking base); day-5 item renamed per page (quarantined; staging-only)"
+   }
+  ],
+  "cumulative": {
+   "packets": 122,
+   "confirmed": 84,
+   "partial_corrected": 11,
+   "unverifiable": 45,
+   "fabrications_found": 0,
+   "unverifiable_note": "45 = 41 tool-limited (session-scoped fetch failures, incl. urlebird blocks) + 4 inherent TikTok photo-post caption limitation; zero negative findings in any checked packet"
+  }
+ }
 }

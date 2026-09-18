@@ -2018,7 +2018,7 @@
      "country": "Albania",
      "days": 7,
      "confidence": "medium",
-     "summary": "Tara (wheretarawent.com) publishes a first-person one-week Albania itinerary. Page titled 'Updated for 2026' (within 2024-09-17 to 2026-09-17).",
+     "summary": "Tara (wheretarawent.com) publishes a first-person one-week Albania itinerary. Page titled 'Updated for 2026' (within 2024-09-17 to 2026-09-17). [Gate 7 correction 2026-09-18: page's 1-week route is Day 1 Tirana+Kruje, Days 2-3 Vlore/Dhermi, Days 4-5 Berat, Days 6-7 Tirana; 2-week-route stops removed; day assignments corrected.]",
      "source_urls": [
       "https://wheretarawent.com/blog/albania-itinerary"
      ],
@@ -2078,33 +2078,6 @@
        "booking_link": null
       },
       {
-       "name": "Shkoder",
-       "item_type": "other",
-       "location": "Albania",
-       "day": 2,
-       "details": "Two nights; gateway to the Albanian Alps.",
-       "price_hint": null,
-       "booking_link": null
-      },
-      {
-       "name": "Theth",
-       "item_type": "other",
-       "location": "Albania",
-       "day": 4,
-       "details": "Two nights; mountain village in the Albanian Alps.",
-       "price_hint": null,
-       "booking_link": null
-      },
-      {
-       "name": "Shkoder",
-       "item_type": "other",
-       "location": "Albania",
-       "day": 6,
-       "details": "Return night in Shkoder after Theth.",
-       "price_hint": null,
-       "booking_link": null
-      },
-      {
        "name": "Vlore",
        "item_type": "other",
        "location": "Albania",
@@ -2117,7 +2090,7 @@
        "name": "Galeria Art Cafe",
        "item_type": "restaurant",
        "location": "Vlore, Albania",
-       "day": 7,
+       "day": 2,
        "details": "Cafe stop in Vlore.",
        "price_hint": null,
        "booking_link": null
@@ -2126,7 +2099,7 @@
        "name": "Komiteti Bar",
        "item_type": "restaurant",
        "location": "Vlore, Albania",
-       "day": 7,
+       "day": 2,
        "details": "Evening bar stop in Vlore.",
        "price_hint": null,
        "booking_link": null
@@ -2135,7 +2108,7 @@
        "name": "Independence Monument",
        "item_type": "activity",
        "location": "Vlore, Albania",
-       "day": 7,
+       "day": 2,
        "details": "Landmark named in her Vlore day.",
        "price_hint": null,
        "booking_link": null
@@ -2144,7 +2117,7 @@
        "name": "Muradie Mosque",
        "item_type": "activity",
        "location": "Vlore, Albania",
-       "day": 7,
+       "day": 2,
        "details": "Historic mosque in Vlore.",
        "price_hint": null,
        "booking_link": null
@@ -2153,7 +2126,7 @@
        "name": "National Museum of Independence",
        "item_type": "activity",
        "location": "Vlore, Albania",
-       "day": 7,
+       "day": 2,
        "details": "Museum in Vlore.",
        "price_hint": null,
        "booking_link": null
@@ -2162,7 +2135,7 @@
        "name": "Kanina Castle",
        "item_type": "activity",
        "location": "Near Vlore, Albania",
-       "day": 7,
+       "day": 2,
        "details": "Hillside castle near Vlore with Bay views.",
        "price_hint": null,
        "booking_link": null
@@ -2171,7 +2144,7 @@
        "name": "St. Mary's Monastery",
        "item_type": "activity",
        "location": "Near Vlore, Albania",
-       "day": 7,
+       "day": 2,
        "details": "Monastery on a small island near Vlore.",
        "price_hint": null,
        "booking_link": null
@@ -2180,35 +2153,8 @@
        "name": "Dhermi beach",
        "item_type": "activity",
        "location": "Dhermi, Albania",
-       "day": 8,
+       "day": 2,
        "details": "Morning at the beach before the drive to Himare.",
-       "price_hint": null,
-       "booking_link": null
-      },
-      {
-       "name": "Himare",
-       "item_type": "other",
-       "location": "Albania",
-       "day": 9,
-       "details": "Coastal town on the 2-week route.",
-       "price_hint": null,
-       "booking_link": null
-      },
-      {
-       "name": "Blue Eye (Syri i Kalter)",
-       "item_type": "activity",
-       "location": "Albania",
-       "day": 10,
-       "details": "Natural spring on the road between the coast and Gjirokaster.",
-       "price_hint": null,
-       "booking_link": null
-      },
-      {
-       "name": "Gjirokaster",
-       "item_type": "other",
-       "location": "Albania",
-       "day": 10,
-       "details": "UNESCO Ottoman-era stone city.",
        "price_hint": null,
        "booking_link": null
       },
@@ -2216,7 +2162,7 @@
        "name": "Berat",
        "item_type": "other",
        "location": "Albania",
-       "day": 11,
+       "day": 4,
        "details": "Three nights in the 'city of a thousand windows'.",
        "price_hint": null,
        "booking_link": null
@@ -2225,7 +2171,7 @@
        "name": "Tirana",
        "item_type": "other",
        "location": "Albania",
-       "day": 14,
+       "day": 6,
        "details": "Return to Tirana for departure.",
        "price_hint": null,
        "booking_link": null

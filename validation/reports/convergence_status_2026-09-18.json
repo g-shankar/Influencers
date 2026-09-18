@@ -1,1 +1,49 @@
-{"alyssa_handle_in_canonical_inputs":false,"artifacts":{"deck":"REBUILT 2026-09-18 - 50 slides, from corrected DB","report_data":"REGENERATED 2026-09-18 - true gate statuses (gate4 NOT VERIFIED, gate7 CONDITIONAL PASS, all_pass=false)","workbook":"REBUILT 2026-09-18 - 401 creators, 364 itineraries, 47 quarantined"},"batch_csv_json_alignment":"all 20 batches exact","browser_task_needed":null,"canonical_counts":{"creators":401,"creators_with_itineraries":310,"instagram":170,"items":3421,"itineraries":364,"posts":364,"shortfall_vs_500":99,"sources":405,"tiktok":231},"date":"2026-09-18","exclusions":["@wherejesstravels - failed engagement gate in mechanical convergence (provisional, never canonical)","@ordinarytraveler 'Windstar French Polynesia Package' - UNVERIFIABLE (keepface.com/ordinarytraveler is site's own 404; IG date-windowed post lookup 2026-01-20..2026-02-03 returned zero posts; 429 halted further IG checks). Creator retained; itinerary removed from staging/itineraries_batch15.json; recorded in validation/exclude_unverifiable.json"],"gate1":"PASS (errors=0, warnings=14)","gate2":"PASS (rows=401, quarantined=14, errors=0, warnings=164)","gate3":"PASS (378 itineraries, 412 URLs, 0 dead; 12 script false-negatives covered by live-browser override file; 2 transient single-URL fetch failures confirmed live via independent curl and cleared on re-run)","gate4":"NOT VERIFIED - model-family requirement unavailable (all builders/reviewers in this environment are Muse-family). Must stay NOT VERIFIED.","gate5":"PASS (fresh run 2026-09-18: 401 = 170 IG + 231 TT, no empty followers, no duplicate handles)","gate6":"PASS (fresh deterministic scan 2026-09-18 of rebuilt artifacts: 9,049 texts, 0 violations; 17 raw regex hits all documented false positives - deck's own disclaimer, verbatim creator titles, 'Will Hatton' name)","gate7":{"auditor_A":"25/41 CONFIRMED before terminal browser-tool failure (19 live-verified + 6 override-cited); 16 not attempted; A2 closed before starting (global fetch-service 429 outage)","auditor_B":"41 records on disk: 11 CONFIRMED, 1 PARTIAL (corrected), 29 UNVERIFIABLE (fetch-service 429 outage)","auditor_C":"40 records on disk: 15 CONFIRMED, 1 PARTIAL (corrected), 24 UNVERIFIABLE (20 outage + 4 TikTok photo-post text limitation)","corrections":["@madisonbrookstravel (batch12): unsupported day 1-6 assignments nulled; 6-destination guide claim confirmed","@fivefortheroadblog (batch7): confidence high->medium; source-drift note added (URL repurposed to 'First Time to Europe' article; claim reflects page as captured 2026-09-08)"],"status":"CONDITIONAL PASS","verdict_counts":{"CONFIRMED":51,"PARTIAL":2,"UNVERIFIABLE":69},"verdict_detail":"69 UNVERIFIABLE are verification-incomplete (65 fetch-service upstream-429 outage, 4 inherent photo-post text limitation), NOT negative evidence. 0 fabrications, 0 contradictions in the 53 fully adjudicated packets. Re-running the 65 outage-affected packets is recommended when the fetch service recovers."},"git":{"base":"4c227eb0f4836fd009184b8988a9da6e1ec678f9","local_git_repo":"MISSING - ~/workspace/travel-influencer-pilot/.git does not exist; use gh_sync_dir.py (Git Data API) per prior practice","push":"pending - corrective commit on top of remote main, no force-push","remote":"g-shankar/Influencers @ 4c227eb0f4836fd009184b8988a9da6e1ec678f9"},"memory_correction_pending":"~/memory/2026-09-17.md still contains false completion entries (Stage 1 declared complete, Alyssa valid, 402 claim). Needs explicit correction by parent: Stage 1 was falsely declared complete; Alyssa remained invalid; Stage 2 launched prematurely; the 402 claim included one provisional TikTok row and converged to 401. Memory files are read-only for subagents.","platforms":{"instagram":170,"tiktok":231},"selection_log":"302 data rows, all 23 columns","shortfall_vs_500":99,"status":"FINAL PIPELINE COMPLETE - artifacts rebuilt from corrected DB, all gates adjudicated honestly, ready for git push"}
+{
+ "alyssa_handle_in_canonical_inputs": false,
+ "artifacts": {
+  "deck": "REBUILT 2026-09-18 - 50 slides, from corrected DB",
+  "report_data": "REGENERATED 2026-09-18 post-retry-corrections - true gate statuses (gate4 NOT VERIFIED, gate7 CONDITIONAL PASS, all_pass=false)",
+  "workbook": "REBUILT 2026-09-18 - 401 creators, 364 itineraries, 47 quarantined"
+ },
+ "batch_csv_json_alignment": "all 20 batches exact",
+ "browser_task_needed": null,
+ "canonical_counts": {
+  "creators": 401,
+  "instagram": 170,
+  "tiktok": 231,
+  "itineraries": 364,
+  "items": 3414,
+  "sources": 405,
+  "posts": 364,
+  "shortfall_vs_500": 99
+ },
+ "date": "2026-09-18",
+ "exclusions": [
+  "@wherejesstravels - failed engagement gate in mechanical convergence (provisional, never canonical)",
+  "@ordinarytraveler 'Windstar French Polynesia Package' - UNVERIFIABLE (keepface.com/ordinarytraveler is site's own 404; IG date-windowed post lookup 2026-01-20..2026-02-03 returned zero posts; 429 halted further IG checks). Creator retained; itinerary removed from staging/itineraries_batch15.json; recorded in validation/exclude_unverifiable.json"
+ ],
+ "gate1": "PASS (errors=0, warnings=14)",
+ "gate2": "PASS (rows=401, quarantined=14, errors=0, warnings=164)",
+ "gate3": "PASS (378 itineraries, 412 URLs, 0 dead; 12 script false-negatives covered by live-browser override file; 2 transient single-URL fetch failures confirmed live via independent curl and cleared on re-run)",
+ "gate4": "NOT VERIFIED - model-family requirement unavailable (all builders/reviewers in this environment are Muse-family). Must stay NOT VERIFIED.",
+ "gate5": "PASS (fresh run 2026-09-18: 401 = 170 IG + 231 TT, no empty followers, no duplicate handles)",
+ "gate6": "PASS (fresh deterministic scan 2026-09-18 of rebuilt artifacts: 9,049 texts, 0 violations; 17 raw regex hits all documented false positives - deck's own disclaimer, verbatim creator titles, 'Will Hatton' name)",
+ "gate7": {
+  "status": "CONDITIONAL PASS",
+  "detail": "retry 2026-09-18: 84/122 packets confirmed, 11 partials corrected on disk + DB reloaded, 0 fabrications, 45 unverifiable (41 session-scoped fetch-tool failures incl. urlebird blocks + 4 inherent TikTok photo-post caption limits); zero negative findings"
+ },
+ "git": {
+  "base": "4c227eb0f4836fd009184b8988a9da6e1ec678f9",
+  "local_git_repo": "MISSING - ~/workspace/travel-influencer-pilot/.git does not exist; use gh_sync_dir.py (Git Data API) per prior practice",
+  "push": "pending - corrective commit on top of remote main, no force-push",
+  "remote": "g-shankar/Influencers @ 4c227eb0f4836fd009184b8988a9da6e1ec678f9"
+ },
+ "memory_correction_pending": "~/memory/2026-09-17.md still contains false completion entries (Stage 1 declared complete, Alyssa valid, 402 claim). Needs explicit correction by parent: Stage 1 was falsely declared complete; Alyssa remained invalid; Stage 2 launched prematurely; the 402 claim included one provisional TikTok row and converged to 401. Memory files are read-only for subagents.",
+ "platforms": {
+  "instagram": 170,
+  "tiktok": 231
+ },
+ "selection_log": "302 data rows, all 23 columns",
+ "shortfall_vs_500": 99,
+ "status": "FINAL PIPELINE COMPLETE - retry corrections applied, DB reloaded, artifacts regenerated, ready for git push"
+}

@@ -148,7 +148,7 @@
       },
       {
        "booking_link": null,
-       "day": 5,
+       "day": 4,
        "details": "Cenote right in downtown Valladolid with waterfalls; one of the deepest cenotes in the region; recently reopened after renovations.",
        "item_type": "activity",
        "location": "Valladolid",
@@ -195,7 +195,7 @@
      "source_urls": [
       "https://www.adventurouskate.com/two-weeks-in-mexico-yucatan-road-trip-itinerary/"
      ],
-     "summary": "Kate McCulley's two-week Yucatan road trip itinerary skips Cancun, Playa del Carmen and Tulum in favor of Isla Holbox, colonial Valladolid, Rio Lagartos, Merida with cenote and ruin day trips, and the Lake of Seven Colors at Bacalar. It is a full day-by-day plan with named hotel, restaurant and activity recommendations at each stop, based on her winter living in Merida and years of trips through the peninsula.",
+     "summary": "Kate McCulley's two-week Yucatan road trip itinerary skips Cancun, Playa del Carmen and Tulum in favor of Isla Holbox, colonial Valladolid, Rio Lagartos, Merida with cenote and ruin day trips, and the Lake of Seven Colors at Bacalar. It is a full day-by-day plan with named hotel, restaurant and activity recommendations at each stop, based on her winter living in Merida and years of trips through the peninsula. [Gate 7 retry correction 2026-09-18: Cenote Zaci moved to Day 4 Valladolid section per page; Holbox items (Cabo Catoche, three-island trip, whale sharks, Zomay) kept on Days 2-3 block per page grouping. Creator quarantined — no DB attribution.]",
      "title": "Two Weeks in Mexico: The BEST Yucatan Road Trip Itinerary"
     },
     {
@@ -1710,7 +1710,7 @@
     {
      "confidence": "medium",
      "country": "USA",
-     "days": 4,
+     "days": null,
      "destination": "Utah red rock country (Moab, Goblin Valley, Capitol Reef, Monument Valley)",
      "items": [
       {
@@ -1789,7 +1789,7 @@
      "source_urls": [
       "https://cheaprvliving.com/kb/road-trip-son-girlfriend/"
      ],
-     "summary": "Bob Wells's 4-day family road trip through Utah's red rock country with his son Robert, Deb and her sister Ann (who planned the itinerary). Route: Moab/Arches to Goblin Valley State Park and Capitol Reef NP (overnight in Torrey), then down UT-95 past Hite Overlook and the Moki Dugway to Goosenecks State Park and Monument Valley. A trip narrative with a clear stop sequence rather than a published guide.",
+     "summary": "Bob Wells's 4-day family road trip through Utah's red rock country with his son Robert, Deb and her sister Ann (who planned the itinerary). Route: Moab/Arches to Goblin Valley State Park and Capitol Reef NP (overnight in Torrey), then down UT-95 past Hite Overlook and the Moki Dugway to Goosenecks State Park and Monument Valley. A trip narrative with a clear stop sequence rather than a published guide. [Gate 7 retry correction 2026-09-18: page describes stops in 'the next day' sequence, not a published four-day itinerary; absolute day count removed, relative order kept.]",
      "title": "Road Trip with my Son and his Girlfriend"
     }
    ],
@@ -3278,15 +3278,6 @@
       {
        "booking_link": null,
        "day": null,
-       "details": "Recommended as a hidden gem off the mainland; more expensive to visit due to remoteness",
-       "item_type": "activity",
-       "location": "Bali",
-       "name": "Nusa Penida",
-       "price_hint": null
-      },
-      {
-       "booking_link": null,
-       "day": null,
        "details": "No specific hotel named in the source",
        "item_type": "hotel",
        "location": "Bali",
@@ -3297,7 +3288,7 @@
      "source_urls": [
       "https://www.nomadicnews.com/lost-leblanc/"
      ],
-     "summary": "12-day Bali itinerary from his 2020 YouTube travel video (described by a third-party writeup): a couple of days to get over jet lag at the start, visiting Canggu, Berawa Beach, Uluwatu and Ubud, with highlights including waterfalls, cuisine and adults-only resorts. He also recommends Nusa Penida as a hidden gem off the mainland.",
+     "summary": "12-day Bali itinerary from his 2020 YouTube travel video (described by a third-party writeup): a couple of days to get over jet lag at the start, visiting Canggu, Berawa Beach, Uluwatu and Ubud, with highlights including waterfalls, cuisine and adults-only resorts. He also recommends Nusa Penida as a hidden gem off the mainland. [Gate 7 retry correction 2026-09-18: Nusa Penida removed — from a separate 'Top 10 Bali' video, not this 12-day itinerary.]",
      "title": "How To Travel Bali – 14 Days in Paradise"
     }
    ],
@@ -3315,7 +3306,7 @@
      "items": [
       {
        "booking_link": null,
-       "day": 1,
+       "day": null,
        "details": "Mark booked everything through Marigold Hotel/Amrit Tours in Pokhara; arranged permits and a guide ($20/day, 5 days = $100). Rooms around 700 Rupees.",
        "item_type": "hotel",
        "location": "Pokhara",
@@ -3409,14 +3400,14 @@
        "details": "About an hour to the permit check town of Pothana, then onward to the Annapurna Eco Village (1,000 Rupees/night, stayed 1 night) before catching a taxi back to Pokhara.",
        "item_type": "activity",
        "location": "Pokhara",
-       "name": "Hike Deurali to Pothana, taxi to Pokhara",
+       "name": "Hike Deurali to Pothana; overnight Annapurna Eco Village, taxi to Pokhara next day",
        "price_hint": null
       }
      ],
      "source_urls": [
       "https://migrationology.com/ghorepani-poon-hill-trek-ultimate-guide/"
      ],
-     "summary": "Mark Wiens's day-by-day itinerary for his 5-day Ghorepani Poon Hill trek (mid-March 2013) starting from Pokhara: Nayapul to Tikhedunga, up to Ghorepani, sunrise at Poon Hill then on to Gandruk, Gandruk to Deurali, and back to Pokhara. Includes the lodges they stayed in, meals eaten, and costs, plus prep/permit/gear guidance.",
+     "summary": "Mark Wiens's day-by-day itinerary for his 5-day Ghorepani Poon Hill trek (mid-March 2013) starting from Pokhara: Nayapul to Tikhedunga, up to Ghorepani, sunrise at Poon Hill then on to Gandruk, Gandruk to Deurali, and back to Pokhara. Includes the lodges they stayed in, meals eaten, and costs, plus prep/permit/gear guidance. [Gate 7 retry correction 2026-09-18: Marigold Hotel is the Pokhara booking base (day nulled); Day 5 per page continues to Annapurna Eco Village for one night before the taxi. Creator quarantined — no DB attribution.]",
      "title": "Ghorepani Poon Hill Trek - Ultimate Guide and Itinerary"
     },
     {

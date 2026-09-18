@@ -1,599 +1,599 @@
 {
-  "batch": 17,
-  "extractions": [
+ "batch": 17,
+ "extractions": [
+  {
+   "handle": "@voyagesetc",
+   "itineraries": [
     {
-      "handle": "@voyagesetc",
-      "itineraries": [
-        {
-          "confidence": "high",
-          "country": "Italy",
-          "days": 7,
-          "destination": "Tuscany, Italy",
-          "items": [
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Place des Miracles à Pise"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Tour penchée de Pise"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Piazza dei Cavalieri"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Santa Maria della Spina"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Tuttomondo (fresque Keith Haring)"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Place de l'Amphithéâtre à Lucques"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Torre Guinigi"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Remparts de Lucques"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Duomo de Florence"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Coupole Brunelleschi"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Galerie des Offices"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Ponte Vecchio"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Mercato Centrale"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Piazzale Michelangelo"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "San Miniato al Monte"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Galleria dell'Accademia (David)"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Route SR222 (Chiantigiana)"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Panzano in Chianti"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Radda in Chianti"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Castellina in Chianti"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Piazza del Campo à Sienne"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Cathédrale de Sienne"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Facciatone"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Basilique di San Domenico"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "San Gimignano"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Torre Grossa"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Collegiata di Santa Maria Assunta"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Volterra"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "activity",
-              "name": "Musée étrusque de Volterra"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Hotel Bologna"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Retrò B&B"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Residenza Centro Storico"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "B&B Giorni Dipinti"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "310 ArtHotel"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Agriturismo San Sano"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Castello di Volpaia"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Villa Elda Boutique Hotel"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Agriturismo Oliviera Winery & Hiking"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Le Volpaie"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Agriturismo Poggio Ridulfo"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Agriturismo Mannaioni"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "hotel",
-              "name": "Agriturismo Il Castagnolino"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "restaurant",
-              "name": "La Bottega del Gelato"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "restaurant",
-              "name": "Gelateria Dondoli"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "transport",
-              "name": "Train Pise–Lucques"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "transport",
-              "name": "Train Lucques–Florence"
-            },
-            {
-              "booking_link": null,
-              "day": null,
-              "item_type": "transport",
-              "name": "Location de voiture (Discovercars)"
-            }
-          ],
-          "source_urls": [
-            "https://www.voyagesetc.fr/visiter-toscane-en-7-jours-itineraire-detaille/",
-            "https://www.voyagesetc.fr/destinations/europe/italie/toscane/"
-          ],
-          "summary": "Structured 7-day Tuscany road-trip itinerary written in the first person by Adeline Gressin: Pisa and Lucca by train, Florence, then the Chianti valley (SR222), Siena, and San Gimignano with Volterra by car. Named hotel/B&B/agritourismo picks (stay22 booking widgets), restaurants, and transport advice included; page carries 2025/03-dated assets and a 'best ice-cream maker of Italy in 2025' claim, placing it after the 2024-09-17 recency floor.",
-          "title": "Visiter la Toscane en 7 jours : mon itinéraire détaillé"
-        }
-      ],
-      "notes": "",
-      "platform": "instagram"
-    },
-    {
-      "handle": "@thepinaysolobackpacker",
-      "platform": "instagram",
-      "notes": "",
-      "itineraries": [
-        {
-          "title": "PUERTO PRINCESA ITINERARY + BUDGET TRAVEL GUIDE 2026",
-          "destination": "Puerto Princesa, Palawan, Philippines",
-          "country": "Philippines",
-          "days": 4,
-          "summary": "Creator's 4-day Puerto Princesa guide (creator archive dated Feb 13, 2026): city tour covering the Underground River, weaving center and crocodile farm; Honda Bay island hopping; where to stay across city-center, resort and airport zones; and Manila flight/ferry logistics with sample budgets.",
-          "source_urls": [
-            "https://thepinaysolobackpacker.com/puerto-princesa-itinerary/"
-          ],
-          "confidence": "high",
-          "items": [
-            {
-              "day": 1,
-              "item_type": "activity",
-              "name": "Puerto Princesa Subterranean River",
-              "location": "Sabang, Puerto Princesa, Palawan",
-              "details": "Day 1 city-tour anchor: the Underground River, one of the New 7 Wonders of Nature. Page links a Klook UNDERGROUND RIVER TOUR booking button.",
-              "booking_link": null,
-              "price_hint": "Eco-Tourism Development Fee ₱150 ($2.58), valid 6 months"
-            },
-            {
-              "day": 1,
-              "item_type": "activity",
-              "name": "Binuatan Creations",
-              "location": "Bougainville Drive, Rafols St., Santa Monica, Puerto Princesa",
-              "details": "Weaving workshop stop on the city tour; open daily 7:00 AM – 6:00 PM.",
-              "booking_link": null,
-              "price_hint": "Entrance FREE"
-            },
-            {
-              "day": 1,
-              "item_type": "activity",
-              "name": "Palawan Wildlife Rescue and Conservation Center",
-              "location": "Irawan, Puerto Princesa",
-              "details": "Crocodile farm/conservation stop on the city tour; open daily 8:00 AM – 4:45 PM.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 2,
-              "item_type": "activity",
-              "name": "Honda Bay island hopping",
-              "location": "Santa Lourdes Wharf, Puerto Princesa",
-              "details": "Day-trip island hopping from Honda Bay; page links a Klook HONDA BAY ISLAND HOPPING booking button.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 2,
-              "item_type": "activity",
-              "name": "Puerto Princesa Heritage Tour",
-              "location": "Puerto Princesa City",
-              "details": "Half- or full-day heritage/city tour; page links a Klook booking button and recommends booking in advance.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 1,
-              "item_type": "hotel",
-              "name": "Mojo Hostel Palawan",
-              "location": "Downtown Puerto Princesa",
-              "details": "Budget city-center stay on Rizal Avenue area; page links Klook and Agoda reserve/check-rate buttons.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 1,
-              "item_type": "hotel",
-              "name": "Hue Hotels and Resorts Puerto Princesa",
-              "location": "Downtown Puerto Princesa",
-              "details": "City-center hotel; page links Klook and Agoda reserve/check-rate buttons.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 3,
-              "item_type": "hotel",
-              "name": "Daluyon Beach and Mountain Resort",
-              "location": "Sabang Beach, Puerto Princesa",
-              "details": "Award-winning eco-friendly DOT-accredited beach resort; creator stayed here on her last trip. Page links Klook and Agoda reserve/check-rate buttons.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 1,
-              "item_type": "transport",
-              "name": "Manila to Puerto Princesa flight",
-              "location": "Puerto Princesa International Airport",
-              "details": "Major airlines (Philippine Airlines, Cebu Pacific, AirAsia), ~1h15m. Page links a 12go.asia COMPARE RATES HERE button.",
-              "booking_link": null,
-              "price_hint": "≈ ₱1,500 ($26) to ₱5,000 ($86)"
-            },
-            {
-              "day": 1,
-              "item_type": "transport",
-              "name": "Airport tricycle to city center",
-              "location": "Puerto Princesa Airport → downtown",
-              "details": "Best for solo/budget travelers with small luggage; 15–25 minutes to downtown.",
-              "booking_link": null,
-              "price_hint": "≈ ₱150 ($2.58) to ₱200 ($3.45), good for 2–3 persons"
-            },
-            {
-              "day": 4,
-              "item_type": "transport",
-              "name": "Puerto Princesa to El Nido transfer",
-              "location": "Puerto Princesa → El Nido",
-              "details": "Onward transfer link for travelers continuing to El Nido; page links a Klook BOOK HERE button.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 1,
-              "item_type": "other",
-              "name": "Philippines 5G SIM / eSIM",
-              "location": "Puerto Princesa",
-              "details": "Travel essential listed in the guide; page links Klook BUY HERE buttons for physical SIM and eSIM.",
-              "booking_link": null,
-              "price_hint": null
-            }
-          ]
-        },
-        {
-          "title": "PUERTO GALERA ITINERARY (TRAVEL GUIDE + BUDGET) 2025",
-          "destination": "Puerto Galera, Oriental Mindoro, Philippines",
-          "country": "Philippines",
-          "days": 3,
-          "summary": "Creator's Puerto Galera guide (creator archive dated Aug 13, 2025): 2- and 3-day samples with land tour (Muelle Bay heritage park, Iraya-Mangyan Village, Tamaraw Falls), island-hopping/snorkeling, Batangas Port ferry logistics, and resort picks across White Beach, Aninuan and Sabang.",
-          "source_urls": [
-            "https://thepinaysolobackpacker.com/puerto-galera-itinerary/"
-          ],
-          "confidence": "high",
-          "items": [
-            {
-              "day": 1,
-              "item_type": "activity",
-              "name": "Muelle Cultural Heritage Park",
-              "location": "Muelle Bay, Puerto Galera",
-              "details": "Land-tour stop: Muelle Bay, historical canon, life-size replica of Spanish galleon. Access by tricycle.",
-              "booking_link": null,
-              "price_hint": "Entrance FREE; tricycle ≈ ₱150 ($3) one way for 3 pax"
-            },
-            {
-              "day": 1,
-              "item_type": "activity",
-              "name": "Iraya-Mangyan Village",
-              "location": "Puerto Galera",
-              "details": "Indigenous village visit on the land tour; open daily 8:00 AM – 5:00 PM.",
-              "booking_link": null,
-              "price_hint": "Entrance FREE (tips/donations encouraged)"
-            },
-            {
-              "day": 2,
-              "item_type": "activity",
-              "name": "Tamaraw Falls",
-              "location": "Puerto Galera",
-              "details": "Waterfall stop on the land tour; reachable by jeep en route to Calapan or chartered tricycle.",
-              "booking_link": null,
-              "price_hint": "₱30 ($0.54) per person"
-            },
-            {
-              "day": 2,
-              "item_type": "activity",
-              "name": "Puerto Galera island hopping and snorkeling",
-              "location": "White Beach, Puerto Galera",
-              "details": "Boat day trip with snorkeling; creator used third-party operator NDM Travel Connections (contact 0908 470 7257) as a customer.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 1,
-              "item_type": "hotel",
-              "name": "Casa Marco Suites",
-              "location": "White Beach, Puerto Galera",
-              "details": "White Beach resort; page links RESERVE HERE / CHECK RATES HERE affiliate buttons.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 1,
-              "item_type": "hotel",
-              "name": "The Mangyan Grand Hotel",
-              "location": "White Beach, Puerto Galera",
-              "details": "White Beach hotel; page links RESERVE HERE / CHECK RATES HERE affiliate buttons.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 1,
-              "item_type": "hotel",
-              "name": "Simon Heritage Resort",
-              "location": "White Beach, Puerto Galera",
-              "details": "White Beach resort; page links RESERVE HERE / CHECK RATES HERE affiliate buttons.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 2,
-              "item_type": "hotel",
-              "name": "AV Suites",
-              "location": "Aninuan Beach, Puerto Galera",
-              "details": "Aninuan Beach stay (less crowded than White Beach); page links affiliate reserve/check-rate buttons.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 2,
-              "item_type": "hotel",
-              "name": "Tamaraw Beach Resort",
-              "location": "Aninuan Beach, Puerto Galera",
-              "details": "Aninuan Beach resort; page links affiliate reserve/check-rate buttons.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 3,
-              "item_type": "hotel",
-              "name": "Lalaguna Villas Luxury Dive Resort & Spa",
-              "location": "Sabang Beach, Puerto Galera",
-              "details": "Dive-oriented Sabang resort (Sabang is the best area for diving); page links affiliate reserve/check-rate buttons.",
-              "booking_link": null,
-              "price_hint": null
-            },
-            {
-              "day": 1,
-              "item_type": "transport",
-              "name": "Manila to Puerto Galera bus + ferry",
-              "location": "Ermita, Manila → Batangas Port → Puerto Galera",
-              "details": "Bus + ferry ticket departing 9:30 AM from City State Tower Hotel, Ermita; page links Klook RESERVE HERE / KKday BOOK HERE buttons.",
-              "booking_link": null,
-              "price_hint": "₱1,480 ($26.45)"
-            },
-            {
-              "day": 1,
-              "item_type": "transport",
-              "name": "Batangas Port to Puerto Galera fast craft",
-              "location": "Batangas Port → Puerto Galera",
-              "details": "Fast craft (MV Island Calayan, Island Water) or RoRo ferry (FastCat, Montenegro Lines) across to Puerto Galera/Calapan.",
-              "booking_link": null,
-              "price_hint": "₱500–₱620 ($8.93–$11.07) tourist class"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "handle": "@boundlessroads",
-      "platform": "instagram",
-      "itineraries": [],
-      "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
-    },
-    {
-      "handle": "@charlies_wanderings",
-      "platform": "instagram",
-      "itineraries": [],
-      "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
-    },
-    {
-      "handle": "@elise.abroad",
-      "platform": "instagram",
-      "itineraries": [],
-      "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
-    },
-    {
-      "handle": "@enjoytheadventures",
-      "platform": "instagram",
-      "itineraries": [],
-      "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
-    },
-    {
-      "handle": "@kamischka",
-      "platform": "instagram",
-      "itineraries": [],
-      "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
-    },
-    {
-      "handle": "@thecommontraveler",
-      "platform": "instagram",
-      "itineraries": [],
-      "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
-    },
-    {
-      "handle": "@wanderwithjo",
-      "platform": "instagram",
-      "itineraries": [],
-      "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+     "confidence": "high",
+     "country": "Italy",
+     "days": 7,
+     "destination": "Tuscany, Italy",
+     "items": [
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Place des Miracles à Pise"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Tour penchée de Pise"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Piazza dei Cavalieri"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Santa Maria della Spina"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Tuttomondo (fresque Keith Haring)"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Place de l'Amphithéâtre à Lucques"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Torre Guinigi"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Remparts de Lucques"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Duomo de Florence"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Coupole Brunelleschi"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Galerie des Offices"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Ponte Vecchio"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Mercato Centrale"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Piazzale Michelangelo"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "San Miniato al Monte"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Galleria dell'Accademia (David)"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Route SR222 (Chiantigiana)"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Panzano in Chianti"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Radda in Chianti"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Castellina in Chianti"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Piazza del Campo à Sienne"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Cathédrale de Sienne"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Facciatone"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Basilique di San Domenico"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "San Gimignano"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Torre Grossa"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Collegiata di Santa Maria Assunta"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Volterra"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "activity",
+       "name": "Musée étrusque de Volterra"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Hotel Bologna"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Retrò B&B"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Residenza Centro Storico"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "B&B Giorni Dipinti"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "310 ArtHotel"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Agriturismo San Sano"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Castello di Volpaia"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Villa Elda Boutique Hotel"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Agriturismo Oliviera Winery & Hiking"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Le Volpaie"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Agriturismo Poggio Ridulfo"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Agriturismo Mannaioni"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "hotel",
+       "name": "Agriturismo Il Castagnolino"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "restaurant",
+       "name": "La Bottega del Gelato"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "restaurant",
+       "name": "Gelateria Dondoli"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "transport",
+       "name": "Train Pise–Lucques"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "transport",
+       "name": "Train Lucques–Florence"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "item_type": "transport",
+       "name": "Location de voiture (Discovercars)"
+      }
+     ],
+     "source_urls": [
+      "https://www.voyagesetc.fr/visiter-toscane-en-7-jours-itineraire-detaille/",
+      "https://www.voyagesetc.fr/destinations/europe/italie/toscane/"
+     ],
+     "summary": "Structured 7-day Tuscany road-trip itinerary written in the first person by Adeline Gressin: Pisa and Lucca by train, Florence, then the Chianti valley (SR222), Siena, and San Gimignano with Volterra by car. Named hotel/B&B/agritourismo picks (stay22 booking widgets), restaurants, and transport advice included; page carries 2025/03-dated assets and a 'best ice-cream maker of Italy in 2025' claim, placing it after the 2024-09-17 recency floor.",
+     "title": "Visiter la Toscane en 7 jours : mon itinéraire détaillé"
     }
-  ]
+   ],
+   "notes": "",
+   "platform": "instagram"
+  },
+  {
+   "handle": "@thepinaysolobackpacker",
+   "platform": "instagram",
+   "notes": "",
+   "itineraries": [
+    {
+     "title": "PUERTO PRINCESA ITINERARY + BUDGET TRAVEL GUIDE 2026",
+     "destination": "Puerto Princesa, Palawan, Philippines",
+     "country": "Philippines",
+     "days": 4,
+     "summary": "Creator's 4-day Puerto Princesa guide (creator archive dated Feb 13, 2026): city tour covering the Underground River, weaving center and crocodile farm; Honda Bay island hopping; where to stay across city-center, resort and airport zones; and Manila flight/ferry logistics with sample budgets. [Gate 7 correction 2026-09-18: day assignments corrected to page's sample itinerary — heritage/city tour Day 1, Underground River Day 2, Honda Bay Day 3.]",
+     "source_urls": [
+      "https://thepinaysolobackpacker.com/puerto-princesa-itinerary/"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Puerto Princesa Subterranean River",
+       "location": "Sabang, Puerto Princesa, Palawan",
+       "details": "Day 1 city-tour anchor: the Underground River, one of the New 7 Wonders of Nature. Page links a Klook UNDERGROUND RIVER TOUR booking button.",
+       "booking_link": null,
+       "price_hint": "Eco-Tourism Development Fee ₱150 ($2.58), valid 6 months"
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Binuatan Creations",
+       "location": "Bougainville Drive, Rafols St., Santa Monica, Puerto Princesa",
+       "details": "Weaving workshop stop on the city tour; open daily 7:00 AM – 6:00 PM.",
+       "booking_link": null,
+       "price_hint": "Entrance FREE"
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Palawan Wildlife Rescue and Conservation Center",
+       "location": "Irawan, Puerto Princesa",
+       "details": "Crocodile farm/conservation stop on the city tour; open daily 8:00 AM – 4:45 PM.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "item_type": "activity",
+       "name": "Honda Bay island hopping",
+       "location": "Santa Lourdes Wharf, Puerto Princesa",
+       "details": "Day-trip island hopping from Honda Bay; page links a Klook HONDA BAY ISLAND HOPPING booking button.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Puerto Princesa Heritage Tour",
+       "location": "Puerto Princesa City",
+       "details": "Half- or full-day heritage/city tour; page links a Klook booking button and recommends booking in advance.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "hotel",
+       "name": "Mojo Hostel Palawan",
+       "location": "Downtown Puerto Princesa",
+       "details": "Budget city-center stay on Rizal Avenue area; page links Klook and Agoda reserve/check-rate buttons.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "hotel",
+       "name": "Hue Hotels and Resorts Puerto Princesa",
+       "location": "Downtown Puerto Princesa",
+       "details": "City-center hotel; page links Klook and Agoda reserve/check-rate buttons.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "item_type": "hotel",
+       "name": "Daluyon Beach and Mountain Resort",
+       "location": "Sabang Beach, Puerto Princesa",
+       "details": "Award-winning eco-friendly DOT-accredited beach resort; creator stayed here on her last trip. Page links Klook and Agoda reserve/check-rate buttons.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "transport",
+       "name": "Manila to Puerto Princesa flight",
+       "location": "Puerto Princesa International Airport",
+       "details": "Major airlines (Philippine Airlines, Cebu Pacific, AirAsia), ~1h15m. Page links a 12go.asia COMPARE RATES HERE button.",
+       "booking_link": null,
+       "price_hint": "≈ ₱1,500 ($26) to ₱5,000 ($86)"
+      },
+      {
+       "day": 1,
+       "item_type": "transport",
+       "name": "Airport tricycle to city center",
+       "location": "Puerto Princesa Airport → downtown",
+       "details": "Best for solo/budget travelers with small luggage; 15–25 minutes to downtown.",
+       "booking_link": null,
+       "price_hint": "≈ ₱150 ($2.58) to ₱200 ($3.45), good for 2–3 persons"
+      },
+      {
+       "day": 4,
+       "item_type": "transport",
+       "name": "Puerto Princesa to El Nido transfer",
+       "location": "Puerto Princesa → El Nido",
+       "details": "Onward transfer link for travelers continuing to El Nido; page links a Klook BOOK HERE button.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "other",
+       "name": "Philippines 5G SIM / eSIM",
+       "location": "Puerto Princesa",
+       "details": "Travel essential listed in the guide; page links Klook BUY HERE buttons for physical SIM and eSIM.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    },
+    {
+     "title": "PUERTO GALERA ITINERARY (TRAVEL GUIDE + BUDGET) 2025",
+     "destination": "Puerto Galera, Oriental Mindoro, Philippines",
+     "country": "Philippines",
+     "days": 3,
+     "summary": "Creator's Puerto Galera guide (creator archive dated Aug 13, 2025): 2- and 3-day samples with land tour (Muelle Bay heritage park, Iraya-Mangyan Village, Tamaraw Falls), island-hopping/snorkeling, Batangas Port ferry logistics, and resort picks across White Beach, Aninuan and Sabang.",
+     "source_urls": [
+      "https://thepinaysolobackpacker.com/puerto-galera-itinerary/"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Muelle Cultural Heritage Park",
+       "location": "Muelle Bay, Puerto Galera",
+       "details": "Land-tour stop: Muelle Bay, historical canon, life-size replica of Spanish galleon. Access by tricycle.",
+       "booking_link": null,
+       "price_hint": "Entrance FREE; tricycle ≈ ₱150 ($3) one way for 3 pax"
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Iraya-Mangyan Village",
+       "location": "Puerto Galera",
+       "details": "Indigenous village visit on the land tour; open daily 8:00 AM – 5:00 PM.",
+       "booking_link": null,
+       "price_hint": "Entrance FREE (tips/donations encouraged)"
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Tamaraw Falls",
+       "location": "Puerto Galera",
+       "details": "Waterfall stop on the land tour; reachable by jeep en route to Calapan or chartered tricycle.",
+       "booking_link": null,
+       "price_hint": "₱30 ($0.54) per person"
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Puerto Galera island hopping and snorkeling",
+       "location": "White Beach, Puerto Galera",
+       "details": "Boat day trip with snorkeling; creator used third-party operator NDM Travel Connections (contact 0908 470 7257) as a customer.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "hotel",
+       "name": "Casa Marco Suites",
+       "location": "White Beach, Puerto Galera",
+       "details": "White Beach resort; page links RESERVE HERE / CHECK RATES HERE affiliate buttons.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "hotel",
+       "name": "The Mangyan Grand Hotel",
+       "location": "White Beach, Puerto Galera",
+       "details": "White Beach hotel; page links RESERVE HERE / CHECK RATES HERE affiliate buttons.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "hotel",
+       "name": "Simon Heritage Resort",
+       "location": "White Beach, Puerto Galera",
+       "details": "White Beach resort; page links RESERVE HERE / CHECK RATES HERE affiliate buttons.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "item_type": "hotel",
+       "name": "AV Suites",
+       "location": "Aninuan Beach, Puerto Galera",
+       "details": "Aninuan Beach stay (less crowded than White Beach); page links affiliate reserve/check-rate buttons.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "item_type": "hotel",
+       "name": "Tamaraw Beach Resort",
+       "location": "Aninuan Beach, Puerto Galera",
+       "details": "Aninuan Beach resort; page links affiliate reserve/check-rate buttons.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "item_type": "hotel",
+       "name": "Lalaguna Villas Luxury Dive Resort & Spa",
+       "location": "Sabang Beach, Puerto Galera",
+       "details": "Dive-oriented Sabang resort (Sabang is the best area for diving); page links affiliate reserve/check-rate buttons.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "transport",
+       "name": "Manila to Puerto Galera bus + ferry",
+       "location": "Ermita, Manila → Batangas Port → Puerto Galera",
+       "details": "Bus + ferry ticket departing 9:30 AM from City State Tower Hotel, Ermita; page links Klook RESERVE HERE / KKday BOOK HERE buttons.",
+       "booking_link": null,
+       "price_hint": "₱1,480 ($26.45)"
+      },
+      {
+       "day": 1,
+       "item_type": "transport",
+       "name": "Batangas Port to Puerto Galera fast craft",
+       "location": "Batangas Port → Puerto Galera",
+       "details": "Fast craft (MV Island Calayan, Island Water) or RoRo ferry (FastCat, Montenegro Lines) across to Puerto Galera/Calapan.",
+       "booking_link": null,
+       "price_hint": "₱500–₱620 ($8.93–$11.07) tourist class"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@boundlessroads",
+   "platform": "instagram",
+   "itineraries": [],
+   "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+  },
+  {
+   "handle": "@charlies_wanderings",
+   "platform": "instagram",
+   "itineraries": [],
+   "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+  },
+  {
+   "handle": "@elise.abroad",
+   "platform": "instagram",
+   "itineraries": [],
+   "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+  },
+  {
+   "handle": "@enjoytheadventures",
+   "platform": "instagram",
+   "itineraries": [],
+   "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+  },
+  {
+   "handle": "@kamischka",
+   "platform": "instagram",
+   "itineraries": [],
+   "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+  },
+  {
+   "handle": "@thecommontraveler",
+   "platform": "instagram",
+   "itineraries": [],
+   "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+  },
+  {
+   "handle": "@wanderwithjo",
+   "platform": "instagram",
+   "itineraries": [],
+   "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+  }
+ ]
 }

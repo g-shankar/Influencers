@@ -1,0 +1,328 @@
+[
+ {
+  "batch": 1,
+  "handle": "@jessicanabongo",
+  "title": "Georgia Trip - Food & Wine small-group trip (Sept 27 - Oct 2, 2024)",
+  "verdict": "CONFIRMED",
+  "evidence": "Page states 'September 27 - October 2, 2024,' 'Food & Wine Trip,' and gives the exact six-date sequence through Tbilisi, Kakheti, Mtskheta, Kazbegi, and departure.",
+  "urls_checked": [
+   "https://www.jessicanabongo.com/georgia-trip"
+  ]
+ },
+ {
+  "batch": 1,
+  "handle": "@adventurouskate",
+  "title": "Two Weeks in Mexico: The BEST Yucatan Road Trip Itinerary",
+  "verdict": "PARTIAL",
+  "evidence": "Route and 14-day duration supported; page groups Holbox activities under 'Days 2 and 3', so packet-specific Day 2 assignments (Cabo Catoche, three-island trip, whale sharks) and Day 3 Zomay are not individually supported. Cenote Zaci appears in the Day 4 Valladolid section, not Day 5.",
+  "urls_checked": [
+   "https://www.adventurouskate.com/two-weeks-in-mexico-yucatan-road-trip-itinerary/"
+  ]
+ },
+ {
+  "batch": 1,
+  "handle": "@migrationology",
+  "title": "Ghorepani Poon Hill Trek - Ultimate Guide and Itinerary",
+  "verdict": "PARTIAL",
+  "evidence": "Five-day trek and most named stays/items supported. Marigold Hotel is described in trek preparation as the Pokhara booking base, not the Day 1 trek lodging. Day 5 did not end with a direct taxi to Pokhara - the page says they continued to Annapurna Eco Village, stayed one night, then took a taxi.",
+  "urls_checked": [
+   "https://migrationology.com/ghorepani-poon-hill-trek-ultimate-guide/"
+  ]
+ },
+ {
+  "batch": 1,
+  "handle": "@backpackersteve",
+  "title": "Lapland, Finland - 7-Day Winter Road Trip",
+  "verdict": "CONFIRMED",
+  "evidence": "Description says the road trip was executed 'in only a week' and names Santa Claus Village, Snowman World, Lapland Safaris, Yllas, Aurora Estate, Safartica, Rami's Huskies, snowshoeing, and Sauna Gondola.",
+  "urls_checked": [
+   "https://www.youtube.com/watch?v=Baj-TL-DKGU"
+  ]
+ },
+ {
+  "batch": 1,
+  "handle": "@budgettraveller",
+  "title": "3 days in Phuket - Rainy day itinerary",
+  "verdict": "CONFIRMED",
+  "evidence": "Page explicitly has Days 1-3 and supports Old Phuket Town, restaurants/hotel, responsible elephant sanctuary, Wat Chalong, rum distillery, Muay Thai, and Nai Harn/Kata beach structure.",
+  "urls_checked": [
+   "https://budgettraveller.org/what-to-do-phuket-rainy-day/"
+  ]
+ },
+ {
+  "batch": 1,
+  "handle": "@cheaprvliving",
+  "title": "Road Trip with my Son and his Girlfriend",
+  "verdict": "PARTIAL",
+  "evidence": "Stops and order supported: Goblin Valley/Capitol Reef/Torrey followed 'the next day' by Hite Overlook, Moki Dugway, Goosenecks, and Monument Valley. But the page is not a published four-day itinerary; 'We had already been together for 4 days' refers to time together, not four structured itinerary days.",
+  "urls_checked": [
+   "https://cheaprvliving.com/kb/road-trip-son-girlfriend/"
+  ]
+ },
+ {
+  "batch": 1,
+  "handle": "@migrationology",
+  "title": "Top 10 Things to Do in Luang Prabang [Your Perfect One Day Itinerary]",
+  "verdict": "CONFIRMED",
+  "evidence": "Exact hour-by-hour sequence from 6 AM Phou Si through 9 PM BeerLao, with Apple Guest House, market foods, Wat Xieng Thong, Saffron, sausage, dinner, and night market.",
+  "urls_checked": [
+   "https://migrationology.com/things-to-do-luang-prabang/"
+  ]
+ },
+ {
+  "batch": 1,
+  "handle": "@lostleblanc",
+  "title": "How To Travel Bali – 14 Days in Paradise",
+  "verdict": "PARTIAL",
+  "evidence": "Third-party page supports a 12-day itinerary despite the linked video title saying 14 days, plus Canggu, Berawa, Uluwatu, Ubud, waterfalls, cuisine, and adults-only resorts. Nusa Penida is from a separate 'Top 10 Bali' video, not the 12-day itinerary, so merging it into this itinerary is unsupported.",
+  "urls_checked": [
+   "https://www.nomadicnews.com/lost-leblanc/"
+  ]
+ },
+ {
+  "batch": 2,
+  "handle": "@theplanetd",
+  "title": "3 Days in Istanbul Itinerary",
+  "verdict": "PARTIAL",
+  "evidence": "Three-day structure and all major stops supported. Exact issues: packet calls Hagia Sophia the 'oldest building in Istanbul', while page says 'one of the oldest buildings in Istanbul'; packet labels the evening a 'sunset Bosphorus dinner cruise', while the itinerary says sunset cruise and separately recommends selecting a dinner cruise.",
+  "urls_checked": [
+   "https://theplanetd.com/3-days-in-istanbul-itinerary/"
+  ]
+ },
+ {
+  "batch": 2,
+  "handle": "@yachtlife",
+  "title": "Windward Islands 7-Day Yachting Itinerary",
+  "verdict": "CONFIRMED",
+  "evidence": "Page explicitly says 'sample 7-day yachting itinerary' and gives the exact Day 1-7 legs, cruise times, activities, and destinations.",
+  "urls_checked": [
+   "https://Www.yachtlife.com/itineraries/windward-islands"
+  ]
+ },
+ {
+  "batch": 2,
+  "handle": "@taramilktea",
+  "title": "Tara Milk Tea's Europe trip highlights (Mykonos and Budva)",
+  "verdict": "CONFIRMED",
+  "evidence": "Qantas page supports four nights at Cavo Tagoo and the food/view details, plus Dukely Beach Lounge and its Japanese dishes. taramilktea.com is currently a GoDaddy domain-for-sale page, supporting the offline-blog caveat.",
+  "urls_checked": [
+   "https://www.qantas.com/travelinsider/en/explore/europe/travelling-in-europe-with-instagram-star-tara-milk-tea.html",
+   "https://taramilktea.com/"
+  ]
+ },
+ {
+  "batch": 2,
+  "handle": "@oneikathetraveller",
+  "title": "The Ultimate One-Week Ghana Itinerary",
+  "verdict": "CONFIRMED",
+  "evidence": "Page says 'exactly eight days', divided into Accra 4 days, Kumasi 2, Cape Coast 2; packet correctly leaves item days null and supports the named activities, hotels, restaurants, prices, flight, visa, and driver.",
+  "urls_checked": [
+   "http://www.oneikathetraveller.com/why-you-should-go-to-ghana-one-week-ghana-itinerary-travel-guide.html"
+  ]
+ },
+ {
+  "batch": 2,
+  "handle": "@thebrokebackpacker",
+  "title": "3-Month Southeast Asia Itinerary: The Banana Pancake Trail",
+  "verdict": "CONFIRMED",
+  "evidence": "Exact heading and route support Bangkok/northern Thailand, slow boat to Luang Prabang, Laos stops, Vietnam, Cambodia/Angkor Wat, southern Thailand or Indonesia finale, and $20-$40 daily budget.",
+  "urls_checked": [
+   "https://www.thebrokebackpacker.com/backpacking-southeast-asia-travel-guide/"
+  ]
+ },
+ {
+  "batch": 2,
+  "handle": "@youngadventuress",
+  "title": "South Island Road Trip - Part 2 (North Coast & Wine Country)",
+  "verdict": "CONFIRMED",
+  "evidence": "Page gives chronological numbered route sections and supports Christchurch, Darfield ballooning, Kaikoura whale/albatross trips, Marlborough Sounds kayaking, Blenheim wine touring, Hanmer Springs, and Waipara lunch. Packet chronology aligns with the narrative.",
+  "urls_checked": [
+   "https://youngadventuress.com/2015/08/road-trip-new-zealand-south-island.html"
+  ]
+ },
+ {
+  "batch": 2,
+  "handle": "@nomadicmatt",
+  "title": "A 10-Day Itinerary Down Sweden's Coast",
+  "verdict": "CONFIRMED",
+  "evidence": "Page explicitly gives Days 1-2 Lulea, 3-4 Umea, 5 Ornskoldsvik, 6 Skuleskogen, 7-8 Sundsvall, 9-10 Uppsala, with the packet's hotels and key activities.",
+  "urls_checked": [
+   "https://www.nomadicmatt.com/travel-blogs/sweden-coast-itinerary/"
+  ]
+ },
+ {
+  "batch": 3,
+  "handle": "@kelseyinlondon",
+  "title": "The Perfect 4-day Cornwall Itinerary",
+  "verdict": "CONFIRMED",
+  "evidence": "Page title, four-day structure, Hoburne St Mabyn base, beach yoga, nature-focused activities, seafood, and 5-6-hour London drive are supported.",
+  "urls_checked": [
+   "https://kelseyinlondon.com/cornwall-itinerary/"
+  ]
+ },
+ {
+  "batch": 3,
+  "handle": "@jordentually",
+  "title": "The Best North Coast 500 + Isle of Skye Travel Guide (7 Day Itinerary)",
+  "verdict": "CONFIRMED",
+  "evidence": "YouTube description has exact Days 1-7 and named stops. Minor wording/typo differences such as Applecross 'Path' versus packet 'Pass', and 'Man of Storr' versus 'Old Man of Storr', do not alter the supported places.",
+  "urls_checked": [
+   "https://www.youtube.com/watch?v=6E62FzhNyU4"
+  ]
+ },
+ {
+  "batch": 3,
+  "handle": "@hudsonandemily",
+  "title": "Iceland Ring Road Highlights — Perfect 1-2 Week Itinerary",
+  "verdict": "CONFIRMED",
+  "evidence": "TikTok page is readable and says 'perfect 1-2 week itinerary', listing Skogafoss, Vatnajokull, Strokkur, Landmannalaugar, Kirkjufell, Blue Lagoon, Fagradalsfjall, Sundhnukur Crater Row, and Mulagljufur Canyon.",
+  "urls_checked": [
+   "https://www.tiktok.com/@hudsonandemily/video/7619036734390553874"
+  ]
+ },
+ {
+  "batch": 4,
+  "handle": "@nikkionherway",
+  "title": "The Perfect One Week Slovenia Itinerary: Europe's Hidden Gem",
+  "verdict": "CONFIRMED",
+  "evidence": "Page 'The Perfect One Week Slovenia Itinerary' gives Day 1&2 Ljubljana & Postojna, Day 3&4 Lake Bohinj, Day 5&6 Lake Bled, Day 7 Kranj or leave; supports Ljubljana castle/wine bar Grajska Vinoteka, Ljubljanica river boat (14 EUR), Postojna caves, Julija restaurant, Lake Bohinj (swim, Vogel cable car, Savica waterfall, Divja Jaga), Lake Bled (swim, rowboat, pletna boat, Vintgar Gorge, Straza toboggan, Hotel Triglav, Mala Osojnica), airport bus (4 EUR), late-summer-to-fall timing, public transport via Arriva/rental car.",
+  "urls_checked": [
+   "https://nikkionherway.com/slovenia-itinerary/"
+  ]
+ },
+ {
+  "batch": 4,
+  "handle": "@wheelaroundtheworld",
+  "title": "Wheel Around Taiwan — wheelchair accessibility road journey",
+  "verdict": "CONFIRMED",
+  "evidence": "All five episodes fetched: EP1 Day 1 Taipei, Shilin Night Market, shipping-container pier; EP2 bullet train Taipei->Taichung, ticket disaster/non-accessible carriage, Rainbow Village, $2K Car Challenge, red Ford 'Life'; EP3 Kaohsiung Grand Hotel, Fo Guang Shan Buddha, pushed south; EP4 mission south to the southern tip of Taiwan; EP5 final day Yilan->Shifen Old Street sky lantern (sustainable lantern, painted wishes), 7-Eleven guide, Taipei 101 with Laura Lin and the world's fastest elevator.",
+  "urls_checked": [
+   "https://www.youtube.com/watch?v=mYBNRbDhO_o",
+   "https://www.youtube.com/watch?v=y_maOz6qpbY",
+   "https://www.youtube.com/watch?v=e4r0khsE8hQ",
+   "https://www.youtube.com/watch?v=7gIimcGyMoU",
+   "https://www.youtube.com/watch?v=E_QHaXiCrZo"
+  ]
+ },
+ {
+  "batch": 4,
+  "handle": "@travelwithjaro",
+  "title": "How far does $100 get you in Lombok",
+  "verdict": "CONFIRMED",
+  "evidence": "TikTok caption: 'How far does $100 get you in LOMBOK? ... here's how far $100 got us in a single day. Some of our favorite experiences were: Staying at The Kebon for $40/night; Going on a local tour with The Power Of Local Women Lombok; Doing a private villa stay with Olea Villas ... staying in Kuta (more developed city).' Secondary neoreach page is a generic agency page with no trip content.",
+  "urls_checked": [
+   "https://www.tiktok.com/@travelwithjaro/video/7471887027437423880",
+   "https://neoreach.com/tiktok-travel/"
+  ]
+ },
+ {
+  "batch": 4,
+  "handle": "@rileejsmith",
+  "title": "Barcelona: Tapas & Traditions - Favorite Spots",
+  "verdict": "CONFIRMED",
+  "evidence": "Page titled 'Barcelona - Rilee Smith' with 'Download my full 4-day itinerary'; supports tapas & traditions framing, Sagrada Familia, Gothic Quarter, Palau de la Musica, Herboristeria del Rei, El Pont del Bisbe, Montjuic Castle, Mercat de la Boqueria, La Tasqueta de Blai, Casa Lolea sangria, walking tapas & wine tour (first night), Patatas Bravas favorite eat, Moirai Market vintage finds, getting lost in alleys favorite activity.",
+  "urls_checked": [
+   "https://rileejsmith.com/guide/barcelona"
+  ]
+ },
+ {
+  "batch": 4,
+  "handle": "@sonia.c.mota",
+  "title": "9-Day Mallorca Travel Guide",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Fetch attempt used a TikTok video URL not present in the packet's source_urls and the page rendered empty; the packet's listed source URLs (YouTube watch v=x6U2Lnb3spU and simply-slow-traveler.com) were not checked before the fetch tool became unavailable (tool_failure on packet 24). No 429 occurred.",
+  "urls_checked": [
+   "https://www.tiktok.com/@sonia.c.mota/video/7530694941478956312 (not in packet source_urls; rendered empty)"
+  ]
+ },
+ {
+  "batch": 4,
+  "handle": "@shetravelledtheworld",
+  "title": "Kyrgyzstan Itinerary: The Perfect 2 Week Trip",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "browser-service returned tool_failure on the requested page; no content could be checked. The attempted URL was a shortened form of the packet's listed URL (kyrgyzstan-itinerary-the-perfect-2-week-trip). No 429 occurred.",
+  "urls_checked": [
+   "https://shetravelledtheworld.com/itinerary-kyrgyzstan/ (tool_failure)"
+  ]
+ },
+ {
+  "batch": 4,
+  "handle": "@sonia.c.mota",
+  "title": "A Perfect Day in Lisbon",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Browser fetch tool unavailable after tool_failure on packet 24; source URLs not checked. No 429 occurred.",
+  "urls_checked": []
+ },
+ {
+  "batch": 5,
+  "handle": "@gopharitravels",
+  "title": "10-Day Solo Garden Route Road Trip",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Browser fetch tool unavailable after tool_failure on packet 24; source URLs not checked. No 429 occurred.",
+  "urls_checked": []
+ },
+ {
+  "batch": 5,
+  "handle": "@letravelstyle",
+  "title": "The Ultimate 10 Days in California Road Trip Itinerary",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Browser fetch tool unavailable after tool_failure on packet 24; source URLs not checked. No 429 occurred.",
+  "urls_checked": []
+ },
+ {
+  "batch": 5,
+  "handle": "@gokylahgo",
+  "title": "4 days in Peru: Machu Picchu, Lima and the desert",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Browser fetch tool unavailable after tool_failure on packet 24; source URLs not checked. No 429 occurred.",
+  "urls_checked": []
+ },
+ {
+  "batch": 5,
+  "handle": "@vitortrip",
+  "title": "London 3-Day Itinerary (routes + prices + insider tips)",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Browser fetch tool unavailable after tool_failure on packet 24; source URLs not checked. No 429 occurred.",
+  "urls_checked": []
+ },
+ {
+  "batch": 5,
+  "handle": "@travelwithkna",
+  "title": "A 2-Day Itinerary in Niagara Falls",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Browser fetch tool unavailable after tool_failure on packet 24; source URLs not checked. No 429 occurred.",
+  "urls_checked": []
+ },
+ {
+  "batch": 5,
+  "handle": "@explorewithsofs",
+  "title": "Two-Week Italy Route",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Browser fetch tool unavailable after tool_failure on packet 24; source URLs not checked. No 429 occurred.",
+  "urls_checked": []
+ },
+ {
+  "batch": 5,
+  "handle": "@thoughtsofatraveller",
+  "title": "The perfect 5 day Chiang Mai itinerary",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Browser fetch tool unavailable after tool_failure on packet 24; source URLs not checked. No 429 occurred.",
+  "urls_checked": []
+ },
+ {
+  "batch": 5,
+  "handle": "@skylietravels",
+  "title": "5-day Scotland itinerary (under $1,000)",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Browser fetch tool unavailable after tool_failure on packet 24; source URLs not checked. No 429 occurred.",
+  "urls_checked": []
+ },
+ {
+  "batch": 6,
+  "handle": "@CandaceAbroad",
+  "title": "3-day Kuala Lumpur itinerary",
+  "verdict": "UNVERIFIABLE",
+  "evidence": "Browser fetch tool unavailable after tool_failure on packet 24; source URLs not checked. No 429 occurred.",
+  "urls_checked": []
+ }
+]

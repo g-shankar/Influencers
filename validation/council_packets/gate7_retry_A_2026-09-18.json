@@ -1,0 +1,3622 @@
+[
+ {
+  "batch": 1,
+  "packet_index": 0,
+  "handle": "@jessicanabongo",
+  "platform": "instagram",
+  "title": "Georgia Trip - Food & Wine small-group trip (Sept 27 - Oct 2, 2024)",
+  "destination": "Georgia (Tbilisi, Kakheti Wine Region, Mtskheta, Kazbegi Mountain Region)",
+  "country": "Georgia",
+  "days": 6,
+  "summary": "A 6-calendar-day food-and-wine small-group trip through Georgia, organized and guided by Jessica Nabongo, running September 27\u2013October 2, 2024. The trip covers Tbilisi, the Kakheti Wine Region, Mtskheta, and the Kazbegi Mountain Region with a focus on Georgian wine and cuisine; overnight locations are given but hotels and specific restaurants are not named on the page. [Found in documented re-search 2026-09-16; missed by the original 2026-09-15 extraction. Source page verified live 2026-09-16.]",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "transport",
+    "name": "Arrival to Tbilisi",
+    "location": "Tbilisi",
+    "details": "September 27, 2024: arrival (mode not specified); rest after flight.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Overnight stay in Tbilisi (hotel not named on source page)",
+    "location": "Tbilisi",
+    "details": "Overnight in Tbilisi; hotel unnamed on the page.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Ancient wine-making traditions",
+    "location": "Kakheti Wine Region",
+    "details": "September 28, 2024: wine-focused day in the Kakheti Wine Region.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "hotel",
+    "name": "Overnight stay in Tbilisi (hotel not named on source page)",
+    "location": "Tbilisi",
+    "details": "Overnight in Tbilisi; hotel unnamed on the page.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Mtskheta",
+    "location": "Mtskheta",
+    "details": "September 29, 2024: visit to Mtskheta.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Kazbegi Mountain Region",
+    "location": "Kazbegi Mountain Region",
+    "details": "September 29, 2024: visit to the Kazbegi Mountain Region.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "hotel",
+    "name": "Overnight stay in Kazbegi (hotel not named on source page)",
+    "location": "Kazbegi",
+    "details": "Overnight in Kazbegi; hotel unnamed on the page.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Kazbegi Mountain Region",
+    "location": "Kazbegi Mountain Region",
+    "details": "September 30, 2024: continued time in the Kazbegi Mountain Region.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "hotel",
+    "name": "Overnight stay in Tbilisi (hotel not named on source page)",
+    "location": "Tbilisi",
+    "details": "Overnight in Tbilisi; hotel unnamed on the page.",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Exploring Tbilisi",
+    "location": "Tbilisi",
+    "details": "October 1, 2024: sightseeing in Tbilisi.",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Wine and food in Tbilisi",
+    "location": "Tbilisi",
+    "details": "October 1, 2024: wine and food experiences in Tbilisi; no venue named on the page.",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "hotel",
+    "name": "Overnight stay in Tbilisi (hotel not named on source page)",
+    "location": "Tbilisi",
+    "details": "Overnight in Tbilisi; hotel unnamed on the page.",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "transport",
+    "name": "Departure",
+    "location": null,
+    "details": "October 2, 2024: departure; mode not specified.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.jessicanabongo.com/georgia-trip"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 1,
+  "packet_index": 0,
+  "handle": "@adventurouskate",
+  "platform": "instagram",
+  "title": "Two Weeks in Mexico: The BEST Yucatan Road Trip Itinerary",
+  "destination": "Yucatan Peninsula",
+  "country": "Mexico",
+  "days": 14,
+  "summary": "Kate McCulley's two-week Yucatan road trip itinerary skips Cancun, Playa del Carmen and Tulum in favor of Isla Holbox, colonial Valladolid, Rio Lagartos, Merida with cenote and ruin day trips, and the Lake of Seven Colors at Bacalar. It is a full day-by-day plan with named hotel, restaurant and activity recommendations at each stop, based on her winter living in Merida and years of trips through the peninsula.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "transport",
+    "name": "Cancun to Holbox transfer",
+    "location": "Cancun Airport -> Chiquila -> Isla Holbox",
+    "details": "Pick up rental car at Cancun Airport, drive 2 hours to Chiquila. Park car (100 pesos / $5 per 24h). Ferry to Isla Holbox every half hour, ~200 pesos ($10) adult.",
+    "price_hint": "Ferry ~200 pesos ($10) adult; parking 100 pesos ($5)/24h"
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Ser Casasandra",
+    "location": "Isla Holbox",
+    "details": "Recommended luxury stay on Holbox; she stayed here on her first trip. Beachfront area, pool, romantic room design, outstanding food.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Hotel Para Ti",
+    "location": "Isla Holbox",
+    "details": "Mid-range adults-only hotel a few blocks from town; great pool, bohemian decor; she stayed here on second trip.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Hotelito Villas Holbox",
+    "location": "Isla Holbox",
+    "details": "Budget hostel in the center of town; rooms small and basic but clean.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Tribu",
+    "location": "Isla Holbox",
+    "details": "Hostel option on Holbox; can get loud at night.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Cabo Catoche boat trip",
+    "location": "Isla Holbox",
+    "details": "Boat trip from Holbox to this inlet with the clearest, most beautiful water; she calls it a must. A Viator tour (snorkeling and/or fishing) is linked.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Three-island boat trip",
+    "location": "Isla Holbox",
+    "details": "Popular boat trip to Bird Island, uninhabited Pasion Island (sandbar walk), and Cenote Yalahau on the mainland.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Swim with whale sharks",
+    "location": "Isla Holbox",
+    "details": "Available June through September; peak season July and August. Called one of the coolest activities in Mexico.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "restaurant",
+    "name": "Zomay",
+    "location": "Isla Holbox",
+    "details": "Popular sunset spot on Holbox for cocktails at sunset.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "restaurant",
+    "name": "La Sardina Enamorada",
+    "location": "Chiquila",
+    "details": "Recommended breakfast stop on the mainland in Chiquila before driving on.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "transport",
+    "name": "Drive to Valladolid",
+    "location": "Chiquila -> Valladolid",
+    "details": "Ferry back to Chiquila, pick up car, drive just over 2 hours to Valladolid, crossing from Quintana Roo into Yucatan state (1 hour time change).",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "hotel",
+    "name": "Le Muuch Hotel",
+    "location": "Valladolid",
+    "details": "Luxury pick in Valladolid; described as possibly the most beautiful property in town with chic colorful rooms, outdoor hammocks and pool.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "hotel",
+    "name": "Casa Tia Micha",
+    "location": "Valladolid",
+    "details": "Mid-range property in Valladolid that feels luxurious: classy stone bathtubs, elegant carved wood furniture, well priced and central.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "hotel",
+    "name": "Hotel Zazil-Maj",
+    "location": "Valladolid",
+    "details": "Budget hotel in Valladolid; simple but clean, recently renovated, a few blocks from Cenote Zaci.",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Chichen Itza",
+    "location": "Valladolid area",
+    "details": "Head to the ruins first thing in the morning; opens 8:00 AM, 45 minutes from Valladolid. Go early to beat crowds; avoid Sundays (free admission for Mexicans = very crowded). UNESCO World Heritage Site, Temple of Kukulkan.",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Cenote Zaci",
+    "location": "Valladolid",
+    "details": "Cenote right in downtown Valladolid with waterfalls; one of the deepest cenotes in the region; recently reopened after renovations.",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Hacienda San Lorenzo Oxman cenote",
+    "location": "Valladolid area",
+    "details": "Her favorite cenote in the region: visually spectacular, large, not too touristed, lovely grounds, surprisingly good food. Alternative: Cenote Ik-Kil (similar look, more crowded).",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "restaurant",
+    "name": "Wabi Gelato",
+    "location": "Valladolid",
+    "details": "Gelato cafe in Valladolid; hard-to-find good gelato in Mexico, limited but inventive flavors (she loved the rosemary).",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "restaurant",
+    "name": "ConKafecito",
+    "location": "Valladolid",
+    "details": "Cafe on Calzada de los Frailes; she had a great pay de limon (lemon pie) here.",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "other",
+    "name": "Days 6-14 route outline (Rio Lagartos, Merida, Bacalar)",
+    "location": "Yucatan Peninsula",
+    "details": "Remaining route per her day-by-day plan: Day 6 Valladolid to Rio Lagartos; Day 7 to Merida via Izamal; Days 8-10 Merida and day trips (Uxmal, Celestun, Izamal, Campeche); Day 11 Merida to Bacalar (Lake of Seven Colors); Days 12-13 Bacalar; Day 14 Bacalar back to Cancun Airport. Notable: this itinerary deliberately skips Cancun, Playa del Carmen and Tulum.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.adventurouskate.com/two-weeks-in-mexico-yucatan-road-trip-itinerary/"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 1,
+  "packet_index": 0,
+  "handle": "@migrationology",
+  "platform": "instagram",
+  "title": "Ghorepani Poon Hill Trek - Ultimate Guide and Itinerary",
+  "destination": "Annapurna Range (Ghorepani Poon Hill Trek)",
+  "country": "Nepal",
+  "days": 5,
+  "summary": "Mark Wiens's day-by-day itinerary for his 5-day Ghorepani Poon Hill trek (mid-March 2013) starting from Pokhara: Nayapul to Tikhedunga, up to Ghorepani, sunrise at Poon Hill then on to Gandruk, Gandruk to Deurali, and back to Pokhara. Includes the lodges they stayed in, meals eaten, and costs, plus prep/permit/gear guidance.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Marigold Hotel (Amrit Tours)",
+    "location": "Pokhara",
+    "details": "Mark booked everything through Marigold Hotel/Amrit Tours in Pokhara; arranged permits and a guide ($20/day, 5 days = $100). Rooms around 700 Rupees.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "transport",
+    "name": "Taxi from Pokhara to Nayapul",
+    "location": "Pokhara",
+    "details": "Started at about 8 am; taxi cost 1,500 Nepali Rupees. Trekking time about 5-6 hours.",
+    "price_hint": "1,500 Rupees (taxi)"
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Green Land Restaurant",
+    "location": "Near Tikhedunga",
+    "details": "Small house restaurant lunch stop; vegetarian dal bhat for 300 Rupees, all the rice he could eat.",
+    "price_hint": "300 Rupees (lunch)"
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Tikhedunga Guest House",
+    "location": "Tikhedunga",
+    "details": "Double room 350 Rupees; dinner of plain rice (150), stir fried veg noodles (270), tea (50).",
+    "price_hint": "350 Rupees/night"
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Hike Tikhedunga to Ghorepani",
+    "location": "Ghorepani",
+    "details": "Walked straight up the mountain ~4 hours, glimpses of snow-capped Annapurna peaks; lunch of sukuti (dry buffalo) fried with onions and spices for 400 Rupees; total hiking 7-8 hours.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "hotel",
+    "name": "Dhaulagiri Lodge",
+    "location": "Ghorepani",
+    "details": "Top of the village in the main square area; 300 Rupees room, 100 Rupees hot shower; dinner of vegetable fried rice (260) and milk tea (60).",
+    "price_hint": "300 Rupees/night"
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Sunrise at Poon Hill summit",
+    "location": "Poon Hill",
+    "details": "5 am climb (45 minutes) to 3,210m summit for sunrise over the Annapurna range; then hiked the parallel ridge down to Gandruk; lunch of vegetarian dal bhat for 360 Rupees; total hiking 10-12 hours.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "hotel",
+    "name": "Muna Hotel",
+    "location": "Gandruk",
+    "details": "350 Rupees per night.",
+    "price_hint": "350 Rupees/night"
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Hike Gandruk to Deurali",
+    "location": "Deurali",
+    "details": "Mostly downhill stone steps through small villages and farms; breakfast of dal baht (360 Rupees); total hiking about 10 hours.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "hotel",
+    "name": "Hotel Trekkers Inn",
+    "location": "Deurali",
+    "details": "Room 350 Rupees; dinner of Tibet bread (140) and omelet with rice (320).",
+    "price_hint": "350 Rupees/night"
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Hike Deurali to Pothana, taxi to Pokhara",
+    "location": "Pokhara",
+    "details": "About an hour to the permit check town of Pothana, then onward to the Annapurna Eco Village (1,000 Rupees/night, stayed 1 night) before catching a taxi back to Pokhara.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://migrationology.com/ghorepani-poon-hill-trek-ultimate-guide/"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 1,
+  "packet_index": 0,
+  "handle": "@backpackersteve",
+  "platform": "instagram",
+  "title": "Lapland, Finland - 7-Day Winter Road Trip",
+  "destination": "Lapland",
+  "country": "Finland",
+  "days": 7,
+  "summary": "BackPacker Steve's 7-day Lapland winter road trip (rental car, self-planned itinerary): Rovaniemi to Yllas and Kittila with named hotels (Sokos Hotel Vaakuna, Aurora Estate) and named tour operators for snowmobiling, reindeer and huskie safaris. Source is his YouTube video description listing all places visited; not a strict day-by-day, so confidence is medium.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Sokos Hotel Vaakuna",
+    "location": "Rovaniemi",
+    "details": "Rovaniemi hotel named in his Lapland trip credits.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Aurora Estate",
+    "location": "Yllas",
+    "details": "Yllas hotel named in his Lapland trip credits.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Santa Claus Village & Snowman World",
+    "location": "Rovaniemi",
+    "details": "Santa Claus Village and its Snowman World in Rovaniemi.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Snowmobile tour with Lapland Safaris",
+    "location": "Rovaniemi",
+    "details": "Snowmobile tour with this operator in Rovaniemi.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Snow Village, Kittila",
+    "location": "Kittila",
+    "details": "Ice sculpturing/igloo village in Kittila.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Yllas Ski Resort",
+    "location": "Yllas",
+    "details": "Ski resort area at Yllasjarvi and Akaslompolo.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Reindeer safari with Safartica",
+    "location": "Kittila",
+    "details": "Reindeer safari with this operator in Kittila.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Huskie safari with Rami's Huskies",
+    "location": "Kittila",
+    "details": "Huskie (dog sled) safari with this operator in Kittila.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Snowshoeing",
+    "location": "Akaslompolo",
+    "details": "Snowshoeing at Akaslompolo.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Sauna Gondola, Yllas",
+    "location": "Yllas",
+    "details": "Sauna gondola experience at Yllasjarvi.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.youtube.com/watch?v=Baj-TL-DKGU"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 1,
+  "packet_index": 1,
+  "handle": "@budgettraveller",
+  "platform": "instagram",
+  "title": "3 days in Phuket - Rainy day itinerary",
+  "destination": "Phuket, Thailand (Phuket Old Town, Chalong, Patong, Nai Harn)",
+  "country": "Thailand",
+  "days": 3,
+  "summary": "A 3-day Phuket itinerary built for rainy days, planned with HipTraveler's itinerary planner, spotlighting lesser-known corners of the island. Day 1 explores Phuket Old Town's Sino-Portuguese architecture, museums and Michelin-recognised Southern Thai food. Day 2 covers a responsible elephant sanctuary, Wat Chalong temple, the island's only rum distillery and a Muay Thai boxing night. Day 3 is relaxation at Nai Harn and Kata beaches.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Sri the Shophouse Cafe",
+    "location": "125 Soi Soon Utis, Phuket Old Town, Thailand",
+    "details": "Morning coffee and breakfast in a restored Sino-Portuguese shophouse with gallery and gift shop; Japanese-style cafe, breakfast snacks and sweet treats",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Phuket Thai Hua Museum",
+    "location": "28 Krabi Rd, Phuket Old Town, Thailand",
+    "details": "Museum of Phuket's Chinese heritage and tin-mining history, former Thai-Chinese school; short walk from the cafe. Alternative named: The Peranakan Phuket Museum (124/1 Moo 1, Sri Soonthorn, Thalang; Peranakan heritage, photo studio in traditional costumes)",
+    "price_hint": "200 THB (~\u00a34.50) adults; Peranakan museum 300 THB (~\u00a37), audio guides included"
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "One Chun Cafe & Restaurant",
+    "location": "48/1 Thep Krasattri Rd, Phuket Old Town, Thailand",
+    "details": "Michelin Bib Gourmand restaurant with retro 1950s look; Southern Thai classics: gaeng poo (crab curry with rice noodles), kaeng som (tangy Southern Thai curry), Phuket-style braised pork belly. Cash only; arrive before 12:30 to beat the lunch rush. Alternative named: KOPITIAM By Wilai (Massaman curry, Hokkien Mee)",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Khao Rang Viewpoint (Monkey Hill)",
+    "location": "Phuket Town, Thailand",
+    "details": "Afternoon panoramic views over Phuket Town; resident macaques (do not feed, keep distance, no food bags). Tunk-ka Cafe at the viewpoint for a cold beer (prices slightly inflated)",
+    "price_hint": "Free viewpoint; local songthaew 30-40 THB or Grab taxi to get there"
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "The Memory at ON ON Hotel",
+    "location": "19 Phangnga Rd, Phuket Old Town, Thailand",
+    "details": "Historic boutique hotel dating to 1929 (former 'Un Un Hotel'); famous as the Bangkok backpacker hostel in the film 'The Beach'; Sino-Portuguese architecture, small history museum on site; near the famous night market",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Naya Restaurant & Bar, Rawai",
+    "location": "Rawai, Phuket, Thailand",
+    "details": "Dinner; famous for fondue; international and Thai dishes; Penang beef curry and Massaman curry praised; attentive service, excellent value",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Hidden Garden Elephant Sanctuary",
+    "location": "Chalong, Phuket, Thailand",
+    "details": "Morning visit to a responsible elephant sanctuary (created late 2023 by Kong and Louise Rogerson) rescuing female elephants; observation and feeding only, no riding or bathing; 35 acres of natural forest in Chalong; 4-5 hour tour incl. briefing video, banana feeding, forest walk with mahouts, and Thai buffet lunch by the mahouts' wives",
+    "price_hint": "Tours from ~2,800 THB (~\u00a365) incl. pickup and lunch; most expensive item on the itinerary"
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Wat Chalong Temple (Wat Chaiyathararam)",
+    "location": "Chalong, Phuket, Thailand",
+    "details": "Phuket's largest and most important Buddhist temple (1 of 29 on the island); honours Luang Pho Chaem and Luang Pho Chuang. Dress code: cover shoulders and knees (sarongs borrowable at entrance)",
+    "price_hint": "Free entry"
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "The Distillery Phuket - Chalong Bay",
+    "location": "14/2 Soi Palai, Chalong, Phuket, Thailand",
+    "details": "Afternoon at the island's only rum distillery; French couple fusing French-Caribbean rum-making with Thai heritage; French copper equipment, organic cane juice rums with local ingredients (lemongrass, Thai sweet basil); guided tours, drink-making classes, tastings and signature cocktails, onsite restaurant/bar",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Patong Muay Thai Boxing",
+    "location": "2/59 Sainamyen Rd, Patong, Phuket, Thailand",
+    "details": "Evening authentic Muay Thai boxing in Patong (Patong Boxing Stadium / Bangla Boxing Stadium); pre-fight rituals, in-house band, drinks to your seat; front-row seats recommended",
+    "price_hint": "Ringside from 2,100 THB (~\u00a342-47); standard 1,500 THB (~\u00a328-35); free T-shirt memento"
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Nai Harn Beach",
+    "location": "Nai Harn, Rawai, Phuket, Thailand",
+    "details": "Full relaxation day at a crescent-shaped beach with pristine white sand and laid-back vibe; protected by local regulations (no jet skis, vendors or big resorts); viewpoint with swing at the south end",
+    "price_hint": "Beachfront pad thai/fried rice 80-120 THB; bring own water and snacks"
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Kata Beach and Promthep Cape",
+    "location": "Kata / southern tip, Phuket, Thailand",
+    "details": "Sunset beach hopping: Kata beach sunsets; Promthep Cape & Windmill Viewpoint at the southernmost tip (~30 min drive from Kata) for Andaman Sea and Nai Harn Beach views",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "hotel",
+    "name": "Nai Harn Collective",
+    "location": "Rawai, Phuket, Thailand",
+    "details": "Recommended stay in Rawai: forest-surrounded oasis, two quiet pool areas, onsite spa with sauna/steam/massage, onsite bar; restaurant (Thai + Indian dishes) planned; spacious comfortable rooms with some balconies; short walk to Nai Harn beach",
+    "price_hint": "Positioned as a budget option for Rawai/Phuket"
+   }
+  ],
+  "source_urls": [
+   "https://budgettraveller.org/what-to-do-phuket-rainy-day/"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 1,
+  "packet_index": 1,
+  "handle": "@cheaprvliving",
+  "platform": "instagram",
+  "title": "Road Trip with my Son and his Girlfriend",
+  "destination": "Utah red rock country (Moab, Goblin Valley, Capitol Reef, Monument Valley)",
+  "country": "USA",
+  "days": 4,
+  "summary": "Bob Wells's 4-day family road trip through Utah's red rock country with his son Robert, Deb and her sister Ann (who planned the itinerary). Route: Moab/Arches to Goblin Valley State Park and Capitol Reef NP (overnight in Torrey), then down UT-95 past Hite Overlook and the Moki Dugway to Goosenecks State Park and Monument Valley. A trip narrative with a clear stop sequence rather than a published guide.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Arches NP / Double-Arch",
+    "location": "Moab, UT, USA",
+    "details": "Photos show Robert and Deb at Double-Arch; Deb's sister Ann (biologist for Arches and Canyonlands) planned the itinerary",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Goblin Valley State Park",
+    "location": "Utah, USA",
+    "details": "Stop en route from Moab to Capitol Reef; 'a very cool place'",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Capitol Reef NP",
+    "location": "Utah, USA",
+    "details": "Explored after Goblin Valley; overnight stop",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "other",
+    "name": "Torrey, Utah (overnight stop)",
+    "location": "Torrey, UT, USA",
+    "details": "Overnight town just outside Capitol Reef NP",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Hite Overlook",
+    "location": "Utah, USA",
+    "details": "Drove UT-95 through red rock canyon to the overlook over the Colorado River",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Moki Dugway (Mogi Dugway)",
+    "location": "Utah, USA",
+    "details": "Super-steep unpaved switchback descent cut out of a vertical cliff; view from the top 'well worth the effort'",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Goosenecks State Park",
+    "location": "Utah, USA",
+    "details": "Rock formation where the San Juan River makes six 180-degree gooseneck turns; cheapest/closest camping base to Monument Valley (Navajo Nation land)",
+    "price_hint": "$5 day use; $5 to camp"
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Monument Valley",
+    "location": "Arizona/Utah border, USA",
+    "details": "Famous from John Ford/John Wayne Westerns; 'one of my favorite places anywhere'. Bob stayed the night at Goosenecks afterwards, then headed down to Cottonwood/Sedona.",
+    "price_hint": "$20 entrance fee per car"
+   }
+  ],
+  "source_urls": [
+   "https://cheaprvliving.com/kb/road-trip-son-girlfriend/"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 1,
+  "packet_index": 2,
+  "handle": "@migrationology",
+  "platform": "instagram",
+  "title": "Top 10 Things to Do in Luang Prabang [Your Perfect One Day Itinerary]",
+  "destination": "Luang Prabang",
+  "country": "Laos",
+  "days": 1,
+  "summary": "Mark Wiens's hour-by-hour one-day DIY tour of Luang Prabang: sunrise at Phou Si Mountain (6 AM), morning market snacking (7 AM), khao soi breakfast (9 AM), temples (10 AM), som tam lunch (12 PM), coffee at Saffron (2 PM), sai oua sausage (4 PM), dinner decision (6:30 PM), night market stroll (8 PM), BeerLao (9 PM).",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Apple Guest House",
+    "location": "Luang Prabang",
+    "details": "Budget option where they stayed; higher-end option: Burasari Heritage Luang Prabang.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Sunrise at Phou Si Mountain (6 AM)",
+    "location": "Phou Si Mountain",
+    "details": "Climb the stairs (10-15 minutes, short but steep) for an unobstructed sunrise; small entry fee of 10,000 kip at the temple.",
+    "price_hint": "10,000 kip entry"
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Luang Prabang Morning Market (7 AM)",
+    "location": "Luang Prabang",
+    "details": "Snack through the morning market: grilled beehive 5,000 LAK, mung bean cake 5,000 LAK, khao gee 5,000 LAK, hand-made noodle rolls 10,000 LAK, khao piak sen 15,000 LAK.",
+    "price_hint": "5,000-15,000 LAK per snack"
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Khao Soi breakfast (9 AM)",
+    "location": "Luang Prabang",
+    "details": "Family-run khao soi stall east down the main street, near Wat Sene Temple; bowls 20,000 Kip plus coconut wedges in banana leaf.",
+    "price_hint": "20,000 Kip per bowl"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Visit Wat Xieng Thong temple (10 AM)",
+    "location": "Wat Xieng Thong",
+    "details": "Group of temple buildings; courtyard entrance 20,000 LAK per person; spend an hour or two exploring.",
+    "price_hint": "20,000 LAK entry"
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Som Tam lunch (12 PM)",
+    "location": "Kounxoua road",
+    "details": "Restaurant signed 'Green Papaya Salad' near L'Elephant; Lao green papaya salad (tam mak hoong), sun-dried pounded pork, house-made naem.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Saffron Coffee (2 PM)",
+    "location": "Mekong River",
+    "details": "Coffee break with river-view seating across the street, near Wat Xieng Tong temple; large Americano 20,000 Kip.",
+    "price_hint": "20,000 Kip (Americano)"
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Sai Oua sausage (4 PM)",
+    "location": "Kounxoua road",
+    "details": "Charcoal-grilled Laos sausage from a roadside grill along Kounxoua, near Wisdom Laos Guest House.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Dinner decision (6:30 PM)",
+    "location": "Luang Prabang",
+    "details": "Option #1: evening street food market (curry, grilled fish, som tam, vegetarian buffets). Option #2 (recommended): Xieng Thong Phonsavahn Restaurant - order koi pa, fish salad, jaew kee pa, tom pla soup, kao neaw sticky rice, kaipen.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Luang Prabang Night Market (8 PM)",
+    "location": "Sisavangvong Road",
+    "details": "Walking-street market on the main road; souvenirs and fruit shakes at the front of the market.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "BeerLao riverside (9 PM)",
+    "location": "Luang Prabang",
+    "details": "End the evening relaxing with a BeerLao by the riverside.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://migrationology.com/things-to-do-luang-prabang/"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 1,
+  "packet_index": 2,
+  "handle": "@lostleblanc",
+  "platform": "instagram",
+  "title": "How To Travel Bali \u2013 14 Days in Paradise",
+  "destination": "Bali",
+  "country": "Indonesia",
+  "days": 12,
+  "summary": "12-day Bali itinerary from his 2020 YouTube travel video (described by a third-party writeup): a couple of days to get over jet lag at the start, visiting Canggu, Berawa Beach, Uluwatu and Ubud, with highlights including waterfalls, cuisine and adults-only resorts. He also recommends Nusa Penida as a hidden gem off the mainland.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Canggu",
+    "location": "Bali",
+    "details": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Berawa Beach",
+    "location": "Bali",
+    "details": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Uluwatu",
+    "location": "Bali",
+    "details": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Ubud",
+    "location": "Bali",
+    "details": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Waterfalls",
+    "location": "Bali",
+    "details": null,
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Nusa Penida",
+    "location": "Bali",
+    "details": "Recommended as a hidden gem off the mainland; more expensive to visit due to remoteness",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Adults-only resorts",
+    "location": "Bali",
+    "details": "No specific hotel named in the source",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.nomadicnews.com/lost-leblanc/"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 2,
+  "packet_index": 0,
+  "handle": "@theplanetd",
+  "platform": "instagram",
+  "title": "3 Days in Istanbul Itinerary",
+  "destination": "Istanbul",
+  "country": "Turkey",
+  "days": 3,
+  "summary": "The perfect 3 days in Istanbul: day 1 covers Sultanahmet's historic core (Hagia Sophia, Blue Mosque, Sultanahmet Square, Basilica Cistern, Topkapi Palace) ending with a sunset Bosphorus dinner cruise; day 2 is the Grand Bazaar, Spice Bazaar, lunch at Sehzade Cag Kebap in Eminonu, Galata Bridge, Galata Tower and Istiklal Street; day 3 is a hammam plus Kadikoy, Camlica Mosque and Uskudar on the Asian side. Co-written with The Turkey Traveler.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Traditional Turkish breakfast (kahvalti)",
+    "location": "Istanbul",
+    "details": "Start with a traditional Turkish breakfast (kahvalti): cured meats, dips, cheeses, egg, breads, pastries, honey and jams.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Hagia Sophia",
+    "location": "Sultanahmet",
+    "details": "Oldest building in Istanbul (537 AD); free access with museum pass or 72TL at entrance. Tram stop Sultanahmet.",
+    "price_hint": "72TL entry (free with pass)"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Blue Mosque",
+    "location": "Sultanahmet",
+    "details": "Sultan Ahmet Mosque with its blue ceramic tile interior; built by Sultan Ahmed I.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Sultanahmet Square",
+    "location": "Sultanahmet",
+    "details": "Park connecting the two mosques; see the Obelisk of Theodosius and Ottoman fountains. Try dondurma (Turkish ice cream) here.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Basilica Cistern",
+    "location": "Sultanahmet",
+    "details": "Underground reservoir built 532 AD by Emperor Justinian; 336 columns. Cost 72 TL.",
+    "price_hint": "72 TL"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Topkapi Palace",
+    "location": "Sultanahmet",
+    "details": "Ottoman sultans' palace/museum with Harem; famous tiling and treasury exhibits.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Sunset Bosphorus dinner cruise",
+    "location": "Bosphorus Strait",
+    "details": "Evening cruise from the Golden Horn covering the Bosphorus Strait between Europe and Asia; they recommend a 2.5-hour luxury dinner cruise with Turkish food (meze, raki) and Whirling Dervishes.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Grand Bazaar",
+    "location": "Istanbul",
+    "details": "One of the oldest and largest covered markets in the world: 61 streets, 4000+ shops; try a Turkish rug, lantern or nazar amulet, and relax in a tea shop with \u00e7ay.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Spice Bazaar",
+    "location": "Eminonu",
+    "details": "17th-century L-shaped market overwhelmed by the smell of spices; great place to buy Turkish tea.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "restaurant",
+    "name": "Sehzade Cag Kebap",
+    "location": "Eminonu",
+    "details": "Their favorite restaurant in Eminonu for lamb sis kebap that melts in the mouth; affordable local flavors.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Galata Bridge",
+    "location": "Golden Horn",
+    "details": "Walk across the 490m Galata Bridge over the Golden Horn, lined with local fishermen.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Galata Tower",
+    "location": "Beyoglu",
+    "details": "Most famous attraction in modern Istanbul, in the Beyoglu district; built 1348.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Istiklal Street and Taksim",
+    "location": "Istanbul",
+    "details": "Evening on the modern city's famous shopping and nightlife street with Taksim Square.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Turkish bath (Hammam)",
+    "location": "Istanbul",
+    "details": "Morning Turkish bath on the final day.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Kadikoy",
+    "location": "Asian side",
+    "details": "Food and cafe district on the Asian side.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Camlica Mosque and Uskudar",
+    "location": "Uskudar",
+    "details": "Mosque with Maiden's Tower area views in Uskudar.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "transport",
+    "name": "Istanbul Card",
+    "location": "Istanbul",
+    "details": "7-day card with skip-the-line tickets to top attractions, 10 public transport rides, and vouchers for Hagia Sophia, Basilica Cistern, Topkapi Palace and the Bosphorus cruise.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://theplanetd.com/3-days-in-istanbul-itinerary/"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 2,
+  "packet_index": 0,
+  "handle": "@yachtlife",
+  "platform": "instagram",
+  "title": "Windward Islands 7-Day Yachting Itinerary",
+  "destination": "Windward Islands",
+  "country": "Caribbean (St. Lucia, St. Vincent & the Grenadines)",
+  "days": 7,
+  "summary": "A sample 7-day luxury yachting itinerary through the Windward Islands: boarding in Castries, St. Lucia, then cruising to Marigot Bay and the Pitons, Bequia, Union Island, Tobago Cays, Mustique and Young Island, returning via the Soufriere volcano. Each day pairs a cruise leg with snorkeling, diving or beach time.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "transport",
+    "name": "Cruise to Marigot Bay (1 hour)",
+    "location": "Castries to Marigot Bay, St. Lucia",
+    "details": "Board the yacht in Castries, capital of St. Lucia; 1-hour cruise to Marigot Bay, described as the most beautiful bay in the Caribbean; lunch in the bay then visit the twin volcanic peaks of the Pitons.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Pitons",
+    "location": "St. Lucia",
+    "details": "Visit the twin volcanic peaks after lunch in Marigot Bay.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "transport",
+    "name": "Cruise to Bequia (4 hours)",
+    "location": "Castries to Bequia",
+    "details": "Depart at dawn; 4-hour cruise from Castries to Bequia.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Bequia snorkeling and diving",
+    "location": "Bequia",
+    "details": "White sand beaches and clear blue water, ideal for snorkeling, diving and other water sports.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "transport",
+    "name": "Cruise to Union Island (2 hours)",
+    "location": "Bequia to Union Island",
+    "details": "2-hour cruise from Bequia to volcanic Union Island.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Union Island beaches",
+    "location": "Union Island",
+    "details": "Afternoon relaxing on white sandy beaches under idyllic palms or swimming in clear waters; anchor offshore for the night.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "transport",
+    "name": "Cruise to Tobago Cays (30 min)",
+    "location": "Union Island to Tobago Cays",
+    "details": "30-minute cruise from Union Island to Tobago Cays.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Tobago Cays snorkeling and diving",
+    "location": "Tobago Cays",
+    "details": "Explore the cluster of uninhabited islands protected by the famous horseshoe reef; superb snorkeling and some of the finest diving in the Caribbean.",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "transport",
+    "name": "Cruise to Mustique (1 hour)",
+    "location": "Tobago Cays to Mustique",
+    "details": "Mid-morning departure; 1-hour cruise from Tobago Cays to Mustique.",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Mustique horseback riding and hiking",
+    "location": "Mustique",
+    "details": "Secluded 1,400-acre island of pure white sand beaches; horseback riding and hiking trails abundant.",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "transport",
+    "name": "Cruise to Young Island (6 hours)",
+    "location": "Mustique to Young Island",
+    "details": "Depart at noon; 6-hour cruise from Mustique to Young Island.",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Young Island private beaches",
+    "location": "Young Island",
+    "details": "35 acres of lush tropical vegetation 200 yards off Saint Vincent; beaches to yourselves.",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "transport",
+    "name": "Cruise back to Castries (6 hours)",
+    "location": "Young Island to Castries",
+    "details": "6-hour cruise from Young Island back up the coast of Saint Vincent to St. Lucia; visit the Soufriere volcano on land before returning to port.",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Soufriere volcano",
+    "location": "St. Lucia",
+    "details": "Visit on land after the return cruise, before returning to port in St. Lucia.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://Www.yachtlife.com/itineraries/windward-islands"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 2,
+  "packet_index": 0,
+  "handle": "@taramilktea",
+  "platform": "instagram",
+  "title": "Tara Milk Tea's Europe trip highlights (Mykonos and Budva)",
+  "destination": "Europe (Greece and Montenegro highlights)",
+  "country": "Greece, Montenegro",
+  "days": null,
+  "summary": "From a Qantas Travel Insider interview, Tara Whiteman shared favourite discoveries from her Europe jaunt (Spain, Greece, Dubrovnik, Montenegro): a four-night stay at Cavo Tagoo in Mykonos and late afternoons at Dukely Beach Lounge in Budva. Fragmentary recommendations from a third-party interview, not her own itinerary post - her taramilktea.com blog is offline (domain is for sale on GoDaddy), so no fuller itinerary could be reconstructed.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Cavo Tagoo",
+    "location": "Mykonos, Greece",
+    "details": "Boutique hotel on a hillside overlooking the water near Hora, Mykonos; stayed four nights. Big lunch at the hotel's excellent restaurant with friends - fresh seafood such as marinated octopus and ceviche; breakfast described as one of the best buffets she has experienced; meals by the pool overlooking the ocean; rooms with ocean views",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Dukely Beach Lounge",
+    "location": "Budva, Montenegro",
+    "details": "Beautiful spot in Budva with incredible views; perfect for unwinding in the late afternoon; unexpectedly excellent Japanese food - large sushi platter, fried octopus and saffron risotto",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.qantas.com/travelinsider/en/explore/europe/travelling-in-europe-with-instagram-star-tara-milk-tea.html",
+   "https://taramilktea.com/"
+  ],
+  "confidence": "low"
+ },
+ {
+  "batch": 2,
+  "packet_index": 0,
+  "handle": "@oneikathetraveller",
+  "platform": "instagram",
+  "title": "The Ultimate One-Week Ghana Itinerary",
+  "destination": "Accra, Kumasi, and Cape Coast",
+  "country": "Ghana",
+  "days": 8,
+  "summary": "Oneika Raymond's own one-week Ghana trip with girlfriends (she notes they actually spent eight days): four days in Accra, two in Kumasi, two on the Cape Coast. Day-by-day structure with named hotels, restaurants, activities, and prices \u2014 flight cost, visa fees, cooking class, driver costs, and hotel prices all stated explicitly. [Correction 2026-09-16] Day count corrected 7->8: source body states 'exactly eight days' (sections 4+2+2; 'one week' is headline shorthand). Item day-numbers removed: the source organizes by city section (Accra / Kumasi / Cape Coast) and never numbers days; the packet's specific day assignments were invented. Confidence high->medium.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "flight",
+    "name": "New York City to Accra return",
+    "location": "Accra (Kotoka Airport)",
+    "details": "She flew NYC-Accra on Ethiopian Air with layovers in Lom\u00e9, Togo (spent two days in Togo en route); expects $850-$1200 from North America",
+    "price_hint": "She paid $750; typical $850-1200 USD return"
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Kwame Nkrumah Memorial Park and Mausoleum",
+    "location": "Accra",
+    "details": "Site dedicated to Kwame Nkrumah, who led Ghana to independence from Britain in 1957",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Black Star Square",
+    "location": "Accra",
+    "details": "Walking distance from the memorial park; site of Independence Day festivities; Black Star Gate photo op",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Makola Market",
+    "location": "Accra",
+    "details": "Accra's largest market; loved the textile shops",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Centre for National Culture",
+    "location": "Accra",
+    "details": "Smaller, subdued version of Makola Market; textiles and jewelry at higher prices",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Sandbox Beach Bar",
+    "location": "Labadi Beach, Accra",
+    "details": "Seaside bar with calming views of Labadi Beach, live music, tasty barbecue bites",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Boti Falls",
+    "location": "Eastern Region, 2h drive from Accra",
+    "details": "Set of waterfalls; day trip \u2014 but the site was closed due to drought conditions when they visited",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Buka",
+    "location": "Accra",
+    "details": "Recommended by Ghanaian friends; one of the meals they thoroughly enjoyed",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Chez Clarisse",
+    "location": "Accra",
+    "details": "Recommended by Ghanaian friends; thoroughly enjoyed",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Manhyia Palace",
+    "location": "Kumasi",
+    "details": "Official residence of the Asantehene (king of the Ashanti kingdom); older palace now a museum chronicling Ashanti people and monarchy",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Adanwomase Kente Cloth and Tourism village",
+    "location": "Kumasi",
+    "details": "Highlight of the Kumasi visit: learn how kente cloth is made and try weaving yourself",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Adinkra stamping tour",
+    "location": "Kumasi",
+    "details": "Learn the adinkra cloth printing process and make your own; each symbol represents a concept or aphorism",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Villa Sankofa",
+    "location": "Kumasi",
+    "details": "Well-priced and cozy; managed by a lovely lady who moved from Jamaica 20+ years ago; Jamaican breakfast was a trip highlight",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Cape Coast Castle and Elmina Castle",
+    "location": "Cape Coast",
+    "details": "Two of ~40 slave castles on the coast; guided tours extremely well executed and informative",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Ghanaian cooking workshop with Auntie Esi",
+    "location": "Cape Coast",
+    "details": "3-hour class learning fufu, palava sauce, red red and more; eat the feast afterward",
+    "price_hint": "$11 USD per person"
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Kakum National Park",
+    "location": "Cape Coast",
+    "details": "Rainforest national park; canopy walk of seven rope bridges suspended over 130 feet",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Ridge Royal Hotel",
+    "location": "Cape Coast",
+    "details": "Beautiful grounds; buffet breakfast nothing to write home about",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "transport",
+    "name": "Hired driver for the week",
+    "location": "Ghana",
+    "details": "Friend-recommended driver with air-conditioned van for crew of five; took stress out of getting around",
+    "price_hint": "~$100 USD/day"
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Ghana tourist visa",
+    "location": "Ghanaian consulate, Manhattan",
+    "details": "Most nationals need a visa in advance (no visa on arrival); she paid $160 for 24-hour rush single entry vs $70 for 7-10 business days",
+    "price_hint": "$70 standard / $160 rush"
+   }
+  ],
+  "source_urls": [
+   "http://www.oneikathetraveller.com/why-you-should-go-to-ghana-one-week-ghana-itinerary-travel-guide.html"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 2,
+  "packet_index": 0,
+  "handle": "@thebrokebackpacker",
+  "platform": "instagram",
+  "title": "3-Month Southeast Asia Itinerary: The Banana Pancake Trail",
+  "destination": "Southeast Asia",
+  "country": "Thailand, Cambodia, Laos, Vietnam",
+  "days": 90,
+  "summary": "The Broke Backpacker's flagship 3-month route through the heart of the Banana Pancake Trail: Bangkok, northern Thailand (Chiang Mai, Pai), the slow boat to Luang Prabang, Laos (Vang Vieng, Tad Lo, Don Det), Vietnam, then Cambodia (Angkor Wat) and back to Thailand's southern beaches for the finale. A route-level itinerary with named stops, not day-by-day. Regional daily budget reality stated as $20-$40 USD.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "transport",
+    "name": "Fly into Bangkok",
+    "location": "Bangkok, Thailand",
+    "details": "Fly into Bangkok to kick off the trip; starting route per guide summary: Bangkok, then north Thailand, Laos, Vietnam, then back to south Thailand",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Northern Thailand: Chiang Mai and Pai",
+    "location": "Chiang Mai and Pai, Thailand",
+    "details": "Head north to Chiang Mai and the hippie village of Pai, with opportunities to get off the beaten path",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "transport",
+    "name": "Slow boat to Luang Prabang",
+    "location": "Chiang Mai to Luang Prabang",
+    "details": "Classic slow-boat crossing from Thailand into Laos",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Climb Mount Phousi",
+    "location": "Luang Prabang, Laos",
+    "details": "Climb for the views - described as insane",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Vang Vieng",
+    "location": "Vang Vieng, Laos",
+    "details": "Main backpacker playground in Laos; unmatched natural beauty, kind people and rock-bottom prices",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Tad Lo Waterfall and Don Det",
+    "location": "Laos",
+    "details": "Worth adding to a Laos itinerary",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Vietnam by motorbike",
+    "location": "Vietnam",
+    "details": "Soak in the mountain views of the north then head south; hire a motorcycle, explore the cities, go scuba diving or hop around the islands; described as the best street food in all of Southeast Asia",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Angkor Wat",
+    "location": "Siem Reap, Cambodia",
+    "details": "Learn about Cambodia's sobering recent history while exploring some of the most impressive temples and beaches in the region",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Full moon party or Indonesia beaches finale",
+    "location": "Thailand / Indonesia",
+    "details": "Finish the extravaganza with a full moon party on one of Thailand's best islands, or beach time in Indonesia (Bali and Lombok are the favourites)",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.thebrokebackpacker.com/backpacking-southeast-asia-travel-guide/"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 2,
+  "packet_index": 1,
+  "handle": "@youngadventuress",
+  "platform": "instagram",
+  "title": "South Island Road Trip - Part 2 (North Coast & Wine Country)",
+  "destination": "South Island (north coast)",
+  "country": "New Zealand",
+  "days": null,
+  "summary": "A road trip up the South Island's north coast and top of the island by campervan: Christchurch, hot air ballooning in Darfield, whale watching and albatross tours in Kaikoura, kayaking the Marlborough Sounds, two days of wine touring around Blenheim, thermal pools and quad biking in Hanmer Springs, and a final Waipara Valley lunch.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "flight",
+    "name": "Flight to Christchurch",
+    "location": "Queenstown to Christchurch",
+    "details": "Flew from Queenstown to Christchurch, then met the group at the Commodore Hotel before picking up the campervan.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Commodore Hotel",
+    "location": "Christchurch",
+    "details": "Meeting point and first night in Christchurch; Britz Campervan picked up for the next 5 days.",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "transport",
+    "name": "Britz Campervan (5-day rental)",
+    "location": "Christchurch",
+    "details": "Campervan rented for 5 days, picked up in Christchurch.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Ballooning Canterbury",
+    "location": "Darfield, Canterbury",
+    "details": "Hot air ballooning at sunrise over the Canterbury plains with a locally owned and run company.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Whale Watch Kaikoura",
+    "location": "Kaikoura",
+    "details": "Afternoon whale watching tour; saw several sperm whales in calm seas.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "hotel",
+    "name": "White Morph",
+    "location": "Kaikoura",
+    "details": "Beachfront accommodation in Kaikoura; crayfish (lobster) dinner and a misty sunset beach walk.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Albatross Encounter",
+    "location": "Kaikoura",
+    "details": "Small boat tour at sunrise to see albatrosses with a pod of dolphins on the cruise back to land.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Wilderness Guides kayak",
+    "location": "Picton / Marlborough Sounds",
+    "details": "Kayak trip across the Marlborough Sounds from Picton with Wilderness Guides; water clear and turquoise on the sheltered side.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "hotel",
+    "name": "Raetihi Lodge",
+    "location": "Marlborough Sounds",
+    "details": "Retreat right on the water in the Sounds, alone in the wild with nothing but nature around.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Omaka Aviation Heritage Museum",
+    "location": "Blenheim",
+    "details": "Peter Jackson's collection of WWI aircraft in Blenheim.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "hotel",
+    "name": "Marlborough Vintners Hotel",
+    "location": "Blenheim",
+    "details": "Base for exploring Marlborough wine country around Blenheim's Golden Mile.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "transport",
+    "name": "Wine Tours By Bike",
+    "location": "Blenheim",
+    "details": "Bike hire for cycling between vineyards on Blenheim's Golden Mile.",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "restaurant",
+    "name": "Wairau River Wines",
+    "location": "Blenheim",
+    "details": "Lunch stop on the bike wine tour before visiting more wineries.",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Yealands winery",
+    "location": "Blenheim",
+    "details": "Cellar door visit; award-winning winery known for playing classical music to the vines and using mini sheep to mow between rows.",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "hotel",
+    "name": "Heritage Hotel",
+    "location": "Hanmer Springs",
+    "details": "Old-world style hotel in the famously 'kiwi' holiday town; evening soaking at the thermal hot pools.",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Hanmer Adventure quad bikes",
+    "location": "Hanmer Springs",
+    "details": "Adventure morning exploring the Hanmer Springs area by quad bike.",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "restaurant",
+    "name": "Black Estate",
+    "location": "Waipara Valley",
+    "details": "Final lunch in the Waipara Valley wine region - Pinot Noir and a gourmet meal on the way to the airport.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://youngadventuress.com/2015/08/road-trip-new-zealand-south-island.html"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 2,
+  "packet_index": 1,
+  "handle": "@nomadicmatt",
+  "platform": "instagram",
+  "title": "A 10-Day Itinerary Down Sweden's Coast",
+  "destination": "Northern Sweden: Lule\u00e5, Ume\u00e5, \u00d6rnsk\u00f6ldsvik, Skuleskogen National Park, Sundsvall, Uppsala",
+  "country": "Sweden",
+  "days": 10,
+  "summary": "Nomadic Matt's off-the-beaten-path 10-day northern Sweden route, worked south down the coast from Lule\u00e5 to Uppsala. He emphasizes doing the trip by car (train/bus possible), with named hotels, restaurants, hikes, and admission-free nature stops throughout.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Clarion Hotel Sense",
+    "location": "Lule\u00e5",
+    "details": "Affordable hotel in town center; comfy rooms, big breakfast buffet, gym",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Lule\u00e5 Archipelago",
+    "location": "Lule\u00e5",
+    "details": "Summer hotspot; beaches, sea kayaking, boating, hiking; popular islands Kluntarna, Br\u00e4nd\u00f6sk\u00e4r, Junk\u00f6n, Sm\u00e5sk\u00e4r",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Gammelstad Church Town",
+    "location": "Lule\u00e5",
+    "details": "Over 400 red wooden cottages around a 15th-century church; glimpse of Sweden's rural past",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Gammelstadsviken nature reserve",
+    "location": "Lule\u00e5",
+    "details": "One of Sweden's best birdwatching spots; 80+ species, trails and a large freshwater lake",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Norrbotten Museum",
+    "location": "Lule\u00e5",
+    "details": "Small free museum on Sami culture and industrial heritage (note: reported closed until further notice)",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Hiking around Lule\u00e5",
+    "location": "Lule\u00e5",
+    "details": "Suggested hikes: Herts\u00f6leden (easy, 8km), F\u00e4bodaleden (intermediate, 10km), Vit\u00e5n (challenging, 12km); hiking guide at Visit Lule\u00e5",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Bistron",
+    "location": "Lule\u00e5 harbor",
+    "details": "Harbor restaurant Matt particularly enjoyed",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "hotel",
+    "name": "Hotell Bj\u00f6rken",
+    "location": "Ume\u00e5",
+    "details": "Next to the university, 5-minute drive to central station; stylish, modern, won't break the bank",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "V\u00e4sterbottens Museum",
+    "location": "Ume\u00e5",
+    "details": "Cultural and natural history of the V\u00e4sterbotten region, plus open-air historic buildings",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Guitars the Museum",
+    "location": "Ume\u00e5",
+    "details": "One of the world's largest private guitar collections; guided tours recommended",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Kulturv\u00e4ven",
+    "location": "Ume\u00e5",
+    "details": "Cultural hub with concerts, art exhibitions, library, cinema",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Umedalens Skulpturpark",
+    "location": "Ume\u00e5",
+    "details": "Free outdoor sculpture park in meadows and forest",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Strandpromenaden",
+    "location": "Ume\u00e5",
+    "details": "Relaxing riverside walkway with benches and cafes; pretty at sunset",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "restaurant",
+    "name": "Bodegan and Eljest",
+    "location": "Ume\u00e5",
+    "details": "Restaurant picks for eating out in Ume\u00e5",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "restaurant",
+    "name": "Facit Bar",
+    "location": "Ume\u00e5",
+    "details": "Great spot for inventive drinks",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "hotel",
+    "name": "Elite Hotel",
+    "location": "\u00d6rnsk\u00f6ldsvik",
+    "details": "Beautiful hotel on the harbor with huge delicious breakfast",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "hotel",
+    "name": "FriluftsByn",
+    "location": "near \u00d6rnsk\u00f6ldsvik",
+    "details": "Expansive campsite out of town with restaurant and bar; hotspot for campers and roadtrippers",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "High Coast Trail",
+    "location": "\u00d6rnsk\u00f6ldsvik",
+    "details": "130km trail (5-7 days full), or hike sections; scenic mountains, rugged coastlines, forests",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Kayaking",
+    "location": "\u00d6rnsk\u00f6ldsvik archipelago",
+    "details": "Calm waters; two-hour rental 300 SEK, tandem kayak 400 SEK",
+    "price_hint": "300-400 SEK rental"
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Gullviks havsbad",
+    "location": "\u00d6rnsk\u00f6ldsvik",
+    "details": "Best beach in the area; sandy beach with volleyball nets, food, BBQ area",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Skuleskogen National Park",
+    "location": "High Coast, 30 min south of \u00d6rnsk\u00f6ldsvik",
+    "details": "7,400-acre wilderness of birch/pine forest, marshes, granite mountains, Baltic shoreline; highlight is Sl\u00e5ttdalsskrevan rock crevice (200m long, 30m deep)",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "hotel",
+    "name": "Lilla Hotellet",
+    "location": "Sundsvall",
+    "details": "Affordable locally-owned three-star hotel; quiet, cozy breakfast nook",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Kulturmagasinet",
+    "location": "Sundsvall",
+    "details": "Cultural center in converted harbor warehouses: museum, library, art space",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Norra Berget",
+    "location": "Sundsvall",
+    "details": "Open-air museum and park on a hill with 40 historic buildings; good with kids",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Himlabadet Water Park",
+    "location": "Sundsvall",
+    "details": "Family-friendly indoor pools, saunas, slides, surfing simulator",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Sidsj\u00f6n Lake",
+    "location": "Sundsvall",
+    "details": "Peaceful lake 10 min from city center; swim, fish, paddle, walk/cycle trails",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Aln\u00f6n Island",
+    "location": "Sundsvall",
+    "details": "Bridge-connected island day trip: sandy beaches, volcanic geology, small villages, scenic drives",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "hotel",
+    "name": "Uppsala City Hostel",
+    "location": "Uppsala",
+    "details": "Best hostel in the city per Matt; basic bunks, great location",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "hotel",
+    "name": "Botanika Uppsala",
+    "location": "Uppsala",
+    "details": "Hotel next to Sweden's oldest botanical garden",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "activity",
+    "name": "Uppsala Cathedral (Domkyrkan)",
+    "location": "Uppsala",
+    "details": "Scandinavia's largest church; 13th-century Gothic, tombs of King Gustav Vasa and Carl Linnaeus",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "activity",
+    "name": "Gustavianum",
+    "location": "Uppsala University",
+    "details": "Museum of Sweden's oldest university (1477) with Viking treasures",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "activity",
+    "name": "Uppsala Castle",
+    "location": "Uppsala",
+    "details": "Renaissance-era castle with museums and exhibitions",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "activity",
+    "name": "Botanical Garden & Linnaeus Garden",
+    "location": "Uppsala",
+    "details": "Sweden's largest botanical garden of its kind; Linnaeus's reconstructed 18th-century teaching garden",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "activity",
+    "name": "Gamla Uppsala",
+    "location": "north of Uppsala",
+    "details": "Viking burial mounds, museum, and pagan-era church; key political/spiritual site of the Viking Age",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "activity",
+    "name": "Carolina Rediviva Library",
+    "location": "Uppsala",
+    "details": "One of Scandinavia's largest research libraries; houses the Codex Argenteus",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "transport",
+    "name": "Rental car for northern Sweden",
+    "location": "Lule\u00e5 to Uppsala",
+    "details": "Trip best done by car; Skuleskogen has no public transport options; discovercars.com linked as rental resource",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.nomadicmatt.com/travel-blogs/sweden-coast-itinerary/"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 3,
+  "packet_index": 0,
+  "handle": "@kelseyinlondon",
+  "platform": "tiktok",
+  "title": "The Perfect 4-day Cornwall Itinerary",
+  "destination": "Cornwall",
+  "country": "United Kingdom",
+  "days": 4,
+  "summary": "Creator-authored 4-day Cornwall itinerary based on her stay at Hoburne St Mabyn, positioned as a slow, relaxing escape for Londoners. Covers day-by-day activity, adventure and foodie suggestions including beach yoga, nature walks, cocktails with ocean views and fresh seafood.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Hoburne St Mabyn",
+    "location": "St Mabyn, Cornwall, United Kingdom",
+    "details": "Recommended base for the 4-day trip",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Beach yoga",
+    "location": "Cornwall, United Kingdom",
+    "details": "Suggested relaxing activity",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Nature walks",
+    "location": "Cornwall, United Kingdom",
+    "details": "Suggested relaxing activity",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Fresh seafood dining",
+    "location": "Cornwall, United Kingdom",
+    "details": "Foodie suggestion for the trip",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Cocktails with ocean views",
+    "location": "Cornwall, United Kingdom",
+    "details": "Suggested relaxing activity",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "transport",
+    "name": "Drive from London",
+    "location": "London to Cornwall, United Kingdom",
+    "details": "Day 1 is largely the commute; 5-6 hour scenic drive from London, or train from London Paddington to Bodmin Parkway (3h45m)",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://kelseyinlondon.com/cornwall-itinerary/"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 3,
+  "packet_index": 0,
+  "handle": "@jordentually",
+  "platform": "tiktok",
+  "title": "The Best North Coast 500 + Isle of Skye Travel Guide (7 Day Itinerary)",
+  "destination": "Scotland",
+  "country": "United Kingdom",
+  "days": 7,
+  "summary": "Creator-authored 7-day road trip itinerary through the North Coast 500 and the Isle of Skye, with each day naming specific stops. The video description includes a day-by-day location list with video timestamps and a Google Maps pin list.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Whaligoe Steps",
+    "location": "Caithness, Scotland",
+    "details": "Day 1 stop on the North Coast 500",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Duncansby Head",
+    "location": "Caithness, Scotland",
+    "details": "Day 1 stop on the North Coast 500",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Smoo Cave",
+    "location": "Durness, Scotland",
+    "details": "Day 2 stop on the North Coast 500",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Chocolate Mountain",
+    "location": "North Coast, Scotland",
+    "details": "Day 2 stop on the North Coast 500",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Sandwood Bay Beach",
+    "location": "Sutherland, Scotland",
+    "details": "Day 3 stop on the North Coast 500",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Kylesku Bridge",
+    "location": "Sutherland, Scotland",
+    "details": "Day 3 stop on the North Coast 500",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Achmelvich Bay",
+    "location": "Sutherland, Scotland",
+    "details": "Day 3 stop on the North Coast 500",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Stac Pollaidh",
+    "location": "Assynt, Scotland",
+    "details": "Day 4 stop on the North Coast 500",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Applecross Pass",
+    "location": "Applecross, Scotland",
+    "details": "Day 4 stop on the North Coast 500",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Loch Carron",
+    "location": "Wester Ross, Scotland",
+    "details": "Day 4 stop on the North Coast 500",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Old Man of Storr",
+    "location": "Isle of Skye, Scotland",
+    "details": "Day 5 stop on the Isle of Skye",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Kilt Rock and The Quiraing",
+    "location": "Isle of Skye, Scotland",
+    "details": "Day 5 stops on the Isle of Skye",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Fairy Pools",
+    "location": "Isle of Skye, Scotland",
+    "details": "Day 6 stop on the Isle of Skye",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Neist Point Lighthouse and Coral Beach",
+    "location": "Isle of Skye, Scotland",
+    "details": "Day 7 stops on the Isle of Skye",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Ben Nevis",
+    "location": "Fort William, Scotland",
+    "details": "Day 7 stop",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Glenfinnan Viaduct",
+    "location": "Lochaber, Scotland",
+    "details": "Day 7 stop",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.youtube.com/watch?v=6E62FzhNyU4"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 3,
+  "packet_index": 0,
+  "handle": "@hudsonandemily",
+  "platform": "tiktok",
+  "title": "Iceland Ring Road Highlights \u2014 Perfect 1-2 Week Itinerary",
+  "destination": "Iceland",
+  "country": "Iceland",
+  "days": null,
+  "summary": "The creators label this a 'perfect 1-2 week itinerary' of Ring Road highlights in Iceland, listing key stops along the Ring Road. It is a structured destination list tied to their trip rather than a day-by-day plan.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Sk\u00f3gafoss Waterfall",
+    "location": "South Coast, Iceland",
+    "details": "Named Ring Road highlight",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Vatnaj\u00f6kull Glacier",
+    "location": "Southeast Iceland",
+    "details": "Named Ring Road highlight",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Strokkur Geyser",
+    "location": "Golden Circle, Iceland",
+    "details": "Named Ring Road highlight",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Landmannalaugar",
+    "location": "Highlands, Iceland",
+    "details": "Named Ring Road highlight",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Kirkjufell",
+    "location": "Sn\u00e6fellsnes Peninsula, Iceland",
+    "details": "Named Ring Road highlight",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Blue Lagoon",
+    "location": "Grindav\u00edk, Iceland",
+    "details": "Named Ring Road highlight",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Fagradalsfjall",
+    "location": "Reykjanes Peninsula, Iceland",
+    "details": "Volcanic activity site named in the itinerary",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Sundhn\u00fakur Crater Row",
+    "location": "Reykjanes Peninsula, Iceland",
+    "details": "Volcanic activity site named in the itinerary",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "M\u00falaglj\u00fafur Canyon",
+    "location": "Southeast Iceland",
+    "details": "Canyon featured in the video",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.tiktok.com/@hudsonandemily/video/7619036734390553874?_r=1&_d=secCgYIASAHKAESPgo8ovXHD7NaPo7riw5R7iWLZyHpzGuBlmmhFccgpnHwo84XV7mk23r%2FWdbI745LVuemWk%2FqnKJ7s70FETfdGgA%3D&_svg=1&checksum=0cb32fccaa648231d422b40f0d0eb980ede8084b3747b2783f5ac3a262e4b6e7&item_author_type=2&link_reflow_popup_iteration_s"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 4,
+  "packet_index": 0,
+  "handle": "@nikkionherway",
+  "platform": "tiktok",
+  "title": "The Perfect One Week Slovenia Itinerary: Europe's Hidden Gem",
+  "destination": "Slovenia",
+  "country": "Slovenia",
+  "days": 7,
+  "summary": "Nikki Gibson's 7-day Slovenia itinerary compressed from her 11-day solo trip: 2 days Ljubljana with a day trip to Postojna, 2 days Lake Bohinj, 2 days Lake Bled, final day Kranj or depart. Best time late summer to fall (August-September). Public transport/buses recommended; rental car optional.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "flight",
+    "name": "Flight to Ljubljana Airport",
+    "location": "Ljubljana Airport",
+    "details": "Fly into Ljubljana Airport, ~45 min outside town; airport bus to city center ~45 min, ~\u20ac4, tickets from driver",
+    "price_hint": "Bus ~\u20ac4"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Ljubljanica River boat ride",
+    "location": "Ljubljana Old Town",
+    "details": "1-hour river cruise; tickets at stands along the river",
+    "price_hint": "\u20ac14 adult ticket"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Ljubljana Castle",
+    "location": "Ljubljana",
+    "details": "Reach by uphill walk or funicular; free castle grounds at sunset option",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Grajska Vinoteka",
+    "location": "Ljubljana Castle",
+    "details": "Wine bar on the side of the castle; best sunset views in Ljubljana",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Dragon Bridge (Zmajski Most)",
+    "location": "Ljubljana",
+    "details": "Quick photo stop known for dragon statues",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Tivoli Park",
+    "location": "Ljubljana",
+    "details": "Green space for picnics, ~20 min walk from Old Town; free",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Central Market / Open Kitchen",
+    "location": "Ljubljana",
+    "details": "Local produce/crafts market; Open Kitchen food market mid-March to end of October",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Julija",
+    "location": "Ljubljana",
+    "details": "Named in her TikTok recap as where to eat in Ljubljana",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Postojna Caves",
+    "location": "Postojna",
+    "details": "One of Europe's largest cave systems, first cave with a visitor train; 90-min guided tour, book ticket online ahead",
+    "price_hint": "Combined caves + Predjama Castle ticket ~\u20ac41.90"
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Predjama Castle",
+    "location": "Predjama",
+    "details": "Castle built into a cliff; shuttle from Postojna Caves every ~15 min (\u20ac2 each way, cash)",
+    "price_hint": "Shuttle ~\u20ac2 each way"
+   },
+   {
+    "day": 2,
+    "item_type": "transport",
+    "name": "Bus Ljubljana to Postojna",
+    "location": "Ljubljana to Postojna",
+    "details": "Bus from Ljubljana bus depot straight to cave entrance; book ahead",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Vogel Mountain cable car",
+    "location": "Lake Bohinj",
+    "details": "Named in her TikTok recap for Lake Bohinj",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Savica waterfall hike (Slap Savica)",
+    "location": "Lake Bohinj",
+    "details": "Waterfall hike; walking instructions in her itinerary map",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Swim in Lake Bohinj",
+    "location": "Lake Bohinj",
+    "details": "Swimming named as a Bohinj must-do",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "restaurant",
+    "name": "Divja Jaga",
+    "location": "Lake Bohinj",
+    "details": "Named in her TikTok recap as where to eat at Lake Bohinj",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Swim in Lake Bled",
+    "location": "Lake Bled",
+    "details": "Swimming named as a Bled must-do",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Rowboat rental on Lake Bled",
+    "location": "Lake Bled",
+    "details": "Rent a rowboat on the lake",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Pletna boat to Bled Island",
+    "location": "Lake Bled",
+    "details": "Traditional pletna boat ride to the island",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Vintgar Gorge",
+    "location": "near Lake Bled",
+    "details": "Gorge walk; walking instructions in her itinerary map",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Summer toboggan at Straza",
+    "location": "Lake Bled",
+    "details": "Chairlift + rail sled down Straza hill overlooking the lake",
+    "price_hint": "\u20ac11 for chairlift up + 1 toboggan run"
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Mala Osojnica viewpoint",
+    "location": "Lake Bled",
+    "details": "Viewpoint named in her TikTok recap",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "hotel",
+    "name": "Hotel Triglav",
+    "location": "Lake Bled",
+    "details": "Her recommended stay at Lake Bled, named in TikTok recap",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Kranj",
+    "location": "Kranj",
+    "details": "Optional final-day stop before leaving",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://nikkionherway.com/slovenia-itinerary/"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 4,
+  "packet_index": 0,
+  "handle": "@wheelaroundtheworld",
+  "platform": "tiktok",
+  "title": "Wheel Around Taiwan \u2014 wheelchair accessibility road journey",
+  "destination": "Taiwan",
+  "country": "Taiwan",
+  "days": null,
+  "summary": "Wheelchair adventurer Shane Hryhorec's documented multi-episode Taiwan trip (YouTube series 'Wheel Around Taiwan' + TikTok @wheelaroundtheworld), traveling from Taipei south down the island and back via the east. Structured route with named hotels, transport, and accessibility-tested activities; day count not stated. Day order inferred from episode sequence.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Shilin Night Market",
+    "location": "Taipei, Taiwan",
+    "details": "Street food culture, games, snacks, crowds navigated by wheelchair user; first episode opening stop with fellow wheelchair user Ferro",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Repurposed pier with bars and food stalls",
+    "location": "Taipei, Taiwan",
+    "details": "Vibey pier with shipping-container bars and food stalls; end-of-day stop in episode 1",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "transport",
+    "name": "Bullet train Taipei to Taichung",
+    "location": "Taipei to Taichung, Taiwan",
+    "details": "Iconic Taiwan bullet train; episode documents accessibility issues (wedged in non-accessible carriage after ticket mix-up)",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Rainbow Village",
+    "location": "Taichung, Taiwan",
+    "details": "Visited as part of the $2K car challenge segment; test-drove budget rental cars ('crusty red Ford Life')",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "hotel",
+    "name": "Kaohsiung Grand Hotel",
+    "location": "Kaohsiung, Taiwan",
+    "details": "Stayed while pushing south; episode documents accessibility fail at next 'accessible' accommodation after",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Fo Guang Shan Buddha",
+    "location": "Kaohsiung, Taiwan",
+    "details": "Explored local culture in traditional outfits; attempted but failed to enter",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Southern tip of Taiwan",
+    "location": "Taiwan",
+    "details": "Mission to reach the most southern tip of the island",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Shifen Old Street sky lantern release",
+    "location": "Yilan County / Shifen, Taiwan",
+    "details": "Visited en route through Yilan County; released a sustainable sky lantern, painted wishes",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Taipei 101 observatory",
+    "location": "Taipei, Taiwan",
+    "details": "Rode the world's fastest elevator to the top; visited with Laura Lin (local with vision impairment) discussing disability life in Taipei",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "other",
+    "name": "7-Eleven culture ('711 things you can do at 7-Eleven')",
+    "location": "Taiwan",
+    "details": "Creator's signature Taiwan convenience-store guide segment",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.youtube.com/watch?v=mYBNRbDhO_o",
+   "https://www.youtube.com/watch?v=y_maOz6qpbY",
+   "https://www.youtube.com/watch?v=e4r0khsE8hQ",
+   "https://www.youtube.com/watch?v=7gIimcGyMoU",
+   "https://www.youtube.com/watch?v=E_QHaXiCrZo"
+  ],
+  "confidence": "low"
+ },
+ {
+  "batch": 4,
+  "packet_index": 0,
+  "handle": "@travelwithjaro",
+  "platform": "tiktok",
+  "title": "How far does $100 get you in Lombok",
+  "destination": "Lombok (Kuta area), Indonesia",
+  "country": "Indonesia",
+  "days": 1,
+  "summary": "Single-day budget breakdown from his TikTok video: how far $100 stretches in a day in Lombok, naming where he stayed and what he booked. Not a multi-day itinerary; a budget trip report with named hotels/tours.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "The Kebon",
+    "location": "Kuta, Lombok, Indonesia",
+    "details": "Where he stayed",
+    "price_hint": "$40/night"
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "The Power Of Local Women Lombok",
+    "location": "Lombok, Indonesia",
+    "details": "Local tour",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Olea Villas",
+    "location": "Kuta, Lombok, Indonesia",
+    "details": "Private villa stay",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.tiktok.com/@travelwithjaro/video/7471887027437423880",
+   "https://neoreach.com/tiktok-travel/"
+  ],
+  "confidence": "low"
+ },
+ {
+  "batch": 4,
+  "packet_index": 0,
+  "handle": "@rileejsmith",
+  "platform": "tiktok",
+  "title": "Barcelona: Tapas & Traditions - Favorite Spots",
+  "destination": "Barcelona, Spain",
+  "country": "Spain",
+  "days": null,
+  "summary": "Rilee Smith's free Barcelona guide page: favorite restaurants and sights from her trip, plus a tip to book a walking food tour the first night. Her full 4-day Barcelona itinerary is a paid ($5) download, so only the free recommendation content is extracted here (not day-by-day).",
+  "items": [
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Brunch & Cake",
+    "location": "Barcelona",
+    "details": "Can't-miss breakfast; Instagram-worthy dishes in a courtyard",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Mercat de la Boqueria",
+    "location": "Barcelona",
+    "details": "Bustling food market; start a food crawl of fresh local bites",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "La Tasqueta de Blai",
+    "location": "Barcelona",
+    "details": "Pintxos paradise; small bites on toothpicks from ~1 euro each",
+    "price_hint": "From ~1 euro per pintxo"
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Casa Lolea Barcelona",
+    "location": "Barcelona",
+    "details": "Homemade sangria and tapas; sangria bottles make good souvenirs",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Palau de la Musica Catalana",
+    "location": "Barcelona",
+    "details": "Concert hall; one of the most gorgeous buildings she has seen",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Sagrada Familia",
+    "location": "Barcelona",
+    "details": "Gaudi masterpiece; spires and stained glass",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Herboristeria del Rei",
+    "location": "Barcelona",
+    "details": "19th-century herbal shop; tucked-away gem",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Gothic Quarter",
+    "location": "Barcelona",
+    "details": "Her favorite neighborhood to roam and get lost in",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "El Pont del Bisbe",
+    "location": "Barcelona",
+    "details": "Gothic bridge photo spot",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Tapas + Wine Walking Tour",
+    "location": "Barcelona",
+    "details": "Walking food tour first night: Catalan tapas, sangria-making, old city stories; tip: book food tours the first night in any new city",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://rileejsmith.com/guide/barcelona"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 4,
+  "packet_index": 0,
+  "handle": "@sonia.c.mota",
+  "platform": "tiktok",
+  "title": "9-Day Mallorca Travel Guide",
+  "destination": "Mallorca",
+  "country": "Spain",
+  "days": 9,
+  "summary": "Sonia (Simply Slow Traveler) sells a 9-day digital Mallorca travel guide with a planned itinerary, favourite beaches, charming villages and local restaurants. Her own 'slow guide to Mallorca's prettiest villages' video names the five villages the guide covers. Full day-by-day detail is behind the paid product.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "9-Day Mallorca Travel Guide (digital product)",
+    "location": "Mallorca",
+    "details": "Her 9-day digital travel guide (sold on simply-slow-traveler.com) covers a carefully planned itinerary, favourite beaches, charming villages and local restaurants.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Valldemossa",
+    "location": "Mallorca",
+    "details": "One of the five prettiest villages in her Mallorca guide video.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Deia",
+    "location": "Mallorca",
+    "details": "Iconic mountain village featured in her guide.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Soller and Port de Soller",
+    "location": "Mallorca",
+    "details": "Ride the historic tram between Soller and Port de Soller.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Santanyi",
+    "location": "Mallorca",
+    "details": "Traditional Mallorcan architecture; featured village.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Fornalutx",
+    "location": "Mallorca",
+    "details": "Picturesque streets; featured village.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.youtube.com/watch?v=x6U2Lnb3spU",
+   "https://simply-slow-traveler.com"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 4,
+  "packet_index": 1,
+  "handle": "@shetravelledtheworld",
+  "platform": "tiktok",
+  "title": "Kyrgyzstan Itinerary: The Perfect 2 Week Trip",
+  "destination": "Kyrgyzstan",
+  "country": "Kyrgyzstan",
+  "days": 14,
+  "summary": "Her own published 'perfect 2 week' Kyrgyzstan itinerary: Bishkek (2n), Burana Tower day stop, Issyk-Kul/Bokonbayevo (3n), Jyrgalan (3n), Naryn (1n), Tash Rabat (2n) - done by rented 4x4, with named hotels, restaurants and activity prices she paid.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "flight",
+    "name": "Pegasus Airlines",
+    "location": "London to Bishkek",
+    "details": "London Stansted to Bishkek via Istanbul; she paid 515 GBP return including a checked bag.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "transport",
+    "name": "Pamir Jeep Rentals (car rental)",
+    "location": "Kyrgyzstan",
+    "details": "4x4 rental at $60/day ($900 total / $450 each for two weeks) - the best way to get around.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Golden Hotel",
+    "location": "Bishkek",
+    "details": "2 nights. She stayed at Golden Hotel: clean, spacious bathrooms, free breakfast, 24h reception.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "City sightseeing / day trips to Ala Archa National Park",
+    "location": "Bishkek",
+    "details": "Soviet-era sights: Ala Too Square, State History Museum, Victory Square, Osh Bazaar.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Navat Teahouse",
+    "location": "Bishkek",
+    "details": "Food spots not far from Golden Hotel.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Five Resto",
+    "location": "Bishkek",
+    "details": "Food spot not far from Golden Hotel.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Burana Tower",
+    "location": "Burana",
+    "details": "Day stop 1.5-2h from Bishkek; 11th-century Silk Road minaret, climb inside for 85 som (~0.75 GBP); Balbal statues.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Lake Issyk-Kul",
+    "location": "Issyk-Kul",
+    "details": "3 nights, based in Bokonbayevo village on the south shore; local beach Yurtochnyy Gordon Ton.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Guesthouse Gulmira",
+    "location": "Bokonbayevo",
+    "details": "Family-run, yurts + rooms, free breakfast; organised her eagle hunting excursion.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Eagle hunting show",
+    "location": "Bokonbayevo",
+    "details": "Century-old tradition: watch eagle training, hold birds, archery; ~1.5h, 1200 som (~10 GBP), organised via Guesthouse Gulmira.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Mountain hiking",
+    "location": "Jyrgalan",
+    "details": "3 nights. Hikes: Turnaly-Kol Panorama (13km, 2862m, ~5h), Kok-Bel Waterfall (12km, easy), Eki-Chat Yurt Camp (17km).",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Mine Hostel",
+    "location": "Jyrgalan",
+    "details": "Small, clean, comfortable; free breakfast; dinner 500 som (~4.50 GBP); owner helps with hiking routes.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Kezgin Guesthouse",
+    "location": "Naryn",
+    "details": "1 night, long 8-10h scenic drive via Fairytale Canyon; stayed at Kezgin Guesthouse - great complimentary breakfast.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Tash Rabat yurt camps / Stone Rabat",
+    "location": "Tash Rabat",
+    "details": "2 nights at 3200m. Visit Stone Rabat caravanserai (entry 100 som ~0.90 GBP); no phone reception - stock supplies in Naryn.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://shetravelledtheworld.com/kyrgyzstan-itinerary-the-perfect-2-week-trip/"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 4,
+  "packet_index": 1,
+  "handle": "@sonia.c.mota",
+  "platform": "tiktok",
+  "title": "A Perfect Day in Lisbon",
+  "destination": "Lisbon",
+  "country": "Portugal",
+  "days": 1,
+  "summary": "From her own 'A New Life Chapter in Lisbon' video: a full slow-travel day plan through Chiado, Carmo ruins, lunch at Dear Breakfast, the Sao Pedro de Alcantara miradouro, pasteis de nata at Manteigaria, and sunset at Cais do Sodre.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Perfect slow day in Lisbon",
+    "location": "Lisbon",
+    "details": "Her 'perfect day in the city': Chiado streets, Carmo Church ruins (history of Lisbon's great earthquake), lunch at Dear Breakfast, Miradouro de Sao Pedro de Alcantara viewpoint, Manteigaria for pasteis de nata, sunset walk along Cais do Sodre and Ribeira das Naus.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.youtube.com/watch?v=9hPvsyVCksg"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 5,
+  "packet_index": 0,
+  "handle": "@gopharitravels",
+  "platform": "tiktok",
+  "title": "10-Day Solo Garden Route Road Trip",
+  "destination": "Garden Route",
+  "country": "South Africa",
+  "days": 10,
+  "summary": "Fari's 10-day solo road trip driving South Africa's Garden Route from Cape Town to Tsitsikamma (August 2026), published as a day-by-day TikTok series (kickoff + Day 1 through Day 10) naming each day's stops, stays, restaurants and activities, with travel tips and a newsletter itinerary signup.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "transport",
+    "name": "Pace Car Rental",
+    "location": "Cape Town",
+    "details": "Rental car for the road trip; sponsored ride disclosed in kickoff video (@pacecarrental)",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Legendary pie stop (shop not named by creator)",
+    "location": "En route Cape Town to Mossel Bay",
+    "details": "Pie tasting; verdict: steak & kidney is her OG favourite, pepper steak also tasty",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Sunset in Mossel Bay",
+    "location": "Mossel Bay",
+    "details": "Sunset viewing",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Local gin tasting",
+    "location": "Mossel Bay",
+    "details": "Gin tasting (venue not named)",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Dinner (restaurant not named) [Mossel Bay] (name not given in source)",
+    "location": "Mossel Bay",
+    "details": "Dinner (restaurant not named)",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "hotel",
+    "name": "Protea Hotel by Marriott Mossel Bay",
+    "location": "Mossel Bay",
+    "details": "Overnight stay (@proteahotelbymarriottmosselbay)",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "STADL Art at Royal Blue Lounge",
+    "location": "Mossel Bay",
+    "details": "Art by local artist Johan Georg Stadler made from antique products and materials; art is for sale (@stadl_art)",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "other",
+    "name": "@goods.shed",
+    "location": "Mossel Bay",
+    "details": "Tagged by creator in Day 2 video; venue type not specified",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "other",
+    "name": "@romonza",
+    "location": "Mossel Bay",
+    "details": "Tagged by creator in Day 2 video; venue type not specified",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "restaurant",
+    "name": "Mossel Bay Oyster Bar",
+    "location": "Mossel Bay",
+    "details": "Oyster bar (@mosselbay_oysterbar)",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "hotel",
+    "name": "Buff and Fellow",
+    "location": "George",
+    "details": "Farm stay just outside George; she stayed in Eco Cabana 5; planned slow/rest day (@buffandfellow)",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "transport",
+    "name": "Drive George to Knysna",
+    "location": "George to Knysna via Wilderness",
+    "details": "Self-drive with detour to Wilderness",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Map of Africa viewpoint",
+    "location": "Wilderness",
+    "details": "FREE viewpoint; view of the Kaaimans River winding through forest in the shape of the African continent",
+    "price_hint": "free"
+   },
+   {
+    "day": 4,
+    "item_type": "hotel",
+    "name": "Turbine Hotel",
+    "location": "Thesen Island, Knysna",
+    "details": "Checked in on Thesen Island (@turbinehotel)",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "restaurant",
+    "name": "Gastro Pub",
+    "location": "Knysna",
+    "details": "Po'boy burger for dinner",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "restaurant",
+    "name": "Turbine Hotel breakfast",
+    "location": "Knysna",
+    "details": "Honey butter toast: crispy Japanese milk bread baked with honey and butter, vanilla syrup, Chantilly cream and berry compote",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "transport",
+    "name": "Drive Knysna to Plettenberg Bay",
+    "location": "Knysna to Plettenberg Bay",
+    "details": "Self-drive",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "hotel",
+    "name": "The Plettenberg",
+    "location": "Plettenberg Bay",
+    "details": "Stay (@theplettenberghotel)",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Robberg Nature Reserve",
+    "location": "Plettenberg Bay",
+    "details": "Hiking; three hiking routes to choose from depending on available time",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "restaurant",
+    "name": "Amelia's",
+    "location": "Plettenberg Bay",
+    "details": "Lunch",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Plett Ocean Festival",
+    "location": "Plettenberg Bay",
+    "details": "Evening event",
+    "price_hint": null
+   },
+   {
+    "day": 8,
+    "item_type": "activity",
+    "name": "Ocean Blue Adventures",
+    "location": "Plettenberg Bay",
+    "details": "Boat outing (@ocean_blue_adventures)",
+    "price_hint": null
+   },
+   {
+    "day": 8,
+    "item_type": "hotel",
+    "name": "The Plettenberg",
+    "location": "Plettenberg Bay",
+    "details": "Stay (@theplettenberghotel)",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "transport",
+    "name": "Drive to Tsitsikamma",
+    "location": "Plettenberg Bay to Tsitsikamma",
+    "details": "Tsitsikamma is the eastern end of the Garden Route",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "activity",
+    "name": "Storms River Mouth suspension bridges",
+    "location": "Tsitsikamma",
+    "details": "Iconic suspension bridges (@sanparks)",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "hotel",
+    "name": "The Cube at Misty Mountain Reserve",
+    "location": "Tsitsikamma",
+    "details": "Glass-walled cabin with a moving bed to sleep under the stars (@mistymountainreserve)",
+    "price_hint": null
+   },
+   {
+    "day": 10,
+    "item_type": "activity",
+    "name": "Tsitsikamma Canopy Tour",
+    "location": "Tsitsikamma",
+    "details": "Canopy tour; use code GOPHARI for 10% off booking (@tsitsikammacanopytour)",
+    "price_hint": "10% off with code GOPHARI"
+   },
+   {
+    "day": 10,
+    "item_type": "hotel",
+    "name": "Misty Mountain Reserve",
+    "location": "Tsitsikamma",
+    "details": "Stay (@mistymountainreserve)",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.tiktok.com/@gopharitravels/video/7669759701118094599"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 5,
+  "packet_index": 0,
+  "handle": "@letravelstyle",
+  "platform": "tiktok",
+  "title": "The Ultimate 10 Days in California Road Trip Itinerary",
+  "destination": "California, USA",
+  "country": "USA",
+  "days": 10,
+  "summary": "Creator-owned 10-day California road-trip itinerary: San Diego (2d), Los Angeles (2d), Santa Barbara, Big Sur, Carmel/Monterey, Yosemite (2d), San Francisco. Page updated ~2026-09-03 per search index. Creator identified as Courtney Delfino (travel writer) via creator-owned about page; 153.5K Instagram followers per Heepsy (2026-09-16).",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "San Diego: Balboa Park, Little Italy, Seaport Village",
+    "location": "San Diego, USA",
+    "details": "Balboa Park; Little Italy (Morning Glory brunch); Seaport Village; USS Midway; Sunset Cliffs.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "San Diego: Zoo, Coronado, La Jolla",
+    "location": "San Diego, USA",
+    "details": "San Diego Zoo; Coronado; La Jolla (La Jolla Cove, Scripps Coastal Meander, Torrey Pines Gliderport).",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Los Angeles: Griffith, Hollywood, Beverly Hills",
+    "location": "Los Angeles, USA",
+    "details": "Griffith Observatory; Hollywood Sign (Lake Hollywood Park); Beverly Hills (Rodeo Drive).",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Los Angeles: Malibu",
+    "location": "Malibu, USA",
+    "details": "Malibu (El Matador State Beach, Malibu Pier).",
+    "price_hint": null
+   },
+   {
+    "day": 5,
+    "item_type": "activity",
+    "name": "Santa Barbara",
+    "location": "Santa Barbara, USA",
+    "details": "Santa Barbara day stop on the coast route north.",
+    "price_hint": null
+   },
+   {
+    "day": 6,
+    "item_type": "activity",
+    "name": "Big Sur",
+    "location": "Big Sur, USA",
+    "details": "Big Sur coastal drive day.",
+    "price_hint": null
+   },
+   {
+    "day": 7,
+    "item_type": "activity",
+    "name": "Carmel-by-the-Sea and Monterey",
+    "location": "Monterey, USA",
+    "details": "Carmel-by-the-Sea and Monterey.",
+    "price_hint": null
+   },
+   {
+    "day": 8,
+    "item_type": "activity",
+    "name": "Yosemite (day 1)",
+    "location": "Yosemite, USA",
+    "details": "Yosemite National Park, first of two days.",
+    "price_hint": null
+   },
+   {
+    "day": 9,
+    "item_type": "activity",
+    "name": "Yosemite (day 2)",
+    "location": "Yosemite, USA",
+    "details": "Yosemite National Park, second day.",
+    "price_hint": null
+   },
+   {
+    "day": 10,
+    "item_type": "activity",
+    "name": "San Francisco",
+    "location": "San Francisco, USA",
+    "details": "Finish in San Francisco.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://letravelstyle.com/california-road-trip-itinerary-10-days/"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 5,
+  "packet_index": 0,
+  "handle": "@gokylahgo",
+  "platform": "tiktok",
+  "title": "4 days in Peru: Machu Picchu, Lima and the desert",
+  "destination": "Peru",
+  "country": "Peru",
+  "days": 4,
+  "summary": "Kylah's 4-day Peru plan: Day 1 fly Lima to Cusco and head to the Sacred Valley; Day 2 same-day Machu Picchu trip then back to Lima that night; Day 3 explore Lima's city center and food scene; Day 4 full-day desert excursion (about 13 hours, around $100). She says she will link the Machu Picchu tour and recommends it.",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "transport",
+    "name": "Fly Lima to Cusco, transfer to Sacred Valley",
+    "location": "Sacred Valley, Peru",
+    "details": "Overnight in the Sacred Valley.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Machu Picchu day trip",
+    "location": "Machu Picchu, Peru",
+    "details": "Same-day trip; creator says she will link the tour and recommends it.",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "transport",
+    "name": "Return to Lima",
+    "location": "Lima, Peru",
+    "details": "Back to Lima the same night.",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Explore Lima city center and food scene",
+    "location": "Lima, Peru",
+    "details": "",
+    "price_hint": null
+   },
+   {
+    "day": 4,
+    "item_type": "activity",
+    "name": "Full-day desert excursion",
+    "location": "Peru (desert, from Lima)",
+    "details": "About 13 hours; creator says it cost around $100.",
+    "price_hint": "around $100 (creator's words)"
+   }
+  ],
+  "source_urls": [
+   "https://urlebird.com/video/yes-you-can-see-machu-picchu-lima-and-the-desert-with-just-4-day-7685523563368942862/",
+   "https://www.tiktok.com/@gokylahgo/video/7685523563368942862"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 5,
+  "packet_index": 0,
+  "handle": "@vitortrip",
+  "platform": "tiktok",
+  "title": "London 3-Day Itinerary (routes + prices + insider tips)",
+  "destination": "London, UK",
+  "country": "UK",
+  "days": 3,
+  "summary": "Three-day London itinerary with mapped routes, prices and an insider tip per spot. Guide date 2026-01-28 (video-ID decode) corroborated by the indexed exact-handle caption (58.9K-85.7K likes across indexed versions).",
+  "items": [
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Day 1 Royal Vibes: London Eye, Big Ben, Westminster Abbey",
+    "location": "London, UK",
+    "details": "London Eye (walk the capsule for 360 views); Big Ben (St Thomas Hospital side for photos); Westminster Abbey (900-year-old Oldest Door); Buckingham Palace (stamp ticket = 1-year pass); Horse Guards (4pm Dismounting Ceremony); National Gallery (Room 43, Van Gogh Sunflowers); Leicester Sq (TKTS half-price theatre); Shaftesbury Fountain; Carnaby St; Oxford St (Selfridges rooftop bar).",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Day 2 Skylines & History",
+    "location": "London, UK",
+    "details": "Tate Modern (10th-floor Blavatnik terrace, free); Borough Market; The Shard (drink at Aqua Shard instead of paying for the view); Tower Bridge (check lift times); Tower of London (Crown Jewels first); St. Dunstan in the East; Sky Garden (tickets drop Monday mornings); Leadenhall Market (Diagon Alley entrance); St. Paul's (Golden Gallery climb).",
+    "price_hint": null
+   },
+   {
+    "day": 3,
+    "item_type": "activity",
+    "name": "Day 3 Color & Culture",
+    "location": "London, UK",
+    "details": "British Museum (Parthenon Marbles quieter than Rosetta Stone); Neal's Yard (go before 10am for crowd-free photos). Caption truncated in index after Day 3 opening.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.tiktok.com/@vitortrip/photo/7600316183270722838"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 5,
+  "packet_index": 0,
+  "handle": "@travelwithkna",
+  "platform": "tiktok",
+  "title": "A 2-Day Itinerary in Niagara Falls",
+  "destination": "Niagara Falls",
+  "country": "Canada",
+  "days": 2,
+  "summary": "Audy's structured 2-day Niagara Falls itinerary (July 2026): a named hotel stay, day-by-day attractions and restaurants, a money-saving attraction-pass tip, pacing advice (2 nights if flying in), and optional extras. Also published as a '2-Day Niagara Falls Itinerary (2026)' guide on her blog.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "hotel",
+    "name": "Sheraton Fallsview Hotel",
+    "location": "Niagara Falls",
+    "details": "Book a Fallsview Room for views of Niagara Falls from the room; check in on Day 1",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Whirlpool Aero Car",
+    "location": "Niagara Falls",
+    "details": "Start of Day 1 morning",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "White Water Walk",
+    "location": "Niagara Falls",
+    "details": "After the Aero Car",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Niagara Parks Power Station & Tunnel",
+    "location": "Niagara Falls",
+    "details": "After White Water Walk",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Table Rock House Restaurant",
+    "location": "Niagara Falls",
+    "details": "Lunch stop",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Niagara City Cruise",
+    "location": "Niagara Falls",
+    "details": "Ride to the base of the Falls",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Niagara Takes Flight",
+    "location": "Niagara Falls",
+    "details": "After hotel check-in",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "restaurant",
+    "name": "Queen Victoria Place Restaurant",
+    "location": "Niagara Falls",
+    "details": "Dinner",
+    "price_hint": null
+   },
+   {
+    "day": 1,
+    "item_type": "activity",
+    "name": "Journey Behind the Falls",
+    "location": "Niagara Falls",
+    "details": "Evening; see the Falls illuminated at night",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Butterfly Conservatory",
+    "location": "Niagara Falls",
+    "details": "Start of Day 2 morning",
+    "price_hint": null
+   },
+   {
+    "day": 2,
+    "item_type": "activity",
+    "name": "Whirlpool Jet Boat Tour",
+    "location": "Niagara Falls",
+    "details": "Ends the trip",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Niagara Parks premium pass",
+    "location": "Niagara Falls",
+    "details": "Creator tip: pass covers most attractions in this itinerary and saves up to 52%",
+    "price_hint": "$129"
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Zipline to the Falls",
+    "location": "Niagara Falls",
+    "details": "Optional extra if time allows; views of Horseshoe Falls",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "other",
+    "name": "Helicopter tour",
+    "location": "Niagara Falls",
+    "details": "Optional extra if time allows; aerial perspective",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.tiktok.com/@travelwithkna/video/7664743750920359189",
+   "https://travelwithaudy.com/StartHere"
+  ],
+  "confidence": "high"
+ },
+ {
+  "batch": 5,
+  "packet_index": 0,
+  "handle": "@explorewithsofs",
+  "platform": "tiktok",
+  "title": "Two-Week Italy Route",
+  "destination": "Italy",
+  "country": "Italy",
+  "days": 14,
+  "summary": "Two-week Italy route; specific stops were not visible in the fetched snippet - full extraction pending parent review.",
+  "items": [],
+  "source_urls": [
+   "https://www.tiktok.com/@explorewithsofs/video/7629653468499807521"
+  ],
+  "confidence": "low"
+ },
+ {
+  "batch": 5,
+  "packet_index": 0,
+  "handle": "@thoughtsofatraveller",
+  "platform": "tiktok",
+  "title": "The perfect 5 day Chiang Mai itinerary",
+  "destination": "Chiang Mai",
+  "country": "Thailand",
+  "days": 5,
+  "summary": "A 5-day Chiang Mai itinerary from a Southeast Asia budget travel creator, posted on TikTok. The caption frames it as covering the best things to do in Chiang Mai across 5 days: Old Town temples and Khao Soi spots, Chang Phuak night market street food, ethical elephant sanctuaries nearby, Grand Canyon Water Park, Jing Jai Market and the weekend markets, Baan Kang Wat art village, a Doi Inthanon National Park day trip, Doi Saket temples and lakes, the Sunday Night Market, and a Thai cooking class. The creator also links a Chiang Mai Google Maps guide with 200+ pins in their bio.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Old Town temples",
+    "location": "Chiang Mai, Thailand",
+    "details": "temples in Chiang Mai Old Town",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Khao Soi spots",
+    "location": "Chiang Mai, Thailand",
+    "details": "Khao Soi food spots in/near Old Town",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "restaurant",
+    "name": "Chang Phuak night market",
+    "location": "Chiang Mai, Thailand",
+    "details": "street food at the night market",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Ethical elephant sanctuaries",
+    "location": "near Chiang Mai, Thailand",
+    "details": "ethical elephant sanctuaries near the city",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Grand Canyon Water Park",
+    "location": "Chiang Mai, Thailand",
+    "details": "water park activity",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Jing Jai Market",
+    "location": "Chiang Mai, Thailand",
+    "details": "market plus Chiang Mai weekend markets",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Baan Kang Wat art village",
+    "location": "Chiang Mai, Thailand",
+    "details": "art and craft village",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Doi Inthanon National Park day trip",
+    "location": "near Chiang Mai, Thailand",
+    "details": "day trip to the national park",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Doi Saket temples & lakes",
+    "location": "Doi Saket, near Chiang Mai, Thailand",
+    "details": "temples and lakes area",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Sunday Night Market",
+    "location": "Chiang Mai, Thailand",
+    "details": "Sunday night market",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Thai cooking class",
+    "location": "Chiang Mai, Thailand",
+    "details": "cooking class activity",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.tiktok.com/@thoughtsofatraveller/video/7615679617436978434",
+   "https://urlebird.com/video/things-to-do-in-chiang-mai-the-perfect-5-day-chiang-mai-itinerar-7615679617436978434/"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 5,
+  "packet_index": 0,
+  "handle": "@skylietravels",
+  "platform": "tiktok",
+  "title": "5-day Scotland itinerary (under $1,000)",
+  "destination": "Scotland (Edinburgh to Isle of Skye)",
+  "country": "UK",
+  "days": 5,
+  "summary": "Five-day Scotland itinerary from Edinburgh to the Isle of Skye framed under $1,000. Guide date 2026-09-15: video-ID decode corroborated by Urlebird uploadDate 2026-09-15T21:29:25Z (two-signal). Day-by-day stops are delivered in-video and were not transcribed; route anchors and budget framing are as stated in staged evidence. Creator reach staged at 70.3K TikTok followers.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Edinburgh",
+    "location": "Edinburgh, UK",
+    "details": "Route start: Edinburgh.",
+    "price_hint": null
+   },
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "Isle of Skye",
+    "location": "Isle of Skye, UK",
+    "details": "Route end: Isle of Skye.",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://www.tiktok.com/@skylietravels/video/7685861774561791263"
+  ],
+  "confidence": "medium"
+ },
+ {
+  "batch": 6,
+  "packet_index": 0,
+  "handle": "@CandaceAbroad",
+  "platform": "tiktok",
+  "title": "3-day Kuala Lumpur itinerary",
+  "destination": "Kuala Lumpur",
+  "country": "Malaysia",
+  "days": 3,
+  "summary": "Save my exact 3-day Kuala Lumpur itinerary, posted 2026-08-02.",
+  "items": [
+   {
+    "day": null,
+    "item_type": "activity",
+    "name": "3-day Kuala Lumpur itinerary",
+    "location": "Kuala Lumpur",
+    "details": "Exact itinerary post, 2026-08-02; day-by-day stops not individually extracted",
+    "price_hint": null
+   }
+  ],
+  "source_urls": [
+   "https://urlebird.com/user/CandaceAbroad/",
+   "https://www.tiktok.com/@CandaceAbroad/"
+  ],
+  "confidence": "high"
+ }
+]
