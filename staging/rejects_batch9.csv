@@ -1,0 +1,41 @@
+handle,platform,cause,evidence,check_date,selector
+@ladytrailmix,tiktok,reject: reach floor,"TikTok profile 2026-09-17: 1,599 followers (< 10,000)",2026-09-17,batch9-topup
+@vannypacktravels,tiktok,reject: reach floor,"TikTok profile 2026-09-17: 186 followers (< 10,000)",2026-09-17,batch9-topup
+@mishel_travel,tiktok,reject: reach floor,"TikTok profile 2026-09-17: 480 followers (< 10,000) despite usable Brazil itinerary",2026-09-17,batch9-topup
+@ultimatevacationn,tiktok,reject: couple account,"TikTok profile 2026-09-17: nickname 'Logan & Audri', bio 'Full-Time Travel Couple' (105,800 followers)",2026-09-17,batch9-topup
+@_martavieira_,tiktok,reject: content-fit,No dated (2024-09-17..2026-09-17) creator-owned structured itinerary found; recent feed wedding/couple-focused; Faye article mentions NYC series but no verifiable dated guide URL,2026-09-17,batch9-topup
+@karissaeats,tiktok,reject: content-fit,Global food / day-in-life content; no structured destination travel itinerary found,2026-09-17,batch9-topup
+@the10daytour,tiktok,reject: reach floor,"TikTok profile 2026-09-17: 2,797 followers (< 10,000); Tasmania 4-day itinerary video found but reach fails",2026-09-17,batch9-topup
+@lavidadownunder,tiktok,reject: dedup + reach,"Collision in dedup_universe_2026-09-17.txt; also 4,706 followers (< 10,000)",2026-09-17,batch9-topup
+@biancainmelbourne,tiktok,reject: exclusion gate,"biancainmelbourne.com/links (observed 2026-09-17): ""ACTIVITY: I plan your day out in Melbourne!"" -> www.amazingco.me (hosted consumer experience) + ""MEETUPS: Let's hang out!""; hosted consumer experience/meetup offering",2026-09-17,batch9-topup
+@real_diari_adventures,tiktok,reject: shared/duo account,"Account branded ""DiAri Adventures""; captions use ""our Top 3 BEST road trips"", ""our itinerary"", ""Follow us for more Epic Canada road trips"" (observed 2026-09-17); no named individual established",2026-09-17,batch9-topup
+@haylsa,tiktok,reject: shared/duo account,"aweventurer.com invitation signed ""Hayley & Kyle"" for Haylsa; haylsa.com itineraries consistently use ""we""/""both of us"" (observed 2026-09-17); no named individual established; also blog itineraries dated ~2021-2022 (outside window)",2026-09-17,batch9-topup
+@nathsway,tiktok,reject: exclusion gate,"TikTok bio observed 2026-09-17: ""Join our next community hike!"" - recurring hosted consumer group activity; watertight reading of hosted consumer group trips exclusion",2026-09-17,batch9-topup
+@elises.traveldiary,tiktok,reject: exclusion gate,"trovatrip.com/trip/asia/thailand/thailand-with-elise-mclean-jun-2024 (observed 2026-09-17): ""Thailand with Elise McLean (@elises.traveldiary)"" hosted group trip, Jun 24-30 2024, 8-24 travelers, 7 days/6 nights, $1,339 USD; hosted consumer group trip offering",2026-09-17,batch9-topup
+@vitortrip,tiktok,reject: dedup collision,check_dedup_batch9.py 2026-09-17: collision with batch5.csv + dedup_universe_2026-09-17.txt + influencers.csv (already banked in batch5),2026-09-17,batch9-topup
+@kelseyinlondon,tiktok,reject: dedup collision,check_dedup_batch9.py 2026-09-17: collision with batch3.csv + dedup_universe_2026-09-17.txt + influencers.csv (already banked in batch3),2026-09-17,batch9-topup
+@mihaelamagri,Mihaela Magri,reach,"TikTok profile observed 2026-09-17: 7,127 followers, below 10,000 reach floor",2026-09-17
+@sevenpointss,Seven Points,individual;services,TikTok bio observed 2026-09-17: Luxury Travel Concierge Agency — not a named individual and operates a travel-agency booking service (gate 1 and gate 6 fail),2026-09-17
+@sydneyguide,Sydney Guide,individual,"Account presents as a brand/shared account: nickname Sydney Guide, bio link sydneyguide.co uses Follow us on TikTok! and working with us language (observed 2026-09-17). No named individual established on the account itself.",2026-09-17
+@just_wandr,just_wandr,individual;services,"TikTok bio observed 2026-09-17: Activities that will be the highlight of your trip in the Balkans / 4.93 average rating / Book at the link below, links to justwandr.com. Bookable travel brand/service, not a named individual (gate 1 and gate 6 fail).",2026-09-17
+@eltravel.12,tiktok,reject: reach floor,"TikTok profile 2026-09-17: 8,195 followers (< 10,000); Austria itinerary photo found but reach fails",2026-09-17,batch9-topup
+@shewillbewandering,tiktok,reject: exclusion gate,"beacons.ai/shewillbewandering (observed 2026-09-17): sells pre-made guides AND offers 'DM me about a custom guide!' — personalized travel-planning service as consumer offering; gate 7 exclusion (30.4K followers, Alta Via 1 video 2025-09-19 otherwise qualified)",2026-09-17,batch9-topup
+@travellightmel,tiktok,reject: reach floor,"TikTok profile 2026-09-17: 5,290 followers (< 10,000); hiking/adventure creator with Alta Via guide but reach fails",2026-09-17,batch9-topup
+@thegreecelist,tiktok,reject: reach floor,"TikTok profile 2026-09-17: 5,301 followers (< 10,000); also '1:1 CALLS' in bio suggests coaching/consulting; sister account of banked @tzatchickie (batch12)",2026-09-17,batch9-topup
+@reves_devoyage63,tiktok,reject: reach floor,"5-day Andalusia itinerary was structured but TikTok profile 2026-09-17 has only 1,715 followers (< 10,000)",2026-09-17,batch9-topup
+@yenola,tiktok,reject: no structured itinerary,Croatia 2-week itinerary offers day-by-day only on request (video caption); no published structured day-by-day itinerary; video had 272 likes,2026-09-17,batch9-topup
+@tan.isha_,tiktok,reject: no structured itinerary,"Egypt itinerary photo post (2026-02-19) is a destination checklist, not a structured day-by-day itinerary",2026-09-17,batch9-topup
+@triplovers753,tiktok,reject: couple account + personalized travel quotes,"triplovers753.com (2026-09-17): ""Siamo Helena e Matteo, una coppia di viaggiatori""; ""Preventivi di viaggio personalizzati"" (custom trip quotes) — couple identity + custom planning service; 69.5K followers otherwise OK",2026-09-17,batch9-topup
+@wiztravels,tiktok,reject: reach floor,"TikTok profile 2026-09-17: 6,468 followers (< 10,000)",2026-09-17,batch9-topup
+@selinakgr,tiktok,reject: reach floor,"TikTok profile 2026-09-17: 881 followers (< 10,000)",2026-09-17,batch9-topup
+@wollom_fr,tiktok,reject: identity,"15,700 followers but 'Mollow' is a travel platform/brand using organizational language, not one named individual",2026-09-17,batch9-topup
+@guiadoscariocas,tiktok,reject: identity,"Caption repeats 'nosso' (our); shared/plural identity, not one named individual",2026-09-17,batch9-topup
+@cariocasnaviagem,tiktok,reject: identity,"Caption uses plural/shared wording ('No nosso canal'); shared identity, not one named individual",2026-09-17,batch9-topup
+@amandanaviagem,tiktok,reject: itinerary date,3-day Ilha Grande itinerary video (create_time 1719611145 = 2024-06-28) predates 2024-09-17 window start,2026-09-17,batch9-topup
+@askdeewaikiki,tiktok,reject: exclusion,"Bio offers booking service ('Call +1 (808) 218-1785', 'Waikiki insider/plug'); 59,500 followers",2026-09-17,batch9-topup
+@wanderlustwellman,tiktok,reject: reach evidence,"TikTok profile observed 2026-09-17 rendered 0 followers and 21,600 total likes (no evidence of 10,000 followers); 2-week Bali itinerary exists on YouTube, not verified on TikTok",2026-09-17,batch9-topup
+@dearandrea_,tiktok,reject: dedup,Collision with dedup_universe_2026-09-17.txt (2026-09-17); 5-day Seoul itinerary otherwise promising,2026-09-17,batch9-topup
+@jess.inviaggio,tiktok,reject: reach floor,"7-day Morocco itinerary was structured (85,700 plays, 2,395 likes, 1,462 shares, 2,408 saves) but TikTok profile 2026-09-17: 6,868 followers (< 10,000)",2026-09-17,batch9-topup
+@simplywander,tiktok,reject: reach floor,"3-day London itinerary was structured (2025-11-12, 50,900 plays, 942 likes, 557 shares, 1,655 saves) but TikTok profile 2026-09-17: 7,503 followers (< 10,000)",2026-09-17,batch9-topup
+@jetamair,tiktok,reject: reach floor,"15-day Thailand day-by-day itinerary was structured but TikTok profile 2026-09-17: 1,484 followers (< 10,000)",2026-09-17,batch9-topup
+@vivomunditraveldiaries,tiktok,reject: reach floor,"5-day Amalfi itinerary was structured (2026-04-27, 48,800 plays, 2,992 likes, 331 shares, 459 saves) but TikTok profile 2026-09-17: 5,763 followers (< 10,000); also no named individual established",2026-09-17,batch9-topup

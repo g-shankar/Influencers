@@ -1,0 +1,24 @@
+{
+  "gate": "1-scoped",
+  "remediation_group": "D",
+  "batch": 19,
+  "status": "PASS",
+  "rows": 12,
+  "qualified_updated": [
+    "@jessica_traveler",
+    "@marissa.daily",
+    "@travelrealizations",
+    "@liveloveruntravel"
+  ],
+  "remove_candidates_unchanged": [
+    "@wheretarawent",
+    "@thetravelbunny",
+    "@adventuresfromelle",
+    "@tomiko.harvey",
+    "@minoritynomad",
+    "@travelingblackwidow",
+    "@thereshegoesagn"
+  ],
+  "errors": [],
+  "warnings": []
+}

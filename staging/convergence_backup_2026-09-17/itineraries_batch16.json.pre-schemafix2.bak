@@ -1,0 +1,213 @@
+{
+  "batch": 16,
+  "extractions": [
+    {
+      "handle": "@solotravelinstyle",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "USA",
+          "days": 7,
+          "destination": "New York City",
+          "items": [
+            {
+              "booking_link": "",
+              "day": 1,
+              "details": "Arrival and Midtown Manhattan exploration",
+              "item_type": "activity",
+              "location": "New York City, USA",
+              "name": "Midtown Manhattan arrival day",
+              "price_hint": ""
+            }
+          ],
+          "source_urls": [
+            "https://thesolotravelinstyleblog.com/nyc-one-week-itinerary/"
+          ],
+          "summary": "Seven-day solo travel itinerary for New York City with day-by-day structure covering Manhattan highlights, neighborhoods, and practical tips. Updated 2026-08-11.",
+          "title": "NYC One-Week Itinerary"
+        }
+      ],
+      "notes": "Ioana Moga is an individual solo travel blogger. Itinerary published within window (updated 2026-08-11). Affiliate disclosure present on site.",
+      "platform": "Instagram"
+    },
+    {
+      "handle": "@bucketlistly",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Costa Rica",
+          "days": 15,
+          "destination": "Costa Rica",
+          "items": [
+            {
+              "booking_link": "",
+              "day": 1,
+              "details": "Arrival in San Jose and initial exploration",
+              "item_type": "activity",
+              "location": "San Jose, Costa Rica",
+              "name": "San Jose arrival",
+              "price_hint": ""
+            }
+          ],
+          "source_urls": [
+            "https://www.bucketlistly.blog/posts/costa-rica-backpacking-itinerary"
+          ],
+          "summary": "15-day backpacking itinerary for Costa Rica with explicit day-by-day structure, lodging recommendations, activities, and firsthand opinions. Updated approximately 2026-09-10.",
+          "title": "Costa Rica Backpacking Itinerary"
+        }
+      ],
+      "notes": "Pete Rojwongsuriya is an individual solo travel blogger and photographer based in Thailand. Itinerary is firsthand with explicit day structure and price references. Affiliate partnerships disclosed.",
+      "platform": "Instagram"
+    },
+    {
+      "handle": "@theladywhotravels_",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Italy",
+          "days": 7,
+          "destination": "Italy",
+          "items": [
+            {
+              "booking_link": "",
+              "day": 1,
+              "details": "Arrival and first day exploration",
+              "item_type": "activity",
+              "location": "Italy",
+              "name": "Italy arrival day",
+              "price_hint": ""
+            }
+          ],
+          "source_urls": [
+            "https://www.theladywhotravels.com/1-week-in-italy-itinerary/"
+          ],
+          "summary": "Seven-day Italy itinerary with day-by-day structure. Updated 2026-04-01.",
+          "title": "One Week in Italy Itinerary"
+        }
+      ],
+      "notes": "Abigail A is an individual solo travel creator and host. Itinerary updated within window (2026-04-01). Affiliate disclosure present on site.",
+      "platform": "Instagram"
+    },
+    {
+      "handle": "@gracefkim",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Guatemala",
+          "days": 10,
+          "destination": "Guatemala",
+          "items": [
+            {
+              "booking_link": "",
+              "day": 1,
+              "details": "Arrival and Antigua exploration",
+              "item_type": "activity",
+              "location": "Antigua, Guatemala",
+              "name": "Antigua arrival",
+              "price_hint": ""
+            }
+          ],
+          "source_urls": [
+            "https://gracefkim.com/10-day-guatemala-itinerary/"
+          ],
+          "summary": "Ten-day Guatemala itinerary with day-by-day structure. Published 2025-04-28.",
+          "title": "10-Day Guatemala Itinerary"
+        }
+      ],
+      "notes": "Grace Kim is an individual travel creator. Itinerary published within window (2025-04-28). Affiliate disclosure present on site.",
+      "platform": "Instagram"
+    },
+    {
+      "handle": "@meanderandwander",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "Egypt Trip: Important Things to Know Before Your Trip",
+          "destination": "Egypt",
+          "country": "Egypt",
+          "days": null,
+          "summary": "Structured Egypt travel-planning guide by Rachita Saxena covering best season, passport/visa, India-to-Egypt flights with fares, budget to luxury accommodation with price bands, money/currency guidance, and transport options. Page cites 'Present Rates (October 2024)', placing publication/update after the 2024-09-17 cutoff.",
+          "source_urls": [
+            "https://meanderwander.com/egypt-trip/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": null,
+              "item_type": "flight",
+              "name": "EgyptAir non-stop Mumbai/Delhi to Cairo",
+              "location": "Mumbai/Delhi, India to Cairo, Egypt",
+              "details": "Non-stop flights offered by EgyptAir; flight duration approx 6-7 hours",
+              "booking_link": null,
+              "price_hint": "INR 35,000 - 50,000 round-trip economy (source-stated)"
+            },
+            {
+              "day": null,
+              "item_type": "flight",
+              "name": "One-stop India to Egypt options",
+              "location": "India to Egypt",
+              "details": "One-stop options via Emirates, Qatar Airways, Etihad Airways, Saudia with layovers in Dubai, Doha, Abu Dhabi, Kuwait or Jeddah; comparison tools Skyscanner, Google Flights, Kayak recommended; book directly with airlines",
+              "booking_link": null,
+              "price_hint": "INR 30,000 - 70,000 round-trip (source-stated)"
+            },
+            {
+              "day": null,
+              "item_type": "hotel",
+              "name": "Budget guesthouses and hostels",
+              "location": "Cairo, Luxor, Aswan, Egypt",
+              "details": "Affordable guesthouses and hostels in downtown Cairo, Luxor and Aswan; basic amenities such as shared bathrooms, breakfast, WiFi",
+              "booking_link": null,
+              "price_hint": "INR 800 - 1,500 per night (~10-20 USD, source-stated)"
+            },
+            {
+              "day": null,
+              "item_type": "hotel",
+              "name": "Mid-range hotels",
+              "location": "Giza, Zamalek, Downtown Cairo, Luxor, Aswan, Egypt",
+              "details": "Mid-range hotels with private bathrooms near pyramids (Giza), sightseeing areas (Zamalek, Downtown Cairo), East Bank of Luxor and Corniche in Aswan",
+              "booking_link": null,
+              "price_hint": "INR 2,000 - 5,000 per night (~20-70 USD, source-stated)"
+            },
+            {
+              "day": null,
+              "item_type": "hotel",
+              "name": "Luxury 4- and 5-star resorts",
+              "location": "Cairo, Luxor, Aswan, Hurghada, Sharm el-Sheikh, Egypt",
+              "details": "Luxury resorts with swimming pools, fine dining, spas and scenic Nile or Pyramids views",
+              "booking_link": null,
+              "price_hint": "INR 8,000 and above per night (~100+ USD, source-stated)"
+            },
+            {
+              "day": null,
+              "item_type": "transport",
+              "name": "Nile cruise between Luxor and Aswan",
+              "location": "Luxor to Aswan, Egypt",
+              "details": "Nile cruise noted as an alternative option for those exploring Luxor and Aswan",
+              "booking_link": null,
+              "price_hint": ""
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Egypt e-visa",
+              "location": "Egypt",
+              "details": "Indians eligible for e-visa; official site visa2egypt.gov.eg or via Atlys (author got hers within 3 working days); sticker visa also possible via Embassy in New Delhi or Consulate in Mumbai",
+              "booking_link": null,
+              "price_hint": "e-visa fee 25 USD (source-stated)"
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Money and currency guidance",
+              "location": "Egypt",
+              "details": "Official currency Egyptian Pound (EGP); carry both cash and forex card; use ATMs for local currency; rates cited as present rates of October 2024",
+              "booking_link": null,
+              "price_hint": "1 EGP = 1.73 INR; 1 USD = 48.3 EGP; 1 EUR = 54 EGP (source-stated, Oct 2024)"
+            }
+          ]
+        }
+      ],
+      "notes": "Rachita Saxena is an individual freelance travel blogger (meanderwander.com). Guide updated on/after Oct 2024 per 'Present Rates (October 2024)' citation. No personalized travel planning, coaching, or hosted group trips sold; affiliate links and brand partnerships only."
+    }
+  ]
+}

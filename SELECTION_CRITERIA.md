@@ -103,3 +103,61 @@ To be applied from a recorded selection date, with one log row per creator:
 Follower counts in this pilot remain source-reported (27 unknown) and were not
 live-verified. Any ranking by followers is a ranking of *reported* reach, and is
 labeled as such wherever presented.
+
+## 5. Founder ruling — engagement evidence standard for Instagram (2026-09-17)
+
+After the Stage 2 wave-2/3 workers documented that Instagram's login wall makes
+exact-dated on-platform engagement metrics unreachable without login, the founder
+ruled: **creator-published media kits and cross-platform engagement (TikTok /
+YouTube metrics for the same creator) are acceptable as the engagement signal**
+for the reach criterion.
+
+Conditions (unchanged): the signal must come from a named source with an
+observation date, recorded honestly in the selection log (method + date). Plain
+`unknown` with no signal remains a fail. This ruling applies from 2026-09-17
+forward and is recorded here so it is never mistaken for a quiet relaxation.
+
+## 6. Coordinator adjudications — identity and activity gates (2026-09-17)
+
+Recorded so later workers apply the criteria consistently. These are applications
+of the existing text, not relaxations.
+
+1. **Mononym / one-person pseudonym satisfies the named-individual gate** when the
+   name is the consistent public operator identity on the creator's own site and
+   handle (precedent: `@elise.abroad` "Elise", passed batch17 gates; applied to
+   `@sinahsstories` "Sinah", batch20). What fails is an anonymous/brand/shared
+   account with no attributable individual, not the absence of a legal surname.
+2. **The activity gate is account-level.** "Account live and posting travel content
+   at the selection date" refers to the platform account under selection (the
+   Instagram account for Instagram batches). A stale personal blog does not fail
+   an Instagram creator whose IG account shows current posting/engagement via a
+   named dated source (applied to `@gracefkim`, batch20: Gondola engagement
+   observed 2026-09-17 satisfies activity despite blog RSS newest post 2025-06-25).
+
+## 6. Founder authorization — Instagram login for engagement verification (2026-09-17)
+
+The founder authorized using his connected Instagram session to verify
+engagement evidence (exact-dated posts with like/comment counts) for creator
+research, after non-login routes were documented as exhausted.
+
+Binding constraint (founder's words): **don't follow anyone.** The session is
+strictly read-only for research: profile lookups, post reads, like/comment
+counts. No follows, likes, comments, DMs, saves, or any other write action —
+no exceptions.
+
+Research account for login-based verification (founder's choice, 2026-09-17):
+@sgshankar84. Read-only use confirmed working.
+
+## 7. Parent adjudications — TikTok close-out (2026-09-17)
+
+- **@ferinajo (batch9): REMOVED.** Paid WeTravel group trips = operating as a tour
+  operator selling hosted consumer trips. Exclusion trigger, consistent with the
+  @kat.triplanner precedent (1:1 custom planning = exclusion). Purchase-intent
+  signals cover affiliate/booking-adjacent behavior, not operating consumer trips.
+- **@axelletaniegi_travel (batch9): KEPT.** A 100-page solo-travel guide is a
+  "guide" under §3 content fit ("itinerary, guide, or day-by-day plan");
+  destination honestly recorded as unknown.
+- **@adamrikys (batch11): PROVISIONAL PASS** with adjudication note in the log —
+  individual creator; sponsored content for an operator does not make him one.
+- **@sydneyguide (batch11): REJECTED** (fail-closed) — brand-like handle + "we"
+  language; individual operation not proven.

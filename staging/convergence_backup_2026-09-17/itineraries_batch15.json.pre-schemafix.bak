@@ -1,0 +1,1551 @@
+{
+  "batch": 15,
+  "extractions": [
+    {
+      "handle": "@ordinarytraveler",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "French Polynesia",
+          "days": 7,
+          "destination": "Moorea, French Polynesia",
+          "items": [
+            {
+              "booking_link": "unknown",
+              "day": null,
+              "details": "Seven-day Windstar cruise in French Polynesia, as described in the creator's 2026-01-27 Instagram post.",
+              "item_type": "experience",
+              "location": "French Polynesia",
+              "name": "Seven-day Windstar cruise",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": null,
+              "details": "Flights included in the package described in the creator's 2026-01-27 Instagram post.",
+              "item_type": "transport",
+              "location": "unknown",
+              "name": "Flights",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": null,
+              "details": "Pre- and post-cruise hotel stays included in the package described in the creator's 2026-01-27 Instagram post.",
+              "item_type": "hotel",
+              "location": "unknown",
+              "name": "Pre- and post-cruise hotels",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": null,
+              "details": "Transfers included in the package described in the creator's 2026-01-27 Instagram post.",
+              "item_type": "transport",
+              "location": "unknown",
+              "name": "Transfers",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": null,
+              "details": "Three hotel nights in Moorea included in the package described in the creator's 2026-01-27 Instagram post.",
+              "item_type": "hotel",
+              "location": "Moorea",
+              "name": "Three hotel nights in Moorea",
+              "price_hint": "unknown"
+            }
+          ],
+          "source_urls": [
+            "https://keepface.com/ordinarytraveler"
+          ],
+          "summary": "Creator's Instagram post dated 2026-01-27 describes a Windstar French Polynesia package pairing a seven-day cruise with flights, pre- and post-cruise hotels, transfers, and three hotel nights in Moorea.",
+          "title": "Windstar French Polynesia Package"
+        }
+      ],
+      "notes": "Extraction limited to package components named in the Keepface-exposed 2026-01-27 Instagram post; no day-by-day sequence was given in the source.",
+      "platform": "instagram"
+    },
+    {
+      "handle": "@wanderlustchloe",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "Italy",
+          "days": 7,
+          "destination": "Calabria",
+          "items": [
+            {
+              "booking_link": "unknown",
+              "day": 1,
+              "details": "Arrival airport at the start of the creator's Day 1 route.",
+              "item_type": "place",
+              "location": "Lamezia Terme",
+              "name": "Lamezia Terme Airport",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": 1,
+              "details": "Day 1 stop on the creator's Calabria itinerary.",
+              "item_type": "place",
+              "location": "Pizzo",
+              "name": "Pizzo",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": 1,
+              "details": "Day 1 stop on the creator's Calabria itinerary.",
+              "item_type": "place",
+              "location": "Tropea",
+              "name": "Tropea",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": 1,
+              "details": "Day 1 stop on the creator's Calabria itinerary.",
+              "item_type": "place",
+              "location": "Capo Vaticano",
+              "name": "Capo Vaticano",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": 1,
+              "details": "Day 1 stop on the creator's Calabria itinerary.",
+              "item_type": "place",
+              "location": "Scilla",
+              "name": "Scilla",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": 2,
+              "details": "Day 2 direction on the creator's Calabria itinerary, toward Aspromonte National Park.",
+              "item_type": "place",
+              "location": "Aspromonte National Park",
+              "name": "Aspromonte National Park",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": 2,
+              "details": "Day 2 stop on the creator's Calabria itinerary, near Aspromonte National Park.",
+              "item_type": "place",
+              "location": "Pentedattilo",
+              "name": "Pentedattilo",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": "unknown",
+              "day": 2,
+              "details": "Day 2 stop on the creator's Calabria itinerary, near Aspromonte National Park.",
+              "item_type": "place",
+              "location": "Palizzi",
+              "name": "White Gullies of Palizzi",
+              "price_hint": "unknown"
+            }
+          ],
+          "source_urls": [
+            "https://www.wanderlustchloe.com/calabria-itinerary-italy/"
+          ],
+          "summary": "Seven-day Calabria itinerary on the creator's site. Observed day structure: Day 1 runs from Lamezia Terme airport through Pizzo, Tropea, Capo Vaticano and Scilla; Day 2 heads toward Aspromonte National Park including Pentedattilo and the White Gullies of Palizzi.",
+          "title": "Calabria Itinerary"
+        }
+      ],
+      "notes": "Partial extraction: day 1-2 stops observed from the creator's page in public search results; the remaining days of the 7-day itinerary are at the source URL.",
+      "platform": "instagram"
+    },
+    {
+      "handle": "@danflyingsolo",
+      "itineraries": [
+        {
+          "confidence": "low",
+          "country": "Austria",
+          "days": 3,
+          "destination": "Graz",
+          "items": [
+            {
+              "booking_link": "unknown",
+              "day": null,
+              "details": "Structured long-weekend Graz itinerary on the creator's blog, updated 2025-06-01; the source presents a 3-4 day day-by-day plan. Day-level stops were not observed in public search results.",
+              "item_type": "guide",
+              "location": "Graz",
+              "name": "Long Weekend Graz Itinerary",
+              "price_hint": "unknown"
+            }
+          ],
+          "source_urls": [
+            "https://www.danflyingsolo.com/long-weekend-graz-itinerary/"
+          ],
+          "summary": "Structured 3-4 day long-weekend Graz itinerary on the creator's blog, updated 2025-06-01.",
+          "title": "Long Weekend Graz Itinerary"
+        }
+      ],
+      "notes": "Partial extraction: the guide's day-level stops were not observable in public search results; full day-by-day detail is at the source URL.",
+      "platform": "instagram"
+    },
+    {
+      "handle": "@thetravelhack",
+      "itineraries": [
+        {
+          "confidence": "low",
+          "country": "France",
+          "days": 1,
+          "destination": "Paris",
+          "items": [
+            {
+              "booking_link": "unknown",
+              "day": 1,
+              "details": "Timed one-day Paris itinerary on the creator's site. Stop-level detail was not observed in public search results.",
+              "item_type": "guide",
+              "location": "Paris",
+              "name": "1 Day in Paris",
+              "price_hint": "unknown"
+            }
+          ],
+          "source_urls": [
+            "https://thetravelhack.com/france/1-day-in-paris/"
+          ],
+          "summary": "Timed one-day Paris itinerary on the creator's site.",
+          "title": "1 Day in Paris"
+        }
+      ],
+      "notes": "Partial extraction: the guide's stop-level detail was not observable in public search results; full detail is at the source URL.",
+      "platform": "instagram"
+    },
+    {
+      "handle": "@insidetravellab",
+      "itineraries": [
+        {
+          "confidence": "low",
+          "country": "Morocco",
+          "days": null,
+          "destination": "Morocco",
+          "items": [
+            {
+              "booking_link": "unknown",
+              "day": null,
+              "details": "Structured Morocco itinerary on the creator's site. Day count and stop-level detail were not observed in public search results.",
+              "item_type": "guide",
+              "location": "Morocco",
+              "name": "Morocco Itinerary",
+              "price_hint": "unknown"
+            }
+          ],
+          "source_urls": [
+            "https://www.insidethetravellab.com/morocco-itinerary/"
+          ],
+          "summary": "Structured Morocco itinerary on the creator's site.",
+          "title": "Morocco Itinerary"
+        }
+      ],
+      "notes": "Partial extraction: the guide's day count and stop-level detail were not observable in public search results; full detail is at the source URL.",
+      "platform": "instagram"
+    },
+    {
+      "handle": "@pocketwanderings",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Italy",
+          "days": 3,
+          "destination": "Rome, Italy",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Morning visit, recommended early to avoid crowds.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Colosseum",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Ancient government buildings visited after the Colosseum.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Roman Forum",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Panoramic views over Rome's archaeological ruins.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Palatine Hill",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Michelin-star Mediterranean restaurant lunch across from Palatine Hill.",
+              "item_type": "restaurant",
+              "location": "Rome",
+              "name": "Ristorante Aroma",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Temples and museums wander after lunch.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Capitoline Hill",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Taxi recommended to Castel Sant'Angelo.",
+              "item_type": "transport",
+              "location": "Rome",
+              "name": "Taxi to Castel Sant'Angelo",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Hallways, artworks, artefacts and viewing platforms; museum cafe for aperitifs.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Castel Sant'Angelo",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Dinner; noted for homemade pasta.",
+              "item_type": "restaurant",
+              "location": "Rome",
+              "name": "Osteria da Fortunata",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Evening drinks at a treasured Roman pub.",
+              "item_type": "other",
+              "location": "Rome",
+              "name": "La Botticella pub",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Morning visit to the papal collections.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Vatican Museums",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Michelangelo's ceiling frescoes; Gregorian Egyptian Museum if time permits.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Sistine Chapel",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Reached via the secret passageway from the Sistine Chapel with a skip-the-line tour.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "St Peter's Basilica",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Bus ride to Trastevere for lunch away from crowds.",
+              "item_type": "transport",
+              "location": "Rome",
+              "name": "Bus line 116 to Trastevere",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Authentic Italian lunch in a quiet alley near the Tiber.",
+              "item_type": "restaurant",
+              "location": "Trastevere, Rome",
+              "name": "Da Enzo al 29",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Afternoon wander through the charming neighbourhood; gelato.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Trastevere neighbourhood",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Basilica visit, noted for ceilings and columns.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Santa Maria in Trastevere",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Art museum, former elite banquet villa.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Villa Farnesina",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Elegant dinner across Ponte Giuseppe Mazzini; modern take on traditional food.",
+              "item_type": "restaurant",
+              "location": "Rome",
+              "name": "Pierluigi",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Tapas and drinks before returning to the hotel.",
+              "item_type": "restaurant",
+              "location": "Rome",
+              "name": "Il Goccetto",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Morning visit on the final day.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Trevi Fountain",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Architectural wonder reached via Via del Seminario.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Pantheon",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Lively square with cafes, terraces and excavation sites.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Piazza Navona",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Michelin restaurant lunch; noted mussel soup.",
+              "item_type": "restaurant",
+              "location": "Rome",
+              "name": "Pipero Roma",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Antiques, paintings and sculptures in the palace.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Galleria Borghese",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Relaxing afternoon in the 80-hectare gardens; bike or golf cart rental suggested.",
+              "item_type": "activity",
+              "location": "Rome",
+              "name": "Villa Borghese Gardens",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Suggested to cover the extensive gardens.",
+              "item_type": "transport",
+              "location": "Villa Borghese, Rome",
+              "name": "Bike/golf cart rental",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Final dinner; go-to order is Cacio e Pepe.",
+              "item_type": "restaurant",
+              "location": "Rome",
+              "name": "Felice a Testaccio",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Drinks and dessert with sweeping city views to end the trip.",
+              "item_type": "other",
+              "location": "Rome",
+              "name": "Terrazza Les Etoiles rooftop bar",
+              "price_hint": "unknown"
+            }
+          ],
+          "title": "Ultimate 3-Day Rome Itinerary",
+          "summary": "Jessie Moore's structured 3-day Rome itinerary (published 2025-01-01, modified 2026-04-09): Day 1 ancient Rome (Colosseum, Roman Forum, Palatine Hill, Capitoline Hill, Castel Sant'Angelo); Day 2 Vatican Museums, Sistine Chapel, St Peter's Basilica and Trastevere; Day 3 Trevi Fountain, Pantheon, Piazza Navona, Galleria Borghese and Villa Borghese Gardens, with named restaurants each day.",
+          "source_urls": [
+            "https://www.pocketwanderings.com/three-day-rome-itinerary/",
+            "https://pocketwanderings.com/about/"
+          ]
+        }
+      ],
+      "notes": "Structured 3-day Rome itinerary published 2025-01-01, modified 2026-04-09 by Jessie Moore. Day-by-day activities, restaurants and transport extracted from the guide body."
+    },
+    {
+      "handle": "@araioflight",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "USA",
+          "days": null,
+          "destination": "Portland to San Francisco road trip",
+          "items": [],
+          "title": "Portland to San Francisco Road Trip: Best Stops",
+          "summary": "Raihaan's structured Portland-to-San Francisco road trip guide (published and modified 2025-06-17) listing the best stops along the route. Per-stop item extraction was not captured in this pass and is flagged for re-verification.",
+          "source_urls": [
+            "https://www.araioflight.com/drive-portland-to-san-francisco-road-trip-best-stops/"
+          ]
+        }
+      ],
+      "notes": "Structured Portland-to-San Francisco road trip guide published/modified 2025-06-17 by Raihaan (@araioflight). Itinerary-level metadata recorded; per-stop item extraction was not captured in this pass and should be completed on re-verification before the pilot consumes it."
+    },
+    {
+      "handle": "@mrsoaroundtheworld",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Italy",
+          "days": 5,
+          "destination": "Piedmont: Milan > Turin > La Morra/Langhe > Milan",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Round-trip routing through Milan Malpensa for the 5-day Piedmont itinerary.",
+              "item_type": "flight",
+              "location": "Milan Malpensa (MXP)",
+              "name": "Flights via Milan Malpensa",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Car hire for the Turin > Langhe driving route.",
+              "item_type": "transport",
+              "location": "Piedmont",
+              "name": "Car hire",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Hotel for the 2-night Turin stay; specific property name not captured in this extraction.",
+              "item_type": "hotel",
+              "location": "Turin",
+              "name": "Turin hotel",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Walking/sightseeing in Turin across the 2-night stay.",
+              "item_type": "activity",
+              "location": "Turin",
+              "name": "Turin walking and sightseeing",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Hotel for the 2-night La Morra/Langhe stay; specific property name not captured in this extraction.",
+              "item_type": "hotel",
+              "location": "La Morra",
+              "name": "La Morra / Langhe hotel",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Village exploration in the Langhe wine region.",
+              "item_type": "activity",
+              "location": "La Morra",
+              "name": "La Morra village visit",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Winery lunch in Barolo.",
+              "item_type": "restaurant",
+              "location": "Barolo",
+              "name": "Barolo winery lunch",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Optional outlet shopping stop on the return toward Milan.",
+              "item_type": "other",
+              "location": "Vicolungo",
+              "name": "Vicolungo outlet stop (optional)",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": 5,
+              "details": "Itinerary closes back in Milan for departure.",
+              "item_type": "flight",
+              "location": "Milan Malpensa (MXP)",
+              "name": "Return via Milan Malpensa",
+              "price_hint": "unknown"
+            }
+          ],
+          "title": "5-Day Piedmont Itinerary: Turin & Langhe",
+          "summary": "Ana Silva O'Reilly's structured 5-day Piedmont itinerary (published 2026-07-13, modified 2026-07-16): Milan Malpensa > Turin (2 nights) > La Morra/Langhe (2 nights) > Milan, with flights, car hire, Turin walking/sightseeing, La Morra, a Barolo winery lunch and an optional Vicolungo outlet stop.",
+          "source_urls": [
+            "https://mrsoaroundtheworld.com/luxury-travel/europe/5-day-piedmont-itinerary-turin-langhe/",
+            "https://mrsoaroundtheworld.com/about/"
+          ]
+        }
+      ],
+      "notes": "Structured 5-day Piedmont itinerary published 2026-07-13, modified 2026-07-16 by Ana Silva O'Reilly. Route, transport and activity structure extracted; specific hotel property names were not captured in this pass."
+    },
+    {
+      "handle": "@i_am_aileen",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "Japan",
+          "days": null,
+          "destination": "Tokyo, Japan",
+          "items": [
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "District section of the Tokyo itinerary covering Shibuya sights and activities.",
+              "item_type": "activity",
+              "location": "Shibuya, Tokyo",
+              "name": "Shibuya district guide",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "District section of the Tokyo itinerary covering Harajuku sights and activities.",
+              "item_type": "activity",
+              "location": "Harajuku, Tokyo",
+              "name": "Harajuku district guide",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "District section of the Tokyo itinerary covering Shinjuku sights and activities.",
+              "item_type": "activity",
+              "location": "Shinjuku, Tokyo",
+              "name": "Shinjuku district guide",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "District section of the Tokyo itinerary covering Asakusa sights and activities.",
+              "item_type": "activity",
+              "location": "Asakusa, Tokyo",
+              "name": "Asakusa district guide",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "District section of the Tokyo itinerary covering Akihabara sights and activities.",
+              "item_type": "activity",
+              "location": "Akihabara, Tokyo",
+              "name": "Akihabara district guide",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "District section of the Tokyo itinerary covering Sumida sights and activities.",
+              "item_type": "activity",
+              "location": "Sumida, Tokyo",
+              "name": "Sumida district guide",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Guide covers transit options for moving between districts; specific lines not captured in this extraction.",
+              "item_type": "transport",
+              "location": "Tokyo",
+              "name": "Tokyo transit guidance",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Guide includes hotel recommendations; specific properties not captured in this extraction.",
+              "item_type": "hotel",
+              "location": "Tokyo",
+              "name": "Tokyo hotel recommendations",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Guide includes restaurant recommendations; specific venues not captured in this extraction.",
+              "item_type": "restaurant",
+              "location": "Tokyo",
+              "name": "Tokyo restaurant recommendations",
+              "price_hint": "unknown"
+            }
+          ],
+          "title": "Tokyo Itinerary & DIY Travel Guide",
+          "summary": "Aileen Adalid's structured Tokyo itinerary and DIY travel guide (published 2022-10-17, dateModified 2025-06-22) with day/district structure covering Shibuya, Harajuku, Shinjuku, Asakusa, Akihabara, Sumida and more, plus transit, hotel and restaurant guidance.",
+          "source_urls": [
+            "https://iamaileen.com/tokyo-itinerary/",
+            "https://iamaileen.com/about/"
+          ]
+        }
+      ],
+      "notes": "Structured Tokyo itinerary and DIY travel guide published 2022-10-17, dateModified 2025-06-22 by Aileen Adalid. District-level structure extracted; per-venue names were not captured in this pass and should be completed on re-verification before the pilot consumes it."
+    },
+    {
+      "handle": "@theboutiqueadventurer",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "United Kingdom",
+          "days": 10,
+          "destination": "Scottish Highlands: Glasgow > Glen Coe/Fort William > Isle of Skye > Ullapool > Durness > Thurso > Inverness",
+          "items": [
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Stop on the 10-day Scottish Highlands itinerary route.",
+              "item_type": "activity",
+              "location": "Glasgow, Scotland",
+              "name": "Glasgow",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Stop on the 10-day Scottish Highlands itinerary route.",
+              "item_type": "activity",
+              "location": "Scottish Highlands",
+              "name": "Glen Coe and Fort William",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Stop on the 10-day Scottish Highlands itinerary route.",
+              "item_type": "activity",
+              "location": "Isle of Skye, Scotland",
+              "name": "Isle of Skye",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Stop on the 10-day Scottish Highlands itinerary route.",
+              "item_type": "activity",
+              "location": "Ullapool, Scotland",
+              "name": "Ullapool",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Stop on the 10-day Scottish Highlands itinerary route.",
+              "item_type": "activity",
+              "location": "Durness, Scotland",
+              "name": "Durness",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Stop on the 10-day Scottish Highlands itinerary route.",
+              "item_type": "activity",
+              "location": "Thurso, Scotland",
+              "name": "Thurso",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Stop on the 10-day Scottish Highlands itinerary route.",
+              "item_type": "activity",
+              "location": "Inverness, Scotland",
+              "name": "Inverness",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Driving route connecting the itinerary stops across the 10 days; specific transport bookings not captured in this extraction.",
+              "item_type": "transport",
+              "location": "Scottish Highlands",
+              "name": "Self-drive routing",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Guide names hotels along the route; specific properties not captured in this extraction.",
+              "item_type": "hotel",
+              "location": "Scottish Highlands",
+              "name": "Highlands hotel recommendations",
+              "price_hint": "unknown"
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Guide names restaurants along the route; specific venues not captured in this extraction.",
+              "item_type": "restaurant",
+              "location": "Scottish Highlands",
+              "name": "Highlands restaurant recommendations",
+              "price_hint": "unknown"
+            }
+          ],
+          "title": "10-Day Scottish Highlands Itinerary",
+          "summary": "Amanda O'Brien's detailed 10-day Scottish Highlands itinerary (published and modified 2026-08-09): Glasgow > Glen Coe/Fort William > Isle of Skye > Ullapool > Durness > Thurso > Inverness, with hotels, restaurants, transport and activities along the route.",
+          "source_urls": [
+            "https://theboutiqueadventurer.com/ive-spent-years-exploring-scotland-heres-the-10-day-itinerary-i-always-recommend/"
+          ]
+        }
+      ],
+      "notes": "Detailed 10-day Scottish Highlands itinerary published/modified 2026-08-09 by Amanda O'Brien. Route-level structure extracted; per-stop days, venues and bookings were not captured in this pass and should be completed on re-verification before the pilot consumes it."
+    },
+    {
+      "handle": "@thetravelista",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "The Perfect 3-Day Bangkok Itinerary for 2025",
+          "destination": "Bangkok, Thailand",
+          "country": "Thailand",
+          "days": 3,
+          "summary": "Jessica Ruth Gibson's tried-and-tested 3-day Bangkok itinerary: Day 1 art, fashion and shopping (Siam Square, BACC, Jim Thompson House); Day 2 Thai culture (cookery class, Wat Arun, Asiatique, Calypso Cabaret); Day 3 pampering and rooftops (Korean head spa or Grand Palace, Chinatown, Wallflowers Cafe, Potong, Opium).",
+          "confidence": "high",
+          "source_urls": [
+            "https://thetravelista.net/travel/the-perfect-3-day-bangkok-itinerary/"
+          ],
+          "items": [
+            {
+              "name": "Siam Square",
+              "location": "Bangkok",
+              "details": "Day 1 morning: buzzing shopping and entertainment hub to acclimatise to Bangkok.",
+              "item_type": "other",
+              "day": 1,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Bangkok Art & Culture Centre (BACC)",
+              "location": "Siam Square, Bangkok",
+              "details": "Day 1 afternoon: contemporary space showcasing Thai artists, rotating exhibitions; free entry, 10 BHT locker fee.",
+              "item_type": "activity",
+              "day": 1,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Jim Thompson House",
+              "location": "Bangkok",
+              "details": "Day 1 late afternoon: preserved Thai home of American silk entrepreneur; guided tour, silk boutique.",
+              "item_type": "activity",
+              "day": 1,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Tingly Thai Cooking School",
+              "location": "Bangkok",
+              "details": "Day 2 morning: 8.30am class with market tour; cooks Tom Yum Soup, Pad Thai, Panang Curry, Mango with Sticky Rice. Pre-book 1-2 days ahead.",
+              "item_type": "activity",
+              "day": 2,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Wat Arun (Temple of Dawn)",
+              "location": "Bangkok",
+              "details": "Day 2 midday: ornate temple via tourist boat along Chao Phraya River; climb for panoramic views.",
+              "item_type": "activity",
+              "day": 2,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Calypso Cabaret",
+              "location": "Asiatique, Bangkok",
+              "details": "Day 2 evening: high-energy theatrical ladyboy show at Asiatique riverfront complex.",
+              "item_type": "activity",
+              "day": 2,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Bella Beauty Vibes Korean Head Spa",
+              "location": "Bangkok",
+              "details": "Day 3 morning option 1: 15-step Korean head spa treatment; creator paid 3900 BHT.",
+              "item_type": "activity",
+              "day": 3,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Grand Palace",
+              "location": "Bangkok",
+              "details": "Day 3 morning option 2: famous Grand Palace, best early before crowds; Museum of Queen's Fashion nearby.",
+              "item_type": "activity",
+              "day": 3,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Bangkok Chinatown (Yaowarat)",
+              "location": "Bangkok",
+              "details": "Day 3 afternoon: explore one of the world's oldest Chinatowns; gold shops, alleys, eateries.",
+              "item_type": "other",
+              "day": 3,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Potong",
+              "location": "Chinatown, Bangkok",
+              "details": "Day 3 evening: Michelin star restaurant by Chef Pam; Asia's 50 Best Restaurants No.13 in 2025.",
+              "item_type": "restaurant",
+              "day": 3,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Opium Bar",
+              "location": "Above Potong, Chinatown, Bangkok",
+              "details": "Day 3 evening: award-winning cocktail bar, Asia's 50 Best Bars; accessed via Potong.",
+              "item_type": "restaurant",
+              "day": 3,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Grande Centre Point Lumphini",
+              "location": "Bangkok",
+              "details": "Recommended hotel for the Bangkok stay.",
+              "item_type": "hotel",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Full 3-day structured itinerary with day-by-day activities, restaurants, and hotel; Ayutthaya 2-3 night add-on also described at source."
+    },
+    {
+      "handle": "@bonnierakhit",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "Christmas in Copenhagen: Festive Itinerary, Markets & Best Things to Do",
+          "destination": "Copenhagen, Denmark",
+          "country": "Denmark",
+          "days": null,
+          "summary": "Bonnie Rakhit's festive Copenhagen itinerary: food tour, CopenHot saunas, Reffen street food, La Banchina tasting menu, three Christmas markets (Kongens Nytorv, Hojbro Plads, H.C. Andersen), Tivoli Gardens, Hey Captain boat trip, Manon Les Suites spa. Stayed at Scandic Kodbyen.",
+          "confidence": "high",
+          "source_urls": [
+            "https://thestyletraveller.com/christmas-in-copenhagen-festive-itinerary-markets-best-things-to-do/"
+          ],
+          "items": [
+            {
+              "name": "Scandic Kodbyen Hotel",
+              "location": "Vesterbro (Meatpacking District), Copenhagen",
+              "details": "Where to stay: trendy Vesterbro location, 5-min walk from Metro; lively bar/restaurant Fri-Sat.",
+              "item_type": "hotel",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Copenhagen Food Tour by Mie & Friends",
+              "location": "Copenhagen",
+              "details": "Guided food tour with Jacob: Torvehallerne market, frikadeller, glogg, liquorice, open sandwiches, Gaza Grill.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "CopenHot",
+              "location": "Copenhagen",
+              "details": "Danish sauna experience: outdoor hot tubs, saunas, steam rooms, cold plunges; evening fairy lights; mulled wine available.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Reffen Street Food Market",
+              "location": "Copenhagen",
+              "details": "Regenerated industrial area food market in shipping containers; global food, fire pits in winter; close to CopenHot.",
+              "item_type": "restaurant",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "La Banchina",
+              "location": "Copenhagen",
+              "details": "Waterside restaurant, intimate supper clubs; creator's favourite meal: five-course fish tasting with wine ~GBP 60pp.",
+              "item_type": "restaurant",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Kongens Nytorv Christmas Market",
+              "location": "Copenhagen",
+              "details": "One of city's largest Christmas markets; central ice-skating rink, festive stalls; near Nyhavn.",
+              "item_type": "other",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Hojbro Plads Christmas Market",
+              "location": "Copenhagen",
+              "details": "Small charming market 6-min walk from Kongens Nytorv; luxury shopping area (Prada, Louis Vuitton).",
+              "item_type": "other",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "H.C. Andersen Christmas Market",
+              "location": "Copenhagen",
+              "details": "8-min walk from Kongens Nytorv; fairytale theme, wooden huts, sleigh photo op, teddy bear sculptures.",
+              "item_type": "other",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Tivoli Gardens Christmas Market",
+              "location": "Copenhagen",
+              "details": "Best Christmas market per creator; entry fee; opened 1843; arrive 3:30pm for daylight-to-illuminated transition; Nimb fine dining.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Hey Captain boat tour",
+              "location": "Copenhagen canals",
+              "details": "Two-hour sailing through city canals with Captain Sam; mulled wine and snacks; industrial/architectural stories.",
+              "item_type": "transport",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Manon Les Suites Spa",
+              "location": "Copenhagen",
+              "details": "Balinese-inspired spa; Flying Fish jungle pool; 4-hour day pass for non-guests; rooftop sauna/steam circuit.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Festive itinerary structured as things-to-do list with where-to-stay; sponsored post with Jet2Holidays (sponsored content is not a prohibited service)."
+    },
+    {
+      "handle": "@thewanderingquinn",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "First Time in Berlin? A Relaxed 3-Day Itinerary Beyond the Usual Sights",
+          "destination": "Berlin, Germany",
+          "country": "Germany",
+          "days": 3,
+          "summary": "Ellie Quinn Belhaj's relaxed 3-day Berlin guide beyond tourist traps: Day 1 green spaces and canal dining (Kornerpark, Kreuzberg, Maybachufer); Day 2 wining/dining (Viktoriapark, Restaurant Austria, Ramones Museum, KONIG Galerie, Post Bar); Day 3 Tempelhof Airport park and Hertha Berlin match.",
+          "confidence": "high",
+          "source_urls": [
+            "https://thewanderingquinn.com/first-time-in-berlin-a-relaxed-3-day-itinerary-beyond-the-usual-sights/"
+          ],
+          "items": [
+            {
+              "name": "Kornerpark",
+              "location": "Neukolln, Berlin",
+              "details": "Day 1: leafy green park to start, de-stress; canal walks nearby.",
+              "item_type": "activity",
+              "day": 1,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Maybachufer street food",
+              "location": "Kreuzberg, Berlin",
+              "details": "Day 1: street food on Maybachufer; beers by canal; bratwurst; Rough Trade shop, East Side Gallery nearby.",
+              "item_type": "restaurant",
+              "day": 1,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Viktoriapark waterfalls",
+              "location": "Kreuzberg, Berlin",
+              "details": "Day 2 morning: waterfalls to wow senses before lunch.",
+              "item_type": "activity",
+              "day": 2,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Restaurant Austria",
+              "location": "Berlin",
+              "details": "Day 2 lunch: friendly welcome, schnitzels, beef soup, bread dumplings.",
+              "item_type": "restaurant",
+              "day": 2,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Ramones Museum",
+              "location": "Berlin",
+              "details": "Day 2 afternoon: museum dedicated to 70s NY punk band; non-traditional venue.",
+              "item_type": "activity",
+              "day": 2,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "KONIG Galerie",
+              "location": "Saint Agnes Church, Berlin",
+              "details": "Day 2 afternoon: art exhibitions in brutalist concrete church edifice.",
+              "item_type": "activity",
+              "day": 2,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "The Post Bar and Restaurant",
+              "location": "Berlin",
+              "details": "Day 2 dinner: traditional Berlin fare meets modern twists in historic postal building; pike-perch, Brandenburg beef.",
+              "item_type": "restaurant",
+              "day": 2,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Tempelhof Airport park",
+              "location": "Berlin",
+              "details": "Day 3: massive urban park on former airport; Berlin Airlift history, sheep herds, Formula E, sports arenas.",
+              "item_type": "activity",
+              "day": 3,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Hertha Berlin at Olympiastadion",
+              "location": "Westend, Berlin",
+              "details": "Day 3 finale option: catch Hertha Berlin home game; tickets from ~EUR 15; up to 75,000 fans.",
+              "item_type": "activity",
+              "day": 3,
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Structured 3-day relaxed itinerary; affiliate links present (not a prohibited service)."
+    },
+    {
+      "handle": "@intrepidescape",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "Plan The Perfect 3 Day Banff Itinerary for 2026",
+          "destination": "Banff National Park, Alberta, Canada",
+          "country": "Canada",
+          "days": 3,
+          "summary": "Scott Tisson's 3-day Banff itinerary: Day 1 Banff Town, Lake Louise, Moraine Lake, Banff Upper Hot Springs; Day 2 Banff Gondola and Yoho National Park; Day 3 (via page continuation) Icefields Parkway. Hotels: Moose Hotel, Banff Inn, Samesun Hostel.",
+          "confidence": "high",
+          "source_urls": [
+            "https://intrepidescape.com/3-day-banff-itinerary/"
+          ],
+          "items": [
+            {
+              "name": "Banff Avenue",
+              "location": "Banff Town",
+              "details": "Day 1: stroll mountain town, shopping, boutiques, cafes; central hub.",
+              "item_type": "other",
+              "day": 1,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Lake Louise",
+              "location": "Banff National Park",
+              "details": "Day 1 morning: turquoise waters, Victoria Glacier; shoreline trail hike; 35-min drive from Banff Town; visit Lake Louise Visitor Centre.",
+              "item_type": "activity",
+              "day": 1,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Mountain Restaurant",
+              "location": "Lake Louise",
+              "details": "Day 1 lunch: burgers, pasta, poutine, steak; Bison Burger with yam fries ~$25.50.",
+              "item_type": "restaurant",
+              "day": 1,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Moraine Lake",
+              "location": "Valley of the Ten Peaks",
+              "details": "Day 1 afternoon: intense blue waters; Rockpile Trail for iconic views; 20-min from Lake Louise; shuttle/taxi required (no private cars).",
+              "item_type": "activity",
+              "day": 1,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Banff Upper Hot Springs",
+              "location": "Banff",
+              "details": "Day 1 evening: mineral-rich naturally heated springs; panoramic mountain views; $17.50pp; closes 10pm.",
+              "item_type": "activity",
+              "day": 1,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Banff Gondola",
+              "location": "Sulphur Mountain, Banff",
+              "details": "Day 2 morning: 8-min ascent; views of Banff Town, Bow Valley; Sanson's Peak boardwalk, Cosmic Ray Station.",
+              "item_type": "activity",
+              "day": 2,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Moose Hotel and Suites",
+              "location": "Banff Town",
+              "details": "Luxury pick: rooftop lounge, two hot pools, mountain views, spa, fireplaces.",
+              "item_type": "hotel",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Banff Inn",
+              "location": "Banff Avenue",
+              "details": "Mid-range: updated rooms, sauna, hot tub, on-site bar/restaurant.",
+              "item_type": "hotel",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Samesun Banff Hostel",
+              "location": "Banff Avenue",
+              "details": "Budget: dorms and private rooms, communal kitchen, daily activities.",
+              "item_type": "hotel",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Structured 3-day itinerary with day-by-day plan; page continues to Day 3 Icefields Parkway detail at source URL."
+    },
+    {
+      "handle": "@adilmusa1",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "The Ultimate Kuala Lumpur Itinerary",
+          "destination": "Kuala Lumpur, Malaysia",
+          "country": "Malaysia",
+          "days": 3,
+          "summary": "Adil Musa's Kuala Lumpur guide from his Malaysia trip: recommends 2-3 days covering Jalan Alor food street, Warisan Merdeka Tower, Petronas Twin Towers, Thean Hou Temple, Jamek Masjid, Sultan Abdul Samad Building, Petaling Street, KL Forest Eco Park.",
+          "confidence": "medium",
+          "source_urls": [
+            "https://adilmusa.com/kuala-lumpur-itinerary/"
+          ],
+          "items": [
+            {
+              "name": "Jalan Alor Food Street Market",
+              "location": "Bukit Bintang, Kuala Lumpur",
+              "details": "Vibrant evening food street; satay, grilled fish, noodles, cendol; near Bukit Bintang hotels.",
+              "item_type": "restaurant",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Warisan Merdeka Tower",
+              "location": "Kuala Lumpur",
+              "details": "644m skyscraper, one of Malaysia's tallest; modern architecture icon; seen on train to Little India.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Petronas Twin Towers",
+              "location": "Kuala Lumpur",
+              "details": "Iconic 88-storey towers; Suria KLCC Mall below; Dancing Lake Symphony Fountain Show after 7:30pm.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Thean Hou Temple",
+              "location": "Kuala Lumpur",
+              "details": "Chinese temple with garden; creator explored and photographed.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Jamek Masjid",
+              "location": "Kuala Lumpur",
+              "details": "One of city's oldest mosques (1909); Moorish/Islamic design, domes and minarets; near Sultan Abdul Building.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Sultan Abdul Samad Building",
+              "location": "Kuala Lumpur",
+              "details": "Historic landmark building photographed by creator.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Petaling Street Market",
+              "location": "Kuala Lumpur",
+              "details": "Vibrant market; local delicacies, apparel, souvenirs; bargaining expected; neon nightlife after sunset.",
+              "item_type": "other",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "KL Forest Eco Park",
+              "location": "Kuala Lumpur",
+              "details": "Urban rainforest sanctuary; canopy walkway, monkeys, birds; minutes from KL Tower.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Medium confidence: recommendation list tied to creator's Malaysia trip with suggested 2-3 day stay; media dated 2025/03."
+    },
+    {
+      "handle": "@charliepauly",
+      "platform": "instagram",
+      "itineraries": [
+        {
+          "title": "27 Best Things To Do On The NC500",
+          "destination": "North Coast 500, Scotland, UK",
+          "country": "United Kingdom",
+          "days": null,
+          "summary": "Charlie Pauly's 27-stop North Coast 500 road trip guide: waterfalls, lighthouses, beaches, castles, and villages around Scotland's north coast. First 15 stops extracted; full 27 at source.",
+          "confidence": "medium",
+          "source_urls": [
+            "https://charliepauly.com/best-things-to-do-on-the-nc500/"
+          ],
+          "items": [
+            {
+              "name": "Rogie Falls",
+              "location": "Scottish Highlands",
+              "details": "Waterfalls on Black Water River; new suspension bridge; salmon leaping Aug/Sep.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Tarbat Ness Lighthouse",
+              "location": "Tarbat Peninsula, east coast Scotland",
+              "details": "Red/white striped lighthouse; 360-degree views; birdwatching, dolphin spotting.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Harry Gow Bakery",
+              "location": "Dornoch (17 locations)",
+              "details": "Scottish bakery; local ingredients; famous dream rings (sponge with cream filling).",
+              "item_type": "restaurant",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Dornoch Beach",
+              "location": "Dornoch, Highlands",
+              "details": "Award-winning Blue Flag beach; golden sands, dunes; family-friendly.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Dunrobin Castle",
+              "location": "East coast, Northern Highlands",
+              "details": "189-room stately home; French chateau style; gardens, falconry displays; entry charge.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Big Burn Falls",
+              "location": "Near Golspie",
+              "details": "Woodland waterfall walk; information boards, benches; hear roar before seeing.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Whaligoe Steps",
+              "location": "Near Wick",
+              "details": "Flagstone steps zig-zag down cliff to natural harbour; herring industry history; whale/sea-eagle sightings.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "John O'Groats signpost",
+              "location": "John O'Groats",
+              "details": "Iconic signpost at Great Britain's most northerly coast; start/end of Land's End challenge; wildlife cruises.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Duncansby Stacks",
+              "location": "Duncansby Head",
+              "details": "Two 60m sea stacks; dramatic coastal erosion formations.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Dunnet Head",
+              "location": "North coast Scotland",
+              "details": "Most northerly point of mainland Great Britain; RSPB reserve; puffins, guillemots.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Puffin Cove",
+              "location": "Near Thurso",
+              "details": "UK's largest puffin colony (Apr-Aug); Wester Clett island; steep coastal walk.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Melvich Beach",
+              "location": "North coast",
+              "details": "Secluded crescent beach at River Halladale mouth; surfing, sunsets.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Balnakeil Beach",
+              "location": "Near Durness",
+              "details": "White sandy beach, turquoise water; dunes; aurora borealis in autumn/winter.",
+              "item_type": "activity",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Balnakeil Craft Village",
+              "location": "Durness",
+              "details": "Local artists, galleries, ceramics, woodwork; cafe with ciabattas, soups, cakes.",
+              "item_type": "other",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "name": "Cocoa Mountain",
+              "location": "Balnakeil Craft Village",
+              "details": "Luxury chocolate company; dark/white/dairy-free; global customers.",
+              "item_type": "restaurant",
+              "day": null,
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Medium confidence: 27-stop recommendation list explicitly tied to NC500 road trip; first 15 stops extracted, remainder at source URL."
+    }
+  ]
+}

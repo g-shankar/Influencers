@@ -1,0 +1,2003 @@
+{
+ "batch": 14,
+ "extractions": [
+  {
+   "handle": "@karenendique",
+   "platform": "tiktok",
+   "itineraries": [],
+   "notes": "Itinerary destination and stops not visible in captured material; extraction left empty rather than invented. Worker noted purchase signals on profile."
+  },
+  {
+   "handle": "@outdoorswithlau",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Three-week Portugal van trip",
+     "destination": "Portugal",
+     "summary": "Three-week van trip across Portugal: southern Algarve, the west coast, and the Douro Valley; surf, skate, hiking, swimming, cafes/restaurants/markets, and campsites. No numeric budget stated in source.",
+     "country": "Portugal",
+     "days": 21,
+     "confidence": "medium",
+     "source_urls": [
+      "https://www.tiktok.com/@outdoorswithlau/video/7607885107382275350"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Southern Algarve",
+       "location": "Algarve, Portugal",
+       "details": "Start of three-week van route; surf and swimming",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "West coast",
+       "location": "Portugal west coast",
+       "details": "Van route leg; surf, skate, hiking",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Douro Valley",
+       "location": "Douro Valley, Portugal",
+       "details": "Van route leg; cafes, restaurants, markets, campsites",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Mononym identity; individual confirmed by solo first-person content. No numeric budget visible in source."
+  },
+  {
+   "handle": "@marianawengorovius",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Japan multi-city route",
+     "destination": "Japan",
+     "summary": "Night-by-night Japan route: Tokyo 5, Kamakura 3, Lake Yamanakako 2, Lake Kawaguchiko 2, Osaka 3, Nara 1, Kyoto 4. Caption describes it as a one-month trip but the listed nights total 20, so day count is left null.",
+     "country": "Japan",
+     "days": null,
+     "confidence": "medium",
+     "source_urls": [
+      "https://www.tiktok.com/@marianawengorovius/video/7620460271911390496"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Tokyo (5 nights)",
+       "location": "Tokyo, Japan",
+       "details": "Base for first leg of Japan route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Kamakura (3 nights)",
+       "location": "Kamakura, Japan",
+       "details": "Coastal temple town leg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Lake Yamanakako (2 nights)",
+       "location": "Yamanakako, Japan",
+       "details": "Fuji-area lake leg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Lake Kawaguchiko (2 nights)",
+       "location": "Kawaguchiko, Japan",
+       "details": "Fuji-area lake leg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Osaka (3 nights)",
+       "location": "Osaka, Japan",
+       "details": "Kansai city leg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Nara (1 night)",
+       "location": "Nara, Japan",
+       "details": "Temple/deer park stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Kyoto (4 nights)",
+       "location": "Kyoto, Japan",
+       "details": "Final leg of Japan route",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Caption says 'one month' but listed nights total 20; days set to null with explanation rather than forced."
+  },
+  {
+   "handle": "@ioviaggiosola45",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "China variable route",
+     "destination": "China",
+     "summary": "Flexible China itinerary with night counts per stop and alternatives: Beijing 3, Xi'an 1-3, Chengdu 2, Chongqing 2, Zhangjiajie 2, Fenghuang or Furong 1, Guilin 2, Yangshuo 2, then Hong Kong 2 or Shanghai 2-5.",
+     "country": "China",
+     "days": null,
+     "confidence": "medium",
+     "source_urls": [
+      "https://www.tiktok.com/@ioviaggiosola45/video/7622308775302630679"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Beijing (3 nights)",
+       "location": "Beijing, China",
+       "details": "Route start",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Xi'an (1-3 nights)",
+       "location": "Xi'an, China",
+       "details": "Variable-length stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Chengdu (2 nights)",
+       "location": "Chengdu, China",
+       "details": "Sichuan leg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Chongqing (2 nights)",
+       "location": "Chongqing, China",
+       "details": "Megacity leg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Zhangjiajie (2 nights)",
+       "location": "Zhangjiajie, China",
+       "details": "National park leg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Fenghuang or Furong (1 night)",
+       "location": "Hunan, China",
+       "details": "Alternative ancient-town stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Guilin (2 nights)",
+       "location": "Guilin, China",
+       "details": "Karst landscape leg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Yangshuo (2 nights)",
+       "location": "Yangshuo, China",
+       "details": "Karst/countryside leg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Hong Kong (2 nights) or Shanghai (2-5 nights)",
+       "location": "Hong Kong / Shanghai",
+       "details": "Alternative finale",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Route has variable/alternative stops; days left null rather than forced."
+  },
+  {
+   "handle": "@helloshayne_",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Five days in Da Nang and Hoi An",
+     "destination": "Da Nang / Hoi An, Vietnam",
+     "summary": "Five-day Da Nang/Hoi An itinerary covering beaches, ancient temples, the Marble Mountains, and Hoi An old town.",
+     "country": "Vietnam",
+     "days": 5,
+     "confidence": "medium",
+     "source_urls": [
+      "https://www.tiktok.com/@helloshayne_/video/7543960475990592769"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Da Nang beaches",
+       "location": "Da Nang, Vietnam",
+       "details": "Beach time on the Da Nang coast",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Ancient temples",
+       "location": "Da Nang / Hoi An, Vietnam",
+       "details": "Temple visits across the five-day route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Marble Mountains",
+       "location": "Da Nang, Vietnam",
+       "details": "Marble Mountains visit",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Hoi An",
+       "location": "Hoi An, Vietnam",
+       "details": "Hoi An old town exploration",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Mononym identity; individual confirmed by solo first-person content. Latest dated content 2025-08-29."
+  },
+  {
+   "handle": "@jvwanderer",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Da Nang/Hoi An five-day route (JV)",
+     "destination": "Da Nang / Hoi An, Vietnam",
+     "summary": "Five-day Da Nang/Hoi An itinerary. No named stops were visible in the captured source material, so no items are listed.",
+     "country": "Vietnam",
+     "days": 5,
+     "confidence": "low",
+     "source_urls": [
+      "https://www.tiktok.com/@jvwanderer/video/7613120581881318677"
+     ],
+     "items": []
+    }
+   ],
+   "notes": "Moniker identity; no named stops visible so itinerary carries no items rather than invented ones."
+  },
+  {
+   "handle": "@markodea8",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Chongqing guide",
+     "destination": "Chongqing, China",
+     "summary": "Chongqing stop-by-stop guide: Liziba Station (monorail through building), Chaotianmen Square Saturday drone show, Deyi World, Kuixinglou Building, Iseya Hotel, and WWII Bomb Shelter Hot Pot.",
+     "country": "China",
+     "days": null,
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@markodea8/video/7599983438338379029"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Liziba Station",
+       "location": "Chongqing, China",
+       "details": "Monorail passes through the building",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Chaotianmen Square drone show",
+       "location": "Chongqing, China",
+       "details": "Saturday drone show at Chaotianmen Square",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Deyi World",
+       "location": "Chongqing, China",
+       "details": "Shopping/landmark stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Kuixinglou Building",
+       "location": "Chongqing, China",
+       "details": "Landmark building stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "hotel",
+       "day": null,
+       "name": "Iseya Hotel",
+       "location": "Chongqing, China",
+       "details": "Hotel featured in the Chongqing guide; no price stated in source",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": null,
+       "name": "WWII Bomb Shelter Hot Pot",
+       "location": "Chongqing, China",
+       "details": "Hot pot restaurant in a former WWII bomb shelter",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "No generic price attached to Iseya Hotel; none stated in source."
+  },
+  {
+   "handle": "@himemet",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Chengdu Day 1",
+     "destination": "Chengdu, China",
+     "summary": "Family day one in Chengdu: fly KUL to Tianfu, check in at Hazens Hotel, dinner near Huancheng Mosque, Kuanzhai Alley, SKP Bamboo Forest, DiDi between stops, return via Jincheng Square (Metro Line 18 to Line 2 to Tianfu Square).",
+     "country": "China",
+     "days": 1,
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@himemet/video/7626729068020485384"
+     ],
+     "items": [
+      {
+       "item_type": "flight",
+       "day": 1,
+       "name": "KUL to Tianfu",
+       "location": "Chengdu Tianfu International Airport",
+       "details": "Arrival flight from Kuala Lumpur to Chengdu Tianfu",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "hotel",
+       "day": 1,
+       "name": "Hazens Hotel",
+       "location": "Chengdu, China",
+       "details": "Check-in hotel for the Chengdu stay",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": 1,
+       "name": "Dinner near Huancheng Mosque",
+       "location": "Chengdu, China",
+       "details": "Dinner near Huancheng Mosque",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Kuanzhai Alley",
+       "location": "Chengdu, China",
+       "details": "Historic alley precinct visit",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "SKP Bamboo Forest",
+       "location": "Chengdu, China",
+       "details": "Bamboo forest installation at SKP",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "transport",
+       "day": 1,
+       "name": "DiDi rides",
+       "location": "Chengdu, China",
+       "details": "Ride-hail legs between stops",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "transport",
+       "day": 1,
+       "name": "Metro: Jincheng Square Line 18 to Line 2 to Tianfu Square",
+       "location": "Chengdu, China",
+       "details": "Return metro routing via Jincheng Square",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Persona name; individual family creator confirmed by first-person content."
+  },
+  {
+   "handle": "@_travelcuriosity_",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Two-day Abruzzo route",
+     "destination": "Abruzzo, Italy",
+     "summary": "Two-day Abruzzo itinerary: Lago di Capo d'Acqua, Valle del Tirino, Capestrano and Castello Piccolomini, Gran Sasso Via Normale, Campo Imperatore, Rifugio Duca degli Abruzzi, plus restaurants (source states EUR price ranges).",
+     "country": "Italy",
+     "days": 2,
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@_travelcuriosity_/video/7648666157196610849"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Lago di Capo d'Acqua",
+       "location": "Abruzzo, Italy",
+       "details": "Lake stop on the Abruzzo route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Valle del Tirino",
+       "location": "Abruzzo, Italy",
+       "details": "Valley stop on the Abruzzo route",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Capestrano and Castello Piccolomini",
+       "location": "Capestrano, Abruzzo, Italy",
+       "details": "Village and castle visit",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Gran Sasso Via Normale",
+       "location": "Gran Sasso, Abruzzo, Italy",
+       "details": "Mountain route segment",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Campo Imperatore",
+       "location": "Abruzzo, Italy",
+       "details": "High plain stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": null,
+       "name": "Rifugio Duca degli Abruzzi",
+       "location": "Gran Sasso, Abruzzo, Italy",
+       "details": "Mountain refuge restaurant; source states EUR price ranges (figures not captured)",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Source states EUR price ranges at restaurants; exact figures not captured, so no price_hint values invented."
+  },
+  {
+   "handle": "@travelwithtolu",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Five days in Seoul",
+     "destination": "Seoul, South Korea",
+     "summary": "Five-day Seoul itinerary: Day 1 Gyeongbokgung, Bukchon Hanok Village, cafe hopping, Korean photo booths; Day 2 Namsangol Hanok Village, N Seoul Tower, Myeongdong shopping street and night food market; Day 3 Seongsu-dong, Starfield COEX Mall (Starfield Library), Gangnam; Day 4 Mangwon Market, Mapo-gu, Korean BBQ; Day 5 Sunnyne dog cafe, Hongdae walk, karaoke, Hongdae nightlife.",
+     "country": "South Korea",
+     "days": 5,
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@travelwithtolu/video/7638480524952079638"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Gyeongbokgung",
+       "location": "Seoul, South Korea",
+       "details": "Palace visit, day 1",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Bukchon Hanok Village",
+       "location": "Seoul, South Korea",
+       "details": "Hanok village walk, day 1",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Cafe hopping and Korean photo booths",
+       "location": "Seoul, South Korea",
+       "details": "Cafes and photo booths, day 1",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Namsangol Hanok Village",
+       "location": "Seoul, South Korea",
+       "details": "Hanok village, day 2",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "N Seoul Tower",
+       "location": "Seoul, South Korea",
+       "details": "Tower visit, day 2",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Myeongdong shopping street and night food market",
+       "location": "Myeongdong, Seoul",
+       "details": "Shopping and night food market, day 2",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 3,
+       "name": "Seongsu-dong",
+       "location": "Seongsu-dong, Seoul",
+       "details": "Neighborhood exploration, day 3",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 3,
+       "name": "Starfield COEX Mall (Starfield Library)",
+       "location": "Gangnam, Seoul",
+       "details": "Mall and library visit, day 3",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 3,
+       "name": "Gangnam",
+       "location": "Gangnam, Seoul",
+       "details": "Gangnam exploration, day 3",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 4,
+       "name": "Mangwon Market",
+       "location": "Mapo-gu, Seoul",
+       "details": "Traditional market, day 4",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": 4,
+       "name": "Korean BBQ",
+       "location": "Mapo-gu, Seoul",
+       "details": "Korean BBQ, day 4",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 5,
+       "name": "Sunnyne dog cafe",
+       "location": "Seoul, South Korea",
+       "details": "Dog cafe, day 5",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 5,
+       "name": "Hongdae walk, karaoke and nightlife",
+       "location": "Hongdae, Seoul",
+       "details": "Hongdae walk, karaoke experience, nightlife, day 5",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Mononym identity; full day-by-day captured verbatim from video caption on page open."
+  },
+  {
+   "handle": "@amymarietta",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Two days in Belgium: Brussels, Bruges, Ghent",
+     "destination": "Belgium",
+     "summary": "Two-day solo Belgium itinerary. Day 1 Brussels: The Dominican hotel, Royal Gallery of Saint Hubert, Mary chocolatier, La Belgique Gourmande (Cuberdons), Grand Place, Le Sablon vintage shops, MOK COFFEE, Kaffabar, Charli bakery, Tonton Garby, WOLF food hall. Day 2: train to Bruges (first class under $30) - Langestraat, The Old Curiosity Shop, Markt Square belfry, canal boats, Otto Waffle Atelier, vintage shops; then Ghent - Gravensteen castle, Frites Atelier, Graslei/Korenlei waterfronts.",
+     "country": "Belgium",
+     "days": 2,
+     "confidence": "high",
+     "source_urls": [
+      "https://amymarietta.com/ultimate-belgium-itinerary-best-things-to-do-in-brussels-bruges-ghent/",
+      "https://www.tiktok.com/@amymarietta/video/7605805860270443807"
+     ],
+     "items": [
+      {
+       "item_type": "hotel",
+       "day": 1,
+       "name": "The Dominican",
+       "location": "Brussels, Belgium",
+       "details": "Central, quiet base in Brussels (Agoda affiliate link on blog)",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Royal Gallery of Saint Hubert",
+       "location": "Brussels, Belgium",
+       "details": "19th-century glass-covered shopping arcade",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": 1,
+       "name": "Mary (chocolatier)",
+       "location": "Royal Gallery of Saint Hubert, Brussels",
+       "details": "Iconic chocolatier, founded 1919, Royal Warrant holder",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": 1,
+       "name": "La Belgique Gourmande",
+       "location": "Brussels, Belgium",
+       "details": "Cuberdons (cone-shaped Belgian candies)",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Grand Place",
+       "location": "Brussels, Belgium",
+       "details": "Ornate 14th-century guild-house square",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Le Sablon vintage shops",
+       "location": "Sablon, Brussels",
+       "details": "Vintage/design shops: Melting Pot Kilo, MAAZ, Les Petits Riens, Sablon Antiques Center, Lallas Vintage, Lorentz, Episode, KALAMITY",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": 1,
+       "name": "MOK COFFEE / Kaffabar / Charli / Tonton Garby / WOLF food hall",
+       "location": "Brussels, Belgium",
+       "details": "Coffee, bakery, sandwich shop and food hall picks",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "transport",
+       "day": 2,
+       "name": "Brussels Central to Brugge train",
+       "location": "Brussels to Bruges, Belgium",
+       "details": "First-class upgrade under $30; ~15 min walk from hotel to Brussels Central",
+       "price_hint": "under $30 (first class, source-stated)",
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Langestraat and The Old Curiosity Shop",
+       "location": "Bruges, Belgium",
+       "details": "Vintage street and curiosity shop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Markt Square belfry and canal boats",
+       "location": "Bruges, Belgium",
+       "details": "Belfry at Markt Square; canal boat watching",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": 2,
+       "name": "Otto Waffle Atelier",
+       "location": "Bruges, Belgium",
+       "details": "Belgian waffle stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Bruges vintage shops",
+       "location": "Bruges, Belgium",
+       "details": "Kringwinkel, Think Twice, TheLockerVintage, Cherry Picker Record Shop, Brocante Cafe, Sue Ryder BookShop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "transport",
+       "day": 2,
+       "name": "Bruges to Ghent train",
+       "location": "Bruges to Ghent, Belgium",
+       "details": "~30 minutes Bruges to Ghent",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Gravensteen",
+       "location": "Ghent, Belgium",
+       "details": "12th-century stone castle in the town center",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": 2,
+       "name": "Frites Atelier",
+       "location": "Ghent, Belgium",
+       "details": "Belgian fries stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Graslei and Korenlei waterfronts",
+       "location": "Ghent, Belgium",
+       "details": "Guild-house lined waterfronts, evening walk",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Blog carries affiliate booking links (Viator/GetYourGuide/Agoda). Train first-class upgrade 'under $30' stated in source."
+  },
+  {
+   "handle": "@mikoaroundtheworld",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Hong Kong day tour",
+     "destination": "Hong Kong",
+     "summary": "One-day Hong Kong tour: Peak Tram, Cheung Hing Kee Pan Fried Buns, Sneaker Street, Ladies Market, K11 Musea, TST Clock Tower, Victoria Harbour Cruise, Symphony of Lights, Avenue of Stars.",
+     "country": "China",
+     "days": 1,
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@mikoaroundtheworld/video/7541759222753660167"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Peak Tram",
+       "location": "Hong Kong",
+       "details": "Tram to Victoria Peak",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": 1,
+       "name": "Cheung Hing Kee Pan Fried Buns",
+       "location": "Hong Kong",
+       "details": "Pan-fried buns food stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Sneaker Street",
+       "location": "Mong Kok, Hong Kong",
+       "details": "Sneaker shopping street",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Ladies Market",
+       "location": "Mong Kok, Hong Kong",
+       "details": "Street market",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "K11 Musea",
+       "location": "Tsim Sha Tsui, Hong Kong",
+       "details": "Art-mall stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "TST Clock Tower",
+       "location": "Tsim Sha Tsui, Hong Kong",
+       "details": "Heritage clock tower",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Victoria Harbour Cruise and Symphony of Lights",
+       "location": "Victoria Harbour, Hong Kong",
+       "details": "Harbour cruise with Symphony of Lights show",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Avenue of Stars",
+       "location": "Tsim Sha Tsui, Hong Kong",
+       "details": "Waterfront promenade",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Mononym identity; some 'we' wording in content noted but profile presents a solo creator. Latest dated content 2025-08-23."
+  },
+  {
+   "handle": "@wander_j",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Seoul first-timer itinerary",
+     "destination": "Seoul, South Korea",
+     "summary": "Seoul first-timer itinerary. No named stops were visible in the captured source material, so no items are listed.",
+     "country": "South Korea",
+     "days": null,
+     "confidence": "low",
+     "source_urls": [
+      "https://www.tiktok.com/@wander_j/video/7592914241741458695"
+     ],
+     "items": []
+    }
+   ],
+   "notes": "Moniker identity; no named stops visible so itinerary carries no items rather than invented ones."
+  },
+  {
+   "handle": "@jens.in.amsterdam",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Four days in Edinburgh",
+     "destination": "Edinburgh, Scotland",
+     "summary": "Four-day Edinburgh itinerary. No named stops were visible in the captured source material, so no items are listed.",
+     "country": "United Kingdom",
+     "days": 4,
+     "confidence": "low",
+     "source_urls": [
+      "https://www.tiktok.com/@jens.in.amsterdam/video/7574519878204362017"
+     ],
+     "items": []
+    }
+   ],
+   "notes": "Mononym identity; no named stops visible so itinerary carries no items rather than invented ones. Latest dated content 2025-11-19."
+  },
+  {
+   "handle": "@amys.camera.lens",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Three days in Rotorua",
+     "destination": "Rotorua, New Zealand",
+     "summary": "Three-day Rotorua itinerary: Millennium Hotel, Polynesian Spa, Lake Rotorua, Blue Spring, Kuirau Park, Hamurana Springs, ZORB, Skyline Rotorua, Redwoods/Treewalk, Wai-O-Tapu, Waimangu, Te Puia, Hell's Gate.",
+     "country": "New Zealand",
+     "days": 3,
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@amys.camera.lens/video/7628166285691555092"
+     ],
+     "items": [
+      {
+       "item_type": "hotel",
+       "day": null,
+       "name": "Millennium Hotel",
+       "location": "Rotorua, New Zealand",
+       "details": "Base hotel for the Rotorua stay",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Polynesian Spa",
+       "location": "Rotorua, New Zealand",
+       "details": "Geothermal spa",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Lake Rotorua",
+       "location": "Rotorua, New Zealand",
+       "details": "Lake visit",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Blue Spring",
+       "location": "Waikato, New Zealand",
+       "details": "Spring excursion from Rotorua",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Kuirau Park",
+       "location": "Rotorua, New Zealand",
+       "details": "Geothermal park",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Hamurana Springs",
+       "location": "Rotorua, New Zealand",
+       "details": "Springs reserve",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "ZORB",
+       "location": "Rotorua, New Zealand",
+       "details": "Zorb ride activity",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Skyline Rotorua",
+       "location": "Rotorua, New Zealand",
+       "details": "Gondola/luge complex",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Redwoods / Treewalk",
+       "location": "Rotorua, New Zealand",
+       "details": "Redwood forest and treewalk",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Wai-O-Tapu",
+       "location": "Rotorua, New Zealand",
+       "details": "Geothermal wonderland",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Waimangu",
+       "location": "Rotorua, New Zealand",
+       "details": "Volcanic valley",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Te Puia",
+       "location": "Rotorua, New Zealand",
+       "details": "Geothermal and Maori cultural park",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Hell's Gate",
+       "location": "Rotorua, New Zealand",
+       "details": "Geothermal reserve and spa",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Mononym identity; individual confirmed by first-person content."
+  },
+  {
+   "handle": "@shelbyreickstravels",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Eight days in Egypt",
+     "destination": "Egypt",
+     "summary": "Eight-day Egypt itinerary. No named stops were visible in the captured source material, so no items are listed.",
+     "country": "Egypt",
+     "days": 8,
+     "confidence": "low",
+     "source_urls": [
+      "https://www.tiktok.com/@shelbyreickstravels/video/7574488768208571679"
+     ],
+     "items": []
+    }
+   ],
+   "notes": "Mononym identity; sells travel guides via Linktree (individual, not an agency). No visible stops so itinerary carries no items."
+  },
+  {
+   "handle": "@theufuoma",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Five days in Belize",
+     "destination": "Belize",
+     "summary": "Five-day Belize guide: Toronto to Belize City to Dangriga/Hopkins, stay at the Lodge at Jaguar Reef, named restaurants, Garifuna activities, Che'il Maya Chocolate, San Pedro/Alaia Belize, Great Blue Hole, spa and sip-and-paint, departure flights.",
+     "country": "Belize",
+     "days": 5,
+     "confidence": "high",
+     "source_urls": [
+      "https://theufuoma.com/a-travel-guide-to-belize-things-to-see-do-experience/"
+     ],
+     "items": [
+      {
+       "item_type": "flight",
+       "day": null,
+       "name": "Toronto to Belize City",
+       "location": "Belize City, Belize",
+       "details": "Inbound flight routing via Belize City",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "transport",
+       "day": null,
+       "name": "Belize City to Dangriga/Hopkins",
+       "location": "Dangriga / Hopkins, Belize",
+       "details": "Transfer to the Hopkins/Dangriga coast",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "hotel",
+       "day": null,
+       "name": "Lodge at Jaguar Reef",
+       "location": "Hopkins, Belize",
+       "details": "Base lodge stay",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Garifuna activities",
+       "location": "Hopkins, Belize",
+       "details": "Garifuna cultural activities",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Che'il Maya Chocolate",
+       "location": "Belize",
+       "details": "Maya chocolate experience",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "San Pedro / Alaia Belize",
+       "location": "San Pedro, Ambergris Caye, Belize",
+       "details": "San Pedro stop with Alaia Belize",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Great Blue Hole",
+       "location": "Belize Barrier Reef, Belize",
+       "details": "Great Blue Hole excursion",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Spa and sip-and-paint",
+       "location": "Belize",
+       "details": "Spa and sip-and-paint experiences",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "flight",
+       "day": null,
+       "name": "Departure flights",
+       "location": "Belize",
+       "details": "Outbound flight routing",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Richest original source. Latest dated content 2025-02-14."
+  },
+  {
+   "handle": "@bontraveler",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Northern California coast road trip (4 days / 3 nights)",
+     "destination": "Northern California coast, USA",
+     "summary": "Four-day, three-night road trip on Northern California's coast. Point Reyes Station/Marin County: Nick's Cove, Bovine Bakery, Cowgirl Creamery, Side Street Kitchen, Point Reyes National Seashore, lighthouse, Cypress Tree Tunnel, elephant seals, Elk Reserve, Chimney Rock, Tomales Farmer's Market, Heidrun Meadery. Timber Cove/Sonoma: Timber Cove Resort, Coastal Kitchen, Cafe Aquatica, Spud Point Crab Company, North Salmon Creek Beach, Arched Rock Beach, Jenner kayaking, Fort Ross Vineyard, Salt Point State Park. Elk/Mendocino: Harbor House Inn, Elk Store, Sea Ranch, Pebble Beach, Sea Ranch Chapel, Gualala Point, Greenwood State Beach, Mendocino, Catch-A-Canoe.",
+     "country": "United States",
+     "days": 4,
+     "confidence": "high",
+     "source_urls": [
+      "https://www.bontraveler.com/a-three-night-road-trip-on-northern-californias-coast/"
+     ],
+     "items": [
+      {
+       "item_type": "restaurant",
+       "day": null,
+       "name": "Nick's Cove",
+       "location": "Point Reyes Station, CA",
+       "details": "Waterfront restaurant stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": null,
+       "name": "Bovine Bakery",
+       "location": "Point Reyes Station, CA",
+       "details": "Bakery stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": null,
+       "name": "Cowgirl Creamery",
+       "location": "Point Reyes Station, CA",
+       "details": "Cheese shop/creamery",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": null,
+       "name": "Side Street Kitchen",
+       "location": "Point Reyes Station, CA",
+       "details": "Restaurant stop",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Point Reyes National Seashore",
+       "location": "Marin County, CA",
+       "details": "National seashore: lighthouse, Cypress Tree Tunnel, elephant seals, Elk Reserve, Chimney Rock",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Tomales Farmer's Market and Heidrun Meadery",
+       "location": "Tomales, CA",
+       "details": "Farmers market and meadery",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "hotel",
+       "day": null,
+       "name": "Timber Cove Resort",
+       "location": "Timber Cove, Sonoma County, CA",
+       "details": "Overnight resort with Coastal Kitchen restaurant",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": null,
+       "name": "Cafe Aquatica and Spud Point Crab Company",
+       "location": "Sonoma County, CA",
+       "details": "Cafe and crab shack stops",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "North Salmon Creek Beach and Arched Rock Beach",
+       "location": "Sonoma County, CA",
+       "details": "Beach stops",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Jenner kayaking",
+       "location": "Jenner, CA",
+       "details": "Kayaking excursion",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Fort Ross Vineyard and Salt Point State Park",
+       "location": "Sonoma County, CA",
+       "details": "Vineyard and state park stops",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "hotel",
+       "day": null,
+       "name": "Harbor House Inn",
+       "location": "Elk, Mendocino County, CA",
+       "details": "Overnight inn",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Elk Store, Sea Ranch, Pebble Beach, Sea Ranch Chapel, Gualala Point, Greenwood State Beach, Mendocino",
+       "location": "Mendocino County, CA",
+       "details": "Mendocino coast stops including Catch-A-Canoe outfitter",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Guide page does not visibly show an exact publication/update date (search suggests ~2025-10); activity marked unknown. Affiliate booking links present."
+  },
+  {
+   "handle": "@dnvrchoi",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Five days in Taipei",
+     "destination": "Taipei, Taiwan",
+     "summary": "Five-day Taipei itinerary. Day 1: Liberty Square Arch, National Concert Hall, National Theater, Chiang Kai-Shek Memorial Hall, Ximen Walking Street, Red House, Rainbow Street. Day 2: Yehliu Geopark, Jiufen Old Street, Shifen Waterfalls/Old Street, Yin Yang Sea, Golden Waterfalls, Old Jiufen Mine. Day 3: Maokong Gondola, Taipei Zoo, Taipei 101, Elephant Mountain. Day 4: Zhongshe Flower Market, Chun Shui Tang original store, Miyahara, Gaomei Wetlands. Day 5: Wulai Old Street, Wulai Waterfall, Yun Hsien Resort, cable car, Wulai Three Cafe; optional National Palace Museum/Shilin Night Market.",
+     "country": "Taiwan",
+     "days": 5,
+     "confidence": "medium",
+     "source_urls": [
+      "https://www.tiktok.com/@dnvrchoi/photo/7613765932393008405"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Liberty Square Arch, National Concert Hall, National Theater, Chiang Kai-Shek Memorial Hall",
+       "location": "Taipei, Taiwan",
+       "details": "Memorial hall and square complex, day 1",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Ximen Walking Street, Red House, Rainbow Street",
+       "location": "Ximending, Taipei",
+       "details": "Shopping/walking street area, day 1",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Yehliu Geopark",
+       "location": "New Taipei, Taiwan",
+       "details": "Coastal geopark, day 2",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Jiufen Old Street",
+       "location": "Jiufen, Taiwan",
+       "details": "Old street, day 2",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Shifen Waterfalls and Shifen Old Street",
+       "location": "Pingxi, Taiwan",
+       "details": "Waterfalls and old street, day 2",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 2,
+       "name": "Yin Yang Sea, Golden Waterfalls, Old Jiufen Mine",
+       "location": "Jiufen, Taiwan",
+       "details": "Coastal and mining sights, day 2",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 3,
+       "name": "Maokong Gondola and Taipei Zoo",
+       "location": "Taipei, Taiwan",
+       "details": "Gondola and zoo, day 3",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 3,
+       "name": "Taipei 101 and Elephant Mountain",
+       "location": "Taipei, Taiwan",
+       "details": "Tower and hiking viewpoint, day 3",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 4,
+       "name": "Zhongshe Flower Market",
+       "location": "Taichung, Taiwan",
+       "details": "Flower market, day 4",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "restaurant",
+       "day": 4,
+       "name": "Chun Shui Tang (original store)",
+       "location": "Taichung, Taiwan",
+       "details": "Original bubble-tea shop, day 4",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 4,
+       "name": "Miyahara",
+       "location": "Taichung, Taiwan",
+       "details": "Heritage dessert/retail building, day 4",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 4,
+       "name": "Gaomei Wetlands",
+       "location": "Taichung, Taiwan",
+       "details": "Wetlands sunset spot, day 4",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 5,
+       "name": "Wulai Old Street, Wulai Waterfall, Yun Hsien Resort, cable car, Wulai Three Cafe",
+       "location": "Wulai, Taiwan",
+       "details": "Hot-spring town day trip, day 5; optional National Palace Museum/Shilin Night Market",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Opened photo page rendered minimal caption text; day-by-day captured from search documentation. Exact post date not established; activity unknown. Klook/Agoda/GetYourGuide/Airalo codes in bio."
+  },
+  {
+   "handle": "@_jessiecarr",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "New Zealand North Island campervan itinerary",
+     "destination": "New Zealand North Island",
+     "summary": "Paid ($29) day-by-day North Island campervan itinerary covering route, driving times, campervan stops, food, activities and culture. Specific stops sit behind the paid PDF and are not extracted.",
+     "country": "New Zealand",
+     "days": null,
+     "confidence": "medium",
+     "source_urls": [
+      "https://travellikejessie.com.au",
+      "https://www.tiktok.com/@_jessiecarr/photo/7625999250861837586"
+     ],
+     "items": []
+    },
+    {
+     "title": "Samoa itinerary",
+     "destination": "Samoa",
+     "summary": "Paid ($29) Samoa itinerary covering exact route, where-to-stay/location tips, food, activities and culture. Specific stops sit behind the paid PDF and are not extracted.",
+     "country": "Samoa",
+     "days": null,
+     "confidence": "medium",
+     "source_urls": [
+      "https://travellikejessie.com.au",
+      "https://www.tiktok.com/@_jessiecarr/photo/7625999250861837586"
+     ],
+     "items": []
+    },
+    {
+     "title": "Phu Quoc itinerary",
+     "destination": "Phu Quoc, Vietnam",
+     "summary": "Paid ($29) Phu Quoc day-by-day itinerary covering beach days, theme parks, food, night markets and accommodation areas. Specific stops sit behind the paid PDF and are not extracted.",
+     "country": "Vietnam",
+     "days": null,
+     "confidence": "medium",
+     "source_urls": [
+      "https://travellikejessie.com.au",
+      "https://www.tiktok.com/@_jessiecarr/photo/7625999250861837586"
+     ],
+     "items": []
+    }
+   ],
+   "notes": "Name corroborated by site copy and profile email (not derived from email alone). Paid PDF stops not extracted (paywalled)."
+  },
+  {
+   "handle": "@sivanstravels",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "One week in Colombia",
+     "destination": "Colombia",
+     "summary": "One-week Colombia route: Cartagena 3 days; Santa Marta/Tayrona/Minca 2 days (Tayrona National Park hike, Minca day trip); Medellin 2 days.",
+     "country": "Colombia",
+     "days": 7,
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@sivanstravels/video/7588281592616094989"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Cartagena (3 days)",
+       "location": "Cartagena, Colombia",
+       "details": "First leg of Colombia week",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Santa Marta / Tayrona National Park hike",
+       "location": "Santa Marta, Colombia",
+       "details": "Tayrona National Park hike, second leg",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Minca day trip",
+       "location": "Minca, Colombia",
+       "details": "Day trip from the Santa Marta base",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": null,
+       "name": "Medellin (2 days)",
+       "location": "Medellin, Colombia",
+       "details": "Final leg of Colombia week",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Mononym identity; no full legal name established and none claimed. Exact post date not established; activity unknown."
+  },
+  {
+   "handle": "@divyadiscovers",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Pikes Peak visitor guide",
+     "destination": "Pikes Peak, Colorado, USA",
+     "summary": "Structured Pikes Peak guide. Tickets/permits: timed entry permit $2 per vehicle (2-hour arrival window), admission $15 per adult / $5 per child / $50 max per vehicle, cog railway from Manitou Springs from ~$58+ per adult round-trip (book ahead in summer). Driving: 19-mile highway with switchbacks, mandatory brake check halfway, allow 2-3 hours up and down. Summit: 14,115 ft, Summit Visitor Center (exhibits, restrooms, cafe, gift shop), famous altitude donuts, panoramic views. Good to know: dogs allowed, best summer through early fall, check road/train status before going.",
+     "country": "United States",
+     "days": 1,
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@divyadiscovers/video/7556626430650617118"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Timed entry permit",
+       "location": "Pikes Peak, Colorado",
+       "details": "$2 per vehicle; reserves 2-hour arrival window at the gate",
+       "price_hint": "$2 per vehicle (source-stated)",
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Pikes Peak Highway drive",
+       "location": "Pikes Peak, Colorado",
+       "details": "19-mile highway with switchbacks; mandatory brake check halfway; 2-3 hours up and down; admission $15/adult, $5/child, $50 max/vehicle",
+       "price_hint": "$15/adult, $5/child, $50 max/vehicle (source-stated)",
+       "booking_link": null
+      },
+      {
+       "item_type": "transport",
+       "day": 1,
+       "name": "Cog railway from Manitou Springs",
+       "location": "Manitou Springs, Colorado",
+       "details": "Alternative to driving; round-trip tickets; book ahead in peak summer",
+       "price_hint": "from ~$58+ per adult round-trip (source-stated)",
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Summit Visitor Center and donuts",
+       "location": "Pikes Peak summit (14,115 ft), Colorado",
+       "details": "Visitor center with exhibits, restrooms, cafe, gift shop; famous altitude-recipe donuts; panoramic views",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Mononym identity. KAYAK partnership noted on profile. Exact post date not established; activity unknown. Prices are source-stated."
+  },
+  {
+   "handle": "@heyoleahpinay",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Siargao day trip",
+     "destination": "Siargao, Philippines",
+     "summary": "Day trip in Siargao: palengke (market) stop then on to the island. Thin but structured day-plan format.",
+     "country": "Philippines",
+     "days": 1,
+     "confidence": "low",
+     "source_urls": [
+      "https://www.tiktok.com/@heyoleahpinay/video/7634813667724315926"
+     ],
+     "items": [
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Palengke (market) stop",
+       "location": "Siargao, Philippines",
+       "details": "Local market stop on the Siargao day trip",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "item_type": "activity",
+       "day": 1,
+       "name": "Siargao island",
+       "location": "Siargao, Philippines",
+       "details": "Island day trip",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Thinnest inclusion: structured day-trip format but single video; no separate dated itinerary guide. Kept as genuine but flagged."
+  },
+  {
+   "handle": "@aprylwanders",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Windsor in 48 Hours",
+     "destination": "Windsor, England",
+     "country": "United Kingdom",
+     "days": 2,
+     "summary": "Apryl's TikTok guide (created 2025-05-09) 'Windsor in 48 Hours': a 10-item enumerated itinerary skipping the basics \u2014 castles, riverside strolls, Eton College, boat tour, and Great Park carriage ride. A structured weekend guide.",
+     "source_urls": [
+      "https://www.tiktok.com/@aprylwanders/video/7502510378634262"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Windsor Castle",
+       "location": "Windsor",
+       "details": "Source advises going early to skip the queue",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Changing of the Guard",
+       "location": "Windsor Castle",
+       "details": "Held every Tuesday, Thursday and Saturday",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "The Long Walk",
+       "location": "Windsor Great Park",
+       "details": "",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Private boat tour on the Thames",
+       "location": "Windsor",
+       "details": "Golden-hour river cruise",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Eton College",
+       "location": "Eton",
+       "details": "Historic school grounds walk-through",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "restaurant",
+       "name": "Lunch at Gilbey's",
+       "location": "Windsor",
+       "details": "Local-loved restaurant",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "hotel",
+       "name": "The Castle Hotel",
+       "location": "Windsor",
+       "details": "Recommended stay; dinner at Leaf restaurant for the 'full royal experience'",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Riverside walk at Windsor Bridge",
+       "location": "Windsor",
+       "details": "Golden-hour views",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Valley Gardens",
+       "location": "Near Windsor",
+       "details": "Calm floral gardens close to town",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Carriage ride in Windsor Great Park",
+       "location": "Windsor Great Park",
+       "details": "",
+       "booking_link": null,
+       "price_hint": ""
+      }
+     ]
+    }
+   ],
+   "notes": "Video page opened and verified 2026-09-17 (create_time 2025-05-09). Also publishes 'honest travel swaps' England guides (e.g. Stonehenge\u2192Avebury) \u2014 search-documented, not extracted as a separate itinerary here."
+  },
+  {
+   "handle": "@charlieonhistravels",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "48 Hours in Vancouver \u2014 first-timer itinerary",
+     "destination": "Vancouver",
+     "country": "Canada",
+     "days": 2,
+     "summary": "Day-by-day 48-hour first-timer itinerary for Vancouver (published 2026-04-05 per TikTok create_time). Day 1 covers downtown sights, Gastown and Coal Harbour with a golden-hour ferry to Lonsdale Quay; Day 2 covers Granville Island, the seawall, Stanley Park and Yaletown.",
+     "source_urls": [
+      "https://www.tiktok.com/@charlieonhistravels/video/7625324292930129174"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Canada Place free walking tour",
+       "location": "Vancouver, BC",
+       "details": "Start Day 1 at Canada Place with a free walking tour to get bearings",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Gastown",
+       "location": "Vancouver, BC",
+       "details": "Cobbled streets, steam clock photos, historic vibes, lunch stop",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Robson Street",
+       "location": "Vancouver, BC",
+       "details": "Shopping stroll",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Coal Harbour waterfront",
+       "location": "Vancouver, BC",
+       "details": "Waterfront walk with mountain-meets-city views",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": 1,
+       "item_type": "transport",
+       "name": "Ferry to Lonsdale Quay",
+       "location": "Vancouver, BC",
+       "details": "Golden-hour ferry across the harbour for skyline views back across the water",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Plaza of Nations",
+       "location": "Vancouver, BC",
+       "details": "Day 2 starting point",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": 2,
+       "item_type": "transport",
+       "name": "Aquabus to Granville Island",
+       "location": "Vancouver, BC",
+       "details": "Aquabus hop from Plaza of Nations",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Granville Island food market",
+       "location": "Vancouver, BC",
+       "details": "Food market; eat your way around and grab coffee",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Vancouver Seawall",
+       "location": "Vancouver, BC",
+       "details": "Cruise along the famous seawall",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Stanley Park",
+       "location": "Vancouver, BC",
+       "details": "Bike or walk the loop past Prospect Point and the Totem Poles",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": 2,
+       "item_type": "restaurant",
+       "name": "Yaletown dinner spot",
+       "location": "Yaletown, Vancouver, BC",
+       "details": "Vibey dinner spot to round off the trip; no venue named",
+       "booking_link": null,
+       "price_hint": ""
+      }
+     ]
+    },
+    {
+     "title": "Northumberland 250 \u2014 underrated UK road trip (NC500 alternative)",
+     "destination": "Northumberland",
+     "country": "United Kingdom",
+     "days": null,
+     "summary": "Structured ~250-mile road-trip route guide through Northumberland, England, pitched as a quieter alternative to Scotland's NC500 (published 2026-03-03 per TikTok create_time). Named stops include Bamburgh Castle, Holy Island, Dunstanburgh Castle, Alnwick Castle, Kielder Observatory and peaceful market towns.",
+     "source_urls": [
+      "https://www.tiktok.com/@charlieonhistravels/video/7613079975113035030"
+     ],
+     "confidence": "medium",
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Bamburgh Castle beach",
+       "location": "Bamburgh, Northumberland",
+       "details": "Sunrise over the dunes at Bamburgh Castle",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Holy Island (Lindisfarne)",
+       "location": "Northumberland",
+       "details": "Wild walks along the windswept beaches of Holy Island",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Dunstanburgh Castle",
+       "location": "Northumberland",
+       "details": "Golden-hour views from Dunstanburgh Castle",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Alnwick Castle",
+       "location": "Alnwick, Northumberland",
+       "details": "Medieval streets and mighty fortress of Alnwick Castle",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Kielder Observatory",
+       "location": "Kielder, Northumberland",
+       "details": "Vast dark skies stargazing",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Northumberland market towns",
+       "location": "Northumberland",
+       "details": "Peaceful market towns along the loop; none named",
+       "booking_link": null,
+       "price_hint": ""
+      }
+     ]
+    }
+   ],
+   "notes": "Two video-caption itineraries extracted from TikTok page text; route lengths/counts and stop lists are the creator's own stated figures."
+  }
+ ]
+}

@@ -1,0 +1,1483 @@
+{
+ "batch": 12,
+ "extractions": [
+  {
+   "handle": "@meghanorourkee",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2024-11-18.",
+   "itineraries": [
+    {
+     "title": "10 Day Finland Itinerary",
+     "destination": "Finland (Ivalo, Levi, Muonio, Ruka)",
+     "country": "Finland",
+     "days": 10,
+     "summary": "Meghan's 10-day winter Finland itinerary: Ivalo Days 1-2 (glass igloos, reindeer farm, northern lights), Levi Days 2-5 (skiing, spa), Muonio Days 5-7 (reindeer rides, dog sledding, S\u00e4rkitunturi hike), Ruka Days 7-10 (night skiing, Oulanka National Park).",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@meghanorourkee/video/7438522433746881835"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "Ivalo - Wilderness Hotels Lapland glass igloos",
+       "location": "Ivalo, Finland",
+       "item_type": "hotel",
+       "details": "Fly into Ivalo, pick up rental car. 2 nights in glass igloo cabins at Wilderness Hotels Lapland. Tours: Sami reindeer farm visit, northern lights hunting.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "Levi - skiing and spa",
+       "location": "Levi, Finland",
+       "item_type": "activity",
+       "details": "Drive to Levi. Stay at Levin Iglut and Northern Lights Ranch. Activities: skiing/snowboarding, spa day at Levi Foxfires.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "name": "Muonio - Torassieppi Eco Reindeer Resort",
+       "location": "Muonio, Finland",
+       "item_type": "hotel",
+       "details": "Drive to Muonio. Stay at Torassieppi Eco Reindeer Resort. Tours: reindeer rides, dog sledding, northern lights hunting. Self-guided hike up S\u00e4rkitunturi at sunset.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 7,
+       "name": "Ruka - night skiing and Oulanka National Park",
+       "location": "Ruka, Finland",
+       "item_type": "activity",
+       "details": "Drive to Ruka. Stay in hotel or Airbnb in town. Activities: night skiing at the ski resort, visit Oulanka National Park. Allow time to drive back to Ivalo for flight out.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@darrenshavae",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2025-07-05.",
+   "itineraries": [
+    {
+     "title": "7-Day Costa Rica Itinerary",
+     "destination": "Costa Rica (San Jos\u00e9, La Fortuna, Isla Tortuga, Uvita)",
+     "country": "Costa Rica",
+     "days": 7,
+     "summary": "Darren's 7-day Costa Rica route: San Jos\u00e9 1 night, La Fortuna 3 days (volcano, hot springs, waterfalls), Isla Tortuga beach day trip, Uvita 2 days (waterfalls, Whale's Tail, ocean views). Rented a car and drove the whole way.",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@darrenshavae/video/7523587289868455181"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "San Jos\u00e9",
+       "location": "San Jos\u00e9, Costa Rica",
+       "item_type": "other",
+       "details": "1 night in San Jos\u00e9 at the start of the 7-day itinerary.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "La Fortuna - volcano, hot springs, waterfalls",
+       "location": "La Fortuna, Costa Rica",
+       "item_type": "activity",
+       "details": "3 days in La Fortuna: volcano, hot springs, waterfalls.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "name": "Isla Tortuga - beach day trip",
+       "location": "Isla Tortuga, Costa Rica",
+       "item_type": "activity",
+       "details": "Beach day trip to Isla Tortuga.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "name": "Uvita - waterfalls, Whale's Tail, ocean views",
+       "location": "Uvita, Costa Rica",
+       "item_type": "activity",
+       "details": "2 days in Uvita: waterfalls, Whale's Tail, ocean views.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@tzatchickie",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2026-02-25.",
+   "itineraries": [
+    {
+     "title": "15-Day Ionian Islands Itinerary (Corfu, Paxos, Lefkada)",
+     "destination": "Ionian Islands, Greece (Corfu, Paxos, Lefkada)",
+     "country": "Greece",
+     "days": 15,
+     "summary": "Sophie's 15-day Ionian route: Corfu 7 days (Corfu Town, boat trips, Porto Timoni, southern beaches, Pantokrator), Paxos 3 days (Day 1 arrival, Day 2 boat circle, Day 3 scooter explore), Lefkada 5 days (west coast beaches, Karya village, sunsets, boat tours).",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@tzatchickie/video/7610847293901688097"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "Corfu - Corfu Town and island highlights",
+       "location": "Corfu, Greece",
+       "item_type": "activity",
+       "details": "7 days on Corfu. Corfu Town alleys and Venetian vibe. Boat rental in Liapades or Paleokastritsa for turquoise bays. Hike to Porto Timoni via Afionas. Southern beaches: Halikouna, Marathias, Notos, Petriti. Erimitis nature reserve, Kassiopi, Akoli. Pantokrator summit, Old Perithia lunch. Aqualand, Moonlight Cinema beach cinema. Dinners at Ambelonas, Etrusco, village taverns.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 8,
+       "name": "Paxos - Day 1 arrival",
+       "location": "Paxos, Greece",
+       "item_type": "other",
+       "details": "Ferry from Corfu Town to Paxos (or bus to Lefkimmi then ferry). Day 1: arrival and slow exploring, chill at an organised beach.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 9,
+       "name": "Paxos - Day 2 boat circle",
+       "location": "Paxos, Greece",
+       "item_type": "activity",
+       "details": "Day 2: rent a boat, circle the island, hidden caves and bays, Voutoumi beach. Dock in Lakka, Loggos, or Gaios for lunch.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 10,
+       "name": "Paxos - Day 3 scooter explore",
+       "location": "Paxos, Greece",
+       "item_type": "activity",
+       "details": "Day 3: explore by scooter or car. Colourful churches, olive groves, beaches. Walk down to Erimitis beach.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 11,
+       "name": "Lefkada - west coast beaches",
+       "location": "Lefkada, Greece",
+       "item_type": "activity",
+       "details": "5 days on Lefkada. Ferry from Paxos (3x weekly, Lefkada Palace). West coast beaches: Kathisma, Milos (hike from Agios Nikitas or boat taxi), Egremni, Porto Katsiki. Boat tours from Vasiliki. Karya village lunch under plane trees. Sunset spots: Rachi, Amente, Utopia. Paragliding. Boat tour around surrounding islands. Lefkada Town evening stroll. Avali beach.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@minywander",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2026-05-06.",
+   "itineraries": [
+    {
+     "title": "7-Day Switzerland Itinerary",
+     "destination": "Switzerland (Lucerne, Grindelwald, Montreux)",
+     "country": "Switzerland",
+     "days": 7,
+     "summary": "Min's 7-day Switzerland itinerary (detailed on minywander.com blog, linked from TikTok): Lucerne 1 night (Day 1 arrival via Zurich, Old Town), Grindelwald 3 nights (Jungfrau region: Lauterbrunnen, Murren, Gimmelwald, Brienz), Montreux 2 nights (Gruyeres, GoldenPass Belle Epoque Train). Scenic trains, gondolas, easy hikes.",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@minywander/video/7636776828895497503"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "Lucerne - Old Town",
+       "location": "Lucerne, Switzerland",
+       "item_type": "other",
+       "details": "Arrive Zurich, train to Lucerne (1 hour). 1 night in Lucerne. Explore Old Town (Altstadt): Weinmarkt Square, Chapel Bridge, lakeside charm. Day trip option: Mount Pilatus.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Grindelwald - Jungfrau region base",
+       "location": "Grindelwald, Switzerland",
+       "item_type": "hotel",
+       "details": "3 nights in Grindelwald. Luzern-Interlaken Express scenic train. Explore: Lauterbrunnen, Winteregg, Murren, Gimmelwald. Grindelwald-First, Lake Bachalpsee. Brienz Rothorn Railway, Brienz Lake cruise, Interlaken.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "name": "Montreux - Gruyeres and GoldenPass",
+       "location": "Montreux, Switzerland",
+       "item_type": "other",
+       "details": "2 nights in Montreux. Visit Gruyeres (fondue). GoldenPass Belle Epoque Train scenic ride.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@dwanders",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2025-06-08.",
+   "itineraries": [
+    {
+     "title": "2-Week Sicily Itinerary",
+     "destination": "Sicily, Italy (Trapani, Castellammare, Scala dei Turchi, Ragusa, Taormina, Cefal\u00f9, Palermo)",
+     "country": "Italy",
+     "days": 14,
+     "summary": "dwanderess's 2-week Sicily summer itinerary with smart bases: Trapani 3 days (Erice, Favignana, Levanzo), Castellammare del Golfo 2 days (Grotta delle Colombe, Tonnara di Scopello), Scala dei Turchi + Punta Bianca 1-2 days, Ragusa 2 days (Noto, Marzamemi), Taormina 2 days (Isola Bella), Cefal\u00f9 2 days (La Rocca), Palermo 1 day (Casa Professa).",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@dwanders/video/7513684450497006904"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "Trapani - old town, Erice, Favignana, Levanzo",
+       "location": "Trapani, Sicily, Italy",
+       "item_type": "other",
+       "details": "3 days in Trapani. Wander old town, drive to medieval village of Erice (20 mins). Day trips by ferry to Favignana and Levanzo islands.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "name": "Castellammare del Golfo - Grotta delle Colombe, Scopello",
+       "location": "Castellammare del Golfo, Sicily, Italy",
+       "item_type": "activity",
+       "details": "2 days. Visit Grotta delle Colombe and the epic stairs (half-day). Tonnara di Scopello (book tickets in advance). Dinner in Scopello town.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "name": "Scala dei Turchi + Punta Bianca",
+       "location": "Agrigento, Sicily, Italy",
+       "item_type": "activity",
+       "details": "1-2 days. Scala dei Turchi and Punta Bianca (about 2 hrs drive). Fit both in one long day or stretch to two.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 8,
+       "name": "Ragusa - baroque, Noto, Marzamemi",
+       "location": "Ragusa, Sicily, Italy",
+       "item_type": "other",
+       "details": "2 days in Ragusa. Baroque architecture. Day trip to Noto and Marzamemi for architecture and coastal sunset.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 10,
+       "name": "Taormina - cobbled streets, Isola Bella",
+       "location": "Taormina, Sicily, Italy",
+       "item_type": "other",
+       "details": "2 days in Taormina. Cobbled streets, local boutiques, turquoise beaches, especially Isola Bella.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 12,
+       "name": "Cefal\u00f9 - medieval charm, La Rocca hike",
+       "location": "Cefal\u00f9, Sicily, Italy",
+       "item_type": "activity",
+       "details": "2 days in Cefal\u00f9. Medieval charm, long beach time, hike La Rocca for epic views.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 14,
+       "name": "Palermo - streets, cathedrals, Casa Professa",
+       "location": "Palermo, Sicily, Italy",
+       "item_type": "other",
+       "details": "1 day in Palermo before flying out. Explore streets, cathedrals, Casa Professa Church.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@seewithjosie",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2026-04-22.",
+   "itineraries": [
+    {
+     "title": "Lake Como Day Trip from Milan",
+     "destination": "Lake Como, Italy (Bellagio, Varenna)",
+     "country": "Italy",
+     "days": 1,
+     "summary": "Josie's Lake Como day trip from Milan: first train out, Bellagio first, then Varenna, plus the villas to see. Mapped so the day flows and avoids chaos.",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@seewithjosie/video/7631669355092233494"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "Lake Como day trip - Bellagio, Varenna, villas",
+       "location": "Lake Como, Italy",
+       "item_type": "transport",
+       "details": "Day trip from Milan. Take the first train out. Do Bellagio first, then Varenna, plus the villas to see. Mapped so the day flows properly and avoids chaos.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@ashlaygoose",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2025-11-22.",
+   "itineraries": [
+    {
+     "title": "5-Day Washington State Itinerary",
+     "destination": "Washington State, USA (Seattle, Leavenworth, Treehouse Point, Snoqualmie)",
+     "country": "USA",
+     "days": 5,
+     "summary": "Ashley Nicole's 5-day Washington State itinerary: Day 1 Seattle (Pike Place Market) to Leavenworth (Bavarian Lodge), Day 2 Leavenworth trails and shops, Day 3 Leavenworth to Treehouse Point (Trillium Treehouse), Day 4 Rattlesnake Ledge trail, Day 5 Snoqualmie Falls.",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@ashlaygoose/video/7575342985991195959"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "Seattle to Leavenworth - Pike Place Market, Bavarian Lodge",
+       "location": "Seattle to Leavenworth, WA, USA",
+       "item_type": "hotel",
+       "details": "Land in Seattle. Wander Pike Place Market (Ghost Alley Coffee, Seattle Dumpling Co). Drive to Leavenworth (2hr 15 min). Check into Bavarian Lodge.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Leavenworth - trails, shops, M\u00fcnchen Haus",
+       "location": "Leavenworth, WA, USA",
+       "item_type": "activity",
+       "details": "Coffee at Argonaut coffee & biscuits. Morning trails. Kris Kringl Christmas store/souvenirs. M\u00fcnchen Haus for sausages and beer.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "Leavenworth to Treehouse Point - Trillium Treehouse",
+       "location": "Treehouse Point, WA, USA",
+       "item_type": "hotel",
+       "details": "Coffee at Little Reds, Gingerbread Factory, walk the shops. Leavenworth Adventure Ride (reindeer farm recommended). Drive to Treehouse Point (1hr 53 min). Stay in Trillium Treehouse.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "name": "Rattlesnake Ledge trail",
+       "location": "Rattlesnake Ledge, WA, USA",
+       "item_type": "activity",
+       "details": "Rattlesnake Ledge trail for views. Coffee at Jojo's.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "name": "Snoqualmie Falls",
+       "location": "Snoqualmie, WA, USA",
+       "item_type": "activity",
+       "details": "Morning coffee at Aroma Coffee. View at Snoqualmie Falls. Head home later that day.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@jasmine_lanae_",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2026-03-01.",
+   "itineraries": [
+    {
+     "title": "Turks & Caicos family guide",
+     "destination": "Turks & Caicos",
+     "country": null,
+     "days": null,
+     "summary": "Jasmine's structured Turks & Caicos family guide: Beaches Resort stay with lodging, food, kids camp, snorkeling and water park included; covers best and cheapest seasons. Source-stated budget about $5,500+.",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@jasmine_lanae_/video/7612380372273270046"
+     ],
+     "items": [
+      {
+       "day": null,
+       "name": "Beaches Resort",
+       "location": "Turks & Caicos",
+       "item_type": "hotel",
+       "details": "Family stay featured in the guide: lodging, food, kids camp, snorkeling and water park included per source.",
+       "booking_link": null,
+       "price_hint": "$5,500+"
+      },
+      {
+       "day": null,
+       "name": "Snorkeling",
+       "location": "Turks & Caicos",
+       "item_type": "activity",
+       "details": "Included snorkeling per the source guide.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Water park",
+       "location": "Turks & Caicos",
+       "item_type": "activity",
+       "details": "Included water park per the source guide.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@everydropoftia",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2026-01-18.",
+   "itineraries": [
+    {
+     "title": "Three-week Thailand route",
+     "destination": "Thailand (Bangkok, Chiang Mai, Phuket)",
+     "country": "Thailand",
+     "days": 21,
+     "summary": "Tia's three-week Thailand route covering Bangkok, Chiang Mai and Phuket.",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@everydropoftia/video/7596642470528617750"
+     ],
+     "items": [
+      {
+       "day": null,
+       "name": "Bangkok",
+       "location": "Bangkok, Thailand",
+       "item_type": "other",
+       "details": "Bangkok stop on the three-week Thailand route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Chiang Mai",
+       "location": "Chiang Mai, Thailand",
+       "item_type": "other",
+       "details": "Chiang Mai stop on the three-week Thailand route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Phuket",
+       "location": "Phuket, Thailand",
+       "item_type": "other",
+       "details": "Phuket stop on the three-week Thailand route.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@gottabemaddy",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2025-12-02; plus St. Kitts budget post on gottabemaddy.com opened 2026-09-17.",
+   "itineraries": [
+    {
+     "title": "Barcelona + Paris budget itinerary",
+     "destination": "Barcelona, Spain & Paris, France",
+     "country": null,
+     "days": null,
+     "summary": "Maddy's Barcelona + Paris budget itinerary: flights, Vueling transfer, Naitly Barcelona Poblanou and b55 Hotel Paris stays, Barcelona-in-a-Day, Louvre, Eiffel Tower, transit cards; source-stated prices throughout.",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@gottabemaddy/video/7579341295160708365"
+     ],
+     "items": [
+      {
+       "day": null,
+       "name": "Flights",
+       "location": "Barcelona/Paris",
+       "item_type": "flight",
+       "details": "Flights booked for the Barcelona + Paris trip; source-stated prices in video.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Vueling transfer",
+       "location": "Barcelona",
+       "item_type": "transport",
+       "details": "Vueling transfer used in Barcelona; source-stated prices in video.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Naitly Barcelona Poblanou",
+       "location": "Barcelona, Spain",
+       "item_type": "hotel",
+       "details": "Barcelona hotel stay; source-stated prices in video.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "b55 Hotel Paris",
+       "location": "Paris, France",
+       "item_type": "hotel",
+       "details": "Paris hotel stay; source-stated prices in video.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Barcelona-in-a-Day",
+       "location": "Barcelona, Spain",
+       "item_type": "activity",
+       "details": "Barcelona-in-a-Day experience; source-stated prices in video.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Louvre",
+       "location": "Paris, France",
+       "item_type": "activity",
+       "details": "Louvre visit; source-stated prices in video.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Eiffel Tower",
+       "location": "Paris, France",
+       "item_type": "activity",
+       "details": "Eiffel Tower visit; source-stated prices in video.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Transit cards",
+       "location": "Barcelona/Paris",
+       "item_type": "transport",
+       "details": "Transit cards used; source-stated prices in video.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    },
+    {
+     "title": "St. Kitts 4-day/3-night budget plan",
+     "destination": "St. Kitts",
+     "country": "Saint Kitts and Nevis",
+     "days": 4,
+     "summary": "Maddy's four-day/three-night St. Kitts budget plan: Koi Resort stay, panoramic tour, Senses by Sakoda massage; source-stated prices throughout.",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.gottabemaddy.com/post/budget-travel-under-1200-how-to-plan-a-vacation-to-st-kitts-on-a-budget"
+     ],
+     "items": [
+      {
+       "day": null,
+       "name": "Koi Resort",
+       "location": "St. Kitts",
+       "item_type": "hotel",
+       "details": "St. Kitts resort stay; source-stated prices in post.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Panoramic tour",
+       "location": "St. Kitts",
+       "item_type": "activity",
+       "details": "Panoramic tour of St. Kitts; source-stated prices in post.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Senses by Sakoda massage",
+       "location": "St. Kitts",
+       "item_type": "activity",
+       "details": "Massage at Senses by Sakoda; source-stated prices in post.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@samrculley",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2025-02-19.",
+   "itineraries": [
+    {
+     "title": "Four-day Scotland road trip",
+     "destination": "Scotland",
+     "country": "United Kingdom",
+     "days": 4,
+     "summary": "Sam's detailed four-day Scotland road trip: Day 1 Glasgow/Cairngorms, Day 2 Braemar/Aviemore, Day 3 Inverness/Loch Ness/Fort William, Day 4 Steall Falls/Glencoe/Loch Lomond.",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@samrculley/video/7473183593674607894"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "Glasgow to Cairngorms",
+       "location": "Scotland",
+       "item_type": "transport",
+       "details": "Day 1 of the road trip: Glasgow and the Cairngorms.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Braemar and Aviemore",
+       "location": "Scotland",
+       "item_type": "activity",
+       "details": "Day 2 of the road trip: Braemar and Aviemore.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "Inverness, Loch Ness and Fort William",
+       "location": "Scotland",
+       "item_type": "activity",
+       "details": "Day 3 of the road trip: Inverness, Loch Ness and Fort William.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "name": "Steall Falls, Glencoe and Loch Lomond",
+       "location": "Scotland",
+       "item_type": "activity",
+       "details": "Day 4 of the road trip: Steall Falls, Glencoe and Loch Lomond.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@irisabv",
+   "platform": "tiktok",
+   "notes": "Extracted from TikTok source opened 2026-09-17, published 2026-02-03.",
+   "itineraries": [
+    {
+     "title": "Zanzibar eight-stop guide",
+     "destination": "Zanzibar",
+     "country": "Tanzania",
+     "days": null,
+     "summary": "Iris's eight-stop Zanzibar guide: Mnemba tour, Nakupenda/Prison Island, Nungwi, Starfish Beach, Chuini Beach Resort, Rock Restaurant, horse riding and Stone Town.",
+     "confidence": "high",
+     "source_urls": [
+      "https://www.tiktok.com/@irisabv/video/7602633461878295830"
+     ],
+     "items": [
+      {
+       "day": null,
+       "name": "Mnemba tour",
+       "location": "Zanzibar",
+       "item_type": "activity",
+       "details": "Mnemba island tour.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Nakupenda / Prison Island",
+       "location": "Zanzibar",
+       "item_type": "activity",
+       "details": "Nakupenda sandbank and Prison Island visit.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Nungwi",
+       "location": "Zanzibar",
+       "item_type": "activity",
+       "details": "Nungwi beach stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Starfish Beach",
+       "location": "Zanzibar",
+       "item_type": "activity",
+       "details": "Starfish Beach stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Chuini Beach Resort",
+       "location": "Zanzibar",
+       "item_type": "hotel",
+       "details": "Chuini Beach Resort stay.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Rock Restaurant",
+       "location": "Zanzibar",
+       "item_type": "restaurant",
+       "details": "Rock Restaurant dining stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Horse riding",
+       "location": "Zanzibar",
+       "item_type": "activity",
+       "details": "Horse riding on the beach.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Stone Town",
+       "location": "Zanzibar",
+       "item_type": "activity",
+       "details": "Stone Town visit.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@alexis_zotos",
+   "platform": "tiktok",
+   "notes": "Extracted from blog article opened 2026-09-17; article linked from TikTok video 2026-03-09.",
+   "itineraries": [
+    {
+     "title": "Spring Break day-itineraries in St. Louis",
+     "destination": "St. Louis",
+     "country": "United States",
+     "days": 6,
+     "confidence": "high",
+     "summary": "Six full-day St. Louis region itineraries (Downtown, Illinois Metro East, West County, Historic St. Charles, Chesterfield, adults-only day), each with breakfast, lunch, dinner, dessert and activities.",
+     "source_urls": [
+      "https://www.alexiszotos.com/blog-posts/7-spring-break-itineraries-in-st-louis-where-to-eat-drink-explore"
+     ],
+     "items": [
+      {
+       "day": 1,
+       "name": "Rooster",
+       "location": "Downtown St. Louis",
+       "item_type": "restaurant",
+       "details": "Breakfast: crepes, brunch cocktails, coffee",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "name": "Gateway Arch National Park",
+       "location": "Downtown St. Louis",
+       "item_type": "activity",
+       "details": "Ride to the top; interactive museum",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "name": "Old Courthouse and Kiener Plaza",
+       "location": "Downtown St. Louis",
+       "item_type": "activity",
+       "details": "Historic site and photo stop",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "name": "Trust",
+       "location": "Downtown St. Louis",
+       "item_type": "restaurant",
+       "details": "Mid-morning coffee",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "name": "St. Louis Union Station",
+       "location": "Downtown St. Louis",
+       "item_type": "activity",
+       "details": "Ferris wheel, aquarium, mini golf, ropes course",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "name": "Salt + Smoke at Ballpark Village",
+       "location": "Downtown St. Louis",
+       "item_type": "restaurant",
+       "details": "Dinner: St. Louis BBQ",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Kruta Bakery",
+       "location": "Collinsville, IL",
+       "item_type": "restaurant",
+       "details": "Breakfast: donuts and pastries",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Willoughby Farm",
+       "location": "Edwardsville, IL",
+       "item_type": "activity",
+       "details": "Free working farm with animals",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Ed's Delicatessen",
+       "location": "Edwardsville, IL",
+       "item_type": "restaurant",
+       "details": "Lunch",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Edwardsville Children's Museum",
+       "location": "Edwardsville, IL",
+       "item_type": "activity",
+       "details": "Hands-on indoor/outdoor fun",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Cleveland-Heath",
+       "location": "Edwardsville, IL",
+       "item_type": "restaurant",
+       "details": "Dinner: seasonal dishes",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Bobby's Frozen Custard",
+       "location": "Maryville, IL",
+       "item_type": "restaurant",
+       "details": "Dessert: frozen custard",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "Honeybee's Biscuits + Good Eats",
+       "location": "West County",
+       "item_type": "restaurant",
+       "details": "Breakfast",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "The Magic House",
+       "location": "West County",
+       "item_type": "activity",
+       "details": "Childrens museum, three floors of exhibits",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "Hi-Pointe Drive-In",
+       "location": "West County",
+       "item_type": "restaurant",
+       "details": "Lunch: burgers, fries, shakes",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "Laumeier Sculpture Park",
+       "location": "West County",
+       "item_type": "activity",
+       "details": "Free outdoor sculpture park",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "Katie's Pizza & Pasta Osteria",
+       "location": "Crestwood",
+       "item_type": "restaurant",
+       "details": "Dinner: handmade pastas, wood-fired pizza",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "Sylvie Dee's",
+       "location": "West County",
+       "item_type": "restaurant",
+       "details": "Dessert: candy shop and ice cream",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "name": "Frontier Perk Cafe",
+       "location": "St. Charles",
+       "item_type": "restaurant",
+       "details": "Breakfast",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "name": "Historic Main Street",
+       "location": "St. Charles",
+       "item_type": "activity",
+       "details": "Cobblestone streets, boutiques, candy shops",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "name": "La Belle Vie",
+       "location": "Frenchtown, St. Charles",
+       "item_type": "restaurant",
+       "details": "Lunch",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "name": "Bike Stop Cafe",
+       "location": "St. Charles",
+       "item_type": "restaurant",
+       "details": "Coffee before the trail",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "name": "Katy Trail State Park",
+       "location": "St. Charles",
+       "item_type": "activity",
+       "details": "Biking the rail-trail",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "name": "Jalea Peruvian Bistro",
+       "location": "St. Charles",
+       "item_type": "restaurant",
+       "details": "Dinner",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "name": "SugarBot Creamery",
+       "location": "St. Charles",
+       "item_type": "restaurant",
+       "details": "Dessert: ice cream",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "name": "French Creperie",
+       "location": "Chesterfield",
+       "item_type": "restaurant",
+       "details": "Breakfast",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "name": "Sophia M. Sachs Butterfly House",
+       "location": "Chesterfield",
+       "item_type": "activity",
+       "details": "Butterfly conservatory",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "name": "St. Louis Carousel at Faust Park",
+       "location": "Chesterfield",
+       "item_type": "activity",
+       "details": "Carousel and playground",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "name": "Smokehouse Market",
+       "location": "Chesterfield",
+       "item_type": "restaurant",
+       "details": "Lunch: sandwiches",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "name": "Kaldi's Coffee",
+       "location": "Chesterfield",
+       "item_type": "restaurant",
+       "details": "Coffee",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "name": "The District",
+       "location": "Chesterfield",
+       "item_type": "activity",
+       "details": "Dining and entertainment district",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "name": "Damn Fine Hand Pies",
+       "location": "St. Louis",
+       "item_type": "restaurant",
+       "details": "Breakfast",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "name": "Missouri Botanical Garden",
+       "location": "St. Louis",
+       "item_type": "activity",
+       "details": "Garden stroll, spring blooms",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "name": "AO & Co.",
+       "location": "St. Louis",
+       "item_type": "restaurant",
+       "details": "Coffee shop and boutique",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "name": "Jack Nolen's",
+       "location": "St. Louis",
+       "item_type": "restaurant",
+       "details": "Lunch: smash burgers",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "name": "Anheuser-Busch Brewery",
+       "location": "St. Louis",
+       "item_type": "activity",
+       "details": "Brewery tour",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "name": "Stews Food & Liquor",
+       "location": "St. Louis",
+       "item_type": "restaurant",
+       "details": "Dinner",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "name": "NOTA at City Foundry STL",
+       "location": "St. Louis",
+       "item_type": "restaurant",
+       "details": "Nightcap: speakeasy",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@quingable",
+   "platform": "tiktok",
+   "notes": "Quin Gable; 1.2M followers; one-year North America van route video /video/7428021254650645791 (create_time 2024-10-20, verified by coordinator direct fetch 2026-09-17). Handle-existence dispute resolved: batch11 worker could not resolve via search, but the video URL opens with author @quingable.",
+   "itineraries": [
+    {
+     "title": "One-year North America van route",
+     "destination": "North America",
+     "country": null,
+     "days": null,
+     "summary": "Month-by-month van-life route for one year in North America: May Utah, June Wyoming, July Colorado, August Idaho/Glacier/Banff, September Washington, October Oregon, November-December California, January-March Baja California, April Arizona. TikTok video 7428021254650645791 published 2024-10-20; 277,200 plays, 26,700 likes. Verified by direct video fetch 2026-09-17.",
+     "source_urls": [
+      "https://www.tiktok.com/@quingable/video/7428021254650645791"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": 1,
+       "item_type": "other",
+       "name": "North America van route: May - Utah",
+       "location": "Utah, USA",
+       "details": "May segment of the one-year van route",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "item_type": "other",
+       "name": "North America van route: through April - Arizona",
+       "location": "Arizona, USA",
+       "details": "April segment of the one-year van route",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@madisonbrookstravel",
+   "platform": "tiktok",
+   "notes": "Madison Brooks; 360.4K followers; Greece guide video /video/7580531799017770253 (create_time 2025-12-06); Athens/Mykonos/Santorini/Paros/Naxos/Milos",
+   "itineraries": [
+    {
+     "title": "Greece guide: Athens, Mykonos, Santorini, Paros, Naxos, Milos",
+     "destination": "Greece",
+     "country": "Greece",
+     "days": 6,
+     "summary": "Greece island guide covering Athens, Mykonos, Santorini, Paros, Naxos and Milos. TikTok video 7580531799017770253 published ~2025-12-06; 188,300 plays, 11,000 likes, 90 comments.",
+     "source_urls": [
+      "https://www.tiktok.com/@madisonbrookstravel/video/7580531799017770253"
+     ],
+     "confidence": "medium",
+     "items": [
+      {
+       "day": 1,
+       "item_type": "other",
+       "name": "Athens",
+       "location": "Athens, Greece",
+       "details": "Stop on the Greece guide",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "item_type": "other",
+       "name": "Mykonos",
+       "location": "Mykonos, Greece",
+       "details": "Stop on the Greece guide",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "item_type": "other",
+       "name": "Santorini",
+       "location": "Santorini, Greece",
+       "details": "Stop on the Greece guide",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "item_type": "other",
+       "name": "Paros",
+       "location": "Paros, Greece",
+       "details": "Stop on the Greece guide",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "item_type": "other",
+       "name": "Naxos",
+       "location": "Naxos, Greece",
+       "details": "Stop on the Greece guide",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "item_type": "other",
+       "name": "Milos",
+       "location": "Milos, Greece",
+       "details": "Stop on the Greece guide",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@brittany.erekson",
+   "platform": "tiktok",
+   "notes": "Brittany Erekson; 12.7K followers; 5-day Oregon road trip video /video/7622442568562855182 (create_time 2026-03-28)",
+   "itineraries": [
+    {
+     "title": "Five-day Oregon road trip",
+     "destination": "Oregon, USA",
+     "country": "USA",
+     "days": 5,
+     "summary": "Five-day Oregon road trip: Portland/Cannon Beach/Haystack Rock; Ecola/Tillamook/Oregon Dunes; Newport/Natural Arch Rock; Redwood NP/Trail of Ten Falls; Portland (Powell's Books, Voodoo Donuts). TikTok video 7622442568562855182 published ~2026-03-28; 197,500 plays, 21,800 likes, 81 comments.",
+     "source_urls": [
+      "https://www.tiktok.com/@brittany.erekson/video/7622442568562855182"
+     ],
+     "confidence": "medium",
+     "items": [
+      {
+       "day": 1,
+       "item_type": "transport",
+       "name": "Portland to Cannon Beach",
+       "location": "Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Haystack Rock",
+       "location": "Cannon Beach, Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Ecola State Park",
+       "location": "Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Tillamook Creamery",
+       "location": "Tillamook, Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Oregon Dunes",
+       "location": "Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "item_type": "other",
+       "name": "Newport",
+       "location": "Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "item_type": "activity",
+       "name": "Natural Arch Rock",
+       "location": "Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "item_type": "activity",
+       "name": "Redwood National Park",
+       "location": "California, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "item_type": "activity",
+       "name": "Trail of Ten Falls",
+       "location": "Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "item_type": "other",
+       "name": "Portland",
+       "location": "Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "item_type": "activity",
+       "name": "Powell's Books",
+       "location": "Portland, Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "item_type": "restaurant",
+       "name": "Voodoo Donuts",
+       "location": "Portland, Oregon, USA",
+       "details": "Stop on the five-day Oregon road trip",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@anna.utazik",
+   "platform": "tiktok",
+   "notes": "Anna; 87.1K followers; 5-day Lake Garda itinerary video /video/7614838109192097046 (create_time 2026-03-07); Hungarian-language day-by-day",
+   "itineraries": [
+    {
+     "title": "Five-day Lake Garda itinerary",
+     "destination": "Lake Garda, Italy",
+     "country": "Italy",
+     "days": 5,
+     "summary": "Five-day Lake Garda day-by-day itinerary (Hungarian-language): Riva del Garda cycling, Limone sul Garda, Sirmione, Malcesine/Monte Baldo, Gardaland, optional Verona. TikTok video 7614838109192097046 published ~2026-03-07; 276,900 plays, 8,523 likes, 35 comments.",
+     "source_urls": [
+      "https://www.tiktok.com/@anna.utazik/video/7614838109192097046"
+     ],
+     "confidence": "medium",
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Riva del Garda to Torbole-Limone cycling",
+       "location": "Lake Garda, Italy",
+       "details": "Stop on the five-day Lake Garda itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "item_type": "other",
+       "name": "Limone sul Garda",
+       "location": "Lake Garda, Italy",
+       "details": "Stop on the five-day Lake Garda itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "item_type": "activity",
+       "name": "Cascata waterfall",
+       "location": "Lake Garda, Italy",
+       "details": "Stop on the five-day Lake Garda itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "item_type": "other",
+       "name": "Sirmione",
+       "location": "Lake Garda, Italy",
+       "details": "Stop on the five-day Lake Garda itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "item_type": "other",
+       "name": "Malcesine",
+       "location": "Lake Garda, Italy",
+       "details": "Stop on the five-day Lake Garda itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "item_type": "activity",
+       "name": "Monte Baldo",
+       "location": "Lake Garda, Italy",
+       "details": "Stop on the five-day Lake Garda itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 4,
+       "item_type": "other",
+       "name": "Garda town",
+       "location": "Lake Garda, Italy",
+       "details": "Stop on the five-day Lake Garda itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "item_type": "activity",
+       "name": "Gardaland",
+       "location": "Lake Garda, Italy",
+       "details": "Stop on the five-day Lake Garda itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 5,
+       "item_type": "other",
+       "name": "Verona (optional)",
+       "location": "Verona, Italy",
+       "details": "Stop on the five-day Lake Garda itinerary",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

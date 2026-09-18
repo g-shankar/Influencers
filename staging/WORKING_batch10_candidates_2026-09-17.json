@@ -1,0 +1,820 @@
+{
+ "_WARNING": "WORKING SCRATCH FILE — NOT A CANONICAL ARTIFACT. Do NOT copy into batch10.csv, staging/selection_log_batch10.csv or staging/itineraries_batch10.json until the remaining 14 additions are fully gated and the parent agent runs the atomic append (dedup must be rebuilt immediately before writing). Authored 2026-09-17 by the Stage 2 subagent.",
+ "extractions_ready": [
+  {
+   "creator_name": "Kim Bulan",
+   "exclusions_check": "pass — affiliate codes present; no consumer trip planning/coaching, hosted group trips, or travel-agency booking identified (observed 2026-09-17)",
+   "followers": 62400,
+   "followers_display": "62.4K",
+   "followers_source": "TikTok profile @kim_bulan4, observed 2026-09-17",
+   "handle": "@kim_bulan4",
+   "identity": "pass — named individual; profile nickname 'Kim Bulan'",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Indonesia",
+     "days": 1,
+     "destination": "Ubud, Bali",
+     "engagement": {
+      "comments": 115,
+      "likes": 2363,
+      "plays": 74400,
+      "saves": 2102,
+      "shares": 1032,
+      "source": "creator-owned video metrics, observed 2026-09-17"
+     },
+     "guide_date": "2025-08-29",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "ATV ride, first stop on the creator's one-day Ubud route.",
+       "item_type": "activity",
+       "location": "Ubud, Bali, Indonesia",
+       "name": "ATV Adventure",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Coffee plantation visit, second stop on the creator's one-day Ubud route.",
+       "item_type": "activity",
+       "location": "Ubud, Bali, Indonesia",
+       "name": "Pemulan Bali Coffee Plantation",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Temple visit, third stop on the creator's one-day Ubud route.",
+       "item_type": "activity",
+       "location": "Ubud, Bali, Indonesia",
+       "name": "Pura Tirta Empul",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Food stop on the creator's one-day Ubud route.",
+       "item_type": "restaurant",
+       "location": "Ubud, Bali, Indonesia",
+       "name": "Food Monkey Legend",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Final stop named in the creator's one-day Ubud route; venue type not verifiable from evidence, recorded as 'other'.",
+       "item_type": "other",
+       "location": "Ubud, Bali, Indonesia",
+       "name": "Fold",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@kim_bulan4/video/7543998408571243796"
+     ],
+     "summary": "Kim Bulan (@kim_bulan4) publishes a creator-owned one-day Ubud route (TikTok video 7543998408571243796, published 2025-08-29): ATV adventure, Pemulan Bali Coffee Plantation, Pura Tirta Empul, then Food Monkey Legend and Fold.",
+     "title": "One-day Ubud itinerary: ATV, coffee plantation, Tirta Empul, food stops"
+    }
+   ],
+   "niche": "Bali travel",
+   "notes": "Complete one-day route with named venues. Affiliate codes are affiliate marketing, not a prohibited planning service.",
+   "platform": "tiktok",
+   "profile_likes": "3.0M",
+   "profile_url": "https://www.tiktok.com/@kim_bulan4",
+   "purchase_intent": "present — affiliate discount codes observed; no planning/hosted-trip/agency service"
+  },
+  {
+   "creator_name": "Vanny Tang",
+   "exclusions_check": "pass — affiliate code only; no consumer trip planning/coaching, hosted group trips, or travel-agency booking identified (observed 2026-09-17)",
+   "followers": 81900,
+   "followers_display": "81.9K",
+   "followers_source": "TikTok profile @vannytelly, observed 2026-09-17",
+   "handle": "@vannytelly",
+   "identity": "pass — named individual 'Vanny Tang', supported by 8days.sg and MoneySmartGirl references",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Vietnam",
+     "days": 6,
+     "destination": "Phu Quoc",
+     "engagement": {
+      "comments": 23,
+      "likes": 651,
+      "plays": 63900,
+      "saves": 982,
+      "shares": 1554,
+      "source": "creator-owned video metrics, observed 2026-09-17"
+     },
+     "guide_date": "2025-12-18",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Arrival flight named in the creator's 6D5N itinerary.",
+       "item_type": "flight",
+       "location": "Phu Quoc International Airport, Vietnam",
+       "name": "Scoot flight to Phu Quoc",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Airport-to-hotel transfer named in the itinerary.",
+       "item_type": "transport",
+       "location": "Phu Quoc, Vietnam",
+       "name": "Private complimentary transfer to hotel",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Hotel check-in on day 1 of the itinerary.",
+       "item_type": "hotel",
+       "location": "Phu Quoc, Vietnam",
+       "name": "Wyndham Grand Hotel",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Hotel dinner on day 1.",
+       "item_type": "restaurant",
+       "location": "Wyndham Grand Hotel, Phu Quoc, Vietnam",
+       "name": "Nautilus Restaurant",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Safari park visit on day 2.",
+       "item_type": "activity",
+       "location": "Phu Quoc, Vietnam",
+       "name": "Vinpearl Safari",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Grand World entertainment complex stops on day 2.",
+       "item_type": "activity",
+       "location": "Phu Quoc, Vietnam",
+       "name": "Grand World — Teddy Bear Museum, Love Lake/Gondola, Bamboo Legend",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Evening show on day 2.",
+       "item_type": "activity",
+       "location": "Grand World, Phu Quoc, Vietnam",
+       "name": "The Quintessence of Vietnam show",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Theme park day on day 3; ONCE show at 6:45pm.",
+       "item_type": "activity",
+       "location": "Phu Quoc, Vietnam",
+       "name": "VinWonders — Typhoon World, Sea Shell aquarium, outdoor theme park, ONCE show",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Island tour with snorkeling and sea sports on day 4; buffet lunch and cable car included in the creator's itinerary.",
+       "item_type": "activity",
+       "location": "Phu Quoc, Vietnam",
+       "name": "Phu Quoc Island Tour — May Rut, Gam Ghi snorkeling, sea walking, sea sports",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Alternative day-4 stops named in the itinerary.",
+       "item_type": "activity",
+       "location": "Phu Quoc, Vietnam",
+       "name": "SunWorld Hon Thom Island Water Park or Kiss Bridge",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Free-and-easy day 5; foam party at 4pm.",
+       "item_type": "activity",
+       "location": "Phu Quoc, Vietnam",
+       "name": "Kids Club / Grand World massage / hotel pool and foam party",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Local Vietnamese seafood lunch on day 5.",
+       "item_type": "restaurant",
+       "location": "Phu Quoc, Vietnam",
+       "name": "Nha Hang Ganh Dau Cang",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Night market visit and dinner on day 5.",
+       "item_type": "activity",
+       "location": "Duong Dong, Phu Quoc, Vietnam",
+       "name": "Dinh Cau Night Market",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Free-and-easy day 6, fly home.",
+       "item_type": "flight",
+       "location": "Phu Quoc International Airport, Vietnam",
+       "name": "Return flight home",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@vannytelly/video/7585058634669903124"
+     ],
+     "summary": "Vanny Tang (@vannytelly) publishes a creator-owned complete 6-day/5-night Phu Quoc itinerary (TikTok video 7585058634669903124, published 2025-12-18): Scoot arrival, Wyndham Grand Hotel, Vinpearl Safari, Grand World, VinWonders, island tour with snorkeling, and Dinh Cau Night Market.",
+     "title": "6D5N Phu Quoc detailed itinerary"
+    }
+   ],
+   "niche": "Singapore-based travel (Vietnam)",
+   "notes": "Complete 6-day structure with named hotels, restaurants, and activities.",
+   "platform": "tiktok",
+   "profile_likes": "2.2M",
+   "profile_url": "https://www.tiktok.com/@vannytelly",
+   "purchase_intent": "present — Klook affiliate promo code 'VANNYTELLYKLOOK' for attractions/activities; no planning/hosted-trip/agency service"
+  },
+  {
+   "creator_name": "Alan Huitron",
+   "exclusions_check": "PENDING — final explicit exclusions review not completed in this session; no planning/hosted-trip/agency indicators seen in indexed caption (budget-travel recommendations). PARENT: open profile and confirm no 'organizo tu viaje' / group-trip / agency offers before canonical write.",
+   "followers": 386000,
+   "followers_display": "386K",
+   "followers_source": "TikTok profile @viajaland, observed 2026-09-17",
+   "handle": "@viajaland",
+   "identity": "pass — named individual 'Alan Huitron' (profile nickname 'Viajaland - Alan Huitron')",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Peru",
+     "days": 3,
+     "destination": "Tingo Maria",
+     "engagement": {
+      "comments": 153,
+      "likes": 11100,
+      "plays": 228500,
+      "saves": 4386,
+      "shares": 3872,
+      "source": "creator-owned video metrics, observed 2026-09-17"
+     },
+     "guide_date": "2026-05-16",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Bus to Tingo Maria, 12-hour trip.",
+       "item_type": "transport",
+       "location": "Tingo Maria, Peru",
+       "name": "GM Internacional bus",
+       "price_hint": "from S/65"
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Stay named in the itinerary; rooms include breakfast and views; rooftop restaurant Kotomono647 on the top floor.",
+       "item_type": "hotel",
+       "location": "Tingo Maria, Peru",
+       "name": "Hotel Kukama",
+       "price_hint": "rooms from S/100 per night for two people"
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Rooftop restaurant with author drinks and typical food.",
+       "item_type": "restaurant",
+       "location": "Hotel Kukama rooftop, Tingo Maria, Peru",
+       "name": "Kotomono647",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Day 1 itinerary stop.",
+       "item_type": "activity",
+       "location": "Tingo Maria, Peru",
+       "name": "Cueva de las Lechuzas",
+       "price_hint": "S/12"
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Day 1 itinerary stop.",
+       "item_type": "activity",
+       "location": "Tingo Maria, Peru",
+       "name": "Paseo Extremo Rio Monzon",
+       "price_hint": "S/10"
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Day 1 itinerary stop.",
+       "item_type": "activity",
+       "location": "Tingo Maria, Peru",
+       "name": "Roca Flotante",
+       "price_hint": "S/3"
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Day 1 itinerary stop.",
+       "item_type": "activity",
+       "location": "Tingo Maria, Peru",
+       "name": "Mirador Jacintillo",
+       "price_hint": "S/0"
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Day 1 itinerary stop.",
+       "item_type": "activity",
+       "location": "Tingo Maria, Peru",
+       "name": "Mirador Santa Cruz",
+       "price_hint": "S/0"
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Day 2 itinerary stop.",
+       "item_type": "activity",
+       "location": "Tingo Maria, Peru",
+       "name": "Catarata Honolulu",
+       "price_hint": "S/5"
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Day 2 itinerary stop.",
+       "item_type": "activity",
+       "location": "Tingo Maria, Peru",
+       "name": "Cueva 1000 encantos",
+       "price_hint": "S/5"
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Day 3 itinerary stop.",
+       "item_type": "activity",
+       "location": "Tingo Maria, Peru",
+       "name": "Laguna de los Milagros",
+       "price_hint": "S/5"
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Day 3 itinerary stop.",
+       "item_type": "activity",
+       "location": "Tingo Maria, Peru",
+       "name": "Laguna Mistica",
+       "price_hint": "S/5"
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Day 3 itinerary stop.",
+       "item_type": "activity",
+       "location": "Tingo Maria, Peru",
+       "name": "Paddle",
+       "price_hint": "S/15"
+      },
+      {
+       "booking_link": null,
+       "day": null,
+       "details": "Lunch spot recommended in the itinerary; day not specified by creator.",
+       "item_type": "restaurant",
+       "location": "Tingo Maria, Peru",
+       "name": "El Encanto de la Selva",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@viajaland/video/7640281987332279573"
+     ],
+     "summary": "Alan Huitron (@viajaland) publishes a creator-owned complete 3-day Tingo Maria route (TikTok video 7640281987332279573, create_time 1778891785 = 2026-05-16 UTC): GM Internacional bus, Hotel Kukama, day-by-day activities with Soles prices, and El Encanto de la Selva for lunch.",
+     "title": "3-day Tingo Maria itinerary with full budget"
+    }
+   ],
+   "niche": "Peru budget travel",
+   "notes": "Complete 3-day route with per-activity Soles prices. Earlier inconsistent 2026-05-14 date commentary superseded: create_time 1778891785 = 2026-05-16 UTC.",
+   "platform": "tiktok",
+   "profile_likes": "5.8M",
+   "profile_url": "https://www.tiktok.com/@viajaland",
+   "profile_videos": 543,
+   "purchase_intent": "present — named hotel with room prices, named restaurants, transport prices; no affiliate codes observed"
+  }
+ ],
+ "meta": {
+  "accepted_handles": [
+   "@kim_bulan4",
+   "@vannytelly",
+   "@somay.mekdi",
+   "@viajaland",
+   "@marymatheustraveler",
+   "@sonhealtoviagens",
+   "@valkengoedtravel"
+  ],
+  "accepted_this_session": 7,
+  "batch": 10,
+  "canonical_handles_existing": [
+   "@joansfootprints",
+   "@adell.explores",
+   "@staysandgetaways",
+   "@vivianaaltea"
+  ],
+  "dedup_note": "All 7 were dedup-checked 2026-09-17 against the durable provisional universe (~/workspace/travel-influencer-pilot/staging/batch10_dedup_universe.json). Concurrent batch files may have changed; REBUILD the universe immediately before any canonical write and re-check all handles.",
+  "platform": "tiktok",
+  "shortfall_remaining": 14,
+  "target_additions": 21
+ },
+ "accepted_pending_item_detail": [
+  {
+   "_note": "ACCEPTED on all identity/reach/date/engagement/exclusion gates 2026-09-17. Per-day venue lists were not captured in this session's handoff and must be extracted from the creator-owned video/carousel by the parent agent (live browser) before canonical append. Do NOT write partial handoff extractions — complete items first.",
+   "creator_name": "Jeje Jaelani",
+   "date_note": "create_time 1775299989 = 2026-04-04 UTC; in window 2024-09-17..2026-09-17",
+   "decision": "accept — pending item-detail extraction",
+   "engagement": "212,000 plays; 6,153 likes; 37 comments; 2,011 shares; 4,307 saves (creator-owned video metrics, observed 2026-09-17)",
+   "exclusions_check": "pass — brand/campaign contact email is not consumer trip planning; no hosted trips or agency booking identified (observed 2026-09-17)",
+   "followers": 354500,
+   "followers_display": "354.5K",
+   "followers_source": "TikTok profile @somay.mekdi, observed 2026-09-17",
+   "guide": "standalone one-day Bandung itinerary, TikTok video 7624855363052997908 (labeled 'Part.2' but self-contained)",
+   "handle": "@somay.mekdi",
+   "identity": "pass — named individual 'Jeje Jaelani'",
+   "itinerary_needs": "day-1 venue names from video 7624855363052997908",
+   "niche": "Bandung travel (Indonesia)",
+   "profile_likes": "17.2M",
+   "profile_url": "https://www.tiktok.com/@somay.mekdi",
+   "purchase_intent": "affiliate/product mentions present; no planning service",
+   "reach": "pass — 354,500 >= 10,000",
+   "source_url": "https://www.tiktok.com/@somay.mekdi/video/7624855363052997908"
+  },
+  {
+   "_note": "ACCEPTED. Day/item venue detail must be extracted from the creator-owned video by the parent agent before canonical append.",
+   "creator_name": "Mary (likely Mary Matheus)",
+   "date_note": "create_time 1761957759 = 2025-11-01 UTC; in window",
+   "decision": "accept — pending item-detail extraction and final identity/exclusions confirmation",
+   "engagement": "947,000 plays; 37,600 likes; 236 comments; 29,000 shares; 23,439 saves (creator-owned video metrics, observed 2026-09-17)",
+   "exclusions_check": "PENDING — no prohibited indicators observed; PARENT: confirm profile has no planning/hosted-trip/agency offers before canonical write",
+   "followers": 322500,
+   "followers_display": "322.5K",
+   "followers_source": "TikTok profile @marymatheustraveler, observed 2026-09-17",
+   "guide": "complete three-day Tennessee itinerary, TikTok video 7567550908217773343",
+   "handle": "@marymatheustraveler",
+   "identity": "named individual 'Mary'; full name 'Mary Matheus' supported (not conclusively established) by email marymatheus@iamsocial.la. PARENT: confirm identity evidence before canonical write",
+   "itinerary_needs": "day-1..3 venue names from video 7567550908217773343",
+   "niche": "Tennessee/US travel",
+   "profile_likes": "6.2M",
+   "profile_url": "https://www.tiktok.com/@marymatheustraveler",
+   "profile_videos": 1973,
+   "purchase_intent": "to be confirmed from video content",
+   "reach": "pass — 322,500 >= 10,000",
+   "source_url": "https://www.tiktok.com/@marymatheustraveler/video/7567550908217773343"
+  },
+  {
+   "_note": "ACCEPTED with explicit exclusions decision recorded 2026-09-17: first-person 'Meus guias de Paris, Londres e Japão e descontos' indicates pre-made editorial guide products, not 1:1 consumer trip planning/coaching, hosted trips, or agency booking. Linktree could not be fetched; no contents observed from it.",
+   "creator_name": "Mariana",
+   "date_note": "create_time 1771628400 = 2026-02-20 UTC; in window",
+   "decision": "accept — pending item-detail extraction",
+   "engagement": "16,500 plays; 953 likes; 41 comments; 158 shares; 178 saves (creator-owned video metrics, observed 2026-09-17)",
+   "exclusions_check": "pass — 'my guides' = pre-made editorial products; no planning/hosted-trip/agency evidence (observed 2026-09-17)",
+   "followers": 501900,
+   "followers_display": "501.9K",
+   "followers_source": "TikTok profile @sonhealtoviagens, observed 2026-09-17",
+   "guide": "complete six-day Itacaré itinerary, TikTok video 7609058815115382034",
+   "handle": "@sonhealtoviagens",
+   "identity": "pass — named individual 'Mariana'; profile nickname 'Mariana | Sonhe Alto Viagens'; first-person singular bio indicates individual account",
+   "itinerary_needs": "day-1..6 venue names from video 7609058815115382034",
+   "niche": "Brazil travel (Itacaré)",
+   "profile_likes": "12.5M",
+   "profile_url": "https://www.tiktok.com/@sonhealtoviagens",
+   "profile_videos": 917,
+   "purchase_intent": "pre-made guide products mentioned; record as present (editorial, not prohibited)",
+   "reach": "pass — 501,900 >= 10,000",
+   "source_url": "https://www.tiktok.com/@sonhealtoviagens/video/7609058815115382034"
+  },
+  {
+   "_note": "ACCEPTED. Date is TikTok-ID-derived (~2026-02-03 UTC), calibrated against 4 creator-owned create_time values matching to within minutes. Formal watertight decision recorded here: ACCEPTED for date gating; parent may confirm the carousel's displayed date with the live browser.",
+   "creator_name": "Ishry van Valkengoed",
+   "date_note": "TikTok ID 7602549629825142049 → derived 2026-02-03 UTC (formula calibrated on 4 known pairs; diffs -13s/-7s/-26s/-6339s); in window",
+   "decision": "accept — pending item-detail extraction",
+   "engagement": "10,700 likes; 137 comments (indexed third-party snapshot, observed 2026-09-17)",
+   "engagement_note": "engagement from dated third-party index; parent may replace with current creator-owned metrics if carousel re-opens",
+   "exclusions_check": "pass — no planning/hosted-trip/agency indicators observed (observed 2026-09-17)",
+   "followers": 13100,
+   "followers_display": "13.1K",
+   "followers_source": "TikTok profile @valkengoedtravel, observed 2026-09-17",
+   "guide": "complete Philippines day sequence Manila through Coron, TikTok photo carousel 7602549629825142049",
+   "handle": "@valkengoedtravel",
+   "identity": "pass — named individual 'Ishry van Valkengoed'",
+   "itinerary_needs": "day sequence venues/hotels from photo carousel 7602549629825142049 (carousel slides require live-browser viewing)",
+   "niche": "Philippines travel",
+   "profile_likes": "102.3K",
+   "profile_url": "https://www.tiktok.com/@valkengoedtravel",
+   "profile_videos": 535,
+   "purchase_intent": "to be confirmed from carousel content",
+   "reach": "pass — 13,100 >= 10,000",
+   "source_url": "https://www.tiktok.com/@valkengoedtravel/photo/7602549629825142049"
+  }
+ ],
+ "batch10_csv_rows": [
+  "Kim Bulan,@kim_bulan4,tiktok,Bali travel,62.4K,https://www.tiktok.com/@kim_bulan4,https://www.tiktok.com/@kim_bulan4/video/7543998408571243796",
+  "Vanny Tang,@vannytelly,tiktok,Singapore-based travel (Vietnam),81.9K,https://www.tiktok.com/@vannytelly,https://www.tiktok.com/@vannytelly/video/7585058634669903124",
+  "Jeje Jaelani,@somay.mekdi,tiktok,Bandung travel (Indonesia),354.5K,https://www.tiktok.com/@somay.mekdi,https://www.tiktok.com/@somay.mekdi/video/7624855363052997908",
+  "Alan Huitron,@viajaland,tiktok,Peru budget travel,386K,https://www.tiktok.com/@viajaland,https://www.tiktok.com/@viajaland/video/7640281987332279573",
+  "Mary,@marymatheustraveler,tiktok,Tennessee/US travel,322.5K,https://www.tiktok.com/@marymatheustraveler,https://www.tiktok.com/@marymatheustraveler/video/7567550908217773343",
+  "Mariana,@sonhealtoviagens,tiktok,Brazil travel (Itacaré),501.9K,https://www.tiktok.com/@sonhealtoviagens,https://www.tiktok.com/@sonhealtoviagens/video/7609058815115382034",
+  "Ishry van Valkengoed,@valkengoedtravel,tiktok,Philippines travel,13.1K,https://www.tiktok.com/@valkengoedtravel,https://www.tiktok.com/@valkengoedtravel/photo/7602549629825142049"
+ ],
+ "selection_log_rows": [
+  [
+   "batch",
+   "handle",
+   "platform",
+   "name",
+   "niche",
+   "followers_approx",
+   "followers_observed",
+   "followers_source",
+   "profile_url",
+   "discovery_source",
+   "identity_check",
+   "identity_method",
+   "content_fit",
+   "content_fit_evidence",
+   "reach_floor",
+   "engagement_observed",
+   "activity_check",
+   "purchase_intent",
+   "exclusions_check",
+   "decision",
+   "notes",
+   "check_date",
+   "selector"
+  ],
+  [
+   "10",
+   "@kim_bulan4",
+   "tiktok",
+   "Kim Bulan",
+   "Bali travel",
+   "62.4K",
+   "62400",
+   "TikTok profile @kim_bulan4, observed 2026-09-17",
+   "https://www.tiktok.com/@kim_bulan4",
+   "web discovery 2026-09-17",
+   "pass",
+   "profile nickname 'Kim Bulan' resolves to named individual",
+   "pass",
+   "Creator-owned one-day Ubud route (ATV Adventure, Pemulan Bali Coffee Plantation, Pura Tirta Empul, Food Monkey Legend, Fold), TikTok video 7543998408571243796 published 2025-08-29 (in window)",
+   "pass — 62,400 >= 10,000",
+   "74,400 plays; 2,363 likes; 115 comments; 1,032 shares; 2,102 saves (creator-owned video metrics, observed 2026-09-17)",
+   "pass — profile live 2026-09-17 (3.0M profile likes); guide video within window",
+   "present — affiliate discount codes; no planning/hosted-trip/agency service",
+   "pass — affiliate codes only; no consumer trip planning/coaching, hosted group trips, or travel-agency booking identified (observed 2026-09-17)",
+   "accept",
+   "Full 5-venue day-1 item list built in working file; extraction ready for canonical append once batch completes.",
+   "2026-09-17",
+   "agent (TikTok Stage 2)"
+  ],
+  [
+   "10",
+   "@vannytelly",
+   "tiktok",
+   "Vanny Tang",
+   "Singapore-based travel (Vietnam)",
+   "81.9K",
+   "81900",
+   "TikTok profile @vannytelly, observed 2026-09-17",
+   "https://www.tiktok.com/@vannytelly",
+   "web discovery 2026-09-17",
+   "pass",
+   "named individual 'Vanny Tang', supported by 8days.sg and MoneySmartGirl references",
+   "pass",
+   "Creator-owned complete 6D5N Phu Quoc itinerary, TikTok video 7585058634669903124 published 2025-12-18 (in window)",
+   "pass — 81,900 >= 10,000",
+   "63,900 plays; 651 likes; 23 comments; 1,554 shares; 982 saves (creator-owned video metrics, observed 2026-09-17)",
+   "pass — profile live 2026-09-17 (2.2M profile likes); guide video within window",
+   "present — Klook affiliate promo code 'VANNYTELLYKLOOK' for attractions/activities",
+   "pass — affiliate code only; no consumer trip planning/coaching, hosted group trips, or travel-agency booking identified (observed 2026-09-17)",
+   "accept",
+   "Full 14-item 6-day item list built in working file; extraction ready for canonical append once batch completes.",
+   "2026-09-17",
+   "agent (TikTok Stage 2)"
+  ],
+  [
+   "10",
+   "@somay.mekdi",
+   "tiktok",
+   "Jeje Jaelani",
+   "Bandung travel (Indonesia)",
+   "354.5K",
+   "354500",
+   "TikTok profile @somay.mekdi, observed 2026-09-17",
+   "https://www.tiktok.com/@somay.mekdi",
+   "web discovery 2026-09-17",
+   "pass",
+   "named individual 'Jeje Jaelani'",
+   "pass",
+   "Creator-owned standalone one-day Bandung itinerary (self-contained despite 'Part.2' label), TikTok video 7624855363052997908, create_time 1775299989 = 2026-04-04 UTC (in window)",
+   "pass — 354,500 >= 10,000",
+   "212,000 plays; 6,153 likes; 37 comments; 2,011 shares; 4,307 saves (creator-owned video metrics, observed 2026-09-17)",
+   "pass — profile live 2026-09-17 (17.2M profile likes); guide video within window",
+   "present — affiliate/product mentions; no planning service",
+   "pass — brand/campaign contact email is not consumer trip planning; no hosted trips or agency booking identified (observed 2026-09-17)",
+   "accept",
+   "Day-1 venue names not captured in this session; parent must extract items from creator-owned video before canonical append. Do not write partial extraction.",
+   "2026-09-17",
+   "agent (TikTok Stage 2)"
+  ],
+  [
+   "10",
+   "@viajaland",
+   "tiktok",
+   "Alan Huitron",
+   "Peru budget travel",
+   "386K",
+   "386000",
+   "TikTok profile @viajaland, observed 2026-09-17",
+   "https://www.tiktok.com/@viajaland",
+   "web discovery 2026-09-17",
+   "pass",
+   "named individual 'Alan Huitron' (profile nickname 'Viajaland - Alan Huitron')",
+   "pass",
+   "Creator-owned complete 3-day Tingo Maria route with per-activity Soles prices, TikTok video 7640281987332279573, create_time 1778891785 = 2026-05-16 UTC (in window)",
+   "pass — 386,000 >= 10,000",
+   "228,500 plays; 11,100 likes; 153 comments; 3,872 shares; 4,386 saves (creator-owned video metrics, observed 2026-09-17)",
+   "pass — profile live 2026-09-17 (5.8M profile likes; 543 videos); guide video within window",
+   "present — named hotel with room prices, named restaurants, transport prices; no affiliate codes observed",
+   "PENDING — final explicit exclusions review not completed in this session; no planning/hosted-trip/agency indicators in indexed caption. Parent: open profile and confirm before canonical write",
+   "accept",
+   "Full 14-item 3-day item list built in working file; extraction ready pending exclusions confirmation. Earlier inconsistent 2026-05-14 date commentary superseded (create_time = 2026-05-16 UTC).",
+   "2026-09-17",
+   "agent (TikTok Stage 2)"
+  ],
+  [
+   "10",
+   "@marymatheustraveler",
+   "tiktok",
+   "Mary (likely Mary Matheus)",
+   "Tennessee/US travel",
+   "322.5K",
+   "322500",
+   "TikTok profile @marymatheustraveler, observed 2026-09-17",
+   "https://www.tiktok.com/@marymatheustraveler",
+   "web discovery 2026-09-17",
+   "partial",
+   "named individual 'Mary'; full name 'Mary Matheus' supported (not conclusively established) by email marymatheus@iamsocial.la. Parent: confirm identity before canonical write",
+   "pass",
+   "Creator-owned complete three-day Tennessee itinerary, TikTok video 7567550908217773343, create_time 1761957759 = 2025-11-01 UTC (in window)",
+   "pass — 322,500 >= 10,000",
+   "947,000 plays; 37,600 likes; 236 comments; 29,000 shares; 23,439 saves (creator-owned video metrics, observed 2026-09-17)",
+   "pass — profile live 2026-09-17 (6.2M profile likes; 1,973 videos); guide video within window",
+   "to be confirmed from video content",
+   "PENDING — no prohibited indicators observed. Parent: confirm profile has no planning/hosted-trip/agency offers before canonical write",
+   "accept",
+   "Day-1..3 venue names not captured in this session; parent must extract items from creator-owned video and confirm identity/exclusions before canonical append.",
+   "2026-09-17",
+   "agent (TikTok Stage 2)"
+  ],
+  [
+   "10",
+   "@sonhealtoviagens",
+   "tiktok",
+   "Mariana",
+   "Brazil travel (Itacaré)",
+   "501.9K",
+   "501900",
+   "TikTok profile @sonhealtoviagens, observed 2026-09-17",
+   "https://www.tiktok.com/@sonhealtoviagens",
+   "web discovery 2026-09-17",
+   "pass",
+   "named individual 'Mariana'; profile nickname 'Mariana | Sonhe Alto Viagens'; first-person singular bio indicates individual account",
+   "pass",
+   "Creator-owned complete six-day Itacaré itinerary, TikTok video 7609058815115382034, create_time 1771628400 = 2026-02-20 UTC (in window)",
+   "pass — 501,900 >= 10,000",
+   "16,500 plays; 953 likes; 41 comments; 158 shares; 178 saves (creator-owned video metrics, observed 2026-09-17)",
+   "pass — profile live 2026-09-17 (12.5M profile likes; 917 videos); guide video within window",
+   "present — pre-made editorial guide products mentioned ('Meus guias de Paris, Londres e Japão e descontos'); editorial, not prohibited",
+   "pass — 'my guides' indicates pre-made editorial products, not 1:1 consumer trip planning/coaching, hosted trips, or agency booking (decision recorded 2026-09-17). Linktree could not be fetched; no contents observed",
+   "accept",
+   "Day-1..6 venue names not captured in this session; parent must extract items from creator-owned video before canonical append.",
+   "2026-09-17",
+   "agent (TikTok Stage 2)"
+  ],
+  [
+   "10",
+   "@valkengoedtravel",
+   "tiktok",
+   "Ishry van Valkengoed",
+   "Philippines travel",
+   "13.1K",
+   "13100",
+   "TikTok profile @valkengoedtravel, observed 2026-09-17",
+   "https://www.tiktok.com/@valkengoedtravel",
+   "web discovery 2026-09-17",
+   "pass",
+   "named individual 'Ishry van Valkengoed'",
+   "pass",
+   "Creator-owned complete Philippines day sequence (Manila through Coron), TikTok photo carousel 7602549629825142049, TikTok-ID-derived date 2026-02-03 UTC (formula calibrated on 4 known create_time pairs; diffs within minutes; in window)",
+   "pass — 13,100 >= 10,000",
+   "10,700 likes; 137 comments (indexed third-party snapshot, observed 2026-09-17); parent may replace with current creator-owned metrics",
+   "pass — profile live 2026-09-17 (102,300 profile likes; 535 videos); guide within window",
+   "to be confirmed from carousel content",
+   "pass — no planning/hosted-trip/agency indicators observed (observed 2026-09-17)",
+   "accept",
+   "Day-sequence venues/hotels not captured; carousel slides require live-browser viewing. Parent must extract items and may confirm displayed date before canonical append.",
+   "2026-09-17",
+   "agent (TikTok Stage 2)"
+  ]
+ ],
+ "open_items_for_parent": [
+  "1. Extract day/item venue detail from @somay.mekdi video 7624855363052997908 (Bandung one-day) via live browser.",
+  "2. Extract day/item venue detail from @marymatheustraveler video 7567550908217773343 (Tennessee 3-day) and confirm identity ('Mary Matheus') + explicit exclusions.",
+  "3. Confirm @viajaland explicit exclusions (profile open: no 'organizo tu viaje' / group-trip / agency offers).",
+  "4. Extract day/item venue detail from @sonhealtoviagens video 7609058815115382034 (Itacaré 6-day).",
+  "5. Extract day/item venue detail from @valkengoedtravel photo carousel 7602549629825142049 (Philippines Manila-to-Coron); optionally confirm displayed carousel date.",
+  "6. Watch @mletraveldiary Bali 1-week video 7565987772880686366; extract days/items; confirm exclusions; if gated, build object + rows.",
+  "7. Watch @ginacwiklinski Amalfi and/or French Riviera carousels; extract days/items; confirm exclusions; if gated, build object + rows.",
+  "8. Continue discovery until 21 additions are fully gated (currently 7 accepted, shortfall 14; 2 strong leads above).",
+  "9. REBUILD dedup universe immediately before any canonical write (concurrent batch files may have changed); re-check all 21 handles.",
+  "10. Atomically append all gated additions to batch10.csv, staging/selection_log_batch10.csv (23 columns), staging/itineraries_batch10.json.",
+  "11. Verify 25 aligned handles, 23 selection-log columns, valid JSON; run validation/gate1_schema.py; isolate and repair batch10 findings."
+ ],
+ "rejection_ledger_additions_2026_09_17": [
+  {
+   "handle": "@talegatravel",
+   "reason": "travel agency selling packaged 19-day Europe tours (Grupo EXA) — operator exclusion"
+  },
+  {
+   "handle": "@mimirojas.co",
+   "reason": "bio 'organizo tu viaje a ny' (1:1 trip planning) + 'próximo viaje grupal en septiembre' (hosted group trip) — planning and hosted-trip exclusions"
+  },
+  {
+   "handle": "@shida_lainn",
+   "reason": "runs hosted consumer group trip ('Ghana Group Trip, Nov 9-19, max 6 persons, DM email, payment plans through travel agency') — hosted-trip exclusion; also no real name ('The Trini Travel Girl')"
+  },
+  {
+   "handle": "@017tv",
+   "reason": "persona nickname '공일기' only; no real individual name exposed — identity gate"
+  },
+  {
+   "handle": "@puretravelmoments",
+   "reason": "5,054 followers below 10,000 reach floor"
+  },
+  {
+   "handle": "@followmeaway",
+   "reason": "couple account (Vicky + Terrence) — duo/shared exclusion"
+  },
+  {
+   "handle": "@mafearoundtheworld",
+   "reason": "duo ('Mafe & Aitor') organizing bookable trips via drimer.travel with accommodation/booking — duo + trip-selling exclusions"
+  },
+  {
+   "handle": "@ate.icia",
+   "reason": "only complete itinerary found (Tokyo 5D4N, video 7336543675750681862) dated 2024-02-17, before the 2024-09-17 cutoff — date gate"
+  }
+ ],
+ "strong_leads_needing_parent_browser_pass": [
+  {
+   "_note": "STRONG LEAD — all gates observable so far pass; needs full video viewing for day/item extraction.",
+   "creator_name": "Marissa",
+   "date_note": "create_time 1761593829 = 2025-10-27 UTC; in window",
+   "engagement": "58,200 plays; 2,488 likes; 256 comments; 509 shares; 3,082 saves (creator-owned video metrics, observed 2026-09-17)",
+   "exclusions_check": "no planning/hosted-trip/agency indicators observed in profile (2026-09-17); confirm on canonical write",
+   "followers": "29,300 (TikTok profile, observed 2026-09-17)",
+   "guide": "Bali 1-week itinerary — caption promises full Google Maps spot list; 77s video",
+   "handle": "@mletraveldiary",
+   "identity": "named individual 'Marissa'",
+   "source_url": "https://www.tiktok.com/@mletraveldiary/video/7565987772880686366"
+  },
+  {
+   "_note": "STRONG LEAD — two complete itinerary carousels indexed with full day-by-day captions; needs carousel slide viewing for item extraction.",
+   "creator_name": "Gina",
+   "date_note": "Amalfi carousel ID-derived 2026-05-19 UTC; Riviera carousel ID-derived 2026-02-13 UTC; both in window",
+   "engagement": "Amalfi: 1,183 likes / 121 comments (indexed); Riviera: 732 likes / 28 comments (indexed)",
+   "exclusions_check": "no planning/hosted-trip/agency indicators observed in profile (2026-09-17); confirm on canonical write",
+   "followers": "19,000 (TikTok profile, observed 2026-09-17)",
+   "guide": "Amalfi Coast itinerary (Franco's Bar, La Sponda at Le Sirenuse, Da Vincenzo, Arienzo Beach Club, Capri boat day) AND 5-day French Riviera itinerary (Nice/Antibes/Cannes/Eze/Monaco/Menton/boat day)",
+   "handle": "@ginacwiklinski",
+   "identity": "named individual 'Gina'",
+   "source_urls": [
+    "https://www.tiktok.com/@ginacwiklinski/photo/7641692886282620168",
+    "https://www.tiktok.com/@ginacwiklinski/photo/7606448536602856711"
+   ]
+  }
+ ]
+}

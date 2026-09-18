@@ -1,39 +1,92 @@
 {
   "status": "FAIL",
   "batches": {
-    "5": {
-      "batch": 5,
-      "rows": 25,
-      "included": 25,
+    "9": {
+      "batch": 9,
+      "rows": 0,
+      "included": 0,
       "non_passing": []
     },
-    "6": {
-      "batch": 6,
-      "rows": 25,
-      "included": 25,
+    "10": {
+      "batch": 10,
+      "rows": 0,
+      "included": 0,
       "non_passing": []
     },
-    "7": {
-      "batch": 7,
-      "rows": 25,
-      "included": 25,
+    "11": {
+      "batch": 11,
+      "rows": 0,
+      "included": 0,
       "non_passing": []
     },
-    "8": {
-      "batch": 8,
-      "rows": 25,
-      "included": 25,
+    "12": {
+      "batch": 12,
+      "rows": 0,
+      "included": 0,
+      "non_passing": []
+    },
+    "13": {
+      "batch": 13,
+      "rows": 0,
+      "included": 0,
+      "non_passing": []
+    },
+    "14": {
+      "batch": 14,
+      "rows": 0,
+      "included": 0,
+      "non_passing": []
+    },
+    "15": {
+      "batch": 15,
+      "rows": 0,
+      "included": 0,
+      "non_passing": []
+    },
+    "16": {
+      "batch": 16,
+      "rows": 0,
+      "included": 0,
+      "non_passing": []
+    },
+    "17": {
+      "batch": 17,
+      "rows": 0,
+      "included": 0,
+      "non_passing": []
+    },
+    "18": {
+      "batch": 18,
+      "rows": 0,
+      "included": 0,
+      "non_passing": []
+    },
+    "19": {
+      "batch": 19,
+      "rows": 0,
+      "included": 0,
+      "non_passing": []
+    },
+    "20": {
+      "batch": 20,
+      "rows": 0,
+      "included": 0,
       "non_passing": []
     }
   },
   "errors": [
-    "batch5 row3 (@travelingwithtals): handle/platform not in batch5.csv",
-    "batch5 row6 (@nytoanywhere): handle/platform not in batch5.csv",
-    "batch5 row7 (@chubbydiaries): handle/platform not in batch5.csv",
-    "batch5 row16 (@goingwithnicole): handle/platform not in batch5.csv",
-    "batch6 row7 (@polkadotpassport): handle/platform not in batch6.csv",
-    "batch6 row15 (@chloe__trips): handle/platform not in batch6.csv",
-    "batch7 row17 (@boyeatsworld): handle/platform not in batch7.csv"
+    "batch9: staging/selection_batch9.csv missing",
+    "batch10: staging/selection_batch10.csv missing",
+    "batch11: staging/selection_batch11.csv missing",
+    "batch12: staging/selection_batch12.csv missing",
+    "batch13: staging/selection_batch13.csv missing",
+    "batch14: staging/selection_batch14.csv missing",
+    "batch15: staging/selection_batch15.csv missing",
+    "batch16: staging/selection_batch16.csv missing",
+    "batch17: staging/selection_batch17.csv missing",
+    "batch18: staging/selection_batch18.csv missing",
+    "batch19: staging/selection_batch19.csv missing",
+    "batch20: staging/selection_batch20.csv missing"
   ],
   "warnings": []
 }

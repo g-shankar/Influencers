@@ -1,0 +1,3733 @@
+{
+ "auditor": "C",
+ "date": "2026-09-18",
+ "packets": [
+  {
+   "batch": 12,
+   "packet_index": 0,
+   "handle": "@beercutieandfoodie",
+   "platform": "tiktok",
+   "title": "72 Hour Budget-Friendly Asheville Itinerary",
+   "destination": "Asheville, North Carolina",
+   "country": "United States",
+   "days": 3,
+   "summary": "Genesis's 72-hour budget Asheville itinerary: Allegiant flight SFB-AVL for $47 each way, rental car, Munoz Taqueria, NC Arboretum, Moxy Asheville, Drum Circle, Fitz and the Wolf; Day 2 Regina's, West Asheville, foraging tour, Rowan Coffee, Boti Walla; Day 3 Biscuit Head, Skytop Orchard, Sunny Point Cafe, Pisgah waterfalls, Rocky's Hot Chicken Shack.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "flight",
+     "name": "Allegiant Air flight Orlando Sanford to Asheville Regional",
+     "location": "Sanford, FL to Asheville, NC",
+     "details": "$47 each way; flight deal started the trip.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Rental car at Asheville Regional Airport",
+     "location": "Asheville, NC",
+     "details": "Picked up on-site at the airport; can get busy in peak season.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Munoz Taqueria",
+     "location": "Asheville, NC",
+     "details": "Local gem first stop; small spots beat the hyped ones.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "North Carolina Arboretum",
+     "location": "Asheville, NC",
+     "details": "Gardens and bonsai trees; free if dropped off, $20 parking.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Moxy Asheville Downtown",
+     "location": "Asheville, NC",
+     "details": "Budget-friendly hotel within walking distance to everything.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Asheville Drum Circle",
+     "location": "Asheville, NC",
+     "details": "Free community event running since 2001.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Fitz and the Wolf",
+     "location": "Asheville, NC",
+     "details": "Smash burgers and live music.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "potential new boyfriend",
+     "location": "Asheville, NC",
+     "details": "Mid-century inspired bar; dessert and aperitifs.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Regina's",
+     "location": "Asheville, NC",
+     "details": "Mid-century diner; great breakfast burritos.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "other",
+     "name": "West Asheville shops",
+     "location": "West Asheville, NC",
+     "details": "Exploring shops in West Asheville.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Dobra Tea (misso hot chocolate)",
+     "location": "Asheville, NC",
+     "details": "Miso hot chocolate stop.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Foraging tour with Foraging Home",
+     "location": "Asheville, NC",
+     "details": "Creator's favorite activity of the trip.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Rowan Coffee Cappy Hour",
+     "location": "Asheville, NC",
+     "details": "Two drinks and a charcuterie board for $23.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Boti Walla",
+     "location": "Asheville, NC",
+     "details": "Indian fast-casual spot; incredible chicken wrap.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Shakespeare under the stars",
+     "location": "Asheville, NC",
+     "details": "Free Shakespeare by Montford Park Players.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Biscuit Head",
+     "location": "Asheville, NC",
+     "details": "Breakfast; peach rosemary jam.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Skytop Orchard",
+     "location": "Hendersonville, NC",
+     "details": "Apple picking.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "other",
+     "name": "Well Played Board Game Cafe",
+     "location": "Asheville, NC",
+     "details": "Board games and comfort food.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Sunny Point Cafe",
+     "location": "Asheville, NC",
+     "details": "Brunch; carrot cake pancakes.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Pisgah National Forest waterfalls",
+     "location": "Pisgah National Forest, NC",
+     "details": "Quick hike to the waterfalls.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Rocky's Hot Chicken Shack",
+     "location": "Asheville, NC",
+     "details": "One last local meal by the airport.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "flight",
+     "name": "Return flight home Asheville to Orlando",
+     "location": "Asheville, NC to Sanford, FL",
+     "details": "Flight home after the last local meal.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@beercutieandfoodie/video/7568188871935053111"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 12,
+   "packet_index": 0,
+   "handle": "@karenexplores",
+   "platform": "tiktok",
+   "title": "10 Things to Do in Busan",
+   "destination": "Busan",
+   "country": "South Korea",
+   "days": 3,
+   "summary": "Karen's 10-stop Busan itinerary: Gamcheon Culture Village, Oryukdo Skywalk, Busan Sky Capsules, Jagalchi Market, firework yacht cruise, restaurants and cafes, Dakbatgol Mural Village, Somang Stair Monorail, Hwangnyeonsan Mountain, Spa Land.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Gamcheon Culture Village",
+     "location": "Busan, South Korea",
+     "details": "Colorful hillside village, top of the 10-things list.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Oryukdo Skywalk",
+     "location": "Busan, South Korea",
+     "details": "Glass skywalk over the coast.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Busan Sky Capsules",
+     "location": "Busan, South Korea",
+     "details": "Scenic capsule ride along the coast.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Jagalchi Market",
+     "location": "Busan, South Korea",
+     "details": "Korea's largest seafood market.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Busan Firework Yacht Cruise",
+     "location": "Busan, South Korea",
+     "details": "Evening yacht cruise with fireworks.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Restaurants & Cafes",
+     "location": "Busan, South Korea",
+     "details": "Creator's recommended restaurants and cafes across Busan.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Dakbatgol Mural Village",
+     "location": "Busan, South Korea",
+     "details": "Mural village walk.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "transport",
+     "name": "Somang Stair Monorail",
+     "location": "Busan, South Korea",
+     "details": "Monorail ride up the Somang stairs.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Hwangnyeonsan Mountain",
+     "location": "Busan, South Korea",
+     "details": "Mountain viewpoint.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Spa Land",
+     "location": "Busan, South Korea",
+     "details": "Temple-style Korean spa.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@karenexplores/video/7475306178168376583"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 12,
+   "packet_index": 0,
+   "handle": "@madisonbrookstravel",
+   "platform": "tiktok",
+   "title": "Greece guide: Athens, Mykonos, Santorini, Paros, Naxos, Milos",
+   "destination": "Greece",
+   "country": "Greece",
+   "days": 6,
+   "summary": "Greece island guide covering Athens, Mykonos, Santorini, Paros, Naxos and Milos. TikTok video 7580531799017770253 published ~2025-12-06; 188,300 plays, 11,000 likes, 90 comments.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Athens",
+     "location": "Athens, Greece",
+     "details": "Stop on the Greece guide",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "other",
+     "name": "Mykonos",
+     "location": "Mykonos, Greece",
+     "details": "Stop on the Greece guide",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "other",
+     "name": "Santorini",
+     "location": "Santorini, Greece",
+     "details": "Stop on the Greece guide",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "other",
+     "name": "Paros",
+     "location": "Paros, Greece",
+     "details": "Stop on the Greece guide",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "other",
+     "name": "Naxos",
+     "location": "Naxos, Greece",
+     "details": "Stop on the Greece guide",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "other",
+     "name": "Milos",
+     "location": "Milos, Greece",
+     "details": "Stop on the Greece guide",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@madisonbrookstravel/video/7580531799017770253"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 13,
+   "packet_index": 0,
+   "handle": "@deccadotcom",
+   "platform": "tiktok",
+   "title": "Perfect 5-day Mexico City weekend",
+   "destination": "Mexico City",
+   "country": "Mexico",
+   "days": 5,
+   "summary": "Day-by-day 5-day Mexico City itinerary with named restaurants, bars, markets, museums and neighborhoods, from a Friday arrival through a Teotihuacan Tuesday.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Lardo",
+     "location": "Mexico City, Mexico",
+     "details": "Breakfast, day 1",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Chapultepec Park",
+     "location": "Mexico City, Mexico",
+     "details": "Explore",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Chapultepec Castle",
+     "location": "Mexico City, Mexico",
+     "details": "Visit",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Museo Nacional de Antropologia",
+     "location": "Mexico City, Mexico",
+     "details": "Visit",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Abraza Mar",
+     "location": "Mexico City, Mexico",
+     "details": "Lunch",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Roma and Condesa",
+     "location": "Mexico City, Mexico",
+     "details": "Explore neighborhoods",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Salon Palomilla",
+     "location": "Mexico City, Mexico",
+     "details": "Specialty drinks",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "La Unica (Polanco)",
+     "location": "Mexico City, Mexico",
+     "details": "Dinner before Lucha Libre",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Lucha Libre",
+     "location": "Mexico City, Mexico",
+     "details": "Evening event",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Tetetlan",
+     "location": "Mexico City, Mexico",
+     "details": "Breakfast",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Coyoacan",
+     "location": "Mexico City, Mexico",
+     "details": "Explore",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Coyoacan markets",
+     "location": "Mexico City, Mexico",
+     "details": "Shopping",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Condesa",
+     "location": "Mexico City, Mexico",
+     "details": "Afternoon explore",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Myka Greek",
+     "location": "Mexico City, Mexico",
+     "details": "Treat",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Botica Masaryk",
+     "location": "Mexico City, Mexico",
+     "details": "Dinner",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "El Ayer DF or Cometa Disco",
+     "location": "Mexico City, Mexico",
+     "details": "Nightlife",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Quentin Cafe (Condesa)",
+     "location": "Mexico City, Mexico",
+     "details": "Breakfast",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Bike on Reforma",
+     "location": "Mexico City, Mexico",
+     "details": "Sunday bike ride",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Zocalo",
+     "location": "Mexico City, Mexico",
+     "details": "Explore",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Palacio de Bellas Artes",
+     "location": "Mexico City, Mexico",
+     "details": "Explore",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Sunday Bazaars on Colima street (Roma Norte)",
+     "location": "Mexico City, Mexico",
+     "details": "Shopping",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Maizajo",
+     "location": "Mexico City, Mexico",
+     "details": "Lunch",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Pandora Roof MX",
+     "location": "Mexico City, Mexico",
+     "details": "Rooftop dinner",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Aura Mex cooking class and market tour",
+     "location": "Mexico City, Mexico",
+     "details": "Cooking class",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Museo Soumaya",
+     "location": "Mexico City, Mexico",
+     "details": "Visit",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Museo Jumex",
+     "location": "Mexico City, Mexico",
+     "details": "Visit",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "La Bonvi",
+     "location": "Mexico City, Mexico",
+     "details": "Lunch",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Polanco",
+     "location": "Mexico City, Mexico",
+     "details": "Explore",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Entre Mar",
+     "location": "Mexico City, Mexico",
+     "details": "Dinner",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Cafe Tierra Azul",
+     "location": "Mexico City, Mexico",
+     "details": "Breakfast",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Teotihuacan",
+     "location": "Teotihuacan, Mexico",
+     "details": "Visit",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Sunrise hot air balloons over Teotihuacan",
+     "location": "Teotihuacan, Mexico",
+     "details": "Optional early start",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Barra Lupe",
+     "location": "Mexico City, Mexico",
+     "details": "Authentic lunch",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Explore favorite neighborhood",
+     "location": "Mexico City, Mexico",
+     "details": "Free explore",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Homare",
+     "location": "Mexico City, Mexico",
+     "details": "Special dinner",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@deccadotcom/video/7582695666606935326"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 13,
+   "packet_index": 0,
+   "handle": "@barefoot.blaze",
+   "platform": "tiktok",
+   "title": "Western Australia 2WD road trip",
+   "destination": "Western Australia",
+   "country": "Australia",
+   "days": null,
+   "summary": "9-10+ day Western Australia 2WD road trip route: Perth, Sandy Cape, Kalbarri, Shark Bay/Monkey Mia, Quobba, Coral Bay, Bullara and Exmouth/Ningaloo.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Perth",
+     "location": "Western Australia",
+     "details": "Road trip start",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sandy Cape",
+     "location": "Western Australia",
+     "details": "Road trip stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Kalbarri",
+     "location": "Western Australia",
+     "details": "Road trip stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Shark Bay / Monkey Mia",
+     "location": "Western Australia",
+     "details": "Road trip stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Quobba",
+     "location": "Western Australia",
+     "details": "Road trip stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Coral Bay",
+     "location": "Western Australia",
+     "details": "Road trip stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Bullara",
+     "location": "Western Australia",
+     "details": "Road trip stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Exmouth / Ningaloo",
+     "location": "Western Australia",
+     "details": "Road trip stop",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@barefoot.blaze/video/7514575758677839122"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 13,
+   "packet_index": 0,
+   "handle": "@lifeofthetravelingpin",
+   "platform": "tiktok",
+   "title": "7-day Croatia itinerary",
+   "destination": "Croatia",
+   "country": "Croatia",
+   "days": 7,
+   "summary": "Seven-day Croatia itinerary: Dubrovnik, Hvar, Split and Plitvice Lakes.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Dubrovnik",
+     "location": "Croatia",
+     "details": "Itinerary stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Hvar",
+     "location": "Croatia",
+     "details": "Itinerary stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Split",
+     "location": "Croatia",
+     "details": "Itinerary stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Plitvice Lakes",
+     "location": "Croatia",
+     "details": "Itinerary stop",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@lifeofthetravelingpin/video/7480394699061284142"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 13,
+   "packet_index": 0,
+   "handle": "@kawaiiicoco",
+   "platform": "tiktok",
+   "title": "4-day Toyama itinerary",
+   "destination": "Toyama",
+   "country": "Japan",
+   "days": 4,
+   "summary": "Four-day Toyama, Japan itinerary with detailed daily stops, published as a TikTok video guide by Kawaii Coco.",
+   "items": [],
+   "source_urls": [
+    "https://www.tiktok.com/@kawaiiicoco/video/7634412121131879693"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 13,
+   "packet_index": 0,
+   "handle": "@daveguino",
+   "platform": "tiktok",
+   "title": "9-day Beijing-Shanghai DIY solo itinerary",
+   "destination": "Beijing–Shanghai",
+   "country": "China",
+   "days": 9,
+   "summary": "Nine-day Beijing-Shanghai, China DIY solo trip itinerary presented by Dave Guino (Dave 'The Kuripot Traveler') as a TikTok video guide.",
+   "items": [],
+   "source_urls": [
+    "https://www.tiktok.com/@daveguino/video/7622215325941009671?_r=1&_d=secCgYIASAHKAESPgo8DPrCK6IAPzUFFjo4Q6W%2F9TpaPu80k2YvtgqdgMkw93LQLXSG6l81tPeBZsKKS%2FITvJqzWYCYfA1h1ByMGgA%3D&_svg=1&checksum=7500f70801a7003ccbd2028cba417fe5a8a73b3dab3962ae1dc0143af5f65dc3&item_author_type=2&link_reflow_popup_iteration_sharer"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 13,
+   "packet_index": 0,
+   "handle": "@lorrainestravels",
+   "platform": "tiktok",
+   "title": "Bali travel guide — where to stay",
+   "destination": "Bali",
+   "country": "Indonesia",
+   "days": null,
+   "summary": "Lorraine's Travels' Bali travel guide carousel: recommends eleven areas to stay across Bali based on traveler preference (Canggu, Kuta, Ubud, Nusa Penida, Nusa Lembongan, Uluwatu, Seminyak, Sidemen, Sanur, Amed, Lovina).",
+   "items": [
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Canggu",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Kuta",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Ubud",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Nusa Penida",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Nusa Lembongan",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Uluwatu",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Seminyak",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Sidemen",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Sanur",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Amed",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Lovina",
+     "location": "Bali, Indonesia",
+     "details": "Recommended area to stay in her Bali travel guide",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@lorrainestravels/photo/7425707402408021251"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 13,
+   "packet_index": 0,
+   "handle": "@docsammy.travels",
+   "platform": "tiktok",
+   "title": "6-day four-city Japan itinerary",
+   "destination": "Japan",
+   "country": "Japan",
+   "days": 6,
+   "summary": "Six-day four-city Japan trip by Sammy Agoda with DIY tips and budget notes across Tokyo, Kawaguchiko, Kyoto and Osaka.",
+   "items": [],
+   "source_urls": [
+    "https://www.tiktok.com/@docsammy.travels/video/7586235903945772296"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 13,
+   "packet_index": 0,
+   "handle": "@emiporelmundo",
+   "platform": "tiktok",
+   "title": "5-day Mexico City slow-travel itinerary",
+   "destination": "Mexico City",
+   "country": "Mexico",
+   "days": 5,
+   "summary": "Five-day slow-travel Mexico City itinerary by Emiliana covering Reforma/Zocalo, Chapultepec/Polanco, Roma/Condesa, Coyoacan, the Frida Kahlo Museum and Biblioteca Vasconcelos.",
+   "items": [],
+   "source_urls": [
+    "https://www.tiktok.com/@emiporelmundo/video/7618732410192006430"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 14,
+   "packet_index": 0,
+   "handle": "@bontraveler",
+   "platform": "tiktok",
+   "title": "Northern California coast road trip (4 days / 3 nights)",
+   "destination": "Northern California coast, USA",
+   "country": "United States",
+   "days": 4,
+   "summary": "Four-day, three-night road trip on Northern California's coast. Point Reyes Station/Marin County: Nick's Cove, Bovine Bakery, Cowgirl Creamery, Side Street Kitchen, Point Reyes National Seashore, lighthouse, Cypress Tree Tunnel, elephant seals, Elk Reserve, Chimney Rock, Tomales Farmer's Market, Heidrun Meadery. Timber Cove/Sonoma: Timber Cove Resort, Coastal Kitchen, Cafe Aquatica, Spud Point Crab Company, North Salmon Creek Beach, Arched Rock Beach, Jenner kayaking, Fort Ross Vineyard, Salt Point State Park. Elk/Mendocino: Harbor House Inn, Elk Store, Sea Ranch, Pebble Beach, Sea Ranch Chapel, Gualala Point, Greenwood State Beach, Mendocino, Catch-A-Canoe.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Nick's Cove",
+     "location": "Point Reyes Station, CA",
+     "details": "Waterfront restaurant stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Bovine Bakery",
+     "location": "Point Reyes Station, CA",
+     "details": "Bakery stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Cowgirl Creamery",
+     "location": "Point Reyes Station, CA",
+     "details": "Cheese shop/creamery",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Side Street Kitchen",
+     "location": "Point Reyes Station, CA",
+     "details": "Restaurant stop",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Point Reyes National Seashore",
+     "location": "Marin County, CA",
+     "details": "National seashore: lighthouse, Cypress Tree Tunnel, elephant seals, Elk Reserve, Chimney Rock",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Tomales Farmer's Market and Heidrun Meadery",
+     "location": "Tomales, CA",
+     "details": "Farmers market and meadery",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Timber Cove Resort",
+     "location": "Timber Cove, Sonoma County, CA",
+     "details": "Overnight resort with Coastal Kitchen restaurant",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Cafe Aquatica and Spud Point Crab Company",
+     "location": "Sonoma County, CA",
+     "details": "Cafe and crab shack stops",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "North Salmon Creek Beach and Arched Rock Beach",
+     "location": "Sonoma County, CA",
+     "details": "Beach stops",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Jenner kayaking",
+     "location": "Jenner, CA",
+     "details": "Kayaking excursion",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Fort Ross Vineyard and Salt Point State Park",
+     "location": "Sonoma County, CA",
+     "details": "Vineyard and state park stops",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Harbor House Inn",
+     "location": "Elk, Mendocino County, CA",
+     "details": "Overnight inn",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Elk Store, Sea Ranch, Pebble Beach, Sea Ranch Chapel, Gualala Point, Greenwood State Beach, Mendocino",
+     "location": "Mendocino County, CA",
+     "details": "Mendocino coast stops including Catch-A-Canoe outfitter",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.bontraveler.com/a-three-night-road-trip-on-northern-californias-coast/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 14,
+   "packet_index": 0,
+   "handle": "@charlieonhistravels",
+   "platform": "tiktok",
+   "title": "48 Hours in Vancouver — first-timer itinerary",
+   "destination": "Vancouver",
+   "country": "Canada",
+   "days": 2,
+   "summary": "Day-by-day 48-hour first-timer itinerary for Vancouver (published 2026-04-05 per TikTok create_time). Day 1 covers downtown sights, Gastown and Coal Harbour with a golden-hour ferry to Lonsdale Quay; Day 2 covers Granville Island, the seawall, Stanley Park and Yaletown.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Canada Place free walking tour",
+     "location": "Vancouver, BC",
+     "details": "Start Day 1 at Canada Place with a free walking tour to get bearings",
+     "price_hint": ""
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Gastown",
+     "location": "Vancouver, BC",
+     "details": "Cobbled streets, steam clock photos, historic vibes, lunch stop",
+     "price_hint": ""
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Robson Street",
+     "location": "Vancouver, BC",
+     "details": "Shopping stroll",
+     "price_hint": ""
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Coal Harbour waterfront",
+     "location": "Vancouver, BC",
+     "details": "Waterfront walk with mountain-meets-city views",
+     "price_hint": ""
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Ferry to Lonsdale Quay",
+     "location": "Vancouver, BC",
+     "details": "Golden-hour ferry across the harbour for skyline views back across the water",
+     "price_hint": ""
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Plaza of Nations",
+     "location": "Vancouver, BC",
+     "details": "Day 2 starting point",
+     "price_hint": ""
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Aquabus to Granville Island",
+     "location": "Vancouver, BC",
+     "details": "Aquabus hop from Plaza of Nations",
+     "price_hint": ""
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Granville Island food market",
+     "location": "Vancouver, BC",
+     "details": "Food market; eat your way around and grab coffee",
+     "price_hint": ""
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Vancouver Seawall",
+     "location": "Vancouver, BC",
+     "details": "Cruise along the famous seawall",
+     "price_hint": ""
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Stanley Park",
+     "location": "Vancouver, BC",
+     "details": "Bike or walk the loop past Prospect Point and the Totem Poles",
+     "price_hint": ""
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Yaletown dinner spot",
+     "location": "Yaletown, Vancouver, BC",
+     "details": "Vibey dinner spot to round off the trip; no venue named",
+     "price_hint": ""
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@charlieonhistravels/video/7625324292930129174"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 14,
+   "packet_index": 0,
+   "handle": "@sivanstravels",
+   "platform": "tiktok",
+   "title": "One week in Colombia",
+   "destination": "Colombia",
+   "country": "Colombia",
+   "days": 7,
+   "summary": "One-week Colombia route: Cartagena 3 days; Santa Marta/Tayrona/Minca 2 days (Tayrona National Park hike, Minca day trip); Medellin 2 days.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Cartagena (3 days)",
+     "location": "Cartagena, Colombia",
+     "details": "First leg of Colombia week",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Santa Marta / Tayrona National Park hike",
+     "location": "Santa Marta, Colombia",
+     "details": "Tayrona National Park hike, second leg",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Minca day trip",
+     "location": "Minca, Colombia",
+     "details": "Day trip from the Santa Marta base",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Medellin (2 days)",
+     "location": "Medellin, Colombia",
+     "details": "Final leg of Colombia week",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@sivanstravels/video/7588281592616094989"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 14,
+   "packet_index": 0,
+   "handle": "@theufuoma",
+   "platform": "tiktok",
+   "title": "Five days in Belize",
+   "destination": "Belize",
+   "country": "Belize",
+   "days": 5,
+   "summary": "Five-day Belize guide: Toronto to Belize City to Dangriga/Hopkins, stay at the Lodge at Jaguar Reef, named restaurants, Garifuna activities, Che'il Maya Chocolate, San Pedro/Alaia Belize, Great Blue Hole, spa and sip-and-paint, departure flights.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "flight",
+     "name": "Toronto to Belize City",
+     "location": "Belize City, Belize",
+     "details": "Inbound flight routing via Belize City",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Belize City to Dangriga/Hopkins",
+     "location": "Dangriga / Hopkins, Belize",
+     "details": "Transfer to the Hopkins/Dangriga coast",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Lodge at Jaguar Reef",
+     "location": "Hopkins, Belize",
+     "details": "Base lodge stay",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Garifuna activities",
+     "location": "Hopkins, Belize",
+     "details": "Garifuna cultural activities",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Che'il Maya Chocolate",
+     "location": "Belize",
+     "details": "Maya chocolate experience",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "San Pedro / Alaia Belize",
+     "location": "San Pedro, Ambergris Caye, Belize",
+     "details": "San Pedro stop with Alaia Belize",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Great Blue Hole",
+     "location": "Belize Barrier Reef, Belize",
+     "details": "Great Blue Hole excursion",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Spa and sip-and-paint",
+     "location": "Belize",
+     "details": "Spa and sip-and-paint experiences",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "flight",
+     "name": "Departure flights",
+     "location": "Belize",
+     "details": "Outbound flight routing",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://theufuoma.com/a-travel-guide-to-belize-things-to-see-do-experience/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 14,
+   "packet_index": 0,
+   "handle": "@jvwanderer",
+   "platform": "tiktok",
+   "title": "Da Nang/Hoi An five-day route (JV)",
+   "destination": "Da Nang / Hoi An, Vietnam",
+   "country": "Vietnam",
+   "days": 5,
+   "summary": "Five-day Da Nang/Hoi An itinerary. No named stops were visible in the captured source material, so no items are listed.",
+   "items": [],
+   "source_urls": [
+    "https://www.tiktok.com/@jvwanderer/video/7613120581881318677"
+   ],
+   "confidence": "low"
+  },
+  {
+   "batch": 14,
+   "packet_index": 0,
+   "handle": "@heyoleahpinay",
+   "platform": "tiktok",
+   "title": "Siargao day trip",
+   "destination": "Siargao, Philippines",
+   "country": "Philippines",
+   "days": 1,
+   "summary": "Day trip in Siargao: palengke (market) stop then on to the island. Thin but structured day-plan format.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Palengke (market) stop",
+     "location": "Siargao, Philippines",
+     "details": "Local market stop on the Siargao day trip",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Siargao island",
+     "location": "Siargao, Philippines",
+     "details": "Island day trip",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@heyoleahpinay/video/7634813667724315926"
+   ],
+   "confidence": "low"
+  },
+  {
+   "batch": 14,
+   "packet_index": 0,
+   "handle": "@shelbyreickstravels",
+   "platform": "tiktok",
+   "title": "Eight days in Egypt",
+   "destination": "Egypt",
+   "country": "Egypt",
+   "days": 8,
+   "summary": "Eight-day Egypt itinerary. No named stops were visible in the captured source material, so no items are listed.",
+   "items": [],
+   "source_urls": [
+    "https://www.tiktok.com/@shelbyreickstravels/video/7574488768208571679"
+   ],
+   "confidence": "low"
+  },
+  {
+   "batch": 14,
+   "packet_index": 0,
+   "handle": "@_jessiecarr",
+   "platform": "tiktok",
+   "title": "New Zealand North Island campervan itinerary",
+   "destination": "New Zealand North Island",
+   "country": "New Zealand",
+   "days": null,
+   "summary": "Paid ($29) day-by-day North Island campervan itinerary covering route, driving times, campervan stops, food, activities and culture. Specific stops sit behind the paid PDF and are not extracted.",
+   "items": [],
+   "source_urls": [
+    "https://travellikejessie.com.au",
+    "https://www.tiktok.com/@_jessiecarr/photo/7625999250861837586"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 14,
+   "packet_index": 1,
+   "handle": "@_jessiecarr",
+   "platform": "tiktok",
+   "title": "Samoa itinerary",
+   "destination": "Samoa",
+   "country": "Samoa",
+   "days": null,
+   "summary": "Paid ($29) Samoa itinerary covering exact route, where-to-stay/location tips, food, activities and culture. Specific stops sit behind the paid PDF and are not extracted.",
+   "items": [],
+   "source_urls": [
+    "https://travellikejessie.com.au",
+    "https://www.tiktok.com/@_jessiecarr/photo/7625999250861837586"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 14,
+   "packet_index": 2,
+   "handle": "@_jessiecarr",
+   "platform": "tiktok",
+   "title": "Phu Quoc itinerary",
+   "destination": "Phu Quoc, Vietnam",
+   "country": "Vietnam",
+   "days": null,
+   "summary": "Paid ($29) Phu Quoc day-by-day itinerary covering beach days, theme parks, food, night markets and accommodation areas. Specific stops sit behind the paid PDF and are not extracted.",
+   "items": [],
+   "source_urls": [
+    "https://travellikejessie.com.au",
+    "https://www.tiktok.com/@_jessiecarr/photo/7625999250861837586"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 15,
+   "packet_index": 0,
+   "handle": "@travelingspud",
+   "platform": "instagram",
+   "title": "Southern Idaho Road Trip: Best Way to See Various Landscapes",
+   "destination": "Southern Idaho, USA",
+   "country": "United States",
+   "days": 10,
+   "summary": "Katie Williams' own 10-day Southern Idaho road-trip itinerary (updated ~2026-08-04): Days 1-2 Boise (downtown food scene, Greenbelt, Boise River float), Day 3 Bruneau Sand Dunes + Big Idaho Potato Hotel, Day 4 Thousand Springs (Blue Heart Springs kayak), Day 5 Twin Falls (Shoshone Falls, Snake River Canyon), Day 6 City of Rocks, Day 7 Craters of the Moon, Days 8-9 Sun Valley/Ketchum, Day 10 Stanley/Redfish Lake/Sawtooth National Forest; stay recommendations with booking/affiliate links.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Downtown Boise food and bars",
+     "location": "Boise",
+     "details": "8th Street restaurants, 6th Street bar scene; favorite breakfast/coffee spots.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Boise Greenbelt bike ride and river float",
+     "location": "Boise",
+     "details": "Bike the Greenbelt, float the Boise River in summer, end at local breweries.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Bruneau Dunes State Park",
+     "location": "Bruneau Dunes",
+     "details": "Sandboarding, hiking the dunes, Bruneau Dunes Observatory stargazing.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Big Idaho Potato Hotel",
+     "location": "Mountain Home",
+     "details": "Funky Airbnb in the famous potato; feed Dolly the cow on-site.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Thousand Springs Reserve and Blue Heart Springs",
+     "location": "Thousand Springs",
+     "details": "Kayak to Blue Heart Springs and Ritter Island; summer camping.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "1000 Springs Resort",
+     "location": "Hagerman",
+     "details": "Camping spots on the water; geothermal mineral pool.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Shoshone Falls and Twin Falls",
+     "location": "Twin Falls",
+     "details": "Shoshone Falls Park viewpoints, Snake River Canyon, downtown dining.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "City of Rocks National Reserve",
+     "location": "City of Rocks",
+     "details": "49-mile scenic drive, bouldering, camping, stargazing.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Craters of the Moon National Monument",
+     "location": "Craters of the Moon",
+     "details": "Lava flows and cinder cones; North Crater Trail hike (3.5 mi).",
+     "price_hint": null
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Sun Valley and Ketchum",
+     "location": "Sun Valley/Ketchum",
+     "details": "Bald Mountain skiing in winter, hiking/biking in summer; restaurant and bar scene.",
+     "price_hint": null
+    },
+    {
+     "day": 8,
+     "item_type": "hotel",
+     "name": "Hotel Ketchum",
+     "location": "Ketchum",
+     "details": "Recommended boutique hotel in a great location.",
+     "price_hint": null
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "Stanley, Redfish Lake, Sawtooth National Forest",
+     "location": "Stanley",
+     "details": "Redfish Lake camping/hiking, Alice Toxaway backpacking loop, Bridalveil Falls hike (7.3 mi).",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.travelingspud.com/the-ultimate-southern-idaho-road-trip-itinerary/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 15,
+   "packet_index": 0,
+   "handle": "@insidetravellab",
+   "platform": "instagram",
+   "title": "Morocco Itinerary",
+   "destination": "Morocco",
+   "country": "Morocco",
+   "days": null,
+   "summary": "Structured Morocco itinerary on the creator's site.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Morocco Itinerary",
+     "location": "Morocco",
+     "details": "Structured Morocco itinerary on the creator's site. Day count and stop-level detail were not observed in public search results.",
+     "price_hint": "unknown"
+    }
+   ],
+   "source_urls": [
+    "https://www.insidethetravellab.com/morocco-itinerary/"
+   ],
+   "confidence": "low"
+  },
+  {
+   "batch": 15,
+   "packet_index": 0,
+   "handle": "@araioflight",
+   "platform": "instagram",
+   "title": "Portland to San Francisco Road Trip: Best Stops",
+   "destination": "Portland to San Francisco road trip",
+   "country": "USA",
+   "days": null,
+   "summary": "Raihaan's structured Portland-to-San Francisco road trip guide (published and modified 2025-06-17) listing the best stops along the route. Per-stop item extraction was not captured in this pass and is flagged for re-verification.",
+   "items": [],
+   "source_urls": [
+    "https://www.araioflight.com/drive-portland-to-san-francisco-road-trip-best-stops/"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 16,
+   "packet_index": 0,
+   "handle": "@lakshmisharath",
+   "platform": "Instagram",
+   "title": "Sunderbans Beyond the Tiger: Local Experiences",
+   "destination": "Sunderbans",
+   "country": "India",
+   "days": 4,
+   "summary": "Four-day Sunderbans local-experiences journey beyond the tiger: Kolkata arrival, Gadkhali Ferry Point crossing to Bali Island, homestays, village walks, birdwatching, Baul music, village theatre, nature trails, island hopping, Gosaba, Rangabelia crafts and batik, Bengali farm-to-table meals. Published 2026-07-01.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Kolkata to Bali Island transfer",
+     "location": "Kolkata to Bali Island, West Bengal, India",
+     "details": "Arrive Kolkata; road transfer to Gadkhali Ferry Point and ferry crossing to Bali Island",
+     "price_hint": ""
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Bonbibi Home Stay",
+     "location": "Bali Island, Sunderbans, India",
+     "details": "Check in to Bonbibi Home Stay on Bali Island",
+     "price_hint": ""
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Village walks and birdwatching",
+     "location": "Bali Island, Sunderbans, India",
+     "details": "Guided village walks and birdwatching in the Bali Island villages",
+     "price_hint": ""
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Bengali meals",
+     "location": "Bali Island, Sunderbans, India",
+     "details": "Bengali meals and farm-to-table dining experiences",
+     "price_hint": ""
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Baul singers performance",
+     "location": "Bali Island, Sunderbans, India",
+     "details": "Evening Baul singers folk performance",
+     "price_hint": ""
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Island hopping and craft villages",
+     "location": "Sunderbans, West Bengal, India",
+     "details": "Island hopping by island ferries; Gosaba village visit; Rangabelia crafts and batik workshops",
+     "price_hint": ""
+    },
+    {
+     "day": 3,
+     "item_type": "transport",
+     "name": "Tuk-tuk transfers",
+     "location": "Sunderbans, West Bengal, India",
+     "details": "Tuk-tuk transfers between island villages",
+     "price_hint": ""
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Mangrove nature trails",
+     "location": "Sunderbans, West Bengal, India",
+     "details": "Guided nature trails through the mangrove delta",
+     "price_hint": ""
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Village theatre",
+     "location": "Sunderbans, West Bengal, India",
+     "details": "Village theatre performance",
+     "price_hint": ""
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Sundarban WELD Camp",
+     "location": "Sunderbans, West Bengal, India",
+     "details": "Stay at Sundarban WELD Camp",
+     "price_hint": ""
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Nitai Gaur Homestay",
+     "location": "Sunderbans, West Bengal, India",
+     "details": "Stay at Nitai Gaur Homestay",
+     "price_hint": ""
+    }
+   ],
+   "source_urls": [
+    "https://lakshmisharath.com/sunderbans-beyond-the-tiger-local-experiences/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 17,
+   "packet_index": 0,
+   "handle": "@thepinaysolobackpacker",
+   "platform": "instagram",
+   "title": "PUERTO PRINCESA ITINERARY + BUDGET TRAVEL GUIDE 2026",
+   "destination": "Puerto Princesa, Palawan, Philippines",
+   "country": "Philippines",
+   "days": 4,
+   "summary": "Creator's 4-day Puerto Princesa guide (creator archive dated Feb 13, 2026): city tour covering the Underground River, weaving center and crocodile farm; Honda Bay island hopping; where to stay across city-center, resort and airport zones; and Manila flight/ferry logistics with sample budgets.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Puerto Princesa Subterranean River",
+     "location": "Sabang, Puerto Princesa, Palawan",
+     "details": "Day 1 city-tour anchor: the Underground River, one of the New 7 Wonders of Nature. Page links a Klook UNDERGROUND RIVER TOUR booking button.",
+     "price_hint": "Eco-Tourism Development Fee ₱150 ($2.58), valid 6 months"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Binuatan Creations",
+     "location": "Bougainville Drive, Rafols St., Santa Monica, Puerto Princesa",
+     "details": "Weaving workshop stop on the city tour; open daily 7:00 AM – 6:00 PM.",
+     "price_hint": "Entrance FREE"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Palawan Wildlife Rescue and Conservation Center",
+     "location": "Irawan, Puerto Princesa",
+     "details": "Crocodile farm/conservation stop on the city tour; open daily 8:00 AM – 4:45 PM.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Honda Bay island hopping",
+     "location": "Santa Lourdes Wharf, Puerto Princesa",
+     "details": "Day-trip island hopping from Honda Bay; page links a Klook HONDA BAY ISLAND HOPPING booking button.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Puerto Princesa Heritage Tour",
+     "location": "Puerto Princesa City",
+     "details": "Half- or full-day heritage/city tour; page links a Klook booking button and recommends booking in advance.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Mojo Hostel Palawan",
+     "location": "Downtown Puerto Princesa",
+     "details": "Budget city-center stay on Rizal Avenue area; page links Klook and Agoda reserve/check-rate buttons.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Hue Hotels and Resorts Puerto Princesa",
+     "location": "Downtown Puerto Princesa",
+     "details": "City-center hotel; page links Klook and Agoda reserve/check-rate buttons.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Daluyon Beach and Mountain Resort",
+     "location": "Sabang Beach, Puerto Princesa",
+     "details": "Award-winning eco-friendly DOT-accredited beach resort; creator stayed here on her last trip. Page links Klook and Agoda reserve/check-rate buttons.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Manila to Puerto Princesa flight",
+     "location": "Puerto Princesa International Airport",
+     "details": "Major airlines (Philippine Airlines, Cebu Pacific, AirAsia), ~1h15m. Page links a 12go.asia COMPARE RATES HERE button.",
+     "price_hint": "≈ ₱1,500 ($26) to ₱5,000 ($86)"
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Airport tricycle to city center",
+     "location": "Puerto Princesa Airport → downtown",
+     "details": "Best for solo/budget travelers with small luggage; 15–25 minutes to downtown.",
+     "price_hint": "≈ ₱150 ($2.58) to ₱200 ($3.45), good for 2–3 persons"
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "Puerto Princesa to El Nido transfer",
+     "location": "Puerto Princesa → El Nido",
+     "details": "Onward transfer link for travelers continuing to El Nido; page links a Klook BOOK HERE button.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Philippines 5G SIM / eSIM",
+     "location": "Puerto Princesa",
+     "details": "Travel essential listed in the guide; page links Klook BUY HERE buttons for physical SIM and eSIM.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://thepinaysolobackpacker.com/puerto-princesa-itinerary/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 18,
+   "packet_index": 0,
+   "handle": "@bucketlistjourney",
+   "platform": "instagram",
+   "title": "The Perfect 3-day Itinerary for Oaxaca City, Mexico",
+   "destination": "Oaxaca City, Mexico",
+   "country": "Mexico",
+   "days": 3,
+   "summary": "Creator's perfect 3-day Oaxaca City itinerary: historic center and markets on Day 1, street art plus cooking and engraving workshops on Day 2, and a mezcal tour with lucha libre on Day 3, with named restaurants for every meal.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Boulenc",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 1 breakfast; one of Oaxaca City's most popular cafes with two locations plus a bakery.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Templo de Santo Domingo de Guzman",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 1: the city's crown jewel church with ornate Baroque design and gold-covered altar.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Jardin Etnobotanico Tour",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 1 guided tour of the ethnobotanical garden (about 50 pesos, mostly in Spanish).",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Museum of Cultures of Oaxaca",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 1: museum inside a former monastery next to Santo Domingo, with Mixtec treasures including gold from Monte Alban.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Tacos Chemita",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 1 lunch; local taqueria known for al pastor tacos and chemita alambres.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Mercado Benito Juarez",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 1 shopping stop for souvenirs and snacks; creator recommends the nieve at stall #27 (Chaguita).",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "La Cueva",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 1 pre-dinner drinks; moody cave-like bar with mezcal selection near Nuestra Senora de la Defensa.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Casa Mook",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 1 dinner; creator recommends the traditional pozole and memelas.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Bodaega",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 2 pastries and coffee; creator's favorite pastry shop in Oaxaca City — morning bun with jamon serrano recommended.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Street art in Barrio de Jalatlaco",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 2: wander the murals of Barrio de Jalatlaco; creator took a free walking tour with Oaxaca by Locals.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Cooking class Dos Corazones",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 2: 3-hour cooking class with Chef Aubrey (chileajo, chile relleno, salsas). The creator links the exact Viator booking for the class she took.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Wood engraving workshop",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 2: 3-hour wood engraving class at Galeria 20-20; book by messaging them on Instagram.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Sabina Sabe",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 2 cocktails; bar on the World's Top 50 Bars list — Paloma Margarita and Guayabo Verde recommended.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Las Quince Letras",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 2 dinner; authentic Oaxacan dinner — mole negro, molotes de platano and tasajo a la oaxaquena.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Pan Con Madre",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 3 breakfast at an all-sourdough bakery; yogurt bowl with fruit, granola and cacao nibs.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "The Mezcal Journey tour",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 3: 6-hour mezcal tour from roasting agave hearts to a tasting of nearly a dozen mezcals. The creator links the Viator booking for the same tour.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Lucha Libre at Arena Oaxaca",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 3 evening (Sundays only): Lucha Libre at 6:30 PM — five matches of Rudos vs Tecnicos.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Selva Cocktail Bar",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 3 cocktails before dinner.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Zandunga",
+     "location": "Oaxaca City, Mexico",
+     "details": "Day 3 dinner to close the itinerary.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://bucketlistjourney.net/oaxaca-mexico-itinerary/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 18,
+   "packet_index": 0,
+   "handle": "@mikesroadtrip",
+   "platform": "instagram",
+   "title": "Phoenix to Colorado Springs Road Trip: 8-Day Southwest Loop",
+   "destination": "Southwest USA (Phoenix to Colorado Springs loop)",
+   "country": "USA",
+   "days": 8,
+   "summary": "8-day Southwest road trip loop from Phoenix through Flagstaff, Monument Valley, southeast Utah, Mesa Verde, Durango, Pagosa Springs and Pueblo to Colorado Springs, returning via Santa Fe, Gallup, Canyon de Chelly and Winslow.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "I-17 scenic drive Phoenix to Flagstaff",
+     "location": "Arizona, USA",
+     "details": "Approx 2.5h; dramatic transition from Sonoran Desert saguaros to ponderosa pine forests; Verde Valley views.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Historic Downtown Flagstaff",
+     "location": "Flagstaff, USA",
+     "details": "Walkable mountain-town district; restaurants, breweries, shops, Route 66 character.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Lowell Observatory",
+     "location": "Flagstaff, USA",
+     "details": "Evening stop; Flagstaff dark-sky reputation.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Sedona and Oak Creek Canyon (optional detour)",
+     "location": "Sedona, USA",
+     "details": "Optional first-time-Arizona detour; red rocks and scenic Oak Creek Canyon drive.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Little America",
+     "location": "Flagstaff, USA",
+     "details": "Recommended overnight to break up the drive and start fresh.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Wupatki National Monument (optional detour)",
+     "location": "Arizona, USA",
+     "details": "Ancient pueblo ruins against stark, windswept landscape.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Painted Desert scenery",
+     "location": "Arizona, USA",
+     "details": "Bands of color, eroded hills, long desert views along Highway 89.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Tuba City",
+     "location": "Tuba City, USA",
+     "details": "Practical stop for fuel, food; Navajo Nation communities along Highway 160.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Monument Valley",
+     "location": "Utah/Arizona, USA",
+     "details": "Iconic sandstone buttes; spend the night for sunset and/or sunrise.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "The View Hotel",
+     "location": "Monument Valley, USA",
+     "details": "Immersive stay close to the landscape; rooms, cabins, RV sites, campsites.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "Goulding's Lodge",
+     "location": "Monument Valley, USA",
+     "details": "Historic option; lodge rooms, campground/RV, dining, museum, mesa views.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Forrest Gump Point",
+     "location": "Utah, USA",
+     "details": "Optional photo stop north of Monument Valley made famous by the film.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Mexican Hat Rock Formation",
+     "location": "Mexican Hat, USA",
+     "details": "Quirky sombrero-shaped roadside landmark.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Valley of the Gods scenic drive",
+     "location": "Utah, USA",
+     "details": "Beautiful unpaved scenic route through red rock formations and sandstone monoliths.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Goosenecks State Park (optional detour)",
+     "location": "Utah, USA",
+     "details": "Sweeping view of the San Juan River carving tight bends through the canyon.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Bluff Historic District and Twin Rocks",
+     "location": "Bluff, USA",
+     "details": "Mormon pioneer history, early settlement, signature sandstone formations.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Bluff Dwellings Resort & Spa",
+     "location": "Bluff, USA",
+     "details": "Upscale, design-forward choice after dusty red-rock exploration.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Desert Rose Resort & Cabins",
+     "location": "Bluff, USA",
+     "details": "Rustic-chic cabins and lodge; on-site restaurant; base for Bears Ears and Valley of the Gods.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Mesa Verde National Park",
+     "location": "Colorado, USA",
+     "details": "Remarkably preserved cliff dwellings; Cliff Palace, Balcony House, Long House; Mesa Top Loop Road.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Durango Historic Downtown",
+     "location": "Durango, USA",
+     "details": "Lively, walkable district; shops, restaurants, breweries, galleries, Western architecture.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Durango & Silverton Narrow Gauge Railroad",
+     "location": "Durango, USA",
+     "details": "Signature classic Colorado rail experience.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Blue Lake Ranch",
+     "location": "Durango, USA",
+     "details": "Peaceful ranch setting with gardens and mountain views outside Durango.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Historic Strater Hotel",
+     "location": "Durango, USA",
+     "details": "Classic downtown choice near shops, restaurants, Animas River, railroad.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Pagosa Springs",
+     "location": "Pagosa Springs, USA",
+     "details": "Worthwhile mid-route stop; lunch, walk along San Juan River, hot springs soak.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Wolf Creek Pass",
+     "location": "Colorado, USA",
+     "details": "Dramatic high-elevation mountain section with forested views.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Pueblo Riverwalk (optional)",
+     "location": "Pueblo, USA",
+     "details": "Historic Arkansas Riverwalk; practical stop for food, fuel, short walk.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "hotel",
+     "name": "The Broadmoor",
+     "location": "Colorado Springs, USA",
+     "details": "Bucket-list grand resort stay and memorable arrival in Colorado Springs.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Garden of the Gods",
+     "location": "Colorado Springs, USA",
+     "details": "Early-morning visit before heading south on the return leg.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Las Vegas, New Mexico",
+     "location": "Las Vegas, USA",
+     "details": "Historic railroad and Old West town; vintage architecture, film locations.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Santa Fe Plaza and Canyon Road",
+     "location": "Santa Fe, USA",
+     "details": "Evening walk near the Plaza; gallery scene on Canyon Road; adobe architecture.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Inn and Spa at Loretto",
+     "location": "Santa Fe, USA",
+     "details": "Walking distance of historic downtown, Santa Fe Plaza, shops, galleries.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "La Posada de Santa Fe",
+     "location": "Santa Fe, USA",
+     "details": "Historic resort-style property with classic Santa Fe character.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Bishop's Lodge",
+     "location": "Santa Fe, USA",
+     "details": "Secluded upscale resort experience just outside downtown.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Gallup, New Mexico",
+     "location": "Gallup, USA",
+     "details": "Historic Route 66 stop; trading posts, vintage signs, Native American art.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "El Rancho Hotel",
+     "location": "Gallup, USA",
+     "details": "Classic roadside landmark; nostalgic lobby, old photos, Route 66 atmosphere.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Canyon de Chelly National Monument (optional detour)",
+     "location": "Arizona, USA",
+     "details": "Dramatic canyon overlooks, ancient cliff dwellings; South Rim Drive, White House and Spider Rock overlooks; guided canyon tours via authorized Navajo guides.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Standin' on the Corner Park",
+     "location": "Winslow, USA",
+     "details": "Essential Winslow photo stop; Route 66 nostalgia.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "hotel",
+     "name": "The Winslow",
+     "location": "Winslow, USA",
+     "details": "Newer hip modern hotel just off I-40 near old town.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "hotel",
+     "name": "La Posada Hotel",
+     "location": "Winslow, USA",
+     "details": "Great historic railroad hotel; gardens, art, The Turquoise Room.",
+     "price_hint": null
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Highway 87 south scenic return",
+     "location": "Arizona, USA",
+     "details": "More scenic and less expected return than I-40/I-17; pines and rim country.",
+     "price_hint": null
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Pine and Strawberry",
+     "location": "Arizona, USA",
+     "details": "Small mountain communities; cafes, shops, antiques; lunch or coffee.",
+     "price_hint": null
+    },
+    {
+     "day": 8,
+     "item_type": "transport",
+     "name": "Payson",
+     "location": "Payson, USA",
+     "details": "Practical stop for fuel, food, short break before descending.",
+     "price_hint": null
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Fountain Hills",
+     "location": "Fountain Hills, USA",
+     "details": "Final pause; namesake fountain, public art, lakefront walking paths.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://mikesroadtrip.com/phoenix-to-colorado-springs-road-trip-guide/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 18,
+   "packet_index": 0,
+   "handle": "@sarowly",
+   "platform": "instagram",
+   "title": "Amalfi Coast 5-Day Itinerary",
+   "destination": "Amalfi Coast, Italy",
+   "country": "Italy",
+   "days": 5,
+   "summary": "Creator's five-day Amalfi Coast itinerary (Day 1 Positano, Day 2 Amalfi and Atrani, Day 3 Ravello, Day 4 Sorrento, Day 5 Capri), written after her 2025 visit, with hotel and transport recommendations.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Positano",
+     "location": "Amalfi Coast, Italy",
+     "details": "Day 1 base of the creator's five-day Amalfi Coast itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Amalfi and Atrani",
+     "location": "Amalfi Coast, Italy",
+     "details": "Day 2 stops: Amalfi town and nearby Atrani.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Ravello",
+     "location": "Amalfi Coast, Italy",
+     "details": "Day 3 stop on the creator's five-day itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Sorrento",
+     "location": "Amalfi Coast, Italy",
+     "details": "Day 4 stop on the creator's five-day itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Capri",
+     "location": "Amalfi Coast, Italy",
+     "details": "Day 5 stop on the creator's five-day itinerary.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://sarowly.me/blog/amalficoasttravelguide"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 19,
+   "packet_index": 0,
+   "handle": "@minoritynomad",
+   "platform": "instagram",
+   "title": "A Local's Bangkok Luxury Hotel Guide",
+   "destination": "Bangkok",
+   "country": "Thailand",
+   "days": null,
+   "summary": "Erick Prince (@minoritynomad, minoritynomad.com), a Bangkok-based travel journalist, publishes a structured luxury hotel guide for Bangkok dated 2026-07-18. The guide profiles six named hotels - Kimpton Maa-Lai Bangkok, The Standard Bangkok Mahanakhon, Capella Bangkok, 137 Pillars Suites & Residences Bangkok, Mandarin Oriental Bangkok, and Shangri-La Bangkok - alongside dining and nightlife picks.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Kimpton Maa-Lai Bangkok",
+     "location": "Bangkok, Thailand",
+     "details": "Named luxury hotel in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "The Standard, Bangkok Mahanakhon",
+     "location": "Bangkok, Thailand",
+     "details": "Named luxury hotel in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Capella Bangkok",
+     "location": "Bangkok, Thailand",
+     "details": "Named luxury hotel in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "137 Pillars Suites & Residences Bangkok",
+     "location": "Bangkok, Thailand",
+     "details": "Named luxury hotel in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Mandarin Oriental Bangkok",
+     "location": "Bangkok, Thailand",
+     "details": "Named luxury hotel in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Shangri-La Bangkok",
+     "location": "Bangkok, Thailand",
+     "details": "Named luxury hotel in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Stock.Room",
+     "location": "Bangkok, Thailand",
+     "details": "Named dining pick in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "CRAFT",
+     "location": "Bangkok, Thailand",
+     "details": "Named dining pick in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Crimson Room",
+     "location": "Bangkok, Thailand",
+     "details": "Named dining/nightlife pick in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Ojo",
+     "location": "Bangkok, Thailand",
+     "details": "Named dining pick in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Bamboo Bar",
+     "location": "Bangkok, Thailand",
+     "details": "Named bar pick in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Lumphini Park",
+     "location": "Bangkok, Thailand",
+     "details": "Named activity/neighborhood anchor in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sky Beach",
+     "location": "Bangkok, Thailand",
+     "details": "Named activity/nightlife pick in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Mahanakhon Skywalk",
+     "location": "Bangkok, Thailand",
+     "details": "Named activity in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Warehouse 30",
+     "location": "Bangkok, Thailand",
+     "details": "Named activity/shopping pick in the guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "IconSiam",
+     "location": "Bangkok, Thailand",
+     "details": "Named activity/shopping pick in the guide.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.minoritynomad.com/blog/a-locals-bangkok-luxury-hotel-guide"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 19,
+   "packet_index": 0,
+   "handle": "@angieaway",
+   "platform": "instagram",
+   "title": "Under-the-Radar Girls' Getaway in the South: Things to Do in Ridgeland, Mississippi",
+   "destination": "Ridgeland, Mississippi",
+   "country": "United States",
+   "days": 4,
+   "summary": "Angie Orth (@angieaway, angieaway.com) publishes a first-person four-day Ridgeland itinerary (URL date 2026-07-20): Day 1 hotel check-in + CAET dinner + Renaissance Show Fountain; Day 2 Barnett Reservoir, Bill Waller Craft Center, CW Organics tea room, Allison Avery bead bar, PaTina head spa, Tico's Steakhouse; Day 3 Natchez Trace biking, Cock of the Walk, Retail Trail, Buenos Aires Bakery, Wildflower Field, Anjou; Day 4 breakfast and fly home. Stay22 booking link on AC Hotel Jackson Ridgeland; 'book ahead' CTAs for head spa, Tico's and dinner reservations. Trip hosted in partnership with Explore Ridgeland (DMO press trip, not a group trip).",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "AC Hotel Jackson Ridgeland",
+     "location": "221 Township Avenue, Ridgeland, MS",
+     "details": "Check-in hotel for the trip; walkable to The Township at Colony Park, Fusion Coffeehouse and Anjou. Stay22 booking link on the hotel name in the Where to Stay section.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "CAET",
+     "location": "Ridgeland, MS (near Ridgeland Visitor Center)",
+     "details": "Dinner day 1: oyster / small plates spot; raw bar, truffle fries, beef carpaccio, oysters Rockefeller, redfish, steak.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Renaissance Show Fountain",
+     "location": "1000 Highland Colony Parkway, Ridgeland, MS",
+     "details": "Free synchronized water, light and music show nightly 6-9pm outside Malco Renaissance Cinema Grill.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "E.A.T.S Diner",
+     "location": "Ridgeland, MS",
+     "details": "Breakfast day 2: biscuits and gravy, beignets; no liquor before 10am.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Fusion Coffeehouse",
+     "location": "Ridgeland, MS",
+     "details": "Iced coffees to go from locally owned coffeehouse.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Barnett Reservoir (\"The Rez\")",
+     "location": "Old Trace Park, 422 Post Road, Ridgeland, MS; Reservoir Overlook, Natchez Trace Parkway, Madison, MS",
+     "details": "Morning day 2: shoreline walk at Old Trace Park and Reservoir Overlook; Pearl River Kayaks offers rentals for getting on the water.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Bill Waller Craft Center",
+     "location": "950 Rice Road, Ridgeland, MS",
+     "details": "Home of the Craftsmen's Guild of Mississippi; pottery, glasswork, textiles, Choctaw baskets, jewelry; best local souvenir shopping.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "CW Organics Apothicaire & Tea Room",
+     "location": "103 West Washington Street, Ridgeland, MS",
+     "details": "Lunch/tea day 2: tiered tea service for two; caramel cake standout; dozens of tea flavors to take home.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Allison Avery",
+     "location": "118 West Jackson Street, Ridgeland, MS",
+     "details": "Demi-fine jewelry flagship in the Railroad District; Charm Bar and Bead Bar build-your-own custom pieces.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "PaTina Head Spa",
+     "location": "108 South Maple Street, Ridgeland, MS",
+     "details": "Head spa treatment (~90 min scalp massage/wash/exfoliation + neck/shoulder massage). Book ahead; fills fast on weekends.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Tico's Steakhouse",
+     "location": "1536 E County Line Rd, Ridgeland, MS",
+     "details": "Dinner day 2: Ridgeland institution since 1989. Book ahead, especially when the legislature is in session.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Celebrate America Balloon Glow",
+     "location": "Northpark, 1200 E County Line Rd, Ridgeland, MS",
+     "details": "Seasonal summer event: ~15 hot air balloons light up at nightfall, followed by early-4th fireworks. Check calendar; one day a year.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Whirl Smoothie Bar & Coffee House",
+     "location": "192 Old Town Crossing, Ridgeland, MS",
+     "details": "Morning day 3: acai bowls and coffee at the Chisha-Foka Multi-Use Trail trailhead.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Ridgeland Bikeshare / Chisha-Foka Trail",
+     "location": "Ridgeland, MS",
+     "details": "Free on-demand bikeshare via the Koloni app (download before the trip); nearly 10-mile paved Chisha-Foka Multi-Use Trail.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Natchez Trace Parkway / Cypress Swamp Boardwalk",
+     "location": "Natchez Trace Parkway, MS",
+     "details": "Drive the Trace (do not speed - national park tickets are steep); Cypress Swamp boardwalk among towering cypress trees.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Cock of the Walk",
+     "location": "141 Madison Landing Circle, Ridgeland, MS",
+     "details": "Lunch day 3: catfish institution on the Reservoir; coleslaw, hushpuppies, fried catfish/shrimp/chicken on tin plates.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Ridgeland Retail Trail",
+     "location": "Ridgeland, MS",
+     "details": "Shopping districts: Renaissance at Colony Park, Township at Colony Park, Northpark Mall, Railroad District, Highway 51 antiques.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Buenos Aires Bakery",
+     "location": "500 U.S. 51, Ridgeland, MS",
+     "details": "Argentinian bakery; viral fruit pastries (mango, pear, pineapple) with shattering candy shells.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Ridgeland Wildflower Field & Art Park",
+     "location": "411 West Jackson Street, Ridgeland, MS",
+     "details": "Zinnia field with upcycled scrap-metal sculptures by Harry Day; visitors may clip up to a dozen blooms.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Anjou",
+     "location": "361 Township Avenue, Ridgeland, MS",
+     "details": "Dinner day 3: French bistro in The Township; escargot, French onion soup, steak, creme brulee. Book dinner reservations ahead.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Malco Renaissance Cinema Grill",
+     "location": "Renaissance at Colony Park, Ridgeland, MS",
+     "details": "Movie stop on day 3 per the itinerary at-a-glance.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "AC Hotel breakfast / depart JAN",
+     "location": "Jackson-Medgar Wiley Evers International Airport (JAN)",
+     "details": "Final morning: breakfast at the AC Hotel (new breakfast menu), short drive back to JAN; flew American via Charlotte.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://angieaway.com/2026/07/20/things-to-do-in-ridgeland-mississippi/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 19,
+   "packet_index": 0,
+   "handle": "@thereshegoesagn",
+   "platform": "instagram",
+   "title": "The Ultimate Tenerife Itinerary for 7 Days",
+   "destination": "Tenerife, Canary Islands",
+   "country": "Spain",
+   "days": 7,
+   "summary": "7-day Tenerife itinerary with day-by-day structure covering Puerto de la Cruz (second-half base) and La Orotava, with named hotel picks.",
+   "items": [
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Puerto de la Cruz",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Hotel Botanico y Oriental Spa Garden",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Plaza del Charco-Muelle",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Casa el Adina",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Hotel Don Candido",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "La Orotava",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://thereshegoesagain.org/tenerife-itinerary/"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 19,
+   "packet_index": 0,
+   "handle": "@wheretarawent",
+   "platform": "instagram",
+   "title": "One Week in Albania: Complete Itinerary and Travel Guide",
+   "destination": "Albania",
+   "country": "Albania",
+   "days": 7,
+   "summary": "Tara (wheretarawent.com) publishes a first-person one-week Albania itinerary. Page titled 'Updated for 2026' (within 2024-09-17 to 2026-09-17).",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Tirana",
+     "location": "Albania",
+     "details": "Arrival; pick up rental car, visit Skanderbeg Square and BunkArt museum.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Kruje Castle",
+     "location": "Kruje, Albania",
+     "details": "Landmark of the old town, 35 minutes from Tirana.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Skanderbeg Museum",
+     "location": "Kruje, Albania",
+     "details": "Museum inside Kruje Castle dedicated to the national hero.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Ethnographic Museum",
+     "location": "Kruje, Albania",
+     "details": "Inside the castle; a 10-euro entrance fee was worth it.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Restorant Panorama Kruje",
+     "location": "Kruje, Albania",
+     "details": "Hillside restaurant with views over the old town and Adriatic.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Kruje Bazaar",
+     "location": "Kruje, Albania",
+     "details": "Oldest bazaar in Albania for handmade souvenirs and rugs.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "other",
+     "name": "Shkoder",
+     "location": "Albania",
+     "details": "Two nights; gateway to the Albanian Alps.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "other",
+     "name": "Theth",
+     "location": "Albania",
+     "details": "Two nights; mountain village in the Albanian Alps.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "other",
+     "name": "Shkoder",
+     "location": "Albania",
+     "details": "Return night in Shkoder after Theth.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "other",
+     "name": "Vlore",
+     "location": "Albania",
+     "details": "Riviera gateway; Galeria Art Cafe for a break, Komiteti Bar in the evening.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "restaurant",
+     "name": "Galeria Art Cafe",
+     "location": "Vlore, Albania",
+     "details": "Cafe stop in Vlore.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "restaurant",
+     "name": "Komiteti Bar",
+     "location": "Vlore, Albania",
+     "details": "Evening bar stop in Vlore.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Independence Monument",
+     "location": "Vlore, Albania",
+     "details": "Landmark named in her Vlore day.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Muradie Mosque",
+     "location": "Vlore, Albania",
+     "details": "Historic mosque in Vlore.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "National Museum of Independence",
+     "location": "Vlore, Albania",
+     "details": "Museum in Vlore.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Kanina Castle",
+     "location": "Near Vlore, Albania",
+     "details": "Hillside castle near Vlore with Bay views.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "St. Mary's Monastery",
+     "location": "Near Vlore, Albania",
+     "details": "Monastery on a small island near Vlore.",
+     "price_hint": null
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Dhermi beach",
+     "location": "Dhermi, Albania",
+     "details": "Morning at the beach before the drive to Himare.",
+     "price_hint": null
+    },
+    {
+     "day": 9,
+     "item_type": "other",
+     "name": "Himare",
+     "location": "Albania",
+     "details": "Coastal town on the 2-week route.",
+     "price_hint": null
+    },
+    {
+     "day": 10,
+     "item_type": "activity",
+     "name": "Blue Eye (Syri i Kalter)",
+     "location": "Albania",
+     "details": "Natural spring on the road between the coast and Gjirokaster.",
+     "price_hint": null
+    },
+    {
+     "day": 10,
+     "item_type": "other",
+     "name": "Gjirokaster",
+     "location": "Albania",
+     "details": "UNESCO Ottoman-era stone city.",
+     "price_hint": null
+    },
+    {
+     "day": 11,
+     "item_type": "other",
+     "name": "Berat",
+     "location": "Albania",
+     "details": "Three nights in the 'city of a thousand windows'.",
+     "price_hint": null
+    },
+    {
+     "day": 14,
+     "item_type": "other",
+     "name": "Tirana",
+     "location": "Albania",
+     "details": "Return to Tirana for departure.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://wheretarawent.com/blog/albania-itinerary"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 20,
+   "packet_index": 0,
+   "handle": "@triphackr",
+   "platform": "instagram",
+   "title": "Now Is the Time to Discover El Salvador: Sample 5-Day Route from Coco Surf",
+   "destination": "El Salvador",
+   "country": "El Salvador",
+   "days": 5,
+   "summary": "A 'Sample 5-Day Route from Coco Surf' through El Salvador, explicitly authored by Clint Johnston: Day 1 surf at El Conchalio, stroll and pupusas in El Tunco with sunset at Monkey Lala; Day 2 Santa Ana volcano hike and Lake Coatepeque swim; Day 3 Jiquilisco Bay boat tour (monkeys, birds) ending with sunset beers in El Zonte; Day 4 surf at La Bocana or Punta Roca; Day 5 Tamanique waterfall hike and a villa massage.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Coco Surf Tropical Village",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Surf at El Conchalio Beach",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Stroll around El Tunco",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Pupusas in El Tunco",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Sunset drinks at Monkey Lala, El Tunco",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Hike the Santa Ana volcano",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Swim in Lake Coatepeque",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Boat tour of Jiquilisco Bay",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Sunset beers in El Zonte",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Surf La Bocana or Punta Roca",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Hike to the Tamanique waterfall",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Massage at the villa",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://triphackr.com/now-is-the-time-to-discover-el-salvador/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 20,
+   "packet_index": 0,
+   "handle": "@globetrottergirls",
+   "platform": "instagram",
+   "title": "48 Hours in Austin, Texas",
+   "destination": "Austin",
+   "country": "United States",
+   "days": 3,
+   "summary": "A structured weekend itinerary for a first-time Austin trip on the creator's own site (last updated January 22, 2026): Friday 2pm downtown bike ride (B-Cycle Weekender Pass $19.49, Lady Bird Lake, Zilker Park, Doug Sahm Hill skyline views), food trucks, a 5pm South Congress stroll, the 7-8pm Congress Avenue Bridge bat flight, and 9pm Rainey Street bar-hopping; Saturday brunch at 24 Diner, Hope Outdoor Gallery street art, Torchy's Tacos, a free Texas State Capitol tour, Franklin's BBQ dinner, sunset drinks at Azul Rooftop, live music at the Continental Club, and the Midnight Cowboy speakeasy; Sunday breakfast tacos.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "B-Cycle Weekender Pass bike ride around downtown",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Doug Sahm Hill skyline views in Butler Park",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Tommy Want Wingy food truck",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Chi'lantro, 823 Congress Ave",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Micklethwait Craft Meats, 1309 Rosewood Ave",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "South Congress stroll: shops and murals",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Guero's Taco Bar",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Congress Avenue Bridge bat flight at sunset",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Rainey Street bar-hopping",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Geraldine's at Hotel Van Zandt",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "24 Diner brunch, 600 N Lamar",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Hope Outdoor Gallery street art",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Torchy's Tacos",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Texas State Capitol free guided tour",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Franklin's BBQ, 900 E 11th St",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Sunset drinks at Azul Rooftop",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Live music at the Continental Club",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Midnight Cowboy speakeasy",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Breakfast tacos at Veracruz All Natural",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://globetrottergirls.com/48-hours-in-austin-texas/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 20,
+   "packet_index": 0,
+   "handle": "@themobilehomie",
+   "platform": "instagram",
+   "title": "7-Day Pacific Northwest Road Trip Itinerary",
+   "destination": "Pacific Northwest",
+   "country": "United States",
+   "days": 7,
+   "summary": "Creator's 7-day Pacific Northwest road-trip route: Seattle start, Snoqualmie Falls and Leavenworth, North Cascades and Diablo Lake, Olympic National Park, Mount St. Helens, Mount Rainier, and a Bainbridge Island finale; includes per-stop pricing, booking links, packing list and a free downloadable PDF.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Pike Place Market",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Seattle Underground Tour",
+     "location": null,
+     "details": null,
+     "price_hint": "$25-$30 per person"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Kerry Park viewpoint",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Museum of Pop Culture (MoPOP)",
+     "location": null,
+     "details": null,
+     "price_hint": "from $34"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Argosy sightseeing cruise",
+     "location": null,
+     "details": null,
+     "price_hint": "$60-$70 per person"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Seattle hotel search",
+     "location": null,
+     "details": null,
+     "price_hint": "from $150/night"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Snoqualmie Falls",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Leavenworth (Bavarian village)",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "Leavenworth cabin rentals",
+     "location": null,
+     "details": null,
+     "price_hint": "from $125/night"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Diablo Lake overlook",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "North Cascades hikes",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Port Townsend ferry",
+     "location": null,
+     "details": null,
+     "price_hint": "$23.80"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Olympic National Park entry",
+     "location": null,
+     "details": null,
+     "price_hint": "$30 per vehicle"
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Sol Duc Hot Springs",
+     "location": null,
+     "details": null,
+     "price_hint": "$20-$25 per person"
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Mount St. Helens",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Ape Canyon Trail",
+     "location": null,
+     "details": null,
+     "price_hint": "$25-$30 per person"
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Mount Rainier entry",
+     "location": null,
+     "details": null,
+     "price_hint": "$30 per vehicle"
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "Paradise Inn (Mount Rainier)",
+     "location": null,
+     "details": null,
+     "price_hint": "from $375/night"
+    },
+    {
+     "day": 7,
+     "item_type": "transport",
+     "name": "Bainbridge Island ferry",
+     "location": null,
+     "details": null,
+     "price_hint": "$10-$12 per person"
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Pacific Northwest packing list",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Free downloadable PNW itinerary PDF",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://themobilehomie.com/pacific-northwest-road-trip/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 20,
+   "packet_index": 0,
+   "handle": "@sinahsstories",
+   "platform": "instagram",
+   "title": "Ultimate Puglia 7-Day Itinerary",
+   "destination": "Puglia",
+   "country": "Italy",
+   "days": 7,
+   "summary": "Seven-day Puglia road trip from Bari to Lecce built around a central base (Locorotondo/Cisternino/Ostuni): trulli villages, fishing ports, Baroque Lecce and a flexible beach day, with driving times and crowd-avoidance timing (April-May or September-October).",
+   "items": [
+    {
+     "day": null,
+     "item_type": "flight",
+     "name": "Fly into Bari (BRI) or Brindisi (BDS) airport",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Rental car (Sicily by Car)",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "La Casèdde",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Sopra I Sassi",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Alberobello trulli village",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Locorotondo old town",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Porto Antico, Monopoli",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Monopoli old town walk",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Basilica San Nicola, Bari",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Bari old town and seafront",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Lama Monachile, Polignano a Mare",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Polignano a Mare old town",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Cisternino old town",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Ostuni, the White City",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Borgo Antico Bistro, Ostuni",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Lecce Baroque center",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Spiaggia di Torre Pozzelle",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://sinahsstories.com/2025/05/30/ultimate-puglia-7-day-itinerary/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 20,
+   "packet_index": 0,
+   "handle": "@girlgoneabroad",
+   "platform": "instagram",
+   "title": "Tromso Northern Lights Guide with Photography Tips",
+   "destination": "Tromso",
+   "country": "Norway",
+   "days": null,
+   "summary": "A Tromso northern-lights guide on the creator's own site with a tour timeline, lodging, activities, and photography guidance (guide sitemap date 2025-12-17). Item-level content was not harvested this session, so no items are listed rather than invented.",
+   "items": [],
+   "source_urls": [
+    "https://www.girlgoneabroad.com/blog/tromso-northern-lights-guide-with-photography-tips"
+   ],
+   "confidence": "low"
+  },
+  {
+   "batch": 20,
+   "packet_index": 0,
+   "handle": "@michaelturtle",
+   "platform": "instagram",
+   "title": "Three Days in Athens Itinerary",
+   "destination": "Athens",
+   "country": "Greece",
+   "days": 3,
+   "summary": "A three-day Athens itinerary on the creator's own site; the page states the guide is current 'As of July 2026'. Item-level content was not harvested this session, so no items are listed rather than invented.",
+   "items": [],
+   "source_urls": [
+    "https://www.timetravelturtle.com/greece/three-days-in-athens-itinerary/"
+   ],
+   "confidence": "low"
+  },
+  {
+   "batch": 20,
+   "packet_index": 0,
+   "handle": "@expertvagabond",
+   "platform": "instagram",
+   "title": "Iceland Ring Road Trip Itinerary",
+   "destination": "Iceland Ring Road",
+   "country": "Iceland",
+   "days": 10,
+   "summary": "A 7-10 day self-drive Ring Road itinerary around Iceland's Route 1 on the creator's own site (the author gave himself 10 days): Day 1 Golden Circle; Day 2 South Coast; Day 3 iceberg lagoons and ice caves; Day 4 Egilsstaðir and the Eastern Fjords; Day 5 Mývatn and waterfalls; Day 6 Akureyri and North Iceland; Day 7 Snæfellsnes Peninsula; Days 8-10 Reykjavik.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Golden Circle drive",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "South Coast drive",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Iceberg lagoons and ice caves",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Egilsstaðir and the Eastern Fjords",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Lake Mývatn and waterfalls",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Akureyri and North Iceland",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Snæfellsnes Peninsula",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 8,
+     "item_type": "activity",
+     "name": "Explore Reykjavik",
+     "location": null,
+     "details": null,
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://expertvagabond.com/ring-road-trip-iceland/"
+   ],
+   "confidence": "medium"
+  }
+ ]
+}

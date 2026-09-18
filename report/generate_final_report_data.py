@@ -113,12 +113,12 @@ def main():
         "gate2_handles": _gate_status("validation/reports/gate2_report.json"),
         "gate3_liveness": _gate_status("validation/reports/gate3_report.json"),
         "gate4_evidence_council": _gate_status(
-            "validation/council_results/ig_slot_gate4_2026-09-17.json"),
+            "validation/reports/gate4_report.json"),
         "gate5_reconciliation": _gate_status("validation/reports/gate5_report.json"),
         "gate6_money_firewall": _gate_status(
-            "validation/council_results/gate6_2026-09-17.json"),
+            "validation/council_results/gate6_2026-09-18.json"),
         "gate7_evidence_audit": _gate_status(
-            "validation/council_results/gate7_audit_2026-09-17.json"),
+            "validation/council_results/gate7_audit_2026-09-18.json"),
     }
     gates["all_pass"] = all(v == "PASS" for v in gates.values())
 

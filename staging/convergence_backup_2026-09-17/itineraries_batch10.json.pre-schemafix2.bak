@@ -1,0 +1,256 @@
+{
+  "batch": 10,
+  "extractions": [
+    {
+      "handle": "@joansfootprints",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Bicol backpacking: Catanduanes, Albay, Sorsogon ultimate DIY itinerary for first-timers",
+          "destination": "Bicol (Catanduanes, Albay, Sorsogon)",
+          "country": "Philippines",
+          "days": 7,
+          "confidence": "medium",
+          "summary": "Joan (@joansfootprints) publishes a detailed 7-day DIY Bicol backpacking route (joansfootprints.com, 2025-02-18) covering Catanduanes, Albay and Sorsogon, with transport, activities, accommodation guidance and source-stated PHP costs.",
+          "source_urls": [
+            "http://joansfootprints.com/2025/02/18/bicol-backpacking-catanduanes-albay-sorsogon-ultimate-diy-itinerary-for-first-timers/"
+          ],
+          "items": [
+            {
+              "day": null,
+              "item_type": "destination",
+              "name": "Catanduanes",
+              "location": "Bicol, Philippines",
+              "details": "Province covered in the creator's 7-day DIY Bicol route.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": null,
+              "item_type": "destination",
+              "name": "Albay",
+              "location": "Bicol, Philippines",
+              "details": "Province covered in the creator's 7-day DIY Bicol route.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": null,
+              "item_type": "destination",
+              "name": "Sorsogon",
+              "location": "Bicol, Philippines",
+              "details": "Province covered in the creator's 7-day DIY Bicol route.",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Seven-day DIY structure with transport/activities/accommodation and PHP costs confirmed from the creator's 2025-02-18 guide; per-day venue names were not available in the search snippet and are left null rather than invented."
+    },
+    {
+      "handle": "@adell.explores",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Yorkshire Dales weekend guide",
+          "destination": "Yorkshire Dales",
+          "country": "United Kingdom",
+          "days": 2,
+          "confidence": "high",
+          "summary": "Weekend guide to the Yorkshire Dales: lodge stay plus a circuit of waterfalls, castles, caverns and abbey walks.",
+          "source_urls": [
+            "https://www.tiktok.com/@adell.explores/video/7525487843072451478"
+          ],
+          "items": [
+            {
+              "day": 1,
+              "item_type": "hotel",
+              "name": "Landal lodge",
+              "location": "Yorkshire Dales",
+              "details": "Lodge stay for the weekend",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Aysgarth three falls",
+              "location": "Yorkshire Dales",
+              "details": "Waterfall walk",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Bolton Castle",
+              "location": "Wensleydale",
+              "details": "Castle visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Richmond Castle",
+              "location": "Richmond",
+              "details": "Castle visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Stump Cross Caverns",
+              "location": "Yorkshire Dales",
+              "details": "Cavern tour",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Druids Temple",
+              "location": "Yorkshire Dales",
+              "details": "Folly visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Bolton Abbey stepping stones",
+              "location": "Bolton Abbey",
+              "details": "Riverside walk",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Individual creator; UK travel focus; dedup clear 2026-09-17; no exclusions."
+    },
+    {
+      "handle": "@staysandgetaways",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Krakow 3-day itinerary",
+          "destination": "Krakow",
+          "country": "Poland",
+          "days": 3,
+          "confidence": "high",
+          "summary": "Three days in Krakow: Old Town sights and dining, Auschwitz memorial day trip, Wawel Castle and the Kazimierz district.",
+          "source_urls": [
+            "https://www.tiktok.com/@staysandgetaways/video/7632773916057947406"
+          ],
+          "items": [
+            {
+              "day": 1,
+              "item_type": "hotel",
+              "name": "Hotel Saski",
+              "location": "Krakow",
+              "details": "Stay",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Old Town",
+              "location": "Krakow",
+              "details": "Walking tour",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "St Mary's Basilica",
+              "location": "Krakow",
+              "details": "Church visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Tawerna Wilczy Dol",
+              "location": "Krakow",
+              "details": "Dinner",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Szara Ges w Kuchni",
+              "location": "Krakow",
+              "details": "Dinner",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Auschwitz Museum & Memorial",
+              "location": "Oswiecim",
+              "details": "Memorial visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Wawel Castle complex",
+              "location": "Krakow",
+              "details": "Castle visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Kazimierz district",
+              "location": "Krakow",
+              "details": "District exploration and venues",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Individual creator; luxury travel focus; dedup clear 2026-09-17; no exclusions."
+    },
+    {
+      "handle": "@vivianaaltea",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Lake Garda Busatte-Tempesta trail guide",
+          "destination": "Lake Garda",
+          "country": "Italy",
+          "days": 1,
+          "confidence": "medium",
+          "summary": "Trail guide for the Busatte-Tempesta panoramic path above Lake Garda: 10km, about 3 hours.",
+          "source_urls": [
+            "https://www.tiktok.com/@vivianaaltea/video/7620505376185650454"
+          ],
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Busatte-Tempesta trail",
+              "location": "Lake Garda",
+              "details": "Panoramic hiking trail, 10km, approx 3 hours",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Individual creator; bio mentions a Cyprus guide product (fixed guide, not a personalized service); dedup clear 2026-09-17; no exclusions."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "gate": "1-scoped",
+  "remediation_group": "D",
+  "batch": 18,
+  "status": "PASS",
+  "rows": 10,
+  "qualified_updated": [
+    "@sarowly",
+    "@indianahannah_blog",
+    "@bucketlistjourney",
+    "@absolutelylucy"
+  ],
+  "remove_candidates_unchanged": [
+    "@learningescapes",
+    "@malaysiaasia"
+  ],
+  "errors": [],
+  "warnings": []
+}

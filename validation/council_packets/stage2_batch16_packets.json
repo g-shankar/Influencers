@@ -1,0 +1,208 @@
+{
+  "batch": 16,
+  "packets": [
+    {
+      "batch": 16,
+      "handle": "@bucketlistly",
+      "platform": "Instagram",
+      "title": "Costa Rica Backpacking Itinerary",
+      "destination": "Costa Rica",
+      "country": "Costa Rica",
+      "days": 15,
+      "summary": "15-day backpacking itinerary for Costa Rica with explicit day-by-day structure, lodging recommendations, activities, and firsthand opinions. Updated approximately 2026-09-10.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "San Jose arrival",
+          "location": "San Jose, Costa Rica",
+          "details": "Arrival in San Jose and initial exploration",
+          "booking_link": null,
+          "price_hint": ""
+        }
+      ],
+      "source_urls": [
+        "https://www.bucketlistly.blog/posts/costa-rica-backpacking-itinerary"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 16,
+      "handle": "@lakshmisharath",
+      "platform": "Instagram",
+      "title": "Sunderbans Beyond the Tiger: Local Experiences",
+      "destination": "Sunderbans",
+      "country": "India",
+      "days": 4,
+      "summary": "Four-day Sunderbans local-experiences journey beyond the tiger: Kolkata arrival, Gadkhali Ferry Point crossing to Bali Island, homestays, village walks, birdwatching, Baul music, village theatre, nature trails, island hopping, Gosaba, Rangabelia crafts and batik, Bengali farm-to-table meals. Published 2026-07-01.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "Kolkata to Bali Island transfer",
+          "location": "Kolkata to Bali Island, West Bengal, India",
+          "details": "Arrive Kolkata; road transfer to Gadkhali Ferry Point and ferry crossing to Bali Island",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 1,
+          "item_type": "hotel",
+          "name": "Bonbibi Home Stay",
+          "location": "Bali Island, Sunderbans, India",
+          "details": "Check in to Bonbibi Home Stay on Bali Island",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Village walks and birdwatching",
+          "location": "Bali Island, Sunderbans, India",
+          "details": "Guided village walks and birdwatching in the Bali Island villages",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Bengali meals",
+          "location": "Bali Island, Sunderbans, India",
+          "details": "Bengali meals and farm-to-table dining experiences",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Baul singers performance",
+          "location": "Bali Island, Sunderbans, India",
+          "details": "Evening Baul singers folk performance",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Island hopping and craft villages",
+          "location": "Sunderbans, West Bengal, India",
+          "details": "Island hopping by island ferries; Gosaba village visit; Rangabelia crafts and batik workshops",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 3,
+          "item_type": "transport",
+          "name": "Tuk-tuk transfers",
+          "location": "Sunderbans, West Bengal, India",
+          "details": "Tuk-tuk transfers between island villages",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Mangrove nature trails",
+          "location": "Sunderbans, West Bengal, India",
+          "details": "Guided nature trails through the mangrove delta",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Village theatre",
+          "location": "Sunderbans, West Bengal, India",
+          "details": "Village theatre performance",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 4,
+          "item_type": "hotel",
+          "name": "Sundarban WELD Camp",
+          "location": "Sunderbans, West Bengal, India",
+          "details": "Stay at Sundarban WELD Camp",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 4,
+          "item_type": "hotel",
+          "name": "Nitai Gaur Homestay",
+          "location": "Sunderbans, West Bengal, India",
+          "details": "Stay at Nitai Gaur Homestay",
+          "booking_link": null,
+          "price_hint": ""
+        }
+      ],
+      "source_urls": [
+        "https://lakshmisharath.com/sunderbans-beyond-the-tiger-local-experiences/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 16,
+      "handle": "@wandersmiles",
+      "platform": "Instagram",
+      "title": "2 Days In Granada Spain: Best Itinerary For First-Timers",
+      "destination": "Granada",
+      "country": "Spain",
+      "days": 2,
+      "summary": "Two-day Granada first-timer itinerary: the Alhambra, Albaicin, Sacromonte Cave Museum, traditional Andalusian food (remojon granadino, salmorejo, Iberian beef cheeks), and a sunset dinner at Las Tomases. Published 2026-09-01, updated 2026-09-06.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Alhambra palace and fortress complex",
+          "location": "Granada, Spain",
+          "details": "Visit the UNESCO World Heritage-listed Alhambra: Nasrid Palaces, Alcazaba fortress and Generalife gardens",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Albaicin neighborhood",
+          "location": "Granada, Spain",
+          "details": "Wander the Albaicin quarter: Plaza de San Nicolas viewpoint, Calle Caldereria Nueva tea houses and shops",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Sacromonte Cave Museum",
+          "location": "Sacromonte, Granada, Spain",
+          "details": "Open-air museum of eleven recreated cave homes in Barranco de los Negros; Romani culture and zambra flamenco history",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Lunch: remojon granadino and Nasrid chicken",
+          "location": "Granada, Spain",
+          "details": "Traditional remojon granadino salad and Nasrid chicken at Jardines Alberto",
+          "booking_link": null,
+          "price_hint": ""
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Sunset dinner at Las Tomases",
+          "location": "Albaicin, Granada, Spain",
+          "details": "Sunset dinner with Alhambra views; salmorejo followed by Iberian beef cheeks with celeriac",
+          "booking_link": null,
+          "price_hint": ""
+        }
+      ],
+      "source_urls": [
+        "https://www.wandersmiles.com/2-days-in-granada-spain/"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "built": "2026-09-18",
+  "note": "Claim packets only (no worker notes/transcripts). Reviewers must be fresh-context and a different model family from the builders."
+}

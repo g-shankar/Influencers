@@ -1,0 +1,1786 @@
+{
+  "batch": 20,
+  "extractions": [
+    {
+      "handle": "@dangerousbiz",
+      "platform": "instagram",
+      "notes": "Amanda Williams: named individual (Muck Rack profile: 'Amanda Williams, Blogger, A Dangerous Business Travel Blog', 'Instagram.com/dangerousbiz'; award-winning blogger). Reach: 33.2K Instagram followers (IZEA marketplace listing; lowest source seen). Kyoto guide published 2026-05-08, modified 2026-05-21 per creator page metadata (in-window). Active 2025-2026. Exclusions: explicit 'I don't do any custom itinerary planning' on her about page; work-with-me is brand/destination partnerships only; no coaching, courses, hosted trips.",
+      "itineraries": [
+        {
+          "title": "A Realistic 5 Days in Kyoto Itinerary for Your First Japan Trip",
+          "destination": "Kyoto",
+          "country": "Japan",
+          "days": 5,
+          "summary": "Five-day first-timer Kyoto route: Nishiki Market and Gion on arrival day; Nijo Castle, ramen class, Kiyomizu-dera; Arashiyama temples and geisha show; Fushimi Inari and sake; Nara/Uji/Osaka day trips.",
+          "source_urls": [
+            "https://www.dangerous-business.com/5-days-in-kyoto-itinerary/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "item_type": "transport",
+              "name": "Shinkansen (bullet train) to Kyoto",
+              "day": 1,
+              "description": "Late-morning train from Tokyo, arriving mid-afternoon",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Nishiki Market food walk",
+              "day": 1,
+              "description": "Kyoto's famous 5-block food market; late-afternoon DIY progressive lunch/dinner; tempura, takoyaki, gyoza, taiyaki",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Gion geisha walking tour (evening)",
+              "day": 1,
+              "description": "Guided evening walk through Gion's hanamachi districts, Shirakawa Canal, Tatsumi Bridge, ending at Yasaka Shrine",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Music Bar Beatle Momo",
+              "day": 1,
+              "description": "Nightcap cocktails after the Gion tour",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Nijo Castle guided tour",
+              "day": 2,
+              "description": "90-minute guided tour including Ninomaru Palace and nightingale floors; UNESCO Historic Monuments of Ancient Kyoto",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Kinkaku-ji (Golden Pavilion)",
+              "description": "Alternative morning option; Zen temple with gold-leaf top floors (reconstructed 1955)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Ramen Factory cooking class",
+              "day": 2,
+              "description": "90-minute hands-on ramen-making class booked via Viator; make noodles from scratch",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Kiyomizu-dera temple",
+              "day": 2,
+              "description": "Famous 780 AD Buddhist temple; wooden stage with city views; Otowa Waterfall",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Sannenzaka and Ninenzaka",
+              "day": 2,
+              "description": "Historic shopping streets downhill from Kiyomizu; cafes, bakeries, matcha (GOKAGO)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Kyo no Ajitokoro Uemura",
+              "day": 2,
+              "description": "Tempura dinner; cash-only",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Itsukichaya at Kiyomizu",
+              "day": 2,
+              "description": "Dinner option; bookable online",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "KURODOH",
+              "day": 2,
+              "description": "Upscale multi-course dinner option",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Hokan-ji Temple (Yasaka Pagoda) at night",
+              "day": 2,
+              "description": "Famous pagoda street, quiet after dark",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Otagi Nenbutsuji Temple",
+              "day": 3,
+              "description": "Hill temple with 1200+ whimsical stone statues",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Adashino Nenbutsuji Temple",
+              "day": 3,
+              "description": "Less-visited sacred temple with small bamboo grove",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Saga-Toriimoto Preserved Street",
+              "day": 3,
+              "description": "Historic architecture, cafes, craft shops",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Arashiyama Bamboo Forest",
+              "day": 3,
+              "description": "Main bamboo grove walk",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Okochi Sanso Garden",
+              "day": 3,
+              "description": "Beautiful garden, especially in fall",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Gyukatsu Kyoto Katsugyu Arashiyama",
+              "day": 3,
+              "description": "Lunch; cook-your-own meat on a hot stone",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Onigiri Ranma food truck",
+              "day": 3,
+              "description": "Fresh onigiri to-order lunch alternative",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "1 Hour Geisha Show (tea house, Kamishichiken Street)",
+              "day": 3,
+              "description": "Tea-house geisha/maiko performance with Q&A; book well in advance",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Kitano Tenmangu Shrine",
+              "day": 3,
+              "description": "Stunning Shinto shrine off the tourist trail",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Katsukura Tonkatsu Sanjo",
+              "day": 3,
+              "description": "Dinner at Kyoto Shinkyogoku Shopping Street",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Sumo Show Experience + hot pot dinner",
+              "day": 3,
+              "description": "Exhibition sumo with dinner",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Fushimi Inari shrine hike",
+              "day": 4,
+              "description": "10,000 vermillion torii gates up Mt Inari; 3+ hour hike to the top",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Gekkeikan Okura sake brewery tour",
+              "day": 4,
+              "description": "3-hour Insider sake brewery tour with guided tasting and snack pairings",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Day trip to Nara",
+              "day": 5,
+              "description": "Deer in Nara Park, Todai-ji Great Buddha, Kasuga Taisha lanterns; ~30 min by train",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Day trip to Uji",
+              "day": 5,
+              "description": "Japan's best matcha, Nintendo Museum, Byodo-in Temple; 20-25 min by train",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Day trip to Osaka",
+              "day": 5,
+              "description": "Food tour, Osaka Castle, Dotonbori neon; 20-40 min by train",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "hotel",
+              "name": "Tomoya Residence Hotel Kyoto",
+              "description": "Apartment-style hotel near Karasuma Oike Station; in-room washer/dryer; room-service breakfast (creator stayed here)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "hotel",
+              "name": "The Gate Hotel Kyoto Takasegawa",
+              "description": "Central hotel near Gion",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@vickyflipflop",
+      "platform": "instagram",
+      "notes": "Victoria Philpott: named individual (work-with-me page byline; links Instagram @VickyFlipFlop). Reach: 16,400+ Instagram (creator-owned stats, updated July 2025). Tokyo guide published 2024-01-19, modified 2026-01-26 ('for 2026') per creator metadata (in-window). Active: 2026 award nominations; guide updated Jan 2026. Exclusions: 'advice, consulting' appears only in the B2B work-with-me contact line alongside 'blog collabs, writing work, campaigns' (services: writing work, UGC, media pack); no consumer itinerary-planning, coaching, courses or hosted trips found.",
+      "itineraries": [
+        {
+          "title": "Your Ultimate 7-Day Tokyo Itinerary for 2026",
+          "destination": "Tokyo",
+          "country": "Japan",
+          "days": 7,
+          "summary": "Seven-day Tokyo week: temples and shrines (Sengakuji, Senso-ji, Meiji Jingu), Akihabara pop culture, Shibuya modernity, Rikugien Gardens, souvenir shopping, plus Disneyland/Skytree/Fuji extras.",
+          "source_urls": [
+            "https://vickyflipfloptravels.com/7-day-tokyo-itinerary/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "item_type": "flight",
+              "name": "Fly into Haneda Airport (HND)",
+              "day": 1,
+              "description": "Closer to the city than Narita; saves time and money",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Sengakuji Temple",
+              "day": 1,
+              "description": "Zen school temple with famous graveyard; arrival-day visit",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Kanda Myojin Shrine",
+              "day": 1,
+              "description": "Shrine for good luck, marriage and wealth",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Tomioka Hachiman Shrine",
+              "day": 1,
+              "description": "Largest Hachimangu shrine in the city, where samurai prayed",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Akihabara district",
+              "day": 2,
+              "description": "Epicentre of anime, video games and otaku culture; arcades and figure shops",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Super Potato retro game store",
+              "day": 2,
+              "description": "Old-school anime and retro consoles (NES, Atari)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Ueno Park",
+              "day": 2,
+              "description": "Relaxing downtime near Akihabara",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Senso-ji Temple + Nakamise street",
+              "day": 3,
+              "description": "Oldest temple in Tokyo (1350+ years); 200-metre souvenir and traditional-food street",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Asakusa Shrine",
+              "day": 3,
+              "description": "Nearby shrine after Senso-ji",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Shibuya Crossing + Hachiko statue",
+              "day": 4,
+              "description": "Busiest pedestrian crossing in the world; view from Starbucks above",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Rikugien Gardens",
+              "day": 5,
+              "description": "Peaceful garden in Bunkyo Ward; cherry blossom and autumn illuminations",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Jingu Gaien Ginkgo Avenue",
+              "day": 5,
+              "description": "Ginkgo-lined avenue, magical yellow-orange in autumn",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Meiji Jingu shrine",
+              "day": 6,
+              "description": "Serene shrine with forest approach",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Don Quijote souvenir shopping",
+              "day": 7,
+              "description": "Discount store selling everything; standout snack aisles",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Tokyo Disneyland day trip",
+              "description": "~15 min from Tokyo Station by public transport",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Tokyo Skytree",
+              "description": "634m observation deck with panoramic city views",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Mount Fuji tour",
+              "description": "Day tour to climb or view the icon",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Tsukiji fish market",
+              "description": "Early-morning visit to see the action",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "transport",
+              "name": "Suica / Pasmo prepaid card",
+              "description": "Prepaid cards for buses, trains and store purchases; available at stations and airports",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "transport",
+              "name": "Japan rail pass",
+              "description": "Saves money if travelling around Japan a lot",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@jayneytravels",
+      "platform": "instagram",
+      "notes": "Jayne Gorman: named individual travel creator (creator-owned 2026 media kit, jayneytravels.com). Reach: 72K Instagram followers, 8% engagement per own media kit. Qualifying guide: structured Linz/Donau long-weekend itinerary the page says is her recommended plan from her own trip.",
+      "itineraries": [
+        {
+          "title": "Weekend Guide to Linz & the Donau Region",
+          "destination": "Linz & the Donau Region",
+          "country": "Austria",
+          "days": 3,
+          "summary": "A long-weekend itinerary for Linz and the Donau region of Upper Austria that the creator says is the itinerary she recommends based on her own trip: fly Ryanair into Linz, stay at a Danube-side hotel (Riverresort Donauschlinge or Hotel Wesenufer), explore by e-bike, and use the Linz Card.",
+          "source_urls": [
+            "https://jayneytravels.com/weekend-guide-to-linz-the-donau-region-upper-austria/"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "item_type": "flight",
+              "name": "Ryanair flight to Linz",
+              "day": null,
+              "description": "Guide's recommended itinerary flies Ryanair into Linz (per search-indexed guide content); day placement not evidenced",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "hotel",
+              "name": "Riverresort Donauschlinge",
+              "day": null,
+              "description": "Lodging named in the guide's recommended itinerary (per search-indexed guide content)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "hotel",
+              "name": "Hotel Wesenufer",
+              "day": null,
+              "description": "Lodging named in the guide's recommended itinerary (per search-indexed guide content)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "other",
+              "name": "Linz Card",
+              "day": null,
+              "description": "City card in the guide's recommended itinerary",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "E-bike cycling along the Danube",
+              "day": null,
+              "description": "Cycling named as transport/activity in the guide's recommended itinerary",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@happytowander",
+      "platform": "instagram",
+      "notes": "Christina Guan: named individual (own site; Keepface links instagram.com/happytowander). Reach: ~66.1K IG audience per Keepface snapshot. Qualifying guide: 1.5-month Western Europe backpacking itinerary titled '2026 Update'. Work-with-me is B2B brand/tourism-board campaigns; the Europe planner is a free fillable PDF, not a paid course.",
+      "itineraries": [
+        {
+          "title": "Western Europe Backpacking Itinerary (2026 Update)",
+          "destination": "Western Europe",
+          "country": "Belgium / Netherlands",
+          "days": 45,
+          "summary": "A 1.5-month Western Europe backpacking route (guide title carries a '2026 Update') built as a sequence of city legs; search-indexed content covers a Brussels leg (Days 1-3: Grand Place walking tour, waffles and beer, Brussels Card, Bruges/Antwerp/Ghent day trips) and an Amsterdam leg (Days 1-3: Rijksmuseum, Van Gogh Museum, canal tour, biking, iAmsterdam card, Giethoorn/Keukenhof day trips), connected by Flixbus/Thalys/Omio. Day count is 1.5 months per the guide title.",
+          "source_urls": [
+            "https://happytowander.com/western-europe-backpacking-itinerary/"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "item_type": "activity",
+              "name": "Grand Place walking tour, Brussels",
+              "day": null,
+              "description": "Brussels leg: walking tour of the Grand Place (per search-indexed guide content)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Belgian waffles and beer tasting",
+              "day": null,
+              "description": "Brussels leg: waffles and beer; Cafe Delirium named in guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "other",
+              "name": "Brussels Card",
+              "day": null,
+              "description": "Brussels leg: Brussels Card recommended in guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Day trip to Bruges, Antwerp or Ghent",
+              "day": null,
+              "description": "Brussels leg: day-trip options from Brussels",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Rijksmuseum visit, Amsterdam",
+              "day": null,
+              "description": "Amsterdam leg: Rijksmuseum named in guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Van Gogh Museum visit, Amsterdam",
+              "day": null,
+              "description": "Amsterdam leg: Van Gogh Museum named in guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Amsterdam canal tour",
+              "day": null,
+              "description": "Amsterdam leg: canal tour named in guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Biking in Amsterdam",
+              "day": null,
+              "description": "Amsterdam leg: biking named in guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Day trip to Giethoorn or Keukenhof",
+              "day": null,
+              "description": "Amsterdam leg: day-trip options from Amsterdam",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "transport",
+              "name": "Flixbus between Brussels and Amsterdam",
+              "day": null,
+              "description": "Intercity transport named in guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "transport",
+              "name": "Thalys train",
+              "day": null,
+              "description": "Rail option named in guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "other",
+              "name": "iAmsterdam city card",
+              "day": null,
+              "description": "Amsterdam leg: iAmsterdam card recommended in guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "other",
+              "name": "Omio transport booking",
+              "day": null,
+              "description": "Booking platform named in guide",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@michaelturtle",
+      "platform": "instagram",
+      "notes": "Michael Turtle: named individual (own author pages; Keepface profile explicitly links instagram.com/michaelturtle). Reach: 15,534 IG audience, 0.66% engagement per Keepface. Qualifying guide: three-day Athens itinerary, page states 'As of July 2026'. Own work-with-me is B2B (sponsored trips/posts, photography, speaking, affiliate).",
+      "itineraries": [
+        {
+          "title": "Three Days in Athens Itinerary",
+          "destination": "Athens",
+          "country": "Greece",
+          "days": 3,
+          "summary": "A three-day Athens itinerary on the creator's own site; the page states the guide is current 'As of July 2026'. Item-level content was not harvested this session, so no items are listed rather than invented.",
+          "source_urls": [
+            "https://www.timetravelturtle.com/greece/three-days-in-athens-itinerary/"
+          ],
+          "confidence": "low",
+          "items": []
+        }
+      ]
+    },
+    {
+      "handle": "@triphackr",
+      "platform": "instagram",
+      "notes": "Clint Johnston: named individual (own author page triphackr.com/author/clint/; El Salvador guide explicitly authored by him). Reach: 150,000+ verified Instagram per own work page. Qualifying guide: 'Sample 5-Day Route from Coco Surf' with full Day 1-5 content harvested from the opened page. Work-with-me is B2B partnerships only.",
+      "itineraries": [
+        {
+          "title": "Now Is the Time to Discover El Salvador: Sample 5-Day Route from Coco Surf",
+          "destination": "El Salvador",
+          "country": "El Salvador",
+          "days": 5,
+          "summary": "A 'Sample 5-Day Route from Coco Surf' through El Salvador, explicitly authored by Clint Johnston: Day 1 surf at El Conchalio, stroll and pupusas in El Tunco with sunset at Monkey Lala; Day 2 Santa Ana volcano hike and Lake Coatepeque swim; Day 3 Jiquilisco Bay boat tour (monkeys, birds) ending with sunset beers in El Zonte; Day 4 surf at La Bocana or Punta Roca; Day 5 Tamanique waterfall hike and a villa massage.",
+          "source_urls": [
+            "https://triphackr.com/now-is-the-time-to-discover-el-salvador/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "item_type": "hotel",
+              "name": "Coco Surf Tropical Village",
+              "day": 1,
+              "description": "Base for the full route: the guide presents a 'Sample 5-Day Route from Coco Surf'",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Surf at El Conchalio Beach",
+              "day": 1,
+              "description": "Day 1: first surf of the trip at El Conchalio",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Stroll around El Tunco",
+              "day": 1,
+              "description": "Day 1: afternoon stroll around El Tunco",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Pupusas in El Tunco",
+              "day": 1,
+              "description": "Day 1 dinner: pupusas",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Sunset drinks at Monkey Lala, El Tunco",
+              "day": 1,
+              "description": "Day 1: sunset at Monkey Lala",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Hike the Santa Ana volcano",
+              "day": 2,
+              "description": "Day 2: Santa Ana volcano hike",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Swim in Lake Coatepeque",
+              "day": 2,
+              "description": "Day 2: post-hike swim in Lake Coatepeque",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Boat tour of Jiquilisco Bay",
+              "day": 3,
+              "description": "Day 3: boat tour spotting endemic monkeys and birds",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Sunset beers in El Zonte",
+              "day": 3,
+              "description": "Day 3 ends with sunset beers at El Zonte",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Surf La Bocana or Punta Roca",
+              "day": 4,
+              "description": "Day 4: surf La Bocana or Punta Roca",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Hike to the Tamanique waterfall",
+              "day": 5,
+              "description": "Day 5: Tamanique waterfall hike on the final day",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Massage at the villa",
+              "day": 5,
+              "description": "Day 5: villa massage to cap the trip",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@expertvagabond",
+      "platform": "instagram",
+      "notes": "Matthew 'Matt' Karsten: named individual (expertvagabond.com). Reach: ~131.1K IG, 0.10% per Heepsy. Qualifying guide: Iceland Ring Road 7-10 day itinerary (author did 10 days); day-by-day structure harvested from the guide's table of contents on his own site. Own work-with-me is B2B (sponsored trips/posts, photography, speaking, affiliate); no consumer services found.",
+      "itineraries": [
+        {
+          "title": "Iceland Ring Road Trip Itinerary",
+          "destination": "Iceland Ring Road",
+          "country": "Iceland",
+          "days": 10,
+          "summary": "A 7-10 day self-drive Ring Road itinerary around Iceland's Route 1 on the creator's own site (the author gave himself 10 days): Day 1 Golden Circle; Day 2 South Coast; Day 3 iceberg lagoons and ice caves; Day 4 Egilssta\u00f0ir and the Eastern Fjords; Day 5 M\u00fdvatn and waterfalls; Day 6 Akureyri and North Iceland; Day 7 Sn\u00e6fellsnes Peninsula; Days 8-10 Reykjavik.",
+          "source_urls": [
+            "https://expertvagabond.com/ring-road-trip-iceland/"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "item_type": "activity",
+              "name": "Golden Circle drive",
+              "day": 1,
+              "description": "Day 1 of the Ring Road itinerary: the Golden Circle (per guide's day-by-day structure)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "South Coast drive",
+              "day": 2,
+              "description": "Day 2: Iceland's South Coast",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Iceberg lagoons and ice caves",
+              "day": 3,
+              "description": "Day 3: Iceberg Lagoons & Ice Caves",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Egilssta\u00f0ir and the Eastern Fjords",
+              "day": 4,
+              "description": "Day 4: Egilssta\u00f0ir & The Eastern Fjords",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Lake M\u00fdvatn and waterfalls",
+              "day": 5,
+              "description": "Day 5: M\u00fdvatn & More Waterfalls",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Akureyri and North Iceland",
+              "day": 6,
+              "description": "Day 6: Akureyri & North Iceland",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Sn\u00e6fellsnes Peninsula",
+              "day": 7,
+              "description": "Day 7: Sn\u00e6fellsnes Peninsula",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Explore Reykjavik",
+              "day": 8,
+              "description": "Days 8-10: explore Reykjavik (per guide's day-by-day structure)",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@tourdelust",
+      "platform": "instagram",
+      "notes": "Christine Tran Ferguson: named individual (own about page; TikTok @tourdelust bio 'Christine'). Reach: 533.4K IG per Qoruz (Sep 2026). Qualifying guide: Istanbul 3-day itinerary (published 2024-09-18, modified 2025-07-21). Exclusion sweep found no consumer planning/coaching/courses/hosted trips.",
+      "itineraries": [
+        {
+          "title": "Istanbul Travel Guide: 3-Day Itinerary",
+          "destination": "Istanbul",
+          "country": "Turkey",
+          "days": 3,
+          "summary": "A 3-day Istanbul travel guide and itinerary on the creator's own site (published 2024-09-18, modified 2025-07-21) with a structured Day 1/2/3 plan. Item-level content was not harvested this session, so no items are listed rather than invented.",
+          "source_urls": [
+            "https://tourdelust.com/istanbul-travel-guide-3-day-itinerary/"
+          ],
+          "confidence": "low",
+          "items": []
+        }
+      ]
+    },
+    {
+      "handle": "@globetrottergirls",
+      "platform": "instagram",
+      "notes": "Dani Heinrich: named individual writer/photographer behind GlobetrotterGirls.com (Matador/Contiki/Nomadic Matt bios; Feedspot entry). Reach: 17.8K Instagram per Feedspot Top 100 Female Travel Influencers 2026 (observed 2026-09-17). Qualifying guide: '48 Hours in Austin, Texas', last updated January 22, 2026, with a structured Friday-to-Sunday itinerary and affiliate hotel links. Exclusion sweep 2026-09-17 found no consumer services. Day-by-day items harvested from the opened guide page; Friday=day 1, Saturday=day 2, Sunday=day 3.",
+      "itineraries": [
+        {
+          "title": "48 Hours in Austin, Texas",
+          "destination": "Austin",
+          "country": "United States",
+          "days": 3,
+          "summary": "A structured weekend itinerary for a first-time Austin trip on the creator's own site (last updated January 22, 2026): Friday 2pm downtown bike ride (B-Cycle Weekender Pass $19.49, Lady Bird Lake, Zilker Park, Doug Sahm Hill skyline views), food trucks, a 5pm South Congress stroll, the 7-8pm Congress Avenue Bridge bat flight, and 9pm Rainey Street bar-hopping; Saturday brunch at 24 Diner, Hope Outdoor Gallery street art, Torchy's Tacos, a free Texas State Capitol tour, Franklin's BBQ dinner, sunset drinks at Azul Rooftop, live music at the Continental Club, and the Midnight Cowboy speakeasy; Sunday breakfast tacos.",
+          "source_urls": [
+            "https://globetrottergirls.com/48-hours-in-austin-texas/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "item_type": "transport",
+              "name": "B-Cycle Weekender Pass bike ride around downtown",
+              "day": 1,
+              "description": "Friday 2pm: explore downtown by B-Cycle bike share - Weekender Pass $19.49 for three full days; ride 6th Avenue, Congress Avenue, Lady Bird Lake and Zilker Park",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Doug Sahm Hill skyline views in Butler Park",
+              "day": 1,
+              "description": "Stop at Doug Sahm Hill in Butler Park (across the river) for the best downtown skyline views",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Tommy Want Wingy food truck",
+              "day": 1,
+              "description": "Guide's food truck recommendation: Tommy Want Wingy",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Chi'lantro, 823 Congress Ave",
+              "day": 1,
+              "description": "Asian-fusion comfort food truck at 823 Congress Ave",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Micklethwait Craft Meats, 1309 Rosewood Ave",
+              "day": 1,
+              "description": "East Side BBQ food truck at 1309 Rosewood Ave; also named: The Peached Tortilla (banh mi tacos)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "South Congress stroll: shops and murals",
+              "day": 1,
+              "description": "5pm stroll along South Congress - Uncommon Objects, Allens Boots, Lucy in Disguise with Diamonds, the Willie Nelson and 'I Love You So Much' murals",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Guero's Taco Bar",
+              "day": 1,
+              "description": "Sundowner margarita at Guero's Taco Bar on South Congress; June's wine bar also named",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Congress Avenue Bridge bat flight at sunset",
+              "day": 1,
+              "description": "7-8pm: watch the Mexican free-tailed bat colony fly out at sunset (season: March to October)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Rainey Street bar-hopping",
+              "day": 1,
+              "description": "9pm: bar-hop along Rainey Street - Banger's Beer Garden (100+ beers on tap), Container Bar",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Geraldine's at Hotel Van Zandt",
+              "day": 1,
+              "description": "Fancy-dinner option: Geraldine's contemporary restaurant inside Hotel Van Zandt (reserve in advance); Via 313 Pizza Truck as the casual alternative",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "24 Diner brunch, 600 N Lamar",
+              "day": 2,
+              "description": "Saturday 9am brunch at 24 Diner (600 N Lamar); Waterloo Records vinyl store a couple of doors down",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Hope Outdoor Gallery street art",
+              "day": 2,
+              "description": "11am: Hope Outdoor Gallery graffiti park (the guide's 2024 update notes it was demolished and keeps it to commemorate it); alternative: Umlauf Sculpture Park ($7 admission)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Torchy's Tacos",
+              "day": 2,
+              "description": "1pm food-truck lunch: Torchy's Tacos",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Texas State Capitol free guided tour",
+              "day": 2,
+              "description": "3pm culture: free half-hour guided tour of the Texas State Capitol (last Saturday tours 3:30pm); museum alternatives: Blanton Museum of Art, Bob Bullock Texas State History Museum, The Contemporary Austin, Mexic-Arte Museum",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Franklin's BBQ, 900 E 11th St",
+              "day": 2,
+              "description": "6pm BBQ dinner: Franklin's at 900 E 11th St (famous; long lines); alternatives La Barbecue, Terry Black's BBQ, Stiles Switch BBQ & Brew, Lamberts Barbeque",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Sunset drinks at Azul Rooftop",
+              "day": 2,
+              "description": "8pm sunset drinks: Azul Rooftop on the 20th floor of The Westin (pool, cabanas, craft cocktails); alternatives La Piscina (Proper Hotel), 77 Degrees, Edge Rooftop (Marriott), Maggie Mae's (6th Street)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Live music at the Continental Club",
+              "day": 2,
+              "description": "9pm live music: the Continental Club on South Congress (oldest and most popular venue); alternatives Antone's (blues), Broken Spoke (two-step), The White Horse (country), Stubb's, Mohawk, Cheer Up Charlie's",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Midnight Cowboy speakeasy",
+              "day": 2,
+              "description": "11pm: Midnight Cowboy speakeasy on 6th Street (reservation required to get in); less-crowded alternative: Garage, located in a parking garage",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Breakfast tacos at Veracruz All Natural",
+              "day": 3,
+              "description": "Sunday 9am Texas-style breakfast: breakfast tacos at El Primo, Veracruz All Natural, Juan in a million, Pueblo Viejo or Taqueria Mi Trailita; full Tex-Mex breakfast at Curra's Grill or Trudy's Texas Star",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@lunaticatlarge",
+      "platform": "instagram",
+      "notes": "Kristin Luna: named individual travel writer/photographer; Camels & Chocolate is her personal blog (interview bio; Feedspot entry). Reach: 27.7K Instagram per Feedspot Top 100 Female Travel Influencers 2026 (observed 2026-09-17). Qualifying guide: 'How to Spend a Weekend in Tupelo, Mississippi' on her own site (updated ~mid-August 2026), structured Day 1/2/3 with named hotels, restaurants and paid activities. Exclusion sweep 2026-09-17 found no consumer services; the Visit Tupelo credit is a press partnership. Items harvested from the opened guide page.",
+      "itineraries": [
+        {
+          "title": "How to Spend a Weekend in Tupelo, Mississippi: A Travel Guide",
+          "destination": "Tupelo, Mississippi",
+          "country": "United States",
+          "days": 3,
+          "summary": "A structured 3-day Tupelo weekend on the creator's own site (updated ~mid-August 2026): Day 1 downtown Tupelo (murals and the It's Electric Neon Lights Trail, shopping at MLM Clothiers/Bolt/Reed's, Caron Gallery and GumTree Museum of Art, Lost + Found Coffee Co., Queen's Reward Meadery tasting, dinner at Stables Downtown Grill); Day 2 Elvis footsteps (Talbot House Bakery & Cafe, Elvis Presley Birthplace, Johnnie's Drive-In, Elvis' Tupelo Driving Tour, Tupelo Hardware Company, Forklift dinner, Blue Canoe live music); Day 3 Natchez Trace Parkway Visitor Center, Chickasaw Village Site, Tombigbee State Park, Oren Dunn City Museum, and Crave Tupelo dessert bar.",
+          "source_urls": [
+            "https://www.camelsandchocolate.com/best-things-to-do-in-tupelo-mississippi/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "item_type": "hotel",
+              "name": "Hotel Tupelo",
+              "day": 1,
+              "description": "Boutique hotel in downtown Tupelo close to restaurants, shops and live music; alternative: Holiday Inn & Suites Tupelo North",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Downtown Tupelo murals and It's Electric Neon Lights Trail",
+              "day": 1,
+              "description": "Day 1: explore downtown murals and neon installations; the guide recommends downloading the It's Electric: Neon Lights Trail for public art after dark",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Downtown shopping: MLM Clothiers, Bolt, Reed's",
+              "day": 1,
+              "description": "Day 1: MLM Clothiers (one of Mississippi's oldest menswear stores), Bolt (rock-and-roll aesthetic boutique), Reed's (Tupelo institution since 1905) and Reed's GumTree Bookstore",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Caron Gallery and GumTree Museum of Art",
+              "day": 1,
+              "description": "Day 1: browse contemporary Southern artists at the Caron Gallery, then the GumTree Museum of Art (showcasing regional artists for 40+ years)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Lost + Found Coffee Co.",
+              "day": 1,
+              "description": "Day 1 caffeine break: specialty roastery; the guide orders a cereal milk latte or pour-over with a pastry",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Queen's Reward Meadery tasting",
+              "day": 1,
+              "description": "Day 1: Mississippi's first and only meadery - guided tasting flights, mead-and-cheese pairings and mead slushie flights from the female-owned, small-batch producer",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Stables Downtown Grill",
+              "day": 1,
+              "description": "Day 1 dinner: blackened catfish nachos and Southern classics; the alley patio is one of Tupelo's best outdoor dining spots",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Talbot House Bakery & Cafe",
+              "day": 2,
+              "description": "Day 2 breakfast: house-made pastries, cinnamon rolls in various flavors and enormous chocolate chip cookies",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Elvis Presley Birthplace",
+              "day": 2,
+              "description": "Day 2: the modest two-room shotgun house built by Vernon Presley, plus the museum, the Assembly of God church where Elvis discovered gospel music, memorial gardens, the Becoming sculpture and the Reflections area",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Johnnie's Drive-In",
+              "day": 2,
+              "description": "Day 2 lunch: the cash-only diner serving Tupelo since 1945 where Elvis was a regular - order a doughburger and ask for the famous Elvis booth",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Elvis' Tupelo Driving Tour",
+              "day": 2,
+              "description": "Day 2 afternoon: the driving tour past the original Reed's Department Store, Elvis' schools and the historic Shake Rag neighborhood",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Tupelo Hardware Company",
+              "day": 2,
+              "description": "Day 2: the store where an 11-year-old Elvis arrived hoping for a bicycle and left with a $7.75 guitar; being preserved as an interpretive attraction",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Forklift",
+              "day": 2,
+              "description": "Day 2 dinner: elevated Southern cuisine with creative cocktails and seasonal menus; patio tables on warm evenings",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Blue Canoe live music",
+              "day": 2,
+              "description": "Day 2 late night: Southern comfort food, craft beer and live music at Blue Canoe; its Cathead Stage hosted Chris Stapleton, Jason Isbell and others pre-fame",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Natchez Trace Parkway Visitor Center (milepost 266)",
+              "day": 3,
+              "description": "Day 3: start at the Parkway Visitor Center at milepost 266 for exhibits and ranger trail recommendations along the 444-mile scenic route",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Chickasaw Village Site",
+              "day": 3,
+              "description": "Day 3: short interpretive trail through the former Chickasaw village site with exhibits on Chickasaw life and culture",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Tombigbee State Park",
+              "day": 3,
+              "description": "Day 3 outdoor excursion: the park around Lake Lee offers hiking, fishing, paddling and disc golf, plus cabins and campsites",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Oren Dunn City Museum at Ballard Park",
+              "day": 3,
+              "description": "Day 3: restored dairy barn museum tracing Tupelo's history through its people, industries and events; caboose and relics for photos",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Crave Tupelo dessert bar",
+              "day": 3,
+              "description": "Day 3 finale: downtown dessert bar known for over-the-top sweets; opens evenings on Sundays",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@travelsofsarahfay",
+      "platform": "instagram",
+      "notes": "Sarah Fay: named individual travel writer/adventure travel blogger (Muck Rack journalist profile; first-person Clubhouse creator profile). Reach: 11,165 Instagram, self-reported on her own Clubhouse creator profile (observed 2026-09-17). Qualifying guide: '3 Days in Barbados: A Travel Guide To Short Stays' on her own site (bylined January 5, 2026), with an affiliate disclosure, affiliate resort link, and named paid tour and restaurants. Exclusion sweep 2026-09-17 found no consumer services. Items harvested from the opened guide page; the guide does not assign day numbers, so days are null rather than invented.",
+      "itineraries": [
+        {
+          "title": "3 Days in Barbados: A Travel Guide To Short Stays",
+          "destination": "Barbados",
+          "country": "Barbados",
+          "days": 3,
+          "summary": "A 3-day Barbados short-stay guide on the creator's own site (bylined January 5, 2026): base at The Crane Resort (historic 1887 resort above Crane Beach; affiliate booking link), an Island 360 Tour with Sweet Life Tours Barbados (5-6 hour island drive with a Speightstown lunch stop, The Orange Street Grocer, Suga Mama ice cream), Oistins Fish Fry on Friday night, Rihanna's childhood home in Bridgetown, Crane Beach walks, dining at Azure and Zen restaurants at The Crane and Cutters of Barbados (cutter sandwich, Rum Punch), plus Cherry Tree Hill, Bathsheba, Carlisle Bay and Bridgetown walks.",
+          "source_urls": [
+            "https://travelsofsarahfay.com/3-days-in-barbados/"
+          ],
+          "confidence": "medium",
+          "items": [
+            {
+              "item_type": "transport",
+              "name": "Arrival via Grantley Adams International Airport",
+              "day": 1,
+              "description": "Grantley Adams International Airport - described as efficient and easy to navigate, with direct flights from North America and Europe",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "hotel",
+              "name": "The Crane Resort, Barbados",
+              "day": 1,
+              "description": "Base for the stay: historic resort dating to 1887 perched above Crane Beach, with multiple pools, gardens, and a private plunge pool in the author's suite; booked via an affiliate link on the guide page",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Island 360 Tour with Sweet Life Tours Barbados",
+              "day": null,
+              "description": "5-6 hour guided island drive (A/C van) covering towns, beaches, churches and historic landmarks, with rum provided along the way; 45-minute lunch stop in Speightstown",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "The Orange Street Grocer, Speightstown",
+              "day": null,
+              "description": "Waterfront cafe stop during the island tour - lattes and snacks",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Suga Mama ice cream",
+              "day": null,
+              "description": "Ice cream stop named in the guide (@sugamamabarbados); a nearby bakery where locals buy bread and sweets also mentioned",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Oistins Fish Fry on Friday night",
+              "day": null,
+              "description": "Friday-night fish fry (5-7pm prime time) - the guide was not in town on a Friday but names it as the place to go",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Rihanna's childhood home, Bridgetown",
+              "day": null,
+              "description": "The humble pastel-colored childhood home near Rihanna Drive - a pilgrimage stop for fans",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Walking Crane Beach",
+              "day": null,
+              "description": "Beach walks beneath the coral cliffs of the Crane Resort - soft cream and pale-pink sand, Atlantic surf; reached by elevator or a winding path",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Azure Restaurant at The Crane",
+              "day": null,
+              "description": "Breakfast each morning at Azure, overlooking the beach below",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Zen Restaurant at The Crane",
+              "day": null,
+              "description": "Japanese and Thai dishes; the author's final (phenomenal) meal - reserve ahead, generally closes 9pm and very popular",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Cutters of Barbados",
+              "day": null,
+              "description": "Walk from the resort gates for the iconic cutter (Bajan flying-fish sandwich on salt bread) and Rum Punch; indoor and outdoor seating",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Cherry Tree Hill viewpoint",
+              "day": null,
+              "description": "Sweeping views of the island's lush interior meeting the distant Atlantic, reached through rolling hills and sugarcane fields",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Bathsheba beach",
+              "day": null,
+              "description": "Dramatic surf coastline on the east coast",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Carlisle Bay swimming and snorkeling",
+              "day": null,
+              "description": "Calm, crystal-clear waters near Bridgetown, ideal for swimming and snorkeling",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Bridgetown walking",
+              "day": null,
+              "description": "Walking the capital's streets for colonial history and present-day vibrancy",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@sinahsstories",
+      "platform": "instagram",
+      "notes": "Sinah: named individual (mononym, section 6.1 precedent - consistent public operator identity on own site and handle). Reach: 121K IG (Feedspot, obs 2026-09-17); creator's own TikTok bio states IG +115k (obs 2026-09-17). Engagement: 488,300 TikTok likes / 348 videos (obs 2026-09-17), cross-platform per founder ruling section 5. Activity: account-level per section 6.2 (bio promotes IG; guide modified 2026-01-24). Purchase intent: booking.com affiliate links on guide. Exclusions: work-with-me is B2B brand-campaign content only. Qualifying guide: 7-day Puglia itinerary, creator metadata datePublished 2025-05-30 (in-window). All 17 items harvested from the opened guide page; no items invented.",
+      "itineraries": [
+        {
+          "title": "Ultimate Puglia 7-Day Itinerary",
+          "destination": "Puglia",
+          "country": "Italy",
+          "days": 7,
+          "summary": "Seven-day Puglia road trip from Bari to Lecce built around a central base (Locorotondo/Cisternino/Ostuni): trulli villages, fishing ports, Baroque Lecce and a flexible beach day, with driving times and crowd-avoidance timing (April-May or September-October).",
+          "source_urls": [
+            "https://sinahsstories.com/2025/05/30/ultimate-puglia-7-day-itinerary/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "item_type": "flight",
+              "name": "Fly into Bari (BRI) or Brindisi (BDS) airport",
+              "day": null,
+              "description": "Guide recommends flying into Bari Airport or Brindisi Airport, then grabbing a rental car",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "transport",
+              "name": "Rental car (Sicily by Car)",
+              "day": null,
+              "description": "Guide states a rental car is needed - public transport is limited; they booked with Sicily by Car (link on page)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "hotel",
+              "name": "La Cas\u00e8dde",
+              "day": null,
+              "description": "Charming guesthouse in Cisternino with breakfast and pool; one of two bases the creator stayed at and recommends (booking.com link on page)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "hotel",
+              "name": "Sopra I Sassi",
+              "day": null,
+              "description": "Trulli house complex near Ostuni; second base the creator stayed at and recommends (booking.com link on page)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Alberobello trulli village",
+              "day": 1,
+              "description": "Wander 2-3 hours: Via Monte S. Michele to Largo Martellotta, Church of Saint Lucia viewpoint, Villa Comunale Belvedere Parco, Rione Aia Piccola (400 authentic trulli), Trullo Siamese; go early/late to avoid tour buses",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Locorotondo old town",
+              "day": 1,
+              "description": "Afternoon: Church of Saint George Martyr (18th c., free entry), cream-colored old-town streets with artisan shops, Belvedere di Locorotondo terrace over Valle d'Itria",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Porto Antico, Monopoli",
+              "day": 2,
+              "description": "Historic fishing harbor - watch boats unload the fresh catch; seafood lunch nearby",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Monopoli old town walk",
+              "day": 2,
+              "description": "Via Porto promenade with sea views, Church of Saint Vitus Martyr (18th c. Baroque), Palazzo Palmieri facade, Cattedrale Maria Santissima della Madia, Cala Porta Vecchia rocky beach (check access)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Basilica San Nicola, Bari",
+              "day": 3,
+              "description": "11th-century basilica housing the relics of Saint Nicholas; \u20ac3 crypt tour",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Bari old town and seafront",
+              "day": 3,
+              "description": "Piazza Mercantile (coffee), 5km Lungomare Imperatore Augusto promenade, Basilica Cattedrale San Sabino (Byzantine mosaics), Arco Basso 'Pasta Street' - watch nonnas hand-roll orecchiette, fresh pasta ~\u20ac5/kilo",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Lama Monachile, Polignano a Mare",
+              "day": 4,
+              "description": "Iconic small cove between cliffs with turquoise water; best enjoyed from the belvedere above",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Polignano a Mare old town",
+              "day": 4,
+              "description": "Belvedere su Lama Monachile terrace, Piazza Vittorio Emanuele II cafes, Pendma Chiatt (Pietra Piatta) rocky stairs near the Domenico Modugno statue for sea views/sunset",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Cisternino old town",
+              "day": 5,
+              "description": "Morning: hill village at 394m known for fornelli rustici open-grill butchers; narrow alleys, cream-colored buildings, linen shops; ~1.5 hours",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Ostuni, the White City",
+              "day": 5,
+              "description": "Afternoon/evening for sunset light: Duomo di Santa Maria Assunta (Gothic), Via F. Incalzi Antonelli ('Heaven's Door' / blue-door house photo spot), Piazza della Libert\u00e0 for gelato",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "restaurant",
+              "name": "Borgo Antico Bistro, Ostuni",
+              "day": 5,
+              "description": "Eatery in the old quarter that doubles as a famous viewpoint/photo spot; consider reserving",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Lecce Baroque center",
+              "day": 6,
+              "description": "'Florence of the South', ~5 hours: Basilica Santa Croce (1549-1695 facade), Piazza Sant'Oronzo over Roman amphitheater ruins, San Matteo (1667), Santa Chiara di Lecce (1687), Cattedrale di Lecce (bell tower views, entry fee), Porta Napoli; pasticciotto pastries nearby",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Spiaggia di Torre Pozzelle",
+              "day": 7,
+              "description": "Flexible last day: natural beach on the Ionian coast near Ostuni/Cisternino - peaceful, dunes, clear water; or pool day / revisit a favorite town",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@gracefkim",
+      "platform": "instagram",
+      "notes": "Grace Kim: named individual (own-site byline). Reach: 109,132 IG followers (Gondola, obs 2026-09-17). Engagement: 4,161,509 likes / 21,444,469 views (Gondola, obs 2026-09-17). Activity: account-level per section 6.2 (Gondola current IG engagement; 1,121 posts). Purchase intent: affiliate disclosure + viator/booking/SafetyWing/Rexby links. Exclusions: Rexby/Steller are fixed digital products (allowed); no consumer planning/coaching/hosted-trip offer found. Qualifying guide: 10-day Guatemala itinerary dated April 28, 2025 (in-window). Items harvested from the observed portion of the guide (intro through Day 2); page content beyond Day 2 was not opened this session. No items invented; day numbers only where the guide assigns them.",
+      "itineraries": [
+        {
+          "title": "10-day Guatemala itinerary",
+          "destination": "Guatemala",
+          "country": "Guatemala",
+          "days": 10,
+          "summary": "Ten-day Guatemala route the creator calls the best use of limited time: Guatemala City arrival, Lake Atitlan, Antigua and Tikal highlights, with transport logistics (shuttles, Uber, chicken buses), budget tiers, safety guidance and a customizable Rexby route map.",
+          "source_urls": [
+            "https://gracefkim.com/10-day-guatemala-itinerary/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "item_type": "flight",
+              "name": "Direct flight to La Aurora International Airport (GUA)",
+              "day": 1,
+              "description": "Creator flew direct JFK (NYC) to Guatemala City, ~5 hour flight; GUA is the main entry point",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "transport",
+              "name": "Uber from GUA airport to hotel",
+              "day": 1,
+              "description": "Late-night arrival: Uber straightforward, cost 44 GTQ ($5.75 USD)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "hotel",
+              "name": "Good Hotel Guatemala City",
+              "day": 1,
+              "description": "Zone 4, 10-minute Uber from the airport; creator spent first night here (booking.tp.st affiliate link on page)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "transport",
+              "name": "Tourist shuttle Guatemala City to Antigua",
+              "day": 1,
+              "description": "Suggested pre-booked shuttle option if starting the trip in Antigua instead of Lake Atitlan (viator.tp.st link on page)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "transport",
+              "name": "Uber Guatemala City to Lake Atitlan",
+              "day": 2,
+              "description": "3.5-hour journey after the hotel night; UberX ~650 GTQ ($85); after two cancellations driver Chris accepted - private driver contact via Whatsapp +502 3921 8677 for Atitlan/Semuc Champey/Flores runs",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "transport",
+              "name": "Shared tourist shuttle Antigua-Panajachel (Lake Atitlan)",
+              "day": null,
+              "description": "Booked the night before; $20 USD per person (153 GTQ); door-to-door hotel/hostel pickups (viator.tp.st link on page)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Acatenango volcano hike",
+              "day": null,
+              "description": "Guided hike referenced in the guide with tour-guide photos (viator.tp.st link on page); creator notes rainy-season hikes are much harder",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "other",
+              "name": "SafetyWing Nomad Insurance",
+              "day": null,
+              "description": "Travel medical insurance the creator says she has depended on numerous times - covers medical, evacuation, theft, trip cancellation (safetywing.com link on page)",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "other",
+              "name": "Rexby Guatemala route map and guide",
+              "day": null,
+              "description": "Creator's exact 10-day route map on Rexby - downloadable, customizable day-by-day; 30% discount noted until 5/31 (www.rexby.com link on page)",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@themobilehomie",
+      "platform": "instagram",
+      "notes": "Jordyn Verzera (The Mobile Homie), budget road-trip creator. PNW 7-day itinerary on own domain (index updated ~2026-08-29; images 2025/07); items extracted directly from the page. Explicit affiliate disclosure and affiliate booking links throughout.",
+      "itineraries": [
+        {
+          "title": "7-Day Pacific Northwest Road Trip Itinerary",
+          "destination": "Pacific Northwest",
+          "country": "United States",
+          "days": 7,
+          "summary": "Creator's 7-day Pacific Northwest road-trip route: Seattle start, Snoqualmie Falls and Leavenworth, North Cascades and Diablo Lake, Olympic National Park, Mount St. Helens, Mount Rainier, and a Bainbridge Island finale; includes per-stop pricing, booking links, packing list and a free downloadable PDF.",
+          "source_urls": [
+            "https://themobilehomie.com/pacific-northwest-road-trip/"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "item_type": "activity",
+              "name": "Pike Place Market",
+              "day": 1,
+              "description": "First stop on the itinerary: explore the market, grab coffee, watch the fish throwers",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Seattle Underground Tour",
+              "day": 1,
+              "description": "Subterranean history tour beneath Pioneer Square",
+              "booking_link": null,
+              "price_hint": "$25-$30 per person"
+            },
+            {
+              "item_type": "activity",
+              "name": "Kerry Park viewpoint",
+              "day": 1,
+              "description": "Classic Seattle skyline photo stop above the city",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Museum of Pop Culture (MoPOP)",
+              "day": 1,
+              "description": "Seattle museum stop listed on the itinerary",
+              "booking_link": null,
+              "price_hint": "from $34"
+            },
+            {
+              "item_type": "activity",
+              "name": "Argosy sightseeing cruise",
+              "day": 1,
+              "description": "Downtown Seattle to Tillicum Village (Blake Island) cruise option",
+              "booking_link": null,
+              "price_hint": "$60-$70 per person"
+            },
+            {
+              "item_type": "hotel",
+              "name": "Seattle hotel search",
+              "day": 1,
+              "description": "Creator links Seattle hotel options; notes Seattle hotels start from $150/night",
+              "booking_link": null,
+              "price_hint": "from $150/night"
+            },
+            {
+              "item_type": "activity",
+              "name": "Snoqualmie Falls",
+              "day": 2,
+              "description": "Stop en route to Leavenworth, with Franklin Falls and Twin Falls options",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Leavenworth (Bavarian village)",
+              "day": 2,
+              "description": "Bavarian-themed town with shops and restaurants; creator recommends the Enzian Inn",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "hotel",
+              "name": "Leavenworth cabin rentals",
+              "day": 2,
+              "description": "Cabin rentals via VRBO or Plum Vacation",
+              "booking_link": null,
+              "price_hint": "from $125/night"
+            },
+            {
+              "item_type": "activity",
+              "name": "Diablo Lake overlook",
+              "day": 3,
+              "description": "Vibrant turquoise lake in the North Cascades; easy viewpoint stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "North Cascades hikes",
+              "day": 3,
+              "description": "Trail options: Diablo Lake Trail, Ross Dam trailhead, Thunder Knob, Gorge Overlook",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Port Townsend ferry",
+              "day": 4,
+              "description": "Ferry crossing into the Olympic Peninsula",
+              "booking_link": null,
+              "price_hint": "$23.80"
+            },
+            {
+              "item_type": "activity",
+              "name": "Olympic National Park entry",
+              "day": 4,
+              "description": "National park entry fee",
+              "booking_link": null,
+              "price_hint": "$30 per vehicle"
+            },
+            {
+              "item_type": "activity",
+              "name": "Sol Duc Hot Springs",
+              "day": 4,
+              "description": "Hot springs resort stop on the itinerary",
+              "booking_link": null,
+              "price_hint": "$20-$25 per person"
+            },
+            {
+              "item_type": "activity",
+              "name": "Mount St. Helens",
+              "day": 5,
+              "description": "Volcano viewpoints including Johnston Ridge Observatory (reservation required) and the Science and Learning Center",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "activity",
+              "name": "Ape Canyon Trail",
+              "day": 5,
+              "description": "Trail option at Mount St. Helens",
+              "booking_link": null,
+              "price_hint": "$25-$30 per person"
+            },
+            {
+              "item_type": "activity",
+              "name": "Mount Rainier entry",
+              "day": 6,
+              "description": "National park entry fee",
+              "booking_link": null,
+              "price_hint": "$30 per vehicle"
+            },
+            {
+              "item_type": "hotel",
+              "name": "Paradise Inn (Mount Rainier)",
+              "day": 6,
+              "description": "Historic lodge at Paradise; 2026 waitlist noted on page",
+              "booking_link": null,
+              "price_hint": "from $375/night"
+            },
+            {
+              "item_type": "transport",
+              "name": "Bainbridge Island ferry",
+              "day": 7,
+              "description": "Day trip to Bainbridge Island",
+              "booking_link": null,
+              "price_hint": "$10-$12 per person"
+            },
+            {
+              "item_type": "other",
+              "name": "Pacific Northwest packing list",
+              "day": null,
+              "description": "Creator's packing recommendations with affiliate product links",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "item_type": "other",
+              "name": "Free downloadable PNW itinerary PDF",
+              "day": null,
+              "description": "Free PDF version of the full itinerary offered on the page",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

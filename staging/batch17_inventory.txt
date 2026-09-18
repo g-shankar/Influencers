@@ -1,0 +1,26 @@
+Batch 17 research inventory (from original worker, 2026-09-17) — for batch-17 completion worker.
+All dedup-clear vs 313-line universe at time of research. Gates 1-3 pass (identity, recent structured itinerary, >=10K IG via Feedspot 2026-09-17). Worker misread Gate 4 as requiring dated IG posts; correct standard: account active with current travel content (recent blog posts / 2025-2026 publishing / Feedspot recency); engagement may be "unknown".
+
+14 CANDIDATES (identity+itinerary+reach verified; need activity/purchase-intent/exclusions confirmation + extraction):
+@findingalexx | Alexx Hayward | 50.5K | 10-day Switzerland ~2026-08; Alonissos 5-day ~2026-05 [NOTE: also in batch-20 pool — check universe before taking]
+@dangerousbiz | Amanda Williams | 33.2K | Scotland road-trip (recent) [NOTE: also in batch-20 pool]
+@em_luxton | Emily Luxton | 16.9K | "3 Days in the Algarve" 2026-03-30; Cornwall 2026-07-29 [NOTE: also in batch-20 pool]
+@fivelittledoves | Laura Dove | 133.4K | 20-day Thailand updated ~94d ago
+@tigerlillyquinn | Fritha Quinn | ~102K | Paris 177d / Brussels 317d / Lisbon 104d
+@myadventuresacrosstheworld | Claudia Tavani | 37.8K | Singapore 14d / Istanbul 47d / Rome 178d
+@globalgallivanting | Anna Phipps | 34K | Phuket/Krabi/Chiang Rai/Bali (recent)
+@indianahannah_blog | Indiana Hannah | 24.6K | Indiana summer guide updated 84d ago
+@vickyflipflop | Victoria Philpott | 17.2K | Levi 3-day budget updated 76d ago [NOTE: distinct from @vickyflipfloptravels in batch-20 pool]
+@globetrottergirls | Dani Heinrich | 17.8K | Santiago 48h + London weekend (recent)
+@heatheronhertravels | Heather | 16.1K | Piraeus 53d / Madrid-Malaga 221d / Tasmania 61d / Sydney 62d
+@bordersofadventure | Becki Enright | 14.1K | Mongolia 3-week updated 69d ago
+@theworldtravelguy | David | 12.2K | Muna 22d / East Java 6d / Banggai 1d
+@kirstenalana | Kirsten Alana | reach unverified | Viking routes Jan 2026; San Luis Obispo 3-day 2025-05-23 [NOTE: also in batch-20 pool; reach must be verified >=10K]
+
+3 MORE (reach verified, itinerary gate still open):
+@annasherchand | 49.7K [also in batch-20 pool]
+@meanderandwander | 43.1K [also in batch-20 pool]
+@thebackpackingmom | 64.7K [also in batch-20 pool]
+
+EXCLUSIONS CONFIRMED BY ORIGINAL WORKER (do not select):
+@dutchbloggeronthemove (operator: Botswana group safaris), @janelleonajet / @glographics (Trovatrip operator risk), @reneeroaming (duo), @globalmouse (family brand), @bornabackpacker @travelynnfamily @abroadwife @ytravelblog @chrisandsara_ (family/couple), @pang_bang (paid guide), @itssummerssomewhere (consultancy), @rockytravel @onegirlwandering @voyager_for_life (operators/consultancy), @traveldeeper (male), @estherjulee (duo brand)

@@ -1,0 +1,2315 @@
+{
+ "batch": 19,
+ "extractions": [
+  {
+   "handle": "@jessica_traveler",
+   "platform": "instagram",
+   "itineraries": [
+    {
+     "title": "Where to Go in Corsica - A Two Week Itinerary",
+     "destination": "Corsica",
+     "country": "France",
+     "days": 14,
+     "confidence": "medium",
+     "summary": "Jessica Carpenter (@jessica_traveler, myfeetwillleadme.com) publishes a first-person two-week Corsica itinerary routing Bonifacio, Porto, Ajaccio, L'Ile-Rousse, Corte, Nonza and Bastia with beaches, hikes and stays. Page media uploaded 2026/01; search index updated ~2026-02-23 (within 2024-09-17 to 2026-09-17).",
+     "source_urls": [
+      "https://www.myfeetwillleadme.com/where-to-go-in-corsica-a-two-week-itinerary/"
+     ],
+     "items": [
+      {
+       "name": "Bonifacio",
+       "item_type": "other",
+       "location": "Corsica, France",
+       "day": null,
+       "details": "Clifftop port town at the southern tip; she spent two nights here.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Bonifacio marina",
+       "item_type": "activity",
+       "location": "Bonifacio, Corsica",
+       "day": null,
+       "details": "Stroll the long narrow port with waterside cafes, restaurants and shops.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Bonifacio citadel",
+       "item_type": "activity",
+       "location": "Bonifacio, Corsica",
+       "day": null,
+       "details": "Explore the fortified old town, the main character of Bonifacio.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "L'Escalier du Roy d'Aragon",
+       "item_type": "activity",
+       "location": "Bonifacio, Corsica",
+       "day": null,
+       "details": "189-step staircase cut into the cliffside, costs a few euros.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Campu Rumanilu Trail",
+       "item_type": "activity",
+       "location": "Bonifacio, Corsica",
+       "day": null,
+       "details": "Cliff trail heading east from the citadel with views back at Bonifacio.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Lavezzi Islands",
+       "item_type": "activity",
+       "location": "Bonifacio, Corsica",
+       "day": null,
+       "details": "Boat tour from the port to the islands.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Porto",
+       "item_type": "other",
+       "location": "Corsica, France",
+       "day": null,
+       "details": "West-coast stop; she spent two nights here.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Ajaccio",
+       "item_type": "other",
+       "location": "Corsica, France",
+       "day": null,
+       "details": "Capital of Corsica and birthplace of Napoleon; she spent one night here.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Capo di Feno",
+       "item_type": "activity",
+       "location": "Ajaccio, Corsica",
+       "day": null,
+       "details": "Beach near Ajaccio named in her guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Plage de l'Ariadne",
+       "item_type": "activity",
+       "location": "Ajaccio, Corsica",
+       "day": null,
+       "details": "Beach near Ajaccio named in her guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Plage de Barbicaghja",
+       "item_type": "activity",
+       "location": "Ajaccio, Corsica",
+       "day": null,
+       "details": "Beach near Ajaccio named in her guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Plage Trottel",
+       "item_type": "activity",
+       "location": "Ajaccio, Corsica",
+       "day": null,
+       "details": "Beach near Ajaccio named in her guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Plage Saint-Francois",
+       "item_type": "activity",
+       "location": "Ajaccio, Corsica",
+       "day": null,
+       "details": "Beach near Ajaccio named in her guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Plage du Ricanto",
+       "item_type": "activity",
+       "location": "Ajaccio, Corsica",
+       "day": null,
+       "details": "Beach near Ajaccio named in her guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Plage de Campo dell'Oro",
+       "item_type": "activity",
+       "location": "South of Ajaccio, Corsica",
+       "day": null,
+       "details": "Beach south of Ajaccio named in her guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Plage d'Agosta",
+       "item_type": "activity",
+       "location": "South of Ajaccio, Corsica",
+       "day": null,
+       "details": "Beach south of Ajaccio named in her guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "L'Ile-Rousse",
+       "item_type": "other",
+       "location": "Corsica, France",
+       "day": null,
+       "details": "Coastal port town in the north on her route.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Corte",
+       "item_type": "other",
+       "location": "Corsica, France",
+       "day": null,
+       "details": "Historic inland capital, gateway to Restonica Gorge.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Nonza",
+       "item_type": "other",
+       "location": "Corsica, France",
+       "day": null,
+       "details": "Northern town on her route.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Bastia",
+       "item_type": "other",
+       "location": "Corsica, France",
+       "day": null,
+       "details": "Departure city; busiest seaport on the island, in the north.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Palombaggia",
+       "item_type": "other",
+       "location": "Near Porto-Vecchio, Corsica",
+       "day": null,
+       "details": "Beach area near Porto Vecchio where she spent two nights.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Extraction limited to places explicitly named on the opened page; per-stop night counts from the creator's own plan. Qualifying date: image uploads 2026/01 and search-index update ~2026-02-23."
+  },
+  {
+   "handle": "@marissa.daily",
+   "platform": "instagram",
+   "itineraries": [
+    {
+     "title": "San Francisco Itinerary: 7 Days of Food, Culture & Bay Views",
+     "destination": "San Francisco",
+     "country": "USA",
+     "days": 7,
+     "confidence": "high",
+     "summary": "Marissa Strang (@marissa.daily, themarissadaily.com) publishes a 7-day day-by-day San Francisco itinerary covering neighborhoods, food, art and views. Post URL dated 2025-08-19 (within 2024-09-17 to 2026-09-17).",
+     "source_urls": [
+      "https://themarissadaily.com/2025/08/19/7-day-san-francisco-itinerary-where-to-eat-explore-experience-the-city/"
+     ],
+     "items": [
+      {
+       "name": "Ferry Building Marketplace",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 1,
+       "details": "Kick off Day 1 with food at the Ferry Building.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Edible Excursions",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 1,
+       "details": "Guided food tour sampling artisan cheese, oysters and chocolate.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "North Beach",
+       "item_type": "other",
+       "location": "San Francisco, USA",
+       "day": 1,
+       "details": "Italian quarter and literary heart.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Filbert Steps",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 1,
+       "details": "Climb to Coit Tower.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Coit Tower",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 1,
+       "details": "Panoramic city views and WPA-era murals.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "City Lights Bookstore",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 1,
+       "details": "Beat Generation landmark bookstore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Ina Coolbrith Park",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 1,
+       "details": "Quiet park with Bay and Bay Bridge views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Cavana Rooftop",
+       "item_type": "restaurant",
+       "location": "San Francisco, USA",
+       "day": 1,
+       "details": "Latin American dinner with views from Sutro Tower to the waterfront.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "GoCar Tours",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 2,
+       "details": "GPS-guided three-wheeler city tour.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Painted Ladies",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 2,
+       "details": "Suggested GoCar stop.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Golden Gate Park",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 2,
+       "details": "Suggested GoCar stop.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Lombard Street",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 2,
+       "details": "Suggested GoCar stop.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Palace of Fine Arts",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 2,
+       "details": "Suggested GoCar stop.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Fort Point",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 2,
+       "details": "Historic military outpost beneath the Golden Gate Bridge's southern arch.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "International Smoke",
+       "item_type": "restaurant",
+       "location": "San Francisco, USA",
+       "day": 2,
+       "details": "Dinner; Michael Mina and Ayesha Curry collaboration.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Union Square",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 3,
+       "details": "Central plaza to start Day 3.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Powell-Hyde cable car line",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 3,
+       "details": "Cable car ride from Powell and Market.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Fisherman's Wharf",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 3,
+       "details": "Waterfront area after the cable car ride.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Pier 39",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 3,
+       "details": "See the resident sea lions on floating docks.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Aquarium of the Bay",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 3,
+       "details": "Underwater tunnels and native marine life at Pier 39.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Musee Mecanique",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 3,
+       "details": "Vintage coin-operated machines at the Wharf.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Ghirardelli Square",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 3,
+       "details": "Sundae at the Ghirardelli Ice Cream Shop.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Fog Harbor Fish House",
+       "item_type": "restaurant",
+       "location": "San Francisco, USA",
+       "day": 3,
+       "details": "Sustainable seafood lunch with Golden Gate views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Boudin Bakery Cafe",
+       "item_type": "restaurant",
+       "location": "San Francisco, USA",
+       "day": 3,
+       "details": "Casual sourdough bowl lunch option.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Sunset bay cruise",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 3,
+       "details": "Evening boat past Alcatraz and beneath the Golden Gate Bridge.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Japantown",
+       "item_type": "other",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "One of three remaining US Japantowns; morning of Day 4.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Paper Tree",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "Handmade washi paper and stationery in Japantown.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Kinokuniya Bookstore",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "Manga and Japanese books in Japantown.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Tokaido Arts",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "Vintage woodblock prints in Japantown.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "ChaTo",
+       "item_type": "restaurant",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "Tea tasting flight with handmade ceramics.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Fillmore District",
+       "item_type": "other",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "Historically Black neighborhood, 'Harlem of the West'; afternoon of Day 4.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "In the Black Market",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "100% Black-owned collective for local goods.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Miyako Old Fashion Ice Cream",
+       "item_type": "restaurant",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "Local ice cream shop with 100+ flavors.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "African American Arts & Culture Complex",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "Open-air mural gallery honoring Black culture.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Starlite",
+       "item_type": "restaurant",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "Rooftop cocktails with skyline views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Meski",
+       "item_type": "restaurant",
+       "location": "San Francisco, USA",
+       "day": 4,
+       "details": "Afro-Latin fusion dinner blending Ethiopian and Latin flavors.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Hon's Wun-Tun House",
+       "item_type": "restaurant",
+       "location": "San Francisco, USA",
+       "day": 5,
+       "details": "Dim sum breakfast to start Chinatown day.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Good Mong Kok Bakery",
+       "item_type": "restaurant",
+       "location": "San Francisco, USA",
+       "day": 5,
+       "details": "Steamed buns in Chinatown.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Golden Gate Fortune Cookie Factory",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 5,
+       "details": "Hand-folded fortune cookies on Ross Alley.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Red Blossom Tea Company",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 5,
+       "details": "Loose-leaf teas in Chinatown.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "KIM+ONO",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 5,
+       "details": "Handpainted silk robes in Chinatown.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Grant Avenue / Bruce Lee mural",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 5,
+       "details": "Murals along Grant Avenue including the Bruce Lee mural.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Portsmouth Square",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 5,
+       "details": "Cultural and historical heart of Chinatown.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Bernal Heights Park",
+       "item_type": "activity",
+       "location": "San Francisco, USA",
+       "day": 6,
+       "details": "Morning hike above the fog line with city views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Clarion Alley",
+       "item_type": "activity",
+       "location": "Mission District, San Francisco",
+       "day": 6,
+       "details": "Mission District murals.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Balmy Alley",
+       "item_type": "activity",
+       "location": "Mission District, San Francisco",
+       "day": 6,
+       "details": "Mission District murals.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Dying Breed",
+       "item_type": "activity",
+       "location": "Mission District, San Francisco",
+       "day": 6,
+       "details": "Local streetwear shop.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Precita Eyes Muralists Studio",
+       "item_type": "activity",
+       "location": "Mission District, San Francisco",
+       "day": 6,
+       "details": "Art, postcards and books.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Luz De Luna",
+       "item_type": "activity",
+       "location": "Mission District, San Francisco",
+       "day": 6,
+       "details": "Mexican art, jewelry and handcrafts.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Valencia Street",
+       "item_type": "activity",
+       "location": "Mission District, San Francisco",
+       "day": 6,
+       "details": "Eclectic shopping street.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Dandelion Chocolate",
+       "item_type": "restaurant",
+       "location": "Mission District, San Francisco",
+       "day": 6,
+       "details": "Handcrafted sweets on Valencia Street.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Paxton Gate",
+       "item_type": "activity",
+       "location": "Mission District, San Francisco",
+       "day": 6,
+       "details": "Curiosities shop on Valencia Street.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Lolo",
+       "item_type": "restaurant",
+       "location": "Mission District, San Francisco",
+       "day": 6,
+       "details": "Jaliscan-Californian small plates dinner.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Coffee to the People",
+       "item_type": "restaurant",
+       "location": "Haight-Ashbury, San Francisco",
+       "day": 7,
+       "details": "Breakfast cafe to start the last morning.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Pork Store Cafe",
+       "item_type": "restaurant",
+       "location": "Haight-Ashbury, San Francisco",
+       "day": 7,
+       "details": "Diner-style breakfast option.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Amoeba Music",
+       "item_type": "activity",
+       "location": "Haight-Ashbury, San Francisco",
+       "day": 7,
+       "details": "Iconic record store on Haight Street.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Kimono Dave",
+       "item_type": "activity",
+       "location": "Haight-Ashbury, San Francisco",
+       "day": 7,
+       "details": "Vintage Japanese kimonos and robes.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Decades of Fashion",
+       "item_type": "activity",
+       "location": "Haight-Ashbury, San Francisco",
+       "day": 7,
+       "details": "Vintage clothing shop, 1880s-1980s.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Every item is explicitly named on the opened page with its assigned day; nothing invented. Qualifying date: explicit URL publication date 2025-08-19."
+  },
+  {
+   "handle": "@travelrealizations",
+   "platform": "instagram",
+   "itineraries": [
+    {
+     "title": "2-Day Mount Shasta Itinerary: A Family Getaway in Northern California",
+     "destination": "Mount Shasta",
+     "country": "USA",
+     "days": 2,
+     "confidence": "high",
+     "summary": "Chirasree Banerjee (@travelrealizations, travelrealizations.com) publishes a structured Day 1 / Day 2 Mount Shasta family itinerary covering waterfalls, lakes and scenic drives. Search-index update ~2026-04-03 (within 2024-09-17 to 2026-09-17).",
+     "source_urls": [
+      "https://www.travelrealizations.com/2-day-mount-shasta-itinerary/"
+     ],
+     "items": [
+      {
+       "name": "McCloud Hotel",
+       "item_type": "hotel",
+       "location": "McCloud, California",
+       "day": 1,
+       "details": "Base for the trip; generous breakfast before Day 1.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Mt. Shasta Ski Park",
+       "item_type": "activity",
+       "location": "Mount Shasta, California",
+       "day": 1,
+       "details": "Scenic morning drive toward the ski park for mountain views and snow play.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Dunsmuir",
+       "item_type": "other",
+       "location": "California",
+       "day": 1,
+       "details": "Former railroad town on the Upper Sacramento River; stroll main street and grab coffee.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Dunsmuir Botanical Gardens",
+       "item_type": "activity",
+       "location": "Dunsmuir, California",
+       "day": 1,
+       "details": "Free garden along the Sacramento River off Dunsmuir Avenue.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Hedge Creek Falls",
+       "item_type": "activity",
+       "location": "Dunsmuir, California",
+       "day": 1,
+       "details": "35-foot waterfall you can walk behind; 0.6-mile round-trip trail off I-5 Exit 732.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "McCloud Upper Falls",
+       "item_type": "activity",
+       "location": "McCloud, California",
+       "day": 1,
+       "details": "25-foot cascade on the McCloud River Falls Trail.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "McCloud Middle Falls",
+       "item_type": "activity",
+       "location": "McCloud, California",
+       "day": 1,
+       "details": "50-foot waterfall, the most dramatic of the three McCloud falls.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "McCloud Lower Falls",
+       "item_type": "activity",
+       "location": "McCloud, California",
+       "day": 1,
+       "details": "Wide gentle cascade with a swimmable pool.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "McCloud Hotel restaurant",
+       "item_type": "restaurant",
+       "location": "McCloud, California",
+       "day": 1,
+       "details": "Dinner at the in-house restaurant after Day 1.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Lake Siskiyou",
+       "item_type": "activity",
+       "location": "Mount Shasta, California",
+       "day": 2,
+       "details": "Peaceful reservoir with Mount Shasta reflections; arrive early.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Cable Beach",
+       "item_type": "activity",
+       "location": "Lake Siskiyou, California",
+       "day": 2,
+       "details": "Best viewing spot for the mountain reflection.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Castle Lake",
+       "item_type": "activity",
+       "location": "Mount Shasta, California",
+       "day": 2,
+       "details": "Optional stop on Day 2.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Burney Falls",
+       "item_type": "activity",
+       "location": "California",
+       "day": 2,
+       "details": "129-foot cascade on Day 2.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Mount Shasta City Park",
+       "item_type": "activity",
+       "location": "Mount Shasta, California",
+       "day": 2,
+       "details": "Visit the Sacramento River Headwaters spring.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Lily's",
+       "item_type": "restaurant",
+       "location": "Mount Shasta, California",
+       "day": 2,
+       "details": "Dinner option in Mount Shasta town.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Seven Suns Coffee & Cafe",
+       "item_type": "restaurant",
+       "location": "Mount Shasta, California",
+       "day": 2,
+       "details": "Casual dinner option with sandwiches and coffee.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Yaks on the 5",
+       "item_type": "restaurant",
+       "location": "Mount Shasta, California",
+       "day": 2,
+       "details": "Burgers and comfort food dinner option.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Byline 'By Chirasree Banerjee' on the opened page; all items explicitly named with assigned days. Qualifying date: search-index update ~2026-04-03."
+  },
+  {
+   "handle": "@liveloveruntravel",
+   "platform": "instagram",
+   "itineraries": [
+    {
+     "title": "Best Things to Do in Portsmouth NH - Day Trip Itinerary",
+     "destination": "Portsmouth, New Hampshire",
+     "country": "USA",
+     "days": 1,
+     "confidence": "medium",
+     "summary": "Christine Wheeler (@liveloveruntravel, liveloveruntravel.com) publishes a Portsmouth NH day-trip itinerary with her own day plan (beach walk, Market Square, River House lunch, Four Tree Island, Strawbery Banke, New Castle lighthouse). Search-index update ~2024-12-14 (within 2024-09-17 to 2026-09-17).",
+     "source_urls": [
+      "https://liveloveruntravel.com/best-things-to-do-in-portsmouth-nh-day-trip/"
+     ],
+     "items": [
+      {
+       "name": "Market Square",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Popular downtown area; start of the day trip.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "North Church",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Focal point of Market Square.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Cup of Joe Cafe & Bar",
+       "item_type": "restaurant",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Cafe with outdoor seating along Commercial Alley.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Salt Cellar",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Specialty salt shop in Commercial Alley.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Off Piste",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Shop for unique gifts in Commercial Alley.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Moffatt-Ladd House & Garden",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "1760s National Historic Landmark; guided tours June through October 18.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "John Paul Jones Historic House Museum",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "1758 home, open Memorial Day through Columbus Day.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "River House",
+       "item_type": "restaurant",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Lunch/dinner overlooking the Piscataqua River.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Seacoast Repertory Theater",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Dinner-and-a-show option near River House.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "The Music Hall",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Oldest theater in the state, 14th oldest in the country.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Portsmouth Harbor Lighthouse",
+       "item_type": "activity",
+       "location": "New Castle, New Hampshire",
+       "day": null,
+       "details": "View from near New Castle Beach; drive down 1B through the islands.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Fort Constitution",
+       "item_type": "activity",
+       "location": "New Castle, New Hampshire",
+       "day": null,
+       "details": "Historic fort in New Castle.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Fort Stark State Historic Site",
+       "item_type": "activity",
+       "location": "New Castle, New Hampshire",
+       "day": null,
+       "details": "Historic site in New Castle.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Wentworth-by-the-Sea Hotel",
+       "item_type": "hotel",
+       "location": "New Castle, New Hampshire",
+       "day": null,
+       "details": "Landmark hotel in New Castle.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Prescott Park",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "10-acre waterfront park; festivals and concerts in summer.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Warner House",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Early-1700s brick home, open late May through mid-October.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Four Tree Island",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Foot-access island with picnic tables and Memorial Bridge views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Governor John Langdon House",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Georgian mansion open June through October 16.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Strawbery Banke Museum",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Outdoor history museum, open May 1 through October 31.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "USS Albacore Museum",
+       "item_type": "activity",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Self-guided submarine tour, open daily 9:30-4:30.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Wallis Sands Beach",
+       "item_type": "activity",
+       "location": "Near Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Easiest beach to reach from Portsmouth.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Rye Harbor",
+       "item_type": "activity",
+       "location": "Rye, New Hampshire",
+       "day": null,
+       "details": "Scenic coastal drive stop south of Portsmouth.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "The Hotel Portsmouth",
+       "item_type": "hotel",
+       "location": "Portsmouth, New Hampshire",
+       "day": null,
+       "details": "Overnight option near Market Square.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "All items explicitly named on the opened page; authorship is Christine Wheeler per her about page. Qualifying date: search-index update ~2024-12-14."
+  },
+  {
+   "handle": "@wheretarawent",
+   "platform": "instagram",
+   "itineraries": [
+    {
+     "title": "One Week in Albania: Complete Itinerary and Travel Guide",
+     "destination": "Albania",
+     "country": "Albania",
+     "days": 7,
+     "confidence": "medium",
+     "summary": "Tara (wheretarawent.com) publishes a first-person one-week Albania itinerary. Page titled 'Updated for 2026' (within 2024-09-17 to 2026-09-17).",
+     "source_urls": [
+      "https://wheretarawent.com/blog/albania-itinerary"
+     ],
+     "items": [
+      {
+       "name": "Tirana",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 1,
+       "details": "Arrival; pick up rental car, visit Skanderbeg Square and BunkArt museum.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Kruje Castle",
+       "item_type": "activity",
+       "location": "Kruje, Albania",
+       "day": 1,
+       "details": "Landmark of the old town, 35 minutes from Tirana.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Skanderbeg Museum",
+       "item_type": "activity",
+       "location": "Kruje, Albania",
+       "day": 1,
+       "details": "Museum inside Kruje Castle dedicated to the national hero.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Ethnographic Museum",
+       "item_type": "activity",
+       "location": "Kruje, Albania",
+       "day": 1,
+       "details": "Inside the castle; a 10-euro entrance fee was worth it.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Restorant Panorama Kruje",
+       "item_type": "restaurant",
+       "location": "Kruje, Albania",
+       "day": 1,
+       "details": "Hillside restaurant with views over the old town and Adriatic.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Kruje Bazaar",
+       "item_type": "activity",
+       "location": "Kruje, Albania",
+       "day": 1,
+       "details": "Oldest bazaar in Albania for handmade souvenirs and rugs.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Shkoder",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 2,
+       "details": "Two nights; gateway to the Albanian Alps.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Theth",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 4,
+       "details": "Two nights; mountain village in the Albanian Alps.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Shkoder",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 6,
+       "details": "Return night in Shkoder after Theth.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Vlore",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 7,
+       "details": "Riviera gateway; Galeria Art Cafe for a break, Komiteti Bar in the evening.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Galeria Art Cafe",
+       "item_type": "restaurant",
+       "location": "Vlore, Albania",
+       "day": 7,
+       "details": "Cafe stop in Vlore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Komiteti Bar",
+       "item_type": "restaurant",
+       "location": "Vlore, Albania",
+       "day": 7,
+       "details": "Evening bar stop in Vlore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Independence Monument",
+       "item_type": "activity",
+       "location": "Vlore, Albania",
+       "day": 7,
+       "details": "Landmark named in her Vlore day.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Muradie Mosque",
+       "item_type": "activity",
+       "location": "Vlore, Albania",
+       "day": 7,
+       "details": "Historic mosque in Vlore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "National Museum of Independence",
+       "item_type": "activity",
+       "location": "Vlore, Albania",
+       "day": 7,
+       "details": "Museum in Vlore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Kanina Castle",
+       "item_type": "activity",
+       "location": "Near Vlore, Albania",
+       "day": 7,
+       "details": "Hillside castle near Vlore with Bay views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "St. Mary's Monastery",
+       "item_type": "activity",
+       "location": "Near Vlore, Albania",
+       "day": 7,
+       "details": "Monastery on a small island near Vlore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Dhermi beach",
+       "item_type": "activity",
+       "location": "Dhermi, Albania",
+       "day": 8,
+       "details": "Morning at the beach before the drive to Himare.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Himare",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 9,
+       "details": "Coastal town on the 2-week route.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Blue Eye (Syri i Kalter)",
+       "item_type": "activity",
+       "location": "Albania",
+       "day": 10,
+       "details": "Natural spring on the road between the coast and Gjirokaster.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Gjirokaster",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 10,
+       "details": "UNESCO Ottoman-era stone city.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Berat",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 11,
+       "details": "Three nights in the 'city of a thousand windows'.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Tirana",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 14,
+       "details": "Return to Tirana for departure.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    },
+    {
+     "title": "Two Weeks in Albania: Extended Itinerary",
+     "destination": "Albania",
+     "country": "Albania",
+     "days": 14,
+     "confidence": "medium",
+     "summary": "Same source page gives an extended two-week day-by-day Albania route: Tirana, Kruje, Shkoder, Theth, Vlore, Dhermi, Himare, Blue Eye, Gjirokaster and Berat. Page titled 'Updated for 2026'.",
+     "source_urls": [
+      "https://wheretarawent.com/blog/albania-itinerary"
+     ],
+     "items": [
+      {
+       "name": "Tirana",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 1,
+       "details": "Arrival; pick up rental car, visit Skanderbeg Square and BunkArt museum.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Kruje Castle",
+       "item_type": "activity",
+       "location": "Kruje, Albania",
+       "day": 1,
+       "details": "Landmark of the old town, 35 minutes from Tirana.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Skanderbeg Museum",
+       "item_type": "activity",
+       "location": "Kruje, Albania",
+       "day": 1,
+       "details": "Museum inside Kruje Castle dedicated to the national hero.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Ethnographic Museum",
+       "item_type": "activity",
+       "location": "Kruje, Albania",
+       "day": 1,
+       "details": "Inside the castle; a 10-euro entrance fee was worth it.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Restorant Panorama Kruje",
+       "item_type": "restaurant",
+       "location": "Kruje, Albania",
+       "day": 1,
+       "details": "Hillside restaurant with views over the old town and Adriatic.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Kruje Bazaar",
+       "item_type": "activity",
+       "location": "Kruje, Albania",
+       "day": 1,
+       "details": "Oldest bazaar in Albania for handmade souvenirs and rugs.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Shkoder",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 2,
+       "details": "Two nights; gateway to the Albanian Alps.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Theth",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 4,
+       "details": "Two nights; mountain village in the Albanian Alps.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Shkoder",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 6,
+       "details": "Return night in Shkoder after Theth.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Vlore",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 7,
+       "details": "Riviera gateway; Galeria Art Cafe for a break, Komiteti Bar in the evening.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Galeria Art Cafe",
+       "item_type": "restaurant",
+       "location": "Vlore, Albania",
+       "day": 7,
+       "details": "Cafe stop in Vlore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Komiteti Bar",
+       "item_type": "restaurant",
+       "location": "Vlore, Albania",
+       "day": 7,
+       "details": "Evening bar stop in Vlore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Independence Monument",
+       "item_type": "activity",
+       "location": "Vlore, Albania",
+       "day": 7,
+       "details": "Landmark named in her Vlore day.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Muradie Mosque",
+       "item_type": "activity",
+       "location": "Vlore, Albania",
+       "day": 7,
+       "details": "Historic mosque in Vlore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "National Museum of Independence",
+       "item_type": "activity",
+       "location": "Vlore, Albania",
+       "day": 7,
+       "details": "Museum in Vlore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Kanina Castle",
+       "item_type": "activity",
+       "location": "Near Vlore, Albania",
+       "day": 7,
+       "details": "Hillside castle near Vlore with Bay views.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "St. Mary's Monastery",
+       "item_type": "activity",
+       "location": "Near Vlore, Albania",
+       "day": 7,
+       "details": "Monastery on a small island near Vlore.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Dhermi beach",
+       "item_type": "activity",
+       "location": "Dhermi, Albania",
+       "day": 8,
+       "details": "Morning at the beach before the drive to Himare.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Himare",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 9,
+       "details": "Coastal town on the 2-week route.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Blue Eye (Syri i Kalter)",
+       "item_type": "activity",
+       "location": "Albania",
+       "day": 10,
+       "details": "Natural spring on the road between the coast and Gjirokaster.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Gjirokaster",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 10,
+       "details": "UNESCO Ottoman-era stone city.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Berat",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 11,
+       "details": "Three nights in the 'city of a thousand windows'.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Tirana",
+       "item_type": "other",
+       "location": "Albania",
+       "day": 14,
+       "details": "Return to Tirana for departure.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Extraction limited to the day headings and stops explicitly named on the opened page; per-item booking links not published on the page (nulls used, never invented). Qualifying date: page title 'Updated for 2026'."
+  },
+  {
+   "handle": "@thetravelbunny",
+   "platform": "instagram",
+   "itineraries": [
+    {
+     "title": "A 13-Day Sichuan Itinerary: Off the Beaten Path China",
+     "destination": "Sichuan & Qinghai",
+     "country": "China",
+     "days": 13,
+     "confidence": "high",
+     "summary": "Suzanne Jones (@thetravelbunny, thetravelbunny.com) publishes a first-person 13-day day-by-day itinerary through Sichuan and Qinghai in the Tibetan Plateau (Chengdu to Xining via Kham monasteries and Tibetan villages). Media uploaded 2025/12; search-index update ~2026-04 (within 2024-09-17 to 2026-09-17).",
+     "source_urls": [
+      "https://thetravelbunny.com/china-itinerary-sichuan/"
+     ],
+     "items": [
+      {
+       "name": "Chengdu",
+       "item_type": "other",
+       "location": "Sichuan, China",
+       "day": 1,
+       "details": "Arrival; explore, rest and acclimatise. Night 1: Luxianlun Hotel.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Luxianlun Hotel",
+       "item_type": "hotel",
+       "location": "Chengdu, China",
+       "day": 1,
+       "details": "Night 1 hotel in Chengdu.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Wolong Shenshuping Panda Base",
+       "item_type": "activity",
+       "location": "Wolong, Sichuan",
+       "day": 2,
+       "details": "Morning visit to the panda base.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Mount Siguniang",
+       "item_type": "activity",
+       "location": "Sichuan, China",
+       "day": 2,
+       "details": "Viewpoint stop on Day 2.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Zhonglu Tibetan Village",
+       "item_type": "other",
+       "location": "Danba, Sichuan",
+       "day": 2,
+       "details": "Tibetan village in the Danba valley; Night 2: Gonggubao Guesthouse.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Gonggubao Guesthouse",
+       "item_type": "hotel",
+       "location": "Danba, Sichuan",
+       "day": 2,
+       "details": "Night 2 guesthouse in Zhonglu Tibetan Village.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Tagong Grassland",
+       "item_type": "activity",
+       "location": "Tagong, Sichuan",
+       "day": 3,
+       "details": "Grassland around Tagong (Lhagang).",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Tagong (Lhagang) Monastery",
+       "item_type": "activity",
+       "location": "Tagong, Sichuan",
+       "day": 3,
+       "details": "One of the most important Tibetan Buddhist monasteries in Kham.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Litang",
+       "item_type": "other",
+       "location": "Sichuan, China",
+       "day": 4,
+       "details": "One of the highest towns in the world, in Kham.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Changqingchunkeer Monastery",
+       "item_type": "activity",
+       "location": "Litang, Sichuan",
+       "day": 4,
+       "details": "Visit on the way to Litang.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Letong Ancient Town",
+       "item_type": "activity",
+       "location": "Sichuan, China",
+       "day": 4,
+       "details": "Visit en route to Qianhu Tibetan Village.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Qianhu Tibetan Village",
+       "item_type": "other",
+       "location": "Sichuan, China",
+       "day": 4,
+       "details": "Village of a thousand households; Night 4.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Xiazetong Village",
+       "item_type": "other",
+       "location": "Sichuan, China",
+       "day": 5,
+       "details": "Village below Genyen Mountain.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Eye of Genyen Mountain",
+       "item_type": "activity",
+       "location": "Sichuan, China",
+       "day": 5,
+       "details": "Hike to the high-altitude sacred lake.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Zeba Village",
+       "item_type": "other",
+       "location": "Sichuan, China",
+       "day": 5,
+       "details": "Night 5 village.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "New Lenggu Monastery",
+       "item_type": "activity",
+       "location": "Sichuan, China",
+       "day": 6,
+       "details": "Visit on the way to Batang.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Old Lenggu Monastery",
+       "item_type": "activity",
+       "location": "Sichuan, China",
+       "day": 6,
+       "details": "Visit on the way to Batang.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Batang",
+       "item_type": "other",
+       "location": "Sichuan, China",
+       "day": 6,
+       "details": "Town on the historic Tea Horse Road; Night 6.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Baiyu Monastery",
+       "item_type": "activity",
+       "location": "Baiyu, Sichuan",
+       "day": 7,
+       "details": "Day 7: Baiyu and Katok monasteries.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Katok Monastery",
+       "item_type": "activity",
+       "location": "Baiyu, Sichuan",
+       "day": 7,
+       "details": "Renowned monastery; she describes her experience here as the trip highlight.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Zhuqing Monastery",
+       "item_type": "activity",
+       "location": "Sichuan, China",
+       "day": 8,
+       "details": "Day 8: Zhuqing Monastery and Dege County.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Dege County",
+       "item_type": "other",
+       "location": "Sichuan, China",
+       "day": 8,
+       "details": "Night 8 in Dege County.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Yushu",
+       "item_type": "other",
+       "location": "Qinghai, China",
+       "day": 9,
+       "details": "Drive from Dege to Yushu in Qinghai province; Night 9-10.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Jiegu Monastery",
+       "item_type": "activity",
+       "location": "Yushu, Qinghai",
+       "day": 10,
+       "details": "Monastery in Yushu.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Mani Stones (Jiana Mani Stone City)",
+       "item_type": "activity",
+       "location": "Yushu, Qinghai",
+       "day": 10,
+       "details": "Carve mani prayer stones and see the Mani Stone City.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Maduo",
+       "item_type": "other",
+       "location": "Qinghai, China",
+       "day": 11,
+       "details": "Night 11 in Maduo.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Ta'er Monastery",
+       "item_type": "activity",
+       "location": "Near Xining, Qinghai",
+       "day": 12,
+       "details": "Visit on the way to Xining; one of China's most important Tibetan Buddhist monasteries.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Xining",
+       "item_type": "other",
+       "location": "Qinghai, China",
+       "day": 12,
+       "details": "Night 12-13; itinerary ends with departure on Day 13.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "All items explicitly named on the opened page with assigned days; experiences (monk meditation, mani stone carving, nomad family day, brown bear spotting) are clearly implied by her day-by-day account. Qualifying date: media 2025/12, search-index update ~2026-04."
+  },
+  {
+   "handle": "@teeseestheworld",
+   "platform": "instagram",
+   "itineraries": [
+    {
+     "title": "Big Sur Route: Monterey to Pfeiffer Beach",
+     "destination": "Big Sur, California",
+     "country": "USA",
+     "days": null,
+     "confidence": "medium",
+     "summary": "Tannya Cai (@teeseestheworld) posts a Big Sur route in her own video description: Monterey/Carmel-by-the-Sea, Point Lobos, Garrapata State Park, Bixby Creek Bridge, McWay Falls and Pfeiffer Beach as a perfect Memorial Day weekend trip. Search-index update ~2026-04 (within 2024-09-17 to 2026-09-17).",
+     "source_urls": [
+      "https://www.youtube.com/shorts/9kP023ukU4s"
+     ],
+     "items": [
+      {
+       "name": "Monterey & Carmel-by-the-Sea",
+       "item_type": "other",
+       "location": "California, USA",
+       "day": null,
+       "details": "Stop 1 on her Big Sur route.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Point Lobos",
+       "item_type": "activity",
+       "location": "Carmel, California",
+       "day": null,
+       "details": "Stop 2; $10 entry fee.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Garrapata State Park",
+       "item_type": "activity",
+       "location": "Big Sur, California",
+       "day": null,
+       "details": "Stop 3.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Bixby Creek Bridge",
+       "item_type": "activity",
+       "location": "Big Sur, California",
+       "day": null,
+       "details": "Stop 4.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "McWay Falls",
+       "item_type": "activity",
+       "location": "Julia Pfeiffer Burns State Park, California",
+       "day": null,
+       "details": "Stop 5.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Pfeiffer Beach",
+       "item_type": "activity",
+       "location": "Big Sur, California",
+       "day": null,
+       "details": "Stop 6 and final stop; 'perfect sunset picnic spot.'",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ],
+   "notes": "Route is explicitly ordered in the creator's own video description; the description says it was her perfect Memorial Day weekend trip (May 2026), supporting the ~2026-04 index update as qualifying and current-activity evidence."
+  },
+  {
+   "handle": "@adventuresfromelle",
+   "platform": "instagram",
+   "notes": "",
+   "itineraries": [
+    {
+     "title": "Four-Day Orlando, Florida Itinerary",
+     "destination": "Orlando",
+     "country": "USA",
+     "days": 4,
+     "confidence": "high",
+     "summary": "Rochelle Knight (@adventuresfromelle, adventuresfromelle.com), a Jamaican medical doctor and travel blogger, publishes a structured four-day Orlando, Florida itinerary dated 2026-07-10. The guide names the Galleria Palms Hotel, a prebooked airport shuttle, restaurants including Bahama Breeze and Pecos Bill Tall Tale Inn & Cafe, and activities from Magic Kingdom to Old Town Kissimmee.",
+     "source_urls": [
+      "https://adventuresfromelle.com/2026/07/10/orlando-florida-itinerary/"
+     ],
+     "items": [
+      {
+       "name": "Galleria Palms Hotel",
+       "item_type": "hotel",
+       "location": "Orlando, Florida",
+       "day": null,
+       "details": "Named hotel stay for the Orlando itinerary.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Prebooked airport shuttle",
+       "item_type": "transport",
+       "location": "Orlando, Florida",
+       "day": null,
+       "details": "Airport transfer arranged in advance.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Bahama Breeze",
+       "item_type": "restaurant",
+       "location": "Orlando, Florida",
+       "day": null,
+       "details": "Named restaurant stop on the itinerary.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "K Bistro",
+       "item_type": "restaurant",
+       "location": "Orlando, Florida",
+       "day": null,
+       "details": "Named restaurant stop on the itinerary.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "A&W Restaurant",
+       "item_type": "restaurant",
+       "location": "Orlando, Florida",
+       "day": null,
+       "details": "Named restaurant stop on the itinerary.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Pecos Bill Tall Tale Inn & Cafe",
+       "item_type": "restaurant",
+       "location": "Magic Kingdom, Orlando",
+       "day": null,
+       "details": "Named restaurant inside Magic Kingdom.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Old Town Kissimmee",
+       "item_type": "activity",
+       "location": "Kissimmee, Florida",
+       "day": null,
+       "details": "Named activity stop on the itinerary.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Magic Kingdom",
+       "item_type": "activity",
+       "location": "Orlando, Florida",
+       "day": null,
+       "details": "Named theme-park activity on the itinerary.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Rolling Oaks Commons Plaza",
+       "item_type": "activity",
+       "location": "Kissimmee, Florida",
+       "day": null,
+       "details": "Named activity/shopping stop on the itinerary.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Vineland Pointe",
+       "item_type": "activity",
+       "location": "Orlando, Florida",
+       "day": null,
+       "details": "Named activity/shopping stop on the itinerary.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@tomiko.harvey",
+   "platform": "instagram",
+   "notes": "",
+   "itineraries": [
+    {
+     "title": "Is Cancun Safe? Cancun Travel Warning Guide (2026)",
+     "destination": "Cancun",
+     "country": "Mexico",
+     "days": null,
+     "confidence": "high",
+     "summary": "Tomiko Harvey (@tomiko.harvey, passportsandgrub.com) publishes a structured Cancun travel-safety guide explicitly covering 2026 conditions, referencing events on 2026-02-22 and 2026-02-23. The guide recommends named beachfront hotels including Grand Fiesta Americana Coral Beach Cancun, NIZUC Resort and Spa, and Kempinski Hotel Cancun, with airport transport guidance and activity areas such as Isla Mujeres and the Hotel Zone.",
+     "source_urls": [
+      "https://passportsandgrub.com/is-cancun-safe-cancun-travel-warning/"
+     ],
+     "items": [
+      {
+       "name": "Grand Fiesta Americana Coral Beach Cancun",
+       "item_type": "hotel",
+       "location": "Cancun, Mexico",
+       "day": null,
+       "details": "Named recommended beachfront hotel.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "NIZUC Resort and Spa",
+       "item_type": "hotel",
+       "location": "Cancun, Mexico",
+       "day": null,
+       "details": "Named recommended resort.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Kempinski Hotel Cancun",
+       "item_type": "hotel",
+       "location": "Cancun, Mexico",
+       "day": null,
+       "details": "Named recommended hotel.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Airport transport / rental car guidance",
+       "item_type": "transport",
+       "location": "Cancun, Mexico",
+       "day": null,
+       "details": "Verified airport transfer and rental car guidance in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Hotel Zone",
+       "item_type": "activity",
+       "location": "Cancun, Mexico",
+       "day": null,
+       "details": "Named activity area in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Isla Mujeres",
+       "item_type": "activity",
+       "location": "Quintana Roo, Mexico",
+       "day": null,
+       "details": "Named day-trip/activity area in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "La Isla",
+       "item_type": "other",
+       "location": "Cancun, Mexico",
+       "day": null,
+       "details": "Named shopping/entertainment area in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Kukulcan Plaza",
+       "item_type": "other",
+       "location": "Cancun, Mexico",
+       "day": null,
+       "details": "Named shopping area in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@minoritynomad",
+   "platform": "instagram",
+   "notes": "",
+   "itineraries": [
+    {
+     "title": "A Local's Bangkok Luxury Hotel Guide",
+     "destination": "Bangkok",
+     "country": "Thailand",
+     "days": null,
+     "confidence": "high",
+     "summary": "Erick Prince (@minoritynomad, minoritynomad.com), a Bangkok-based travel journalist, publishes a structured luxury hotel guide for Bangkok dated 2026-07-18. The guide profiles six named hotels - Kimpton Maa-Lai Bangkok, The Standard Bangkok Mahanakhon, Capella Bangkok, 137 Pillars Suites & Residences Bangkok, Mandarin Oriental Bangkok, and Shangri-La Bangkok - alongside dining and nightlife picks.",
+     "source_urls": [
+      "https://www.minoritynomad.com/blog/a-locals-bangkok-luxury-hotel-guide"
+     ],
+     "items": [
+      {
+       "name": "Kimpton Maa-Lai Bangkok",
+       "item_type": "hotel",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named luxury hotel in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "The Standard, Bangkok Mahanakhon",
+       "item_type": "hotel",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named luxury hotel in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Capella Bangkok",
+       "item_type": "hotel",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named luxury hotel in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "137 Pillars Suites & Residences Bangkok",
+       "item_type": "hotel",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named luxury hotel in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Mandarin Oriental Bangkok",
+       "item_type": "hotel",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named luxury hotel in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Shangri-La Bangkok",
+       "item_type": "hotel",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named luxury hotel in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Stock.Room",
+       "item_type": "restaurant",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named dining pick in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "CRAFT",
+       "item_type": "restaurant",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named dining pick in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Crimson Room",
+       "item_type": "restaurant",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named dining/nightlife pick in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Ojo",
+       "item_type": "restaurant",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named dining pick in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Bamboo Bar",
+       "item_type": "restaurant",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named bar pick in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Lumphini Park",
+       "item_type": "activity",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named activity/neighborhood anchor in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Sky Beach",
+       "item_type": "activity",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named activity/nightlife pick in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Mahanakhon Skywalk",
+       "item_type": "activity",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named activity in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "Warehouse 30",
+       "item_type": "activity",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named activity/shopping pick in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      },
+      {
+       "name": "IconSiam",
+       "item_type": "activity",
+       "location": "Bangkok, Thailand",
+       "day": null,
+       "details": "Named activity/shopping pick in the guide.",
+       "price_hint": null,
+       "booking_link": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

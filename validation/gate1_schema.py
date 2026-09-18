@@ -63,17 +63,17 @@ def validate_batch(n):
     if not isinstance(data, dict) or data.get("batch") != n:
         errors.append(f"batch{n}: top-level 'batch' must equal {n}")
     exts = data.get("extractions")
-    batch_size = STAGE["batch_size"]
-    if not isinstance(exts, list) or len(exts) != batch_size:
-        got = len(exts) if isinstance(exts, list) else type(exts).__name__
-        errors.append(f"batch{n}: 'extractions' must be a list of exactly {batch_size} (got {got})")
-        exts = exts if isinstance(exts, list) else []
-
     try:
         expected = load_batch_csv(n)
     except FileNotFoundError:
         errors.append(f"batch{n}: batch{n}.csv not found for cross-check")
         expected = set()
+    # Expected extraction count = actual batch CSV size (Stage 2 accepted partial
+    # batches per founder 2026-09-18; the old hardcoded 25 no longer applies).
+    if not isinstance(exts, list) or (expected and len(exts) != len(expected)):
+        got = len(exts) if isinstance(exts, list) else type(exts).__name__
+        errors.append(f"batch{n}: 'extractions' must be a list of exactly {len(expected)} (got {got})")
+        exts = exts if isinstance(exts, list) else []
 
     seen_handles = set()
     seen_itins = set()
@@ -108,10 +108,15 @@ def validate_batch(n):
             if not isinstance(it, dict):
                 errors.append(f"{itag}: itinerary must be an object")
                 continue
-            for field in ("title", "destination", "summary"):
+            for field in ("title", "summary"):
                 v = it.get(field)
                 if not isinstance(v, str) or not v.strip():
                     errors.append(f"{itag}: '{field}' must be a non-empty string")
+            dest = it.get("destination")
+            # destination may be null (unknown) per honesty rules — e.g. a general
+            # guide with no single destination. DB schema allows null.
+            if dest is not None and (not isinstance(dest, str) or not dest.strip()):
+                errors.append(f"{itag}: 'destination' must be a non-empty string or null")
             country = it.get("country")
             if country is not None and (not isinstance(country, str) or not country.strip()):
                 errors.append(f"{itag}: 'country' must be a non-empty string or null")

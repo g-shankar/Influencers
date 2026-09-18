@@ -219,7 +219,7 @@ s = prs.slides.add_slide(BLANK)
 bg(s)
 kicker(s, "Method")
 title(s, "How the creators and itineraries were gathered")
-sel_note = (f"Stage {STAGE_N} expansion: {STAGE['creators_total'] - 100} additional creators "
+sel_note = (f"Stage {STAGE_N} expansion: {len(STAGE.get('new_batches', [])) * STAGE.get('batch_size', 25)} additional creators "
             f"selected {SEL_DATE} under the recorded SELECTION_CRITERIA.md Section 3 "
             f"rules (identity, itinerary-content fit, reach floor, activity, "
             f"exclusions) with a per-creator selection log — see SELECTION_STAGE{STAGE_N}.md."
@@ -327,7 +327,7 @@ bullets(s, [
      "sources; corrections are recorded in QC_REPORT_STRENGTHENED.md."),
     ("Audit: ",
      "final evidence-only audit report: "
-     "validation/council_results/gate7_audit_2026-09-17.json — "
+     "validation/council_results/gate7_audit_2026-09-18.json — "
      "read the verdict there; this slide makes no claim about it."),
 ], t=4.6)
 footer(s, 6, 0)

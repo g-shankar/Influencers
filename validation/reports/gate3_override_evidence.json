@@ -226,7 +226,7 @@
      "url": "https://www.wildweroam.com/blog/2017/11/28/portugal",
      "method": "browser_open",
      "checked_at": "2026-09-16",
-     "evidence": "Page opens; 'Our Trip to Ilha de Armona' — Airbnb stay on Armona island via Faro flight, train to Olhão, ferry to Armona. Matches extraction (Armona 2016 fragment)."
+     "evidence": "Page opens; 'Our Trip to Ilha de Armona' \u2014 Airbnb stay on Armona island via Faro flight, train to Olh\u00e3o, ferry to Armona. Matches extraction (Armona 2016 fragment)."
     },
     {
      "url": "https://www.wildweroam.com/blog/2018/09/27/camping-on-berlengas",
@@ -246,6 +246,45 @@
      "method": "browser_open",
      "checked_at": "2026-09-16",
      "evidence": "Page opens; Urlebird profile for @uktravel ('Travelling in UK/world'); lists Wales series videos: 'five-day road trip around Wales', 'How to spend 5 days in Wales - Day 2', 'The perfect UK road trip ... Day 3 itinerary', 'Wales day 1'. Matches extraction."
+    }
+   ]
+  },
+  {
+   "batch": 1,
+   "handle": "@karaandnate",
+   "title": "Italy Vespa Tour (Le Marche, Italy)",
+   "verified_urls": [
+    {
+     "url": "https://karaandnate.com/italy-vespa-tour/",
+     "method": "browser_open",
+     "checked_at": "2026-09-18",
+     "evidence": "Full page retrieved (269 lines); title 'Italy Vespa Tour!!! - Kara and Nate'. Complete 7-day Vespa itinerary (Day 1 Arrival through Day 7) with villa, $2,800 pricing, and FAQ present. Script HEAD/GET got RemoteDisconnected (bot-blocking false negative)."
+    }
+   ]
+  },
+  {
+   "batch": 6,
+   "handle": "@herjoliejourney",
+   "title": "Faroe Islands itinerary (3 days)",
+   "verified_urls": [
+    {
+     "url": "https://herjoliejourney.com/faroe-islands-itinerary/",
+     "method": "browser_open",
+     "checked_at": "2026-09-18",
+     "evidence": "Full page retrieved (217 lines); title 'Faroe Islands Itinerary: How to See the Faroe Islands in Just 2 Days!'. Day-by-day itinerary (Day 1 Dunnesdrangar/Gasadalur, Day 2 Sorvagsvatn/Torshavn, Day 3 boat tour) present. Script HEAD/GET got HTTP 403 (bot-blocking false negative)."
+    }
+   ]
+  },
+  {
+   "batch": 7,
+   "handle": "@travelingmelmt",
+   "title": "Iceland Without a Car Based in Reykjavik",
+   "verified_urls": [
+    {
+     "url": "https://travelingmel.com/iceland-without-a-car-based-in-reykjavik/",
+     "method": "live_browser",
+     "checked_at": "2026-09-18",
+     "evidence": "Page loads (HTTP 200), title \"Iceland Without a Car: 3 Days of Fun Based in Reykjavik - TravelingMel\", byline \"By Mel, Family Travel and Outdoor Adventures\", structured Day 1 (Golden Circle)/Day 2 (Hvammsvik hot springs + Reykjavik food tour)/Day 3 (puffins + city walk) itinerary matching the extraction. No visible publication date."
     }
    ]
   }

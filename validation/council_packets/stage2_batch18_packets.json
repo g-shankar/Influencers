@@ -1,0 +1,1557 @@
+{
+  "batch": 18,
+  "packets": [
+    {
+      "batch": 18,
+      "handle": "@absolutelylucy",
+      "platform": "instagram",
+      "title": "5 Day Boston Itinerary for First-Timers",
+      "destination": "Boston, USA",
+      "country": "USA",
+      "days": 5,
+      "summary": "Creator's first-timer guide to Boston: a 5-day itinerary covering the Freedom Trail, Beacon Hill, Fenway Park, museums, a Chinatown food tour and whale watching, with hotel, transport and food recommendations.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Boston Common",
+          "location": "Boston, USA",
+          "details": "Start of the creator's Day 1: Boston Common, described as the oldest city park in the US and a first-morning stop.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Freedom Trail",
+          "location": "Boston, USA",
+          "details": "Day 1: walk the Freedom Trail; the creator recommends booking a guided tour with costumed guides.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Granary Burying Ground",
+          "location": "Boston, USA",
+          "details": "Day 1 stop on the Freedom Trail where Samuel Adams and Paul Revere are buried.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Union Oyster House",
+          "location": "Boston, USA",
+          "details": "Day 1 lunch stop; described as America's oldest restaurant, recommended for its lobster roll.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "The Fed at Langham Hotel",
+          "location": "Boston, USA",
+          "details": "Day 1 evening cocktails at The Fed in the Langham Hotel; creator mentions the flaming Gerri Halliwell tequila cocktail.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Beacon Hill",
+          "location": "Boston, USA",
+          "details": "Day 2 morning wander; Acorn Street called possibly the most Instagrammed street in Boston.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Boston Public Garden",
+          "location": "Boston, USA",
+          "details": "Day 2 stroll with swan boats; coffee and people-watching stop.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Time Out Market Boston",
+          "location": "Boston, USA",
+          "details": "Day 2 lunch; creator had the truffle pasta and returned again on Day 3.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Fenway Park",
+          "location": "Boston, USA",
+          "details": "Day 2 afternoon: go if the Red Sox are playing, otherwise tour the stadium.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Museum of Fine Arts",
+          "location": "Boston, USA",
+          "details": "Day 3 morning; noted for the biggest Monet collection outside France plus Van Gogh, Renoir and Egyptian artefacts.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Isabella Stewart Gardner Museum",
+          "location": "Boston, USA",
+          "details": "Day 3 afternoon: Venetian-style palace with indoor courtyard; home of a famous unsolved art heist.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "High Street Place Food Hall",
+          "location": "Boston, USA",
+          "details": "Day 3 evening food hall with sushi, tacos and cocktails.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Boston Chinatown food tour",
+          "location": "Boston, USA",
+          "details": "Day 4 morning highlight: dim sum, moon cakes, Hong Kong barbecue and herbal teas.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Black Heritage Trail / Women's Heritage Trail",
+          "location": "Boston, USA",
+          "details": "Day 4 afternoon options covering Boston's role in abolition and women's rights.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Boston Public Library",
+          "location": "Boston, USA",
+          "details": "Day 4 stop; creator recommends going early in the morning for quiet photos.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Whale watching",
+          "location": "Boston, USA",
+          "details": "Day 5 morning (April–October); creator went on a catamaran and spotted humpback whales.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Boston Harborwalk",
+          "location": "Boston, USA",
+          "details": "Day 5 afternoon walk along 43 miles of trails, beaches and skyline views.",
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://absolutelylucy.com/5-day-boston-itinerary/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 18,
+      "handle": "@sarowly",
+      "platform": "instagram",
+      "title": "Amalfi Coast 5-Day Itinerary",
+      "destination": "Amalfi Coast, Italy",
+      "country": "Italy",
+      "days": 5,
+      "summary": "Creator's five-day Amalfi Coast itinerary (Day 1 Positano, Day 2 Amalfi and Atrani, Day 3 Ravello, Day 4 Sorrento, Day 5 Capri), written after her 2025 visit, with hotel and transport recommendations.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Positano",
+          "location": "Amalfi Coast, Italy",
+          "details": "Day 1 base of the creator's five-day Amalfi Coast itinerary.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Amalfi and Atrani",
+          "location": "Amalfi Coast, Italy",
+          "details": "Day 2 stops: Amalfi town and nearby Atrani.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Ravello",
+          "location": "Amalfi Coast, Italy",
+          "details": "Day 3 stop on the creator's five-day itinerary.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Sorrento",
+          "location": "Amalfi Coast, Italy",
+          "details": "Day 4 stop on the creator's five-day itinerary.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Capri",
+          "location": "Amalfi Coast, Italy",
+          "details": "Day 5 stop on the creator's five-day itinerary.",
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://sarowly.me/blog/amalficoasttravelguide"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "batch": 18,
+      "handle": "@bucketlistjourney",
+      "platform": "instagram",
+      "title": "The Perfect 3-day Itinerary for Oaxaca City, Mexico",
+      "destination": "Oaxaca City, Mexico",
+      "country": "Mexico",
+      "days": 3,
+      "summary": "Creator's perfect 3-day Oaxaca City itinerary: historic center and markets on Day 1, street art plus cooking and engraving workshops on Day 2, and a mezcal tour with lucha libre on Day 3, with named restaurants for every meal.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Boulenc",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 1 breakfast; one of Oaxaca City's most popular cafes with two locations plus a bakery.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Templo de Santo Domingo de Guzman",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 1: the city's crown jewel church with ornate Baroque design and gold-covered altar.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Jardin Etnobotanico Tour",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 1 guided tour of the ethnobotanical garden (about 50 pesos, mostly in Spanish).",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Museum of Cultures of Oaxaca",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 1: museum inside a former monastery next to Santo Domingo, with Mixtec treasures including gold from Monte Alban.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Tacos Chemita",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 1 lunch; local taqueria known for al pastor tacos and chemita alambres.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Mercado Benito Juarez",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 1 shopping stop for souvenirs and snacks; creator recommends the nieve at stall #27 (Chaguita).",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "La Cueva",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 1 pre-dinner drinks; moody cave-like bar with mezcal selection near Nuestra Senora de la Defensa.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Casa Mook",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 1 dinner; creator recommends the traditional pozole and memelas.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Bodaega",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 2 pastries and coffee; creator's favorite pastry shop in Oaxaca City — morning bun with jamon serrano recommended.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Street art in Barrio de Jalatlaco",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 2: wander the murals of Barrio de Jalatlaco; creator took a free walking tour with Oaxaca by Locals.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Cooking class Dos Corazones",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 2: 3-hour cooking class with Chef Aubrey (chileajo, chile relleno, salsas). The creator links the exact Viator booking for the class she took.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Wood engraving workshop",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 2: 3-hour wood engraving class at Galeria 20-20; book by messaging them on Instagram.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Sabina Sabe",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 2 cocktails; bar on the World's Top 50 Bars list — Paloma Margarita and Guayabo Verde recommended.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Las Quince Letras",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 2 dinner; authentic Oaxacan dinner — mole negro, molotes de platano and tasajo a la oaxaquena.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Pan Con Madre",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 3 breakfast at an all-sourdough bakery; yogurt bowl with fruit, granola and cacao nibs.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "The Mezcal Journey tour",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 3: 6-hour mezcal tour from roasting agave hearts to a tasting of nearly a dozen mezcals. The creator links the Viator booking for the same tour.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Lucha Libre at Arena Oaxaca",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 3 evening (Sundays only): Lucha Libre at 6:30 PM — five matches of Rudos vs Tecnicos.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Selva Cocktail Bar",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 3 cocktails before dinner.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Zandunga",
+          "location": "Oaxaca City, Mexico",
+          "details": "Day 3 dinner to close the itinerary.",
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://bucketlistjourney.net/oaxaca-mexico-itinerary/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 18,
+      "handle": "@traveldaveuk",
+      "platform": "instagram",
+      "title": "Louisiana Road Trip Itinerary: From NOLA to the Bayou",
+      "destination": "Louisiana, USA",
+      "country": "USA",
+      "days": 5,
+      "summary": "Sequential five-region Louisiana road trip: New Orleans → Northshore → Baton Rouge → Lake Charles → Natchitoches, with an optional Vicksburg, Mississippi extension.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "flight",
+          "name": "Louis Armstrong New Orleans International Airport",
+          "location": "New Orleans, USA",
+          "details": "Fly directly from the UK to Louis Armstrong New Orleans International Airport; start base for the road trip.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "New Orleans 48-hour guide",
+          "location": "New Orleans, USA",
+          "details": "Creator's linked 48-hour New Orleans guide; pick up rental car from the airport to continue to the Northshore.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Cajun Encounters Swamp Tour",
+          "location": "Honey Island Swamp, Northshore, USA",
+          "details": "Guided boat tour of Honey Island Swamp; cypress trees, alligators, wild boars, raccoons, egrets and herons.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Palmettos on the Bayou",
+          "location": "Slidell, USA",
+          "details": "Acadian-style restaurant in Slidell; brunch with live jazz and Creole flavours; poboy and deep-fried alligator bites.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Cane Bayou paddle with Canoe & Trail Adventures",
+          "location": "Northshore, USA",
+          "details": "Guided paddle through Cane Bayou past cypress groves and marshes.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Olde Towne Slidell",
+          "location": "Slidell, USA",
+          "details": "Historic charm, local boutiques, community events.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "The Barley Oak",
+          "location": "Mandeville, USA",
+          "details": "Lakeside beer haven with views of Lake Pontchartrain and craft brews.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Covington town",
+          "location": "Covington, USA",
+          "details": "Walkable town with galleries, antique shops, Southern hospitality.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "hotel",
+          "name": "Southern Hotel",
+          "location": "Covington, USA",
+          "details": "Restored 1907 property in Covington with cosy bar and elegant rooms.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Columbia Street Block Party",
+          "location": "Covington, USA",
+          "details": "Held last Friday of the month; classic cars, live music, local vendors.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Tavi",
+          "location": "Covington, USA",
+          "details": "Wood-fired Middle Eastern flavours; fried chicken and hummus.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "The English Tea Room",
+          "location": "Covington, USA",
+          "details": "Refined high tea with 200+ teas and British-inspired fare.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Fleur de Lis Tea Company",
+          "location": "Northshore, USA",
+          "details": "Tour through tea fields; sample Louisiana-grown blends.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Louisiana State University / Tiger Stadium",
+          "location": "Baton Rouge, USA",
+          "details": "Sprawling campus; legendary LSU Tiger Stadium and tailgate culture.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Alex Box Stadium",
+          "location": "Baton Rouge, USA",
+          "details": "LSU baseball stadium; hometown pride matchups.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Oxbow Rum Distillery",
+          "location": "Baton Rouge, USA",
+          "details": "Small-batch spirits and guided tastings of Louisiana rum.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "hotel",
+          "name": "Origin Hotel Baton Rouge",
+          "location": "Baton Rouge, USA",
+          "details": "Stylish, centrally located stay with Southern hospitality.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "The Chimes on Highland",
+          "location": "Baton Rouge, USA",
+          "details": "Beloved institution serving Cajun and Creole favourites with LSU nostalgia.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Zippy's Burritos, Tacos & More",
+          "location": "Baton Rouge, USA",
+          "details": "Casual bite; bold flavours, laid-back vibes.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Bayou Manchac Park",
+          "location": "Baton Rouge, USA",
+          "details": "Peaceful green space for a breather or picnic.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "PaddleBR canoeing",
+          "location": "Baton Rouge, USA",
+          "details": "Canoeing excursion through the bayou's winding waterways.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Louisiana Old State Capitol",
+          "location": "Baton Rouge, USA",
+          "details": "Gothic Revival masterpiece above the Mississippi River with stained-glass window dome.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "hotel",
+          "name": "L'Auberge Casino Resort",
+          "location": "Lake Charles, USA",
+          "details": "Luxurious home base; pool, lazy river, live music, casino floor.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "restaurant",
+          "name": "Ember Grille & Wine Bar",
+          "location": "Lake Charles, USA",
+          "details": "Refined spot; tableside-flamed steaks, Gulf seafood, wine list.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Pintail Wildlife Drive & Boardwalk",
+          "location": "Lake Charles, USA",
+          "details": "Scenic route through marshes; birds, alligators, native flora.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Rutherford Beach",
+          "location": "Gulf Coast, USA",
+          "details": "Hidden find; shell-strewn shoreline, dolphin watching, sunsets.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "restaurant",
+          "name": "Chesson's Grocery",
+          "location": "Lake Charles, USA",
+          "details": "Beloved local spot; po'boy, boudin, plate lunch with Cajun flavour.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "hotel",
+          "name": "Sweet Cane Inn",
+          "location": "Natchitoches, USA",
+          "details": "Cosy bed-and-breakfast with warm hospitality and Victorian flair.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Natchitoches Historic District",
+          "location": "Natchitoches, USA",
+          "details": "Cobblestone streets, wrought-iron balconies, Creole heritage.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "restaurant",
+          "name": "Mayeaux's Steak and Seafood",
+          "location": "Natchitoches, USA",
+          "details": "Hearty dinner; Southern comfort meets Cajun zest.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "restaurant",
+          "name": "Cane River Commissary",
+          "location": "Natchitoches, USA",
+          "details": "Laid-back dining with river views and rustic charm.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Briarwood: Caroline Dormon Nature Preserve",
+          "location": "Natchitoches, USA",
+          "details": "Lush sanctuary dedicated to Louisiana pioneering conservationist.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Buccaneer Bayou at Darkwoods Adventure Park",
+          "location": "Natchitoches, USA",
+          "details": "Pirate-themed miniature golf.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "restaurant",
+          "name": "Lasyone's Meat Pie Kitchen",
+          "location": "Natchitoches, USA",
+          "details": "Iconic home of the legendary Natchitoches meat pie; crawfish favourite.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Melrose on the Cane",
+          "location": "Natchitoches, USA",
+          "details": "Plantation steeped in art and folklore.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Fort St. Jean Baptiste",
+          "location": "Natchitoches, USA",
+          "details": "Reconstructed French colonial fort; 18th century brought to life.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "restaurant",
+          "name": "Flying Heart Brewing",
+          "location": "Natchitoches, USA",
+          "details": "Craft beers with a local twist.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Cane River Queen cruise",
+          "location": "Natchitoches, USA",
+          "details": "Leisurely cruise down Cane River Lake past moss-draped cypresses and historic homes.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "other",
+          "name": "Optional extension: Vicksburg, Mississippi",
+          "location": "Mississippi, USA",
+          "details": "Extend the road trip from Natchitoches to Vicksburg and explore the Mississippi Blues Trail.",
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://traveldave.co.uk/louisiana-road-trip-itinerary/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 18,
+      "handle": "@mikesroadtrip",
+      "platform": "instagram",
+      "title": "Phoenix to Colorado Springs Road Trip: 8-Day Southwest Loop",
+      "destination": "Southwest USA (Phoenix to Colorado Springs loop)",
+      "country": "USA",
+      "days": 8,
+      "summary": "8-day Southwest road trip loop from Phoenix through Flagstaff, Monument Valley, southeast Utah, Mesa Verde, Durango, Pagosa Springs and Pueblo to Colorado Springs, returning via Santa Fe, Gallup, Canyon de Chelly and Winslow.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "I-17 scenic drive Phoenix to Flagstaff",
+          "location": "Arizona, USA",
+          "details": "Approx 2.5h; dramatic transition from Sonoran Desert saguaros to ponderosa pine forests; Verde Valley views.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Historic Downtown Flagstaff",
+          "location": "Flagstaff, USA",
+          "details": "Walkable mountain-town district; restaurants, breweries, shops, Route 66 character.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Lowell Observatory",
+          "location": "Flagstaff, USA",
+          "details": "Evening stop; Flagstaff dark-sky reputation.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Sedona and Oak Creek Canyon (optional detour)",
+          "location": "Sedona, USA",
+          "details": "Optional first-time-Arizona detour; red rocks and scenic Oak Creek Canyon drive.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "hotel",
+          "name": "Little America",
+          "location": "Flagstaff, USA",
+          "details": "Recommended overnight to break up the drive and start fresh.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Wupatki National Monument (optional detour)",
+          "location": "Arizona, USA",
+          "details": "Ancient pueblo ruins against stark, windswept landscape.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Painted Desert scenery",
+          "location": "Arizona, USA",
+          "details": "Bands of color, eroded hills, long desert views along Highway 89.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "transport",
+          "name": "Tuba City",
+          "location": "Tuba City, USA",
+          "details": "Practical stop for fuel, food; Navajo Nation communities along Highway 160.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Monument Valley",
+          "location": "Utah/Arizona, USA",
+          "details": "Iconic sandstone buttes; spend the night for sunset and/or sunrise.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "hotel",
+          "name": "The View Hotel",
+          "location": "Monument Valley, USA",
+          "details": "Immersive stay close to the landscape; rooms, cabins, RV sites, campsites.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "hotel",
+          "name": "Goulding's Lodge",
+          "location": "Monument Valley, USA",
+          "details": "Historic option; lodge rooms, campground/RV, dining, museum, mesa views.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Forrest Gump Point",
+          "location": "Utah, USA",
+          "details": "Optional photo stop north of Monument Valley made famous by the film.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Mexican Hat Rock Formation",
+          "location": "Mexican Hat, USA",
+          "details": "Quirky sombrero-shaped roadside landmark.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Valley of the Gods scenic drive",
+          "location": "Utah, USA",
+          "details": "Beautiful unpaved scenic route through red rock formations and sandstone monoliths.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Goosenecks State Park (optional detour)",
+          "location": "Utah, USA",
+          "details": "Sweeping view of the San Juan River carving tight bends through the canyon.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Bluff Historic District and Twin Rocks",
+          "location": "Bluff, USA",
+          "details": "Mormon pioneer history, early settlement, signature sandstone formations.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "hotel",
+          "name": "Bluff Dwellings Resort & Spa",
+          "location": "Bluff, USA",
+          "details": "Upscale, design-forward choice after dusty red-rock exploration.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "hotel",
+          "name": "Desert Rose Resort & Cabins",
+          "location": "Bluff, USA",
+          "details": "Rustic-chic cabins and lodge; on-site restaurant; base for Bears Ears and Valley of the Gods.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Mesa Verde National Park",
+          "location": "Colorado, USA",
+          "details": "Remarkably preserved cliff dwellings; Cliff Palace, Balcony House, Long House; Mesa Top Loop Road.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Durango Historic Downtown",
+          "location": "Durango, USA",
+          "details": "Lively, walkable district; shops, restaurants, breweries, galleries, Western architecture.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Durango & Silverton Narrow Gauge Railroad",
+          "location": "Durango, USA",
+          "details": "Signature classic Colorado rail experience.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "hotel",
+          "name": "Blue Lake Ranch",
+          "location": "Durango, USA",
+          "details": "Peaceful ranch setting with gardens and mountain views outside Durango.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "hotel",
+          "name": "Historic Strater Hotel",
+          "location": "Durango, USA",
+          "details": "Classic downtown choice near shops, restaurants, Animas River, railroad.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Pagosa Springs",
+          "location": "Pagosa Springs, USA",
+          "details": "Worthwhile mid-route stop; lunch, walk along San Juan River, hot springs soak.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Wolf Creek Pass",
+          "location": "Colorado, USA",
+          "details": "Dramatic high-elevation mountain section with forested views.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Pueblo Riverwalk (optional)",
+          "location": "Pueblo, USA",
+          "details": "Historic Arkansas Riverwalk; practical stop for food, fuel, short walk.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "hotel",
+          "name": "The Broadmoor",
+          "location": "Colorado Springs, USA",
+          "details": "Bucket-list grand resort stay and memorable arrival in Colorado Springs.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "activity",
+          "name": "Garden of the Gods",
+          "location": "Colorado Springs, USA",
+          "details": "Early-morning visit before heading south on the return leg.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "activity",
+          "name": "Las Vegas, New Mexico",
+          "location": "Las Vegas, USA",
+          "details": "Historic railroad and Old West town; vintage architecture, film locations.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "activity",
+          "name": "Santa Fe Plaza and Canyon Road",
+          "location": "Santa Fe, USA",
+          "details": "Evening walk near the Plaza; gallery scene on Canyon Road; adobe architecture.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "hotel",
+          "name": "Inn and Spa at Loretto",
+          "location": "Santa Fe, USA",
+          "details": "Walking distance of historic downtown, Santa Fe Plaza, shops, galleries.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "hotel",
+          "name": "La Posada de Santa Fe",
+          "location": "Santa Fe, USA",
+          "details": "Historic resort-style property with classic Santa Fe character.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "hotel",
+          "name": "Bishop's Lodge",
+          "location": "Santa Fe, USA",
+          "details": "Secluded upscale resort experience just outside downtown.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "activity",
+          "name": "Gallup, New Mexico",
+          "location": "Gallup, USA",
+          "details": "Historic Route 66 stop; trading posts, vintage signs, Native American art.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "activity",
+          "name": "El Rancho Hotel",
+          "location": "Gallup, USA",
+          "details": "Classic roadside landmark; nostalgic lobby, old photos, Route 66 atmosphere.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "activity",
+          "name": "Canyon de Chelly National Monument (optional detour)",
+          "location": "Arizona, USA",
+          "details": "Dramatic canyon overlooks, ancient cliff dwellings; South Rim Drive, White House and Spider Rock overlooks; guided canyon tours via authorized Navajo guides.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "activity",
+          "name": "Standin' on the Corner Park",
+          "location": "Winslow, USA",
+          "details": "Essential Winslow photo stop; Route 66 nostalgia.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "hotel",
+          "name": "The Winslow",
+          "location": "Winslow, USA",
+          "details": "Newer hip modern hotel just off I-40 near old town.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "hotel",
+          "name": "La Posada Hotel",
+          "location": "Winslow, USA",
+          "details": "Great historic railroad hotel; gardens, art, The Turquoise Room.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 8,
+          "item_type": "activity",
+          "name": "Highway 87 south scenic return",
+          "location": "Arizona, USA",
+          "details": "More scenic and less expected return than I-40/I-17; pines and rim country.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 8,
+          "item_type": "activity",
+          "name": "Pine and Strawberry",
+          "location": "Arizona, USA",
+          "details": "Small mountain communities; cafes, shops, antiques; lunch or coffee.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 8,
+          "item_type": "transport",
+          "name": "Payson",
+          "location": "Payson, USA",
+          "details": "Practical stop for fuel, food, short break before descending.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 8,
+          "item_type": "activity",
+          "name": "Fountain Hills",
+          "location": "Fountain Hills, USA",
+          "details": "Final pause; namesake fountain, public art, lakefront walking paths.",
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://mikesroadtrip.com/phoenix-to-colorado-springs-road-trip-guide/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 18,
+      "handle": "@girlonahike",
+      "platform": "instagram",
+      "title": "Clayton Peak via Guardsmans Pass: Day Hike",
+      "destination": "Clayton Peak, Utah, USA",
+      "country": "USA",
+      "days": 1,
+      "summary": "Creator's day-hike guide to Clayton Peak (10,721 ft) via the Guardsmans Pass trailhead: 3.2-mile round trip with 1,000 ft of elevation gain, ridge route with a boulder scramble at the top, optional Peak 10,420 side summit and Lackawaxen/Bloods Lake loop; guide carries explicit 2025 updates on hourly parking fees.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Clayton Peak summit via Guardsmans Pass trailhead",
+          "location": "Guardsmans Pass to Clayton Peak, Utah, USA",
+          "details": "Day 1: summit Clayton Peak (10,721 ft) from the Guardsmans Pass trailhead; 3.2 miles round trip, 1,000 ft elevation gain, 2-4 hours; hike up the south ridge staying on the ridgeline, with a final 1/4 mile of boulder scrambling and route finding; 360-degree views of the Uinta Mountains, Jordanelle State Park and Strawberry Reservoir; optional Peak 10,420 side summit (100-200 yards off the trail split) and Lackawaxen/Bloods Lake loop return.",
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://girlonahike.com/clayton-peak.html"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 18,
+      "handle": "@lattesnluggage",
+      "platform": "instagram",
+      "title": "Berlin, Germany — Solo Rail Trip Finale",
+      "destination": "Berlin, Germany",
+      "country": "Germany",
+      "days": null,
+      "summary": "Creator's solo Germany rail trip finale in Berlin: Hamburg-Berlin train, CALMA Berlin Mitte stay with booking code, Mitte restaurants, and sightseeing across the city.",
+      "items": [
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Hamburg to Berlin train",
+          "location": "Berlin, Germany",
+          "details": "Creator took the Hamburg-Berlin train (~3 hours), pre-booked via bahn.de for the best prices; chose the scenic affordable rail route over flying.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "CALMA Berlin Mitte",
+          "location": "Berlin, Germany",
+          "details": "Creator stayed at CALMA Berlin Mitte (little BIG hotels) in the Mitte neighborhood; clean, comfortable, central, free luggage storage; rooms renovated in 2024; creator offers code RAVEN5 for 5% off direct bookings.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Ristorante Garda",
+          "location": "Berlin, Germany",
+          "details": "Authentic Italian restaurant, family tradition since 1969, hidden in a quiet courtyard behind CALMA; hearty portions, fresh bruschetta recommended.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "heimlich Treu",
+          "location": "Berlin, Germany",
+          "details": "Cozy spot for lunch or dinner with a creative Modern European food and cocktail menu and a sharing concept; patio drinks option.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "FACIL",
+          "location": "Berlin, Germany",
+          "details": "2-Michelin-star restaurant led by chef Michael Kempf; rotating-course celebratory dinner menu in a gorgeous space.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Golvet",
+          "location": "Berlin, Germany",
+          "details": "1-Michelin-star restaurant on the 8th floor of Potsdamer Platz (~100 feet up) with city views and chef Nicholas Hahn.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Katz Orange",
+          "location": "Berlin, Germany",
+          "details": "Farm-to-table restaurant with something for everyone and wine pairings; feels like a family dinner at a friend house.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Austernbank",
+          "location": "Berlin, Germany",
+          "details": "Seafood restaurant in the former Disconto Bank building, modeled on NYC Grand Central Oyster Bar; menu by chef Philippe Lemoine.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Elements of Food Tour",
+          "location": "Berlin, Germany",
+          "details": "Creator took a private food tour of Kreuzberg guided by Itay, the founder, eating and drinking through lesser-known neighborhoods.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Brandenburg Gate",
+          "location": "Berlin, Germany",
+          "details": "Berlin oldest surviving historical gate; free, open 24/7; symbolic Cold War division site.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Berlin TV Tower",
+          "location": "Berlin, Germany",
+          "details": "Tallest structure in Berlin (over 1200 feet); observation deck plus rotating bar/restaurant; creator notes it can close for private events.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Reichstag Building",
+          "location": "Berlin, Germany",
+          "details": "Historic seat of the German parliament (Bundestag); free to visit but requires advance registration; glass dome with 360-degree views.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Fotografiska Berlin",
+          "location": "Berlin, Germany",
+          "details": "Photography/art museum next to CALMA; fun nighttime activity; cafe serves creative blue lattes.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Plötzensee Memorial",
+          "location": "Berlin, Germany",
+          "details": "Memorial to victims of 1933-1945; free and open to the public; commemorative wall and permanent exhibition.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Silent Green Kulturquartier",
+          "location": "Berlin, Germany",
+          "details": "1911 former crematorium transformed into a cultural hub hosting art, films and live music.",
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://lattesnluggage.com/2026/04/03/best-place-to-stay-in-berlin/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 18,
+      "handle": "@lattesnluggage",
+      "platform": "instagram",
+      "title": "Key West, Florida Guide",
+      "destination": "Key West, USA",
+      "country": "USA",
+      "days": null,
+      "summary": "Creator's Key West recommendations from multiple trips: where to stay, top restaurants, and bookable tours and activities with creator-listed prices.",
+      "items": [
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Hilton Garden Inn Key West",
+          "location": "Key West, USA",
+          "details": "Creator stayed here herself: clean classic hotel with great service and amenities; free shuttle to downtown Key West included.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Curry Mansion Key West",
+          "location": "Key West, USA",
+          "details": "Victorian mansion built 1869 with 29 antique guest rooms on Caroline Street, right in downtown action; noted haunted history.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Truman Hotel",
+          "location": "Key West, USA",
+          "details": "Convenient, trendy boutique hotel; modern, great for couples; Ernest Hemingway Home a 6-minute walk away; continental breakfast daily.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Casa Marina",
+          "location": "Key West, USA",
+          "details": "Historic 1920s Hilton resort with private beach and pools, walking distance to the southernmost point; Spa al Mare on site.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "The Reach",
+          "location": "Key West, USA",
+          "details": "Sister property of Casa Marina with private beachfront downtown; full access to Casa Marina amenities including Spa al Mare.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Pier House Resort & Spa",
+          "location": "Key West, USA",
+          "details": "Private beach with full-service spa in the heart of the action; oceanfront views, rain-style showers.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Latitudes Key West",
+          "location": "Key West, USA",
+          "details": "On OpenTable 100 Most Romantic and 100 Most Scenic Restaurants lists; seated basically on the sand; reservations via OpenTable required.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Nine One Five",
+          "location": "Key West, USA",
+          "details": "Repeatedly named the best restaurant in Key West; pricier but worth it; upstairs dining available without reservation.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Santiago's Bodega",
+          "location": "Key West, USA",
+          "details": "Local go-to with happy hour 3-6PM daily: $5 tapas, half-off beer/wine/sangria, $26 sangria pitchers.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Cuban Coffee Queen",
+          "location": "Key West, USA",
+          "details": "Breakfast tradition: authentic Cuban coffee and dishes without long lines or reservations.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Better Than Sex",
+          "location": "Key West, USA",
+          "details": "Desserts-only restaurant, perfect for date night; prosecco rimmed with salted caramel was the creator favorite.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Edgar Allen Poe Speakeasy",
+          "location": "Key West, USA",
+          "details": "4-part cocktail experience at The Key West Theater; each cocktail themed and paired with a Poe story.",
+          "booking_link": null,
+          "price_hint": "$55+"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Open Bar Sunset Cruise",
+          "location": "Key West, USA",
+          "details": "Sunset catamaran cruise with open bar, appetizer selection and live music.",
+          "booking_link": null,
+          "price_hint": "$69+"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Afternoon Reef Snorkel",
+          "location": "Key West, USA",
+          "details": "Sail to one of the third-largest barrier reefs in the world; one hour of snorkeling plus a relaxing ocean ride.",
+          "booking_link": null,
+          "price_hint": "$54+"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Dolphin Watching and Snorkeling Tour",
+          "location": "Key West, USA",
+          "details": "Snorkel in the Key West National Wildlife Refuge and watch dolphins in their natural habitat; draft beer and gear included.",
+          "booking_link": null,
+          "price_hint": "$79+"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Key West Conch Train Tour",
+          "location": "Key West, USA",
+          "details": "Narrated tour passing Ernest Hemingway home and the Little White House; free Sails to Rails Museum admission; hop off on Duval Street.",
+          "booking_link": null,
+          "price_hint": "$45+"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Parasailing Above the Island",
+          "location": "Key West, USA",
+          "details": "Bird-eye-view parasail adventure for up to three people; dolphin sightings possible.",
+          "booking_link": null,
+          "price_hint": "$84+"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Cuban & Caribbean Food Tour",
+          "location": "Key West, USA",
+          "details": "Walking food tour through historic neighborhoods with 5 generous tastings: fish tacos, key lime pie, conch fritters and more.",
+          "booking_link": null,
+          "price_hint": "$90+"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Truman Little White House",
+          "location": "Key West, USA",
+          "details": "The only Presidential Museum in Florida; Truman spent 175 days of his presidency here; guided tour, good rainy-day option.",
+          "booking_link": null,
+          "price_hint": "$25+"
+        }
+      ],
+      "source_urls": [
+        "http://lattesnluggage.com/2025/04/07/your-ultimate-travel-guide-to-key-west-florida/"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "built": "2026-09-18",
+  "note": "Claim packets only (no worker notes/transcripts). Reviewers must be fresh-context and a different model family from the builders."
+}

@@ -73,15 +73,21 @@ def main():
     if qpath.exists():
         qdata = json.loads(qpath.read_text(encoding="utf-8"))
         for q in qdata.get("quarantine", []):
-            key = (q["handle"], q["platform"])
-            if key not in seen:
-                warnings.append(f"quarantine entry {q['handle']} ({q['platform']}) not in influencers.csv")
+            qplat = q.get("platform") or "unknown"
+            if qplat == "unknown":
+                warnings.append(f"quarantine entry {q['handle']} has no platform recorded")
+            in_csv = any(h == q["handle"] for h, _ in seen)
+            if not in_csv:
+                warnings.append(f"quarantine entry {q['handle']} ({qplat}) not in influencers.csv")
                 continue
             if q.get("status") == "quarantined":
                 quarantined.append(q)
-                base = ("https://www.tiktok.com/" if q["platform"] == "tiktok"
-                        else "https://www.instagram.com/") + q["handle"].lstrip("@")
-                checklist.append({"handle": q["handle"], "platform": q["platform"],
+                if qplat in ("tiktok", "instagram"):
+                    base = ("https://www.tiktok.com/" if qplat == "tiktok"
+                            else "https://www.instagram.com/") + q["handle"].lstrip("@")
+                else:
+                    base = None
+                checklist.append({"handle": q["handle"], "platform": qplat,
                                   "reason": q["reason"], "check_url": base})
     else:
         warnings.append("quarantine.json missing — skipping quarantine check")

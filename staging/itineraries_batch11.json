@@ -1,0 +1,1180 @@
+{
+ "batch": 11,
+ "extractions": [
+  {
+   "handle": "@thescenicpassport",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Iceland",
+     "days": 7,
+     "destination": "Iceland Ring Road",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Seljalandsfoss, Gljufrabui, Skogafoss, Kvernufoss, Dyrholaey Lighthouse, Reynisfjara Beach, Vik.",
+       "item_type": "other",
+       "location": "South Iceland",
+       "name": "South Coast",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Fjadrargljufur Canyon, Skaftafell/Svartifoss, Svinafellsjokull Glacier, Jokulsarlon Glacier Lagoon, Diamond Beach, Mulagljufur Canyon.",
+       "item_type": "other",
+       "location": "Southeast Iceland",
+       "name": "Southeast Iceland",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Stokksnes/Vestrahorn, Hengifoss, Litlanesfoss, Studlagil Canyon, Laugavallalaug Hot Spring.",
+       "item_type": "other",
+       "location": "East Iceland",
+       "name": "East Iceland",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Dettifoss, Hverir Geothermal Area, Myvatn Nature Baths, Godafoss, Akureyri.",
+       "item_type": "other",
+       "location": "North Iceland",
+       "name": "North Iceland",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Kirkjufell, Kirkjufellsfoss, Londrangar, Arnarstapi Sea Cliffs, Budakirkja.",
+       "item_type": "other",
+       "location": "West Iceland",
+       "name": "Snaefellsnes Peninsula",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Landmannalaugar, Frostastadavatn, Sigoldugljufur, Haifoss, Blahylur.",
+       "item_type": "other",
+       "location": "Iceland Highlands",
+       "name": "Highlands",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Gullfoss, Geysir, Bruarfoss, Blue Lagoon.",
+       "item_type": "other",
+       "location": "Southwest Iceland",
+       "name": "Golden Circle to Keflavik",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@thescenicpassport/video/7528975870283877646?_r=1&_d=secCgYIASAHKAESPgo8LEKBZA4pwD9omYZDfuvByYyvneXIqndIHMxQfeR1I4LuK9HwwlaH3JPvsUC2vxwGsdQwB%2BekmvutiU16GgA%3D&_svg=3&checksum=40069de2ab5d1ca4a76667b94a17f4d0a2e27cd76c08dae04d813d46625a0f47&link_reflow_popup_iteration_sharer=%7B%22click_empty_to_play%22%3A1%2C%22dynamic_cover%22%3A1%2C%22follow_to_play_duration%22%3A-1%7D&preview_pb=0&sec_user_id=MS4wLjABAAAAFj9nCFTJnX3e7XqSDFnbb6hfVYkQX_PM-dDggeg6S_-Bx8P_p93fCOfrADP3ekxh&share_app_id=1233&share_item_id=7528975870283877646&share_link_id=17BF6B1A-929B-4616-9517-6439A8D81236&share_scene=2&sharer_language=en&social_share_type=0&source=h5_m&timestamp=1754449689&tt_from=facebook&u_code=eehecaf5ji745b&ug_btm=b2001&user_id=7380113995082122283"
+     ],
+     "summary": "Lauren (@thescenicpassport) publishes a 7-day Iceland Ring Road itinerary (counterclockwise) on TikTok with day-by-day stops covering South Coast, Southeast, East, North, Snaefellsnes, Highlands and Golden Circle.",
+     "title": "7-Day Iceland Ring Road Itinerary (Counterclockwise)"
+    }
+   ],
+   "notes": "Day-by-day 7-day Iceland Ring Road itinerary from TikTok video caption; specific stops listed per day; published within trailing 24 months.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@katieosheaaway",
+   "platform": "tiktok",
+   "notes": "California national-parks road trip from TikTok video; Sequoia, Kings Canyon, Yosemite; published 2025-08-08.",
+   "itineraries": [
+    {
+     "title": "California National Parks Road Trip",
+     "destination": "California (Sequoia, Kings Canyon, Yosemite)",
+     "country": "USA",
+     "days": 3,
+     "summary": "Katie O'Shea (@katieosheaaway) shares a California national-parks road trip on TikTok covering Sequoia, Kings Canyon, and Yosemite; published 2025-08-08.",
+     "source_urls": [
+      "https://www.tiktok.com/@katieosheaaway/video/7536275089478651167"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": 1,
+       "name": "Sequoia National Park",
+       "location": "California, USA",
+       "item_type": "activity",
+       "details": "Giant sequoias and park highlights.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Kings Canyon National Park",
+       "location": "California, USA",
+       "item_type": "activity",
+       "details": "Canyon views and trails.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "Yosemite National Park",
+       "location": "California, USA",
+       "item_type": "activity",
+       "details": "Valley views and iconic landmarks.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@alynnavalbuena",
+   "platform": "tiktok",
+   "notes": "Seven-day DIY Bali itinerary from TikTok video; published 2025-07-07.",
+   "itineraries": [
+    {
+     "title": "Seven-Day DIY Bali Itinerary",
+     "destination": "Bali",
+     "country": "Indonesia",
+     "days": 7,
+     "summary": "Alynna (@alynnavalbuena) publishes a seven-day DIY Bali itinerary on TikTok; published 2025-07-07.",
+     "source_urls": [
+      "https://www.tiktok.com/@alynnavalbuena/video/7524199296187632903"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Bali DIY Itinerary",
+       "location": "Bali, Indonesia",
+       "item_type": "other",
+       "details": "Seven-day do-it-yourself Bali itinerary with day-by-day plan.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@chloeconortravels",
+   "platform": "tiktok",
+   "notes": "Prague day itinerary from TikTok video; published 2026-01-11.",
+   "itineraries": [
+    {
+     "title": "Prague Day Itinerary",
+     "destination": "Prague",
+     "country": "Czech Republic",
+     "days": 1,
+     "summary": "Chloe (@chloeconortravels) shares a Prague day itinerary on TikTok; published 2026-01-11.",
+     "source_urls": [
+      "https://www.tiktok.com/@chloeconortravels/video/7594054954680126742"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": 1,
+       "name": "Prague Day Plan",
+       "location": "Prague, Czech Republic",
+       "item_type": "other",
+       "details": "Structured day itinerary for Prague.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@explorinwithnic",
+   "platform": "tiktok",
+   "notes": "South Island New Zealand route from TikTok video; published 2026-02-17.",
+   "itineraries": [
+    {
+     "title": "South Island New Zealand Route",
+     "destination": "South Island",
+     "country": "New Zealand",
+     "days": null,
+     "summary": "Nicole (@explorinwithnic) publishes a South Island New Zealand route on TikTok; published 2026-02-17.",
+     "source_urls": [
+      "https://www.tiktok.com/@explorinwithnic/video/7607945794917879062"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "South Island Route",
+       "location": "South Island, New Zealand",
+       "item_type": "other",
+       "details": "Structured route guide for New Zealand's South Island.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@lucyinthesskyy",
+   "platform": "tiktok",
+   "notes": "Greek-island guide from TikTok video; published 2026-03-02.",
+   "itineraries": [
+    {
+     "title": "Greek Island Guide",
+     "destination": "Greek Islands",
+     "country": "Greece",
+     "days": null,
+     "summary": "Lucy (@lucyinthesskyy) shares a Greek-island guide on TikTok; published 2026-03-02.",
+     "source_urls": [
+      "https://www.tiktok.com/@lucyinthesskyy/video/7612631506153999638"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Greek Islands Guide",
+       "location": "Greece",
+       "item_type": "other",
+       "details": "Structured guide to Greek islands.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@_cocoylim",
+   "platform": "tiktok",
+   "notes": "Ten Taiwan day-trip ideas from TikTok video; published 2026-03-15.",
+   "itineraries": [
+    {
+     "title": "Ten Taiwan Day-Trip Ideas",
+     "destination": "Taiwan",
+     "country": "Taiwan",
+     "days": null,
+     "summary": "cocoy (@_cocoylim) publishes ten Taiwan day-trip ideas on TikTok; published 2026-03-15.",
+     "source_urls": [
+      "https://www.tiktok.com/@_cocoylim/video/7617345387824778503"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Taiwan Day Trips",
+       "location": "Taiwan",
+       "item_type": "other",
+       "details": "Ten structured day-trip ideas for Taiwan.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@sarah.rh.bashir",
+   "platform": "tiktok",
+   "notes": "Three-day Morocco Imperial Cities from TikTok video; published 2026-04-29.",
+   "itineraries": [
+    {
+     "title": "Morocco Imperial Cities (3 Days)",
+     "destination": "Morocco Imperial Cities",
+     "country": "Morocco",
+     "days": 3,
+     "summary": "Sarah Bashir (@sarah.rh.bashir) shares a three-day Morocco Imperial Cities itinerary on TikTok; published 2026-04-29.",
+     "source_urls": [
+      "https://www.tiktok.com/@sarah.rh.bashir/video/7634256652715298055"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Imperial Cities Itinerary",
+       "location": "Morocco",
+       "item_type": "other",
+       "details": "Three-day structured itinerary for Morocco's Imperial Cities.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@daniellestravelblog",
+   "platform": "tiktok",
+   "notes": "Italy train route from TikTok video; Milan to Naples/Amalfi; published 2026-02-08.",
+   "itineraries": [
+    {
+     "title": "Italy Train Route",
+     "destination": "Italy (Milan to Naples/Amalfi)",
+     "country": "Italy",
+     "days": null,
+     "summary": "Danielle (@daniellestravelblog) publishes an Italy train route on TikTok covering Milan, Verona, Venice, Florence, Rome, Naples/Amalfi; published 2026-02-08.",
+     "source_urls": [
+      "https://www.tiktok.com/@daniellestravelblog/video/7604623136306253078"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Milan",
+       "location": "Milan, Italy",
+       "item_type": "transport",
+       "details": "Start of Italy train route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Verona",
+       "location": "Verona, Italy",
+       "item_type": "transport",
+       "details": "Train stop on Italy route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Venice",
+       "location": "Venice, Italy",
+       "item_type": "transport",
+       "details": "Train stop on Italy route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Florence",
+       "location": "Florence, Italy",
+       "item_type": "transport",
+       "details": "Train stop on Italy route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Rome",
+       "location": "Rome, Italy",
+       "item_type": "transport",
+       "details": "Train stop on Italy route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Naples/Amalfi",
+       "location": "Naples, Italy",
+       "item_type": "transport",
+       "details": "End of Italy train route.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@eralevich",
+   "platform": "tiktok",
+   "notes": "Eight-day Switzerland itinerary from TikTok video; published 2025-07-10.",
+   "itineraries": [
+    {
+     "title": "Eight-Day Switzerland Itinerary",
+     "destination": "Switzerland",
+     "country": "Switzerland",
+     "days": 8,
+     "summary": "Erick Enriquez (@eralevich) publishes an eight-day Switzerland itinerary on TikTok covering Zurich, Zermatt, Grindelwald, Interlaken, Spiez, Blausee, Oeschinen; published 2025-07-10.",
+     "source_urls": [
+      "https://www.tiktok.com/@eralevich/video/7525598971625000210"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Zurich",
+       "location": "Zurich, Switzerland",
+       "item_type": "other",
+       "details": "Switzerland itinerary stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Zermatt",
+       "location": "Zermatt, Switzerland",
+       "item_type": "other",
+       "details": "Switzerland itinerary stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Grindelwald",
+       "location": "Grindelwald, Switzerland",
+       "item_type": "other",
+       "details": "Switzerland itinerary stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Interlaken/Spiez",
+       "location": "Interlaken, Switzerland",
+       "item_type": "other",
+       "details": "Switzerland itinerary stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Blausee/Oeschinen",
+       "location": "Switzerland",
+       "item_type": "activity",
+       "details": "Lake and mountain highlights.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@catchagypsea",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Egypt multi-day itinerary",
+     "destination": "Egypt",
+     "country": "Egypt",
+     "days": 14,
+     "summary": "14-day Egypt itinerary from ieva's TikTok video 7559954654868589835 (published 2025-10-11): Giza days 1-2, Siwa days 3-5, Aswan days 6-7, Abu Simbel day 8, Luxor days 9-11, Marsa Alam days 12-14, with named hotels, restaurants and activities. Video: 209,700 plays, 9,347 likes.",
+     "source_urls": [
+      "https://www.tiktok.com/@catchagypsea/video/7559954654868589835"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": 1,
+       "item_type": "hotel",
+       "name": "Mena House",
+       "location": "Giza, Egypt",
+       "details": "Giza segment (days 1-2): luxury hotel near the Pyramids with pyramid views",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "hotel",
+       "name": "Guardian Guesthouse",
+       "location": "Giza, Egypt",
+       "details": "Giza segment (days 1-2): affordable pyramid views near the Pyramids",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "hotel",
+       "name": "Xuru Stays",
+       "location": "Giza, Egypt",
+       "details": "Giza segment (days 1-2): affordable pyramid views near the Pyramids",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "restaurant",
+       "name": "9 Pyramids Lounge",
+       "location": "Giza, Egypt",
+       "details": "Giza segment (days 1-2): breakfast while exploring the Pyramids",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "restaurant",
+       "name": "Khufu's Restaurant",
+       "location": "Giza, Egypt",
+       "details": "Giza segment (days 1-2): lunch while exploring the Pyramids",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Grand Egyptian Museum",
+       "location": "Giza, Egypt",
+       "details": "Giza segment (days 1-2): largest collection of Egyptian historical artefacts",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "item_type": "activity",
+       "name": "Philae Temple",
+       "location": "Aswan, Egypt",
+       "details": "Aswan segment (days 6-7): temple accessible only by boat",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "item_type": "activity",
+       "name": "Nubian village",
+       "location": "Aswan, Egypt",
+       "details": "Aswan segment (days 6-7): visit the Nubian village",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "item_type": "activity",
+       "name": "Felucca ride",
+       "location": "Aswan, Egypt",
+       "details": "Aswan segment (days 6-7): traditional felucca ride along the Nile at sunset",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 6,
+       "item_type": "hotel",
+       "name": "Kato Dool",
+       "location": "Aswan, Egypt",
+       "details": "Aswan segment (days 6-7): charming, colorful hotel built in traditional Nubian style; creator stayed here",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 8,
+       "item_type": "activity",
+       "name": "Abu Simbel Temple",
+       "location": "Abu Simbel, Egypt",
+       "details": "Abu Simbel segment (day 8): cliff-carved temple with four 20m statues of Ramses II; 4-hour drive from Aswan, day trip",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 9,
+       "item_type": "activity",
+       "name": "Esna",
+       "location": "Luxor area, Egypt",
+       "details": "Luxor segment (days 9-11): must-visit temple site",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 9,
+       "item_type": "activity",
+       "name": "Medinet Habou",
+       "location": "Luxor, Egypt",
+       "details": "Luxor segment (days 9-11): must-visit temple",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 9,
+       "item_type": "activity",
+       "name": "Hatshepsut Temple",
+       "location": "Luxor, Egypt",
+       "details": "Luxor segment (days 9-11): must-visit temple",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 9,
+       "item_type": "activity",
+       "name": "Karnak Temples",
+       "location": "Luxor, Egypt",
+       "details": "Luxor segment (days 9-11): must-visit temple complex",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 9,
+       "item_type": "activity",
+       "name": "Valley of the Kings",
+       "location": "Luxor, Egypt",
+       "details": "Luxor segment (days 9-11): must-visit site",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 12,
+       "item_type": "activity",
+       "name": "Dendera Temple",
+       "location": "Between Luxor and Marsa Alam, Egypt",
+       "details": "Marsa Alam segment (days 12-14): stop on the drive from Luxor; well-preserved temple",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 12,
+       "item_type": "activity",
+       "name": "Sattaya Reef",
+       "location": "Marsa Alam, Egypt",
+       "details": "Marsa Alam segment (days 12-14): snorkeling; creator swam with a pod of about 40 dolphins (video spells 'Sattaya Reef')",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ],
+   "notes": "Wave-3 re-harvest 2026-09-17 of full video caption text: all 18 named items mapped to segment day ranges (source gives ranges: Giza 2d / Siwa 3d / Aswan 2d / Abu Simbel 1d / Luxor 3d / Marsa Alam 3d); item 'day' = segment start day, range in details. Corrections vs prior extraction: Kato Dool is a HOTEL in Aswan (Nubian-style, creator stayed there), not an activity in Siwa; Siwa segment names no items. Reef spelled 'Sattaya' in source."
+  },
+  {
+   "handle": "@nathsway",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "14-Day Southwest Australia Road Trip",
+     "destination": "Southwest Australia",
+     "country": "Australia",
+     "days": 14,
+     "summary": "A 14-day road trip looping from Perth through the southwest corner of Australia, covering beaches, wineries, forests, dramatic coastline, and outback landmarks. Nathan calls it one of his favourite trips, starting in vibrant Perth and ending with the surreal Wave Rock before looping back inland.",
+     "source_urls": [
+      "https://www.tiktok.com/@nathsway/photo/7595814757915954439"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "item_type": "other",
+       "name": "Perth",
+       "location": "Perth, Australia",
+       "details": "Starting point: the vibrant city of Perth",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Busselton",
+       "location": "Busselton, Western Australia",
+       "details": "Relaxing beaches",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Yallingup",
+       "location": "Yallingup, Western Australia",
+       "details": "Surf haven",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Margaret River",
+       "location": "Margaret River, Western Australia",
+       "details": "World-class wineries and forests",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Augusta",
+       "location": "Augusta, Western Australia",
+       "details": "Rugged coastline meets lighthouse views",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Walpole",
+       "location": "Walpole, Western Australia",
+       "details": "Towering trees",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Denmark",
+       "location": "Denmark, Western Australia",
+       "details": "Charming seaside town",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Albany",
+       "location": "Albany, Western Australia",
+       "details": "Historic port; uncover the town's heritage",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Stirling Range",
+       "location": "Stirling Range, Western Australia",
+       "details": "Hiking the dramatic peaks",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Bremer Bay",
+       "location": "Bremer Bay, Western Australia",
+       "details": "Orca watching safari",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Esperance",
+       "location": "Esperance, Western Australia",
+       "details": "Turquoise waters",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Cape Le Grand National Park",
+       "location": "Cape Le Grand, Western Australia",
+       "details": "Iconic granite boulders",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Wave Rock",
+       "location": "Wave Rock, Western Australia",
+       "details": "Surreal Wave Rock; the perfect finale",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "other",
+       "name": "Perth (return)",
+       "location": "Perth, Australia",
+       "details": "Loop back inland towards Perth",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "handle": "@de_knees__",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "China",
+     "days": 3,
+     "destination": "Beijing",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Check-in at Grand Metropark Hotel; shop at Taikooli Sanlitun; walk the cultural streets at Yang Mei Zhu Xie Jie.",
+       "item_type": "hotel",
+       "location": "Beijing",
+       "name": "Grand Metropark Hotel & Sanlitun",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Great Wall of China; Still Water Cafe; cheongsam shopping at 戚薇国风服饰 or stroll at Nan Luo Gu Xiang.",
+       "item_type": "activity",
+       "location": "Beijing",
+       "name": "Great Wall & cheongsam shopping",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Forbidden City; Peking duck at 四季民福 (Siji Minfu).",
+       "item_type": "activity",
+       "location": "Beijing",
+       "name": "Forbidden City & Peking duck",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@de_knees__/video/7638622335053909268?_r=1&_d=secCgYIASAHKAESPgo8KRahB7WIOrjLq%2FJf9g6KgimGQ7ZKzczFRj6I9NYswse9A7V9X31UQ%2F%2BhYG9AugYowc156XrJaYqcQ0yWGgA%3D&_svg=1&biz_cover_on=1&checksum=7e11e0dadef0b0de69fb08f6077080e4dfbb8a5b483b2750a2064e997526f2a2&item_author_type=2&link_reflow_popup_iteration_sharer=%7B%22follow_to_play_duration%22%3A-1%2C%22dynamic_cover%22%3A1%2C%22profile_clickable%22%3A1%7D&mid=7638622449101261576&preview_pb=0&reflow_page_type=1&reflow_sign_scene=1&region=SG&rgssign=2.1.6aS3j0JJHrk_3j9wij-U&sec_user_id=MS4wLjABAAAAFK2FjJMIm-v2t0UKeoFZbtNeKtQtv47MM1KaGwNLznt3p-P0iGkp9wvxUJWookeW&share_app_id=1180&share_item_id=7638622335053909268&share_link_id=B5CE3F97-701D-4DB2-ACEB-A50BF9C897F1&share_region=SG&share_scene=2&sharer_language=en&social_share_type=0&source=h5_t&sp_level=1&sp_root_d=secCgYIASAHKAESPgo8KRahB7WIOrjLq%2FJf9g6KgimGQ7ZKzczFRj6I9NYswse9A7V9X31UQ%2F%2BhYG9AugYowc156XrJaYqcQ0yWGgA%3D&sp_root_share_link_id=B5CE3F97-701D-4DB2-ACEB-A50BF9C897F1&sp_root_u=e669jma2l7l57g&timestamp=1778696969&tt_from=facebook&u_code=e669jma2l7l57g&ug_btm=b2001&user_id=7194122490075022337&utm_campaign=client_share&utm_medium=ios&utm_source=facebook"
+     ],
+     "summary": "Denise (@de_knees__) publishes a 3D2N Beijing day-by-day itinerary on TikTok covering Sanlitun shopping and hutong streets (Day 1), the Great Wall with cheongsam shopping (Day 2), and the Forbidden City with Peking duck (Day 3); published 2026-05-11.",
+     "title": "3D2N Beijing itinerary"
+    }
+   ],
+   "notes": "Day-by-day 3D2N Beijing itinerary from TikTok video caption; specific stops per day; published within trailing 24 months (2026-05-11 raw create_time)."
+  },
+  {
+   "handle": "@trinarivasss",
+   "platform": "tiktok",
+   "notes": "Full guide with prices in creator's own caption.",
+   "itineraries": [
+    {
+     "title": "Canyon Cove Hotel & Spa day-pass guide",
+     "destination": "Canyon Cove, Batangas",
+     "country": "Philippines",
+     "days": 1,
+     "summary": "Trina Rivas's day-pass guide to Canyon Cove Hotel & Spa near Manila, published as a TikTok video on 2026-03-11. Day pass from ₱248 with pools, beach, sunset views and a nightly fire dance show; paid and free activities, restaurant, poolside bar, buffet pricing, what to bring and restrictions — all in the caption.",
+     "source_urls": [
+      "https://www.tiktok.com/@trinarivasss/video/7615913058765933842"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Canyon Cove day pass",
+       "location": "Canyon Cove, Batangas",
+       "details": "Day pass access: swimming & kiddie pools, front beach, sunset views, nightly fire dance show.",
+       "booking_link": null,
+       "price_hint": "₱248"
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Inflatable island",
+       "location": "Canyon Cove, Batangas",
+       "details": "Paid activity.",
+       "booking_link": null,
+       "price_hint": "₱499/pax"
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Jet ski",
+       "location": "Canyon Cove, Batangas",
+       "details": "Paid activity.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Banana boat",
+       "location": "Canyon Cove, Batangas",
+       "details": "Paid activity.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Dragon boat",
+       "location": "Canyon Cove, Batangas",
+       "details": "Paid activity.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Crystal kayak",
+       "location": "Canyon Cove, Batangas",
+       "details": "Paid activity.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Paddle board",
+       "location": "Canyon Cove, Batangas",
+       "details": "Paid activity.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Billiards",
+       "location": "Canyon Cove, Batangas",
+       "details": "Free activity inside the resort.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Giant chess",
+       "location": "Canyon Cove, Batangas",
+       "details": "Free activity inside the resort.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Table tennis",
+       "location": "Canyon Cove, Batangas",
+       "details": "Free activity inside the resort.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Darts",
+       "location": "Canyon Cove, Batangas",
+       "details": "Free activity inside the resort.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "activity",
+       "name": "Kids playroom",
+       "location": "Canyon Cove, Batangas",
+       "details": "Free activity inside the resort.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "restaurant",
+       "name": "Restaurant",
+       "location": "Canyon Cove, Batangas",
+       "details": "On-site restaurant.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "restaurant",
+       "name": "Poolside bar",
+       "location": "Canyon Cove, Batangas",
+       "details": "Poolside bar.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 1,
+       "item_type": "restaurant",
+       "name": "Lunch & dinner buffet",
+       "location": "Canyon Cove, Batangas",
+       "details": "Buffet around ₱800 per pax.",
+       "booking_link": null,
+       "price_hint": "~₱800/pax"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@adamrikys",
+   "platform": "tiktok",
+   "notes": "PROVISIONAL PASS per SELECTION_CRITERIA.md §7 (2026-09-17): sponsored content for @roar_africa does not make him an operator. Top-10 list, not day-structured — day null throughout.",
+   "itineraries": [
+    {
+     "title": "Cape Town TOP 10 list",
+     "destination": "Cape Town",
+     "country": "South Africa",
+     "days": null,
+     "summary": "Adam Rikys's 'TOP 10 list to screenshot' for Cape Town, published as a TikTok video on 2025-09-07 in partnership with @roar_africa ('Start planning your own Cape Town adventure with @roar_africa'): Bo-Kaap, Kirstenbosch, Stellenbosch and Franschhoek, Lion's Head, MOCAA, Chapman's Peak Drive, Boulders Beach, Hout Bay Seal Swim, Cape Point Nature Reserve, Cape Town Helicopters.",
+     "source_urls": [
+      "https://www.tiktok.com/@adamrikys/video/7547318284329225479"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Bo-Kaap",
+       "location": "Cape Town",
+       "details": "#10 on creator's TOP 10 list.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Kirstenbosch",
+       "location": "Cape Town",
+       "details": "#9 on creator's TOP 10 list.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Stellenbosch and Franschhoek",
+       "location": "Cape Town",
+       "details": "#8 on creator's TOP 10 list.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Lion's Head",
+       "location": "Cape Town",
+       "details": "#7 on creator's TOP 10 list.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "MOCAA",
+       "location": "Cape Town",
+       "details": "#6 on creator's TOP 10 list.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Chapman's Peak Drive",
+       "location": "Cape Town",
+       "details": "#5 on creator's TOP 10 list.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Boulders Beach",
+       "location": "Cape Town",
+       "details": "#4 on creator's TOP 10 list.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Hout Bay Seal Swim",
+       "location": "Cape Town",
+       "details": "#3 on creator's TOP 10 list.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Cape Point Nature Reserve",
+       "location": "Cape Town",
+       "details": "#2 on creator's TOP 10 list.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Cape Town Helicopters",
+       "location": "Cape Town",
+       "details": "#1 on creator's TOP 10 list.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@biancainmelbourne",
+   "platform": "tiktok",
+   "notes": "Video marked 'ad' (sponsored) — sponsored individual content acceptable. Bucket list, not day-structured — day null throughout.",
+   "itineraries": [
+    {
+     "title": "Sydney bucket list for first-timers",
+     "destination": "Sydney",
+     "country": "Australia",
+     "days": null,
+     "summary": "Bianca's bucket list of things to do in Sydney for first-timers, published as a TikTok video on 2026-06-03 (marked ad): sunrise kayaking, Sydney Harbour Bridge climb, Bondi to Coogee walk, Carriageworks Farmers Market, Observatory Hill sunset, Vivid Sydney, high tea at Shangri-La Sydney and Soak Bathhouse.",
+     "source_urls": [
+      "https://www.tiktok.com/@biancainmelbourne/video/7511630127042743559"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Sunrise kayaking with Sydney By Kayak",
+       "location": "Sydney",
+       "details": "Bucket-list activity #1.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Sydney Harbour Bridge climb with BridgeClimb",
+       "location": "Sydney",
+       "details": "Bucket-list activity #2.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Bondi to Coogee walk",
+       "location": "Sydney",
+       "details": "Bucket-list activity #3: uninterrupted Pacific Ocean views.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "other",
+       "name": "Carriageworks Farmers Market",
+       "location": "Sydney",
+       "details": "Bucket-list activity #4: pastries and market, Saturdays only.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Sunset at Observatory Hill / drinks at Aster Bar",
+       "location": "Sydney",
+       "details": "Bucket-list activity #5.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Vivid Sydney festival",
+       "location": "Sydney",
+       "details": "Bucket-list activity #6: annual lights, music, ideas and food festival.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "restaurant",
+       "name": "High tea at Shangri-La Sydney",
+       "location": "Sydney",
+       "details": "Bucket-list activity #7: high tea with a view.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Soak Bathhouse",
+       "location": "Sydney",
+       "details": "Bucket-list activity #8.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

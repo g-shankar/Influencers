@@ -1,0 +1,2639 @@
+{
+  "batch": 20,
+  "packets": [
+    {
+      "batch": 20,
+      "handle": "@dangerousbiz",
+      "platform": "instagram",
+      "title": "A Realistic 5 Days in Kyoto Itinerary for Your First Japan Trip",
+      "destination": "Kyoto",
+      "country": "Japan",
+      "days": 5,
+      "summary": "Five-day first-timer Kyoto route: Nishiki Market and Gion on arrival day; Nijo Castle, ramen class, Kiyomizu-dera; Arashiyama temples and geisha show; Fushimi Inari and sake; Nara/Uji/Osaka day trips.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "Shinkansen (bullet train) to Kyoto",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Nishiki Market food walk",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Gion geisha walking tour (evening)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Music Bar Beatle Momo",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Nijo Castle guided tour",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Kinkaku-ji (Golden Pavilion)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Ramen Factory cooking class",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Kiyomizu-dera temple",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Sannenzaka and Ninenzaka",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Kyo no Ajitokoro Uemura",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Itsukichaya at Kiyomizu",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "KURODOH",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Hokan-ji Temple (Yasaka Pagoda) at night",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Otagi Nenbutsuji Temple",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Adashino Nenbutsuji Temple",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Saga-Toriimoto Preserved Street",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Arashiyama Bamboo Forest",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Okochi Sanso Garden",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Gyukatsu Kyoto Katsugyu Arashiyama",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Onigiri Ranma food truck",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "1 Hour Geisha Show (tea house, Kamishichiken Street)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Kitano Tenmangu Shrine",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Katsukura Tonkatsu Sanjo",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Sumo Show Experience + hot pot dinner",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Fushimi Inari shrine hike",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Gekkeikan Okura sake brewery tour",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Day trip to Nara",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Day trip to Uji",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Day trip to Osaka",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Tomoya Residence Hotel Kyoto",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "The Gate Hotel Kyoto Takasegawa",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://www.dangerous-business.com/5-days-in-kyoto-itinerary/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@vickyflipflop",
+      "platform": "instagram",
+      "title": "Your Ultimate 7-Day Tokyo Itinerary for 2026",
+      "destination": "Tokyo",
+      "country": "Japan",
+      "days": 7,
+      "summary": "Seven-day Tokyo week: temples and shrines (Sengakuji, Senso-ji, Meiji Jingu), Akihabara pop culture, Shibuya modernity, Rikugien Gardens, souvenir shopping, plus Disneyland/Skytree/Fuji extras.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "flight",
+          "name": "Fly into Haneda Airport (HND)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Sengakuji Temple",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Kanda Myojin Shrine",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Tomioka Hachiman Shrine",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Akihabara district",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Super Potato retro game store",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Ueno Park",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Senso-ji Temple + Nakamise street",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Asakusa Shrine",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Shibuya Crossing + Hachiko statue",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Rikugien Gardens",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Jingu Gaien Ginkgo Avenue",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "activity",
+          "name": "Meiji Jingu shrine",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "activity",
+          "name": "Don Quijote souvenir shopping",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Tokyo Disneyland day trip",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Tokyo Skytree",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Mount Fuji tour",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Tsukiji fish market",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Suica / Pasmo prepaid card",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Japan rail pass",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://vickyflipfloptravels.com/7-day-tokyo-itinerary/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@jayneytravels",
+      "platform": "instagram",
+      "title": "Weekend Guide to Linz & the Donau Region",
+      "destination": "Linz & the Donau Region",
+      "country": "Austria",
+      "days": 3,
+      "summary": "A long-weekend itinerary for Linz and the Donau region of Upper Austria that the creator says is the itinerary she recommends based on her own trip: fly Ryanair into Linz, stay at a Danube-side hotel (Riverresort Donauschlinge or Hotel Wesenufer), explore by e-bike, and use the Linz Card.",
+      "items": [
+        {
+          "day": null,
+          "item_type": "flight",
+          "name": "Ryanair flight to Linz",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Riverresort Donauschlinge",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Hotel Wesenufer",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "other",
+          "name": "Linz Card",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "E-bike cycling along the Danube",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://jayneytravels.com/weekend-guide-to-linz-the-donau-region-upper-austria/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "batch": 20,
+      "handle": "@happytowander",
+      "platform": "instagram",
+      "title": "Western Europe Backpacking Itinerary (2026 Update)",
+      "destination": "Western Europe",
+      "country": "Belgium / Netherlands",
+      "days": 45,
+      "summary": "A 1.5-month Western Europe backpacking route (guide title carries a '2026 Update') built as a sequence of city legs; search-indexed content covers a Brussels leg (Days 1-3: Grand Place walking tour, waffles and beer, Brussels Card, Bruges/Antwerp/Ghent day trips) and an Amsterdam leg (Days 1-3: Rijksmuseum, Van Gogh Museum, canal tour, biking, iAmsterdam card, Giethoorn/Keukenhof day trips), connected by Flixbus/Thalys/Omio. Day count is 1.5 months per the guide title.",
+      "items": [
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Grand Place walking tour, Brussels",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Belgian waffles and beer tasting",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "other",
+          "name": "Brussels Card",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Day trip to Bruges, Antwerp or Ghent",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Rijksmuseum visit, Amsterdam",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Van Gogh Museum visit, Amsterdam",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Amsterdam canal tour",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Biking in Amsterdam",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Day trip to Giethoorn or Keukenhof",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Flixbus between Brussels and Amsterdam",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Thalys train",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "other",
+          "name": "iAmsterdam city card",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "other",
+          "name": "Omio transport booking",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://happytowander.com/western-europe-backpacking-itinerary/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "batch": 20,
+      "handle": "@michaelturtle",
+      "platform": "instagram",
+      "title": "Three Days in Athens Itinerary",
+      "destination": "Athens",
+      "country": "Greece",
+      "days": 3,
+      "summary": "A three-day Athens itinerary on the creator's own site; the page states the guide is current 'As of July 2026'. Item-level content was not harvested this session, so no items are listed rather than invented.",
+      "items": [],
+      "source_urls": [
+        "https://www.timetravelturtle.com/greece/three-days-in-athens-itinerary/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "batch": 20,
+      "handle": "@triphackr",
+      "platform": "instagram",
+      "title": "Now Is the Time to Discover El Salvador: Sample 5-Day Route from Coco Surf",
+      "destination": "El Salvador",
+      "country": "El Salvador",
+      "days": 5,
+      "summary": "A 'Sample 5-Day Route from Coco Surf' through El Salvador, explicitly authored by Clint Johnston: Day 1 surf at El Conchalio, stroll and pupusas in El Tunco with sunset at Monkey Lala; Day 2 Santa Ana volcano hike and Lake Coatepeque swim; Day 3 Jiquilisco Bay boat tour (monkeys, birds) ending with sunset beers in El Zonte; Day 4 surf at La Bocana or Punta Roca; Day 5 Tamanique waterfall hike and a villa massage.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "hotel",
+          "name": "Coco Surf Tropical Village",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Surf at El Conchalio Beach",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Stroll around El Tunco",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Pupusas in El Tunco",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Sunset drinks at Monkey Lala, El Tunco",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Hike the Santa Ana volcano",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Swim in Lake Coatepeque",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Boat tour of Jiquilisco Bay",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Sunset beers in El Zonte",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Surf La Bocana or Punta Roca",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Hike to the Tamanique waterfall",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Massage at the villa",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://triphackr.com/now-is-the-time-to-discover-el-salvador/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@expertvagabond",
+      "platform": "instagram",
+      "title": "Iceland Ring Road Trip Itinerary",
+      "destination": "Iceland Ring Road",
+      "country": "Iceland",
+      "days": 10,
+      "summary": "A 7-10 day self-drive Ring Road itinerary around Iceland's Route 1 on the creator's own site (the author gave himself 10 days): Day 1 Golden Circle; Day 2 South Coast; Day 3 iceberg lagoons and ice caves; Day 4 Egilsstaðir and the Eastern Fjords; Day 5 Mývatn and waterfalls; Day 6 Akureyri and North Iceland; Day 7 Snæfellsnes Peninsula; Days 8-10 Reykjavik.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Golden Circle drive",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "South Coast drive",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Iceberg lagoons and ice caves",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Egilsstaðir and the Eastern Fjords",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Lake Mývatn and waterfalls",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "activity",
+          "name": "Akureyri and North Iceland",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "activity",
+          "name": "Snæfellsnes Peninsula",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 8,
+          "item_type": "activity",
+          "name": "Explore Reykjavik",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://expertvagabond.com/ring-road-trip-iceland/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "batch": 20,
+      "handle": "@tourdelust",
+      "platform": "instagram",
+      "title": "Istanbul Travel Guide: 3-Day Itinerary",
+      "destination": "Istanbul",
+      "country": "Turkey",
+      "days": 3,
+      "summary": "A 3-day Istanbul travel guide and itinerary on the creator's own site (published 2024-09-18, modified 2025-07-21) with a structured Day 1/2/3 plan. Item-level content was not harvested this session, so no items are listed rather than invented.",
+      "items": [],
+      "source_urls": [
+        "https://tourdelust.com/istanbul-travel-guide-3-day-itinerary/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "batch": 20,
+      "handle": "@globetrottergirls",
+      "platform": "instagram",
+      "title": "48 Hours in Austin, Texas",
+      "destination": "Austin",
+      "country": "United States",
+      "days": 3,
+      "summary": "A structured weekend itinerary for a first-time Austin trip on the creator's own site (last updated January 22, 2026): Friday 2pm downtown bike ride (B-Cycle Weekender Pass $19.49, Lady Bird Lake, Zilker Park, Doug Sahm Hill skyline views), food trucks, a 5pm South Congress stroll, the 7-8pm Congress Avenue Bridge bat flight, and 9pm Rainey Street bar-hopping; Saturday brunch at 24 Diner, Hope Outdoor Gallery street art, Torchy's Tacos, a free Texas State Capitol tour, Franklin's BBQ dinner, sunset drinks at Azul Rooftop, live music at the Continental Club, and the Midnight Cowboy speakeasy; Sunday breakfast tacos.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "B-Cycle Weekender Pass bike ride around downtown",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Doug Sahm Hill skyline views in Butler Park",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Tommy Want Wingy food truck",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Chi'lantro, 823 Congress Ave",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Micklethwait Craft Meats, 1309 Rosewood Ave",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "South Congress stroll: shops and murals",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Guero's Taco Bar",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Congress Avenue Bridge bat flight at sunset",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Rainey Street bar-hopping",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Geraldine's at Hotel Van Zandt",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "24 Diner brunch, 600 N Lamar",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Hope Outdoor Gallery street art",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Torchy's Tacos",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Texas State Capitol free guided tour",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Franklin's BBQ, 900 E 11th St",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Sunset drinks at Azul Rooftop",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Live music at the Continental Club",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Midnight Cowboy speakeasy",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Breakfast tacos at Veracruz All Natural",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://globetrottergirls.com/48-hours-in-austin-texas/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@lunaticatlarge",
+      "platform": "instagram",
+      "title": "How to Spend a Weekend in Tupelo, Mississippi: A Travel Guide",
+      "destination": "Tupelo, Mississippi",
+      "country": "United States",
+      "days": 3,
+      "summary": "A structured 3-day Tupelo weekend on the creator's own site (updated ~mid-August 2026): Day 1 downtown Tupelo (murals and the It's Electric Neon Lights Trail, shopping at MLM Clothiers/Bolt/Reed's, Caron Gallery and GumTree Museum of Art, Lost + Found Coffee Co., Queen's Reward Meadery tasting, dinner at Stables Downtown Grill); Day 2 Elvis footsteps (Talbot House Bakery & Cafe, Elvis Presley Birthplace, Johnnie's Drive-In, Elvis' Tupelo Driving Tour, Tupelo Hardware Company, Forklift dinner, Blue Canoe live music); Day 3 Natchez Trace Parkway Visitor Center, Chickasaw Village Site, Tombigbee State Park, Oren Dunn City Museum, and Crave Tupelo dessert bar.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "hotel",
+          "name": "Hotel Tupelo",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Downtown Tupelo murals and It's Electric Neon Lights Trail",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Downtown shopping: MLM Clothiers, Bolt, Reed's",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Caron Gallery and GumTree Museum of Art",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Lost + Found Coffee Co.",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Queen's Reward Meadery tasting",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Stables Downtown Grill",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Talbot House Bakery & Cafe",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Elvis Presley Birthplace",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Johnnie's Drive-In",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Elvis' Tupelo Driving Tour",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Tupelo Hardware Company",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Forklift",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Blue Canoe live music",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Natchez Trace Parkway Visitor Center (milepost 266)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Chickasaw Village Site",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Tombigbee State Park",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Oren Dunn City Museum at Ballard Park",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Crave Tupelo dessert bar",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://www.camelsandchocolate.com/best-things-to-do-in-tupelo-mississippi/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@travelsofsarahfay",
+      "platform": "instagram",
+      "title": "3 Days in Barbados: A Travel Guide To Short Stays",
+      "destination": "Barbados",
+      "country": "Barbados",
+      "days": 3,
+      "summary": "A 3-day Barbados short-stay guide on the creator's own site (bylined January 5, 2026): base at The Crane Resort (historic 1887 resort above Crane Beach; affiliate booking link), an Island 360 Tour with Sweet Life Tours Barbados (5-6 hour island drive with a Speightstown lunch stop, The Orange Street Grocer, Suga Mama ice cream), Oistins Fish Fry on Friday night, Rihanna's childhood home in Bridgetown, Crane Beach walks, dining at Azure and Zen restaurants at The Crane and Cutters of Barbados (cutter sandwich, Rum Punch), plus Cherry Tree Hill, Bathsheba, Carlisle Bay and Bridgetown walks.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "Arrival via Grantley Adams International Airport",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "hotel",
+          "name": "The Crane Resort, Barbados",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Island 360 Tour with Sweet Life Tours Barbados",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "The Orange Street Grocer, Speightstown",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Suga Mama ice cream",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Oistins Fish Fry on Friday night",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Rihanna's childhood home, Bridgetown",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Walking Crane Beach",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Azure Restaurant at The Crane",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Zen Restaurant at The Crane",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Cutters of Barbados",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Cherry Tree Hill viewpoint",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Bathsheba beach",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Carlisle Bay swimming and snorkeling",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Bridgetown walking",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://travelsofsarahfay.com/3-days-in-barbados/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "batch": 20,
+      "handle": "@sinahsstories",
+      "platform": "instagram",
+      "title": "Ultimate Puglia 7-Day Itinerary",
+      "destination": "Puglia",
+      "country": "Italy",
+      "days": 7,
+      "summary": "Seven-day Puglia road trip from Bari to Lecce built around a central base (Locorotondo/Cisternino/Ostuni): trulli villages, fishing ports, Baroque Lecce and a flexible beach day, with driving times and crowd-avoidance timing (April-May or September-October).",
+      "items": [
+        {
+          "day": null,
+          "item_type": "flight",
+          "name": "Fly into Bari (BRI) or Brindisi (BDS) airport",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Rental car (Sicily by Car)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "La Casèdde",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Sopra I Sassi",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Alberobello trulli village",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Locorotondo old town",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Porto Antico, Monopoli",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Monopoli old town walk",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Basilica San Nicola, Bari",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Bari old town and seafront",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Lama Monachile, Polignano a Mare",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Polignano a Mare old town",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Cisternino old town",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Ostuni, the White City",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "restaurant",
+          "name": "Borgo Antico Bistro, Ostuni",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "activity",
+          "name": "Lecce Baroque center",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "activity",
+          "name": "Spiaggia di Torre Pozzelle",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://sinahsstories.com/2025/05/30/ultimate-puglia-7-day-itinerary/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@gracefkim",
+      "platform": "instagram",
+      "title": "10-day Guatemala itinerary",
+      "destination": "Guatemala",
+      "country": "Guatemala",
+      "days": 10,
+      "summary": "Ten-day Guatemala route the creator calls the best use of limited time: Guatemala City arrival, Lake Atitlan, Antigua and Tikal highlights, with transport logistics (shuttles, Uber, chicken buses), budget tiers, safety guidance and a customizable Rexby route map.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "flight",
+          "name": "Direct flight to La Aurora International Airport (GUA)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "Uber from GUA airport to hotel",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "hotel",
+          "name": "Good Hotel Guatemala City",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "Tourist shuttle Guatemala City to Antigua",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "transport",
+          "name": "Uber Guatemala City to Lake Atitlan",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Shared tourist shuttle Antigua-Panajachel (Lake Atitlan)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Acatenango volcano hike",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "other",
+          "name": "SafetyWing Nomad Insurance",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "other",
+          "name": "Rexby Guatemala route map and guide",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://gracefkim.com/10-day-guatemala-itinerary/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@themobilehomie",
+      "platform": "instagram",
+      "title": "7-Day Pacific Northwest Road Trip Itinerary",
+      "destination": "Pacific Northwest",
+      "country": "United States",
+      "days": 7,
+      "summary": "Creator's 7-day Pacific Northwest road-trip route: Seattle start, Snoqualmie Falls and Leavenworth, North Cascades and Diablo Lake, Olympic National Park, Mount St. Helens, Mount Rainier, and a Bainbridge Island finale; includes per-stop pricing, booking links, packing list and a free downloadable PDF.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Pike Place Market",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Seattle Underground Tour",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "$25-$30 per person"
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Kerry Park viewpoint",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Museum of Pop Culture (MoPOP)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "from $34"
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Argosy sightseeing cruise",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "$60-$70 per person"
+        },
+        {
+          "day": 1,
+          "item_type": "hotel",
+          "name": "Seattle hotel search",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "from $150/night"
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Snoqualmie Falls",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Leavenworth (Bavarian village)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "hotel",
+          "name": "Leavenworth cabin rentals",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "from $125/night"
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Diablo Lake overlook",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "North Cascades hikes",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Port Townsend ferry",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "$23.80"
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Olympic National Park entry",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "$30 per vehicle"
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Sol Duc Hot Springs",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "$20-$25 per person"
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Mount St. Helens",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Ape Canyon Trail",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "$25-$30 per person"
+        },
+        {
+          "day": 6,
+          "item_type": "activity",
+          "name": "Mount Rainier entry",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "$30 per vehicle"
+        },
+        {
+          "day": 6,
+          "item_type": "hotel",
+          "name": "Paradise Inn (Mount Rainier)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "from $375/night"
+        },
+        {
+          "day": 7,
+          "item_type": "transport",
+          "name": "Bainbridge Island ferry",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "$10-$12 per person"
+        },
+        {
+          "day": null,
+          "item_type": "other",
+          "name": "Pacific Northwest packing list",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "other",
+          "name": "Free downloadable PNW itinerary PDF",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://themobilehomie.com/pacific-northwest-road-trip/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@em_luxton",
+      "platform": "instagram",
+      "title": "South Cornwall Travel Guide: Mevagissey & Around (3-4 day itinerary)",
+      "destination": "South Cornwall (Mevagissey, Fowey, St Austell Bay)",
+      "country": "United Kingdom",
+      "days": 4,
+      "summary": "3-4 day South Cornwall break based in Mevagissey: Eden Project, St Austell Brewery and Wheal Martyn, Lost Gardens of Heligan, beaches, and a Fowey ferry day trip, with restaurant and cottage-stay picks.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Eden Project",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Mevagissey Harbour evening",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Wheal Martyn China Clay Museum",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "St Austell Brewery tour",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Port of Charlestown",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Lost Gardens of Heligan",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Beach afternoon",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "transport",
+          "name": "Mevagissey to Fowey ferry",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Fowey River Hire boat rental",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Fowey River Trips cruise",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Old Bank Gallery (Fowey)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Mevagissey Museum",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Coast path walk to Portmellon and Gorran Haven",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "She Sells (Mevagissey)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Sharksfin (Mevagissey)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Sam's at the Beach (Polkerris)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Short and Strong (Charlestown)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Ruby's ice cream (Fowey)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Corner House Loft (Aspects Holidays)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://www.emilyluxton.co.uk/south-cornwall-mevagissey-travel-guide/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@findingalexx",
+      "platform": "instagram",
+      "title": "The ultimate 10 day Switzerland itinerary",
+      "destination": "Switzerland (multi-city)",
+      "country": "Switzerland",
+      "days": 10,
+      "summary": "Ten-day train-based Switzerland route: Zurich, Lucerne, Grindelwald, Interlaken, Zermatt with mountain day trips (Rigi/Pilatus/Titlis/Stanserhorn, Jungfrau, Gornergrat/Matterhorn) and Swiss rail-pass guidance.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "flight",
+          "name": "Fly into Zurich (ZRH)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Explore Zurich",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "transport",
+          "name": "Train: Zurich to Lucerne via St Gallen",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Lucerne lake cruise",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Mountain day trip: Rigi, Pilatus, Titlis or Stanserhorn",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "transport",
+          "name": "Train: Lucerne to Grindelwald",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Mountain day trip: Jungfraujoch or Grindelwald First",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "transport",
+          "name": "Train: Grindelwald to Interlaken via Lauterbrunnen",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "activity",
+          "name": "Explore Interlaken",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 8,
+          "item_type": "transport",
+          "name": "Train: Interlaken to Zermatt",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 9,
+          "item_type": "activity",
+          "name": "Gornergrat / Matterhorn day trip",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 10,
+          "item_type": "transport",
+          "name": "Train: Zermatt to Zurich",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Swiss Travel Pass",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": "~85 CHF/day for 3-day pass"
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Swiss Half Fare Card",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Bernina Express panorama train",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Glacier Express",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://findingalexx.com/10-day-switzerland-itinerary/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@findingalexx",
+      "platform": "instagram",
+      "title": "The ultimate Alonissos travel guide (5-day itinerary)",
+      "destination": "Alonissos",
+      "country": "Greece",
+      "days": 5,
+      "summary": "Five-day slow-island itinerary in the Northern Sporades: beaches (Agios Dimitrios, Leftos Gialos), marine park boat/diving day, hiking, Chora evenings and the island museum.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "Ferry from Skiathos",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "Ferry/hydrofoil from Volos",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "Rent a car, quad bike or scooter",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Atrium of Alonissos",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Pension Hara",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Ilya Botanic Suites",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Agios Dimitrios beach",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Suelto Beach Bar",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Fanari Fish Tavern (Steni Vala)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Boat tour of Alonissos Marine Park",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Scuba diving with Triton Dive Center",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Swim the Blue Cave",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Learn about monk seals (MoM Information Centre, Patitiri)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Kritamo (Patitiri)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Leftos Gialos beach day",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Barbarossa (Chora)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "restaurant",
+          "name": "Astrofegia (Chora)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Hike: Agii Anargyri Loop",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Alonissos Museum",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Women's Agrotourism Cooperative (IKOS)",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://findingalexx.com/alonissos-greece-travel-guide/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "handle": "@girlgoneabroad",
+      "platform": "instagram",
+      "title": "Tromso Northern Lights Guide with Photography Tips",
+      "destination": "Tromso",
+      "country": "Norway",
+      "days": null,
+      "summary": "A Tromso northern-lights guide on the creator's own site with a tour timeline, lodging, activities, and photography guidance (guide sitemap date 2025-12-17). Item-level content was not harvested this session, so no items are listed rather than invented.",
+      "items": [],
+      "source_urls": [
+        "https://www.girlgoneabroad.com/blog/tromso-northern-lights-guide-with-photography-tips"
+      ],
+      "confidence": "low"
+    },
+    {
+      "batch": 20,
+      "handle": "@kirstenalana",
+      "platform": "instagram",
+      "title": "How to Spend Two Nights in San Luis Obispo",
+      "destination": "San Luis Obispo",
+      "country": "United States",
+      "days": 3,
+      "summary": "Three-day/two-night itinerary for SLO on California's Central Coast: Amtrak arrival, vineyard tasting, hotel stay, hikes, museums, farmers market and restaurant picks.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "Amtrak Pacific Surfliner",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "High Street Deli",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Wolff Vineyards tasting",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "hotel",
+          "name": "The Hotel San Luis Obispo",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "High Bar SLO",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Ox & Anchor",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Piadina",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "restaurant",
+          "name": "Novo Restaurant",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Cerro San Luis trailhead sunrise hike",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Linnaea's Cafe",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "City Farm SLO volunteer harvest",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Ebony",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "SLO Museum of Art + public art walk",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Vintage and fair-trade shopping",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "restaurant",
+          "name": "Downtown SLO Farmers Market",
+          "location": null,
+          "details": null,
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://kirstenalana.com/travel/san-luis-obispo/"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "built": "2026-09-18",
+  "note": "Claim packets only (no worker notes/transcripts). Reviewers must be fresh-context and a different model family from the builders."
+}

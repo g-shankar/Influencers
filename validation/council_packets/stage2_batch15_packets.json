@@ -1,0 +1,621 @@
+{
+  "batch": 15,
+  "packets": [
+    {
+      "batch": 15,
+      "handle": "@ordinarytraveler",
+      "platform": "instagram",
+      "title": "Windstar French Polynesia Package",
+      "destination": "Moorea, French Polynesia",
+      "country": "French Polynesia",
+      "days": 7,
+      "summary": "Creator's Instagram post dated 2026-01-27 describes a Windstar French Polynesia package pairing a seven-day cruise with flights, pre- and post-cruise hotels, transfers, and three hotel nights in Moorea.",
+      "items": [
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Seven-day Windstar cruise",
+          "location": "French Polynesia",
+          "details": "Seven-day Windstar cruise in French Polynesia, as described in the creator's 2026-01-27 Instagram post.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Flights",
+          "location": "unknown",
+          "details": "Flights included in the package described in the creator's 2026-01-27 Instagram post.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Pre- and post-cruise hotels",
+          "location": "unknown",
+          "details": "Pre- and post-cruise hotel stays included in the package described in the creator's 2026-01-27 Instagram post.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Transfers",
+          "location": "unknown",
+          "details": "Transfers included in the package described in the creator's 2026-01-27 Instagram post.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Three hotel nights in Moorea",
+          "location": "Moorea",
+          "details": "Three hotel nights in Moorea included in the package described in the creator's 2026-01-27 Instagram post.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        }
+      ],
+      "source_urls": [
+        "https://keepface.com/ordinarytraveler"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "batch": 15,
+      "handle": "@wanderlustchloe",
+      "platform": "instagram",
+      "title": "Calabria Itinerary",
+      "destination": "Calabria",
+      "country": "Italy",
+      "days": 7,
+      "summary": "Seven-day Calabria itinerary on the creator's site. Observed day structure: Day 1 runs from Lamezia Terme airport through Pizzo, Tropea, Capo Vaticano and Scilla; Day 2 heads toward Aspromonte National Park including Pentedattilo and the White Gullies of Palizzi.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "transport",
+          "name": "Lamezia Terme Airport",
+          "location": "Lamezia Terme",
+          "details": "Arrival airport at the start of the creator's Day 1 route.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": 1,
+          "item_type": "other",
+          "name": "Pizzo",
+          "location": "Pizzo",
+          "details": "Day 1 stop on the creator's Calabria itinerary.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": 1,
+          "item_type": "other",
+          "name": "Tropea",
+          "location": "Tropea",
+          "details": "Day 1 stop on the creator's Calabria itinerary.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": 1,
+          "item_type": "other",
+          "name": "Capo Vaticano",
+          "location": "Capo Vaticano",
+          "details": "Day 1 stop on the creator's Calabria itinerary.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": 1,
+          "item_type": "other",
+          "name": "Scilla",
+          "location": "Scilla",
+          "details": "Day 1 stop on the creator's Calabria itinerary.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": 2,
+          "item_type": "other",
+          "name": "Aspromonte National Park",
+          "location": "Aspromonte National Park",
+          "details": "Day 2 direction on the creator's Calabria itinerary, toward Aspromonte National Park.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": 2,
+          "item_type": "other",
+          "name": "Pentedattilo",
+          "location": "Pentedattilo",
+          "details": "Day 2 stop on the creator's Calabria itinerary, near Aspromonte National Park.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": 2,
+          "item_type": "other",
+          "name": "White Gullies of Palizzi",
+          "location": "Palizzi",
+          "details": "Day 2 stop on the creator's Calabria itinerary, near Aspromonte National Park.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        }
+      ],
+      "source_urls": [
+        "https://www.wanderlustchloe.com/calabria-itinerary-italy/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "batch": 15,
+      "handle": "@insidetravellab",
+      "platform": "instagram",
+      "title": "Morocco Itinerary",
+      "destination": "Morocco",
+      "country": "Morocco",
+      "days": null,
+      "summary": "Structured Morocco itinerary on the creator's site.",
+      "items": [
+        {
+          "day": null,
+          "item_type": "other",
+          "name": "Morocco Itinerary",
+          "location": "Morocco",
+          "details": "Structured Morocco itinerary on the creator's site. Day count and stop-level detail were not observed in public search results.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        }
+      ],
+      "source_urls": [
+        "https://www.insidethetravellab.com/morocco-itinerary/"
+      ],
+      "confidence": "low"
+    },
+    {
+      "batch": 15,
+      "handle": "@araioflight",
+      "platform": "instagram",
+      "title": "Portland to San Francisco Road Trip: Best Stops",
+      "destination": "Portland to San Francisco road trip",
+      "country": "USA",
+      "days": null,
+      "summary": "Raihaan's structured Portland-to-San Francisco road trip guide (published and modified 2025-06-17) listing the best stops along the route. Per-stop item extraction was not captured in this pass and is flagged for re-verification.",
+      "items": [],
+      "source_urls": [
+        "https://www.araioflight.com/drive-portland-to-san-francisco-road-trip-best-stops/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "batch": 15,
+      "handle": "@i_am_aileen",
+      "platform": "instagram",
+      "title": "Tokyo Itinerary & DIY Travel Guide",
+      "destination": "Tokyo, Japan",
+      "country": "Japan",
+      "days": null,
+      "summary": "Aileen Adalid's structured Tokyo itinerary and DIY travel guide (published 2022-10-17, dateModified 2025-06-22) with day/district structure covering Shibuya, Harajuku, Shinjuku, Asakusa, Akihabara, Sumida and more, plus transit, hotel and restaurant guidance.",
+      "items": [
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Shibuya district guide",
+          "location": "Shibuya, Tokyo",
+          "details": "District section of the Tokyo itinerary covering Shibuya sights and activities.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Harajuku district guide",
+          "location": "Harajuku, Tokyo",
+          "details": "District section of the Tokyo itinerary covering Harajuku sights and activities.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Shinjuku district guide",
+          "location": "Shinjuku, Tokyo",
+          "details": "District section of the Tokyo itinerary covering Shinjuku sights and activities.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Asakusa district guide",
+          "location": "Asakusa, Tokyo",
+          "details": "District section of the Tokyo itinerary covering Asakusa sights and activities.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Akihabara district guide",
+          "location": "Akihabara, Tokyo",
+          "details": "District section of the Tokyo itinerary covering Akihabara sights and activities.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Sumida district guide",
+          "location": "Sumida, Tokyo",
+          "details": "District section of the Tokyo itinerary covering Sumida sights and activities.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "transport",
+          "name": "Tokyo transit guidance",
+          "location": "Tokyo",
+          "details": "Guide covers transit options for moving between districts; specific lines not captured in this extraction.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "hotel",
+          "name": "Tokyo hotel recommendations",
+          "location": "Tokyo",
+          "details": "Guide includes hotel recommendations; specific properties not captured in this extraction.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        },
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Tokyo restaurant recommendations",
+          "location": "Tokyo",
+          "details": "Guide includes restaurant recommendations; specific venues not captured in this extraction.",
+          "booking_link": null,
+          "price_hint": "unknown"
+        }
+      ],
+      "source_urls": [
+        "https://iamaileen.com/tokyo-itinerary/",
+        "https://iamaileen.com/about/"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "batch": 15,
+      "handle": "@haileyoutside",
+      "platform": "instagram",
+      "title": "7 Days Costa Rica Itinerary | Costa Rica with Kids",
+      "destination": "Costa Rica",
+      "country": "Costa Rica",
+      "days": 7,
+      "summary": "Hailey Terry's own day-by-day 7-day Costa Rica family itinerary (Feb 2024): San Jose arrival, La Fortuna (Arenal Volcano NP, hot springs, La Fortuna Waterfall, Ecoglide zipline), drive via Jaco to Manuel Antonio (mangrove wildlife tour, Espadilla Beach); Airbnb stays.",
+      "items": [
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Red-eye flight to San Jose",
+          "location": "San Jose",
+          "details": "Las Vegas-Los Angeles-San Jose overnight; USO lounge during delay.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "hotel",
+          "name": "Airbnb in La Fortuna",
+          "location": "La Fortuna",
+          "details": "Family Airbnb with small pool/hot tub; grocery stop at Super El Abuelo.",
+          "booking_link": "https://www.airbnb.com/ (linked in post)",
+          "price_hint": null
+        },
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Drive San Jose to La Fortuna",
+          "location": "La Fortuna",
+          "details": "~3 hr drive after rental car pickup; dinner at Rainforest Cafe.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Arenal Volcano National Park hike",
+          "location": "Parque Nacional Volcan Arenal",
+          "details": "Las Coladas trail to lava-rock viewpoint; leaf-cutter ants.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Free natural hot springs",
+          "location": "La Fortuna",
+          "details": "Riverside hot springs next to Tabacon Resort; water shoes recommended.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "La Fortuna Waterfall",
+          "location": "La Fortuna",
+          "details": "$20/adult, kids under 8 free; opens 7am, go early; long stair descent.",
+          "booking_link": null,
+          "price_hint": "$20/adult"
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Ecoglide zipline",
+          "location": "La Fortuna",
+          "details": "Family zipline; kids rode with guides; group of ~15.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Drive La Fortuna to Manuel Antonio via Jaco",
+          "location": "Jaco / Manuel Antonio",
+          "details": "Long drive day; beach stop at Jaco; steep-driveway Airbnb in Manuel Antonio.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Manuel Antonio rest day",
+          "location": "Manuel Antonio",
+          "details": "Church, infinity pool, lunch at Soda Angel, beach, Falafel Bar dinner.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "activity",
+          "name": "Mangrove wildlife boat tour",
+          "location": "Manuel Antonio",
+          "details": "Early boat tour: lizards, turtles, monkeys, sloth.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "activity",
+          "name": "Espadilla Beach sunset",
+          "location": "Espadilla Beach",
+          "details": "Sunset beach time; surfboard rental attempt.",
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://haileyoutside.com/7-days-costa-rica-itinerary-costa-rica-with-kids/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 15,
+      "handle": "@travelingspud",
+      "platform": "instagram",
+      "title": "Southern Idaho Road Trip: Best Way to See Various Landscapes",
+      "destination": "Southern Idaho, USA",
+      "country": "United States",
+      "days": 10,
+      "summary": "Katie Williams' own 10-day Southern Idaho road-trip itinerary (updated ~2026-08-04): Days 1-2 Boise (downtown food scene, Greenbelt, Boise River float), Day 3 Bruneau Sand Dunes + Big Idaho Potato Hotel, Day 4 Thousand Springs (Blue Heart Springs kayak), Day 5 Twin Falls (Shoshone Falls, Snake River Canyon), Day 6 City of Rocks, Day 7 Craters of the Moon, Days 8-9 Sun Valley/Ketchum, Day 10 Stanley/Redfish Lake/Sawtooth National Forest; stay recommendations with booking/affiliate links.",
+      "items": [
+        {
+          "day": 1,
+          "item_type": "activity",
+          "name": "Downtown Boise food and bars",
+          "location": "Boise",
+          "details": "8th Street restaurants, 6th Street bar scene; favorite breakfast/coffee spots.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 2,
+          "item_type": "activity",
+          "name": "Boise Greenbelt bike ride and river float",
+          "location": "Boise",
+          "details": "Bike the Greenbelt, float the Boise River in summer, end at local breweries.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "activity",
+          "name": "Bruneau Dunes State Park",
+          "location": "Bruneau Dunes",
+          "details": "Sandboarding, hiking the dunes, Bruneau Dunes Observatory stargazing.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 3,
+          "item_type": "hotel",
+          "name": "Big Idaho Potato Hotel",
+          "location": "Mountain Home",
+          "details": "Funky Airbnb in the famous potato; feed Dolly the cow on-site.",
+          "booking_link": "https://www.airbnb.com/ (linked in post)",
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "activity",
+          "name": "Thousand Springs Reserve and Blue Heart Springs",
+          "location": "Thousand Springs",
+          "details": "Kayak to Blue Heart Springs and Ritter Island; summer camping.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 4,
+          "item_type": "hotel",
+          "name": "1000 Springs Resort",
+          "location": "Hagerman",
+          "details": "Camping spots on the water; geothermal mineral pool.",
+          "booking_link": "https://1000springsresort.com/ (linked in post)",
+          "price_hint": null
+        },
+        {
+          "day": 5,
+          "item_type": "activity",
+          "name": "Shoshone Falls and Twin Falls",
+          "location": "Twin Falls",
+          "details": "Shoshone Falls Park viewpoints, Snake River Canyon, downtown dining.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 6,
+          "item_type": "activity",
+          "name": "City of Rocks National Reserve",
+          "location": "City of Rocks",
+          "details": "49-mile scenic drive, bouldering, camping, stargazing.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 7,
+          "item_type": "activity",
+          "name": "Craters of the Moon National Monument",
+          "location": "Craters of the Moon",
+          "details": "Lava flows and cinder cones; North Crater Trail hike (3.5 mi).",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 8,
+          "item_type": "activity",
+          "name": "Sun Valley and Ketchum",
+          "location": "Sun Valley/Ketchum",
+          "details": "Bald Mountain skiing in winter, hiking/biking in summer; restaurant and bar scene.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": 8,
+          "item_type": "hotel",
+          "name": "Hotel Ketchum",
+          "location": "Ketchum",
+          "details": "Recommended boutique hotel in a great location.",
+          "booking_link": "https://www.kqzyfj.com/ (affiliate redirect, linked in post)",
+          "price_hint": null
+        },
+        {
+          "day": 10,
+          "item_type": "activity",
+          "name": "Stanley, Redfish Lake, Sawtooth National Forest",
+          "location": "Stanley",
+          "details": "Redfish Lake camping/hiking, Alice Toxaway backpacking loop, Bridalveil Falls hike (7.3 mi).",
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://www.travelingspud.com/the-ultimate-southern-idaho-road-trip-itinerary/"
+      ],
+      "confidence": "high"
+    },
+    {
+      "batch": 15,
+      "handle": "@adilmusa1",
+      "platform": "instagram",
+      "title": "The Ultimate Kuala Lumpur Itinerary",
+      "destination": "Kuala Lumpur, Malaysia",
+      "country": "Malaysia",
+      "days": 3,
+      "summary": "Adil Musa's Kuala Lumpur guide from his Malaysia trip: recommends 2-3 days covering Jalan Alor food street, Warisan Merdeka Tower, Petronas Twin Towers, Thean Hou Temple, Jamek Masjid, Sultan Abdul Samad Building, Petaling Street, KL Forest Eco Park.",
+      "items": [
+        {
+          "day": null,
+          "item_type": "restaurant",
+          "name": "Jalan Alor Food Street Market",
+          "location": "Bukit Bintang, Kuala Lumpur",
+          "details": "Vibrant evening food street; satay, grilled fish, noodles, cendol; near Bukit Bintang hotels.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Warisan Merdeka Tower",
+          "location": "Kuala Lumpur",
+          "details": "644m skyscraper, one of Malaysia's tallest; modern architecture icon; seen on train to Little India.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Petronas Twin Towers",
+          "location": "Kuala Lumpur",
+          "details": "Iconic 88-storey towers; Suria KLCC Mall below; Dancing Lake Symphony Fountain Show after 7:30pm.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Thean Hou Temple",
+          "location": "Kuala Lumpur",
+          "details": "Chinese temple with garden; creator explored and photographed.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Jamek Masjid",
+          "location": "Kuala Lumpur",
+          "details": "One of city's oldest mosques (1909); Moorish/Islamic design, domes and minarets; near Sultan Abdul Building.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "Sultan Abdul Samad Building",
+          "location": "Kuala Lumpur",
+          "details": "Historic landmark building photographed by creator.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "other",
+          "name": "Petaling Street Market",
+          "location": "Kuala Lumpur",
+          "details": "Vibrant market; local delicacies, apparel, souvenirs; bargaining expected; neon nightlife after sunset.",
+          "booking_link": null,
+          "price_hint": null
+        },
+        {
+          "day": null,
+          "item_type": "activity",
+          "name": "KL Forest Eco Park",
+          "location": "Kuala Lumpur",
+          "details": "Urban rainforest sanctuary; canopy walkway, monkeys, birds; minutes from KL Tower.",
+          "booking_link": null,
+          "price_hint": null
+        }
+      ],
+      "source_urls": [
+        "https://adilmusa.com/kuala-lumpur-itinerary/"
+      ],
+      "confidence": "medium"
+    }
+  ],
+  "built": "2026-09-18",
+  "note": "Claim packets only (no worker notes/transcripts). Reviewers must be fresh-context and a different model family from the builders."
+}

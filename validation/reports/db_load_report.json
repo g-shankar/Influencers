@@ -2,11 +2,21 @@
   "db": "/home/hatch/workspace/travel-influencer-pilot/pilot.db",
   "status": "loaded",
   "stats": {
-    "itineraries": 186,
-    "items": 1831,
-    "sources": 221,
-    "posts": 186,
+    "itineraries": 364,
+    "items": 3421,
+    "sources": 405,
+    "posts": 364,
     "skipped_quarantined": [
+      {
+        "batch": 1,
+        "handle": "@adventurouskate",
+        "title": "Two Weeks in Mexico: The BEST Yucatan Road Trip Itinerary"
+      },
+      {
+        "batch": 1,
+        "handle": "@adventurouskate",
+        "title": "The Best 3 Day Dubrovnik Itinerary"
+      },
       {
         "batch": 1,
         "handle": "@africansafari",
@@ -18,6 +28,51 @@
         "title": "4 Days Kenya's Golden Safari Circuit - Rift Valley Lakes & the Wild Mara"
       },
       {
+        "batch": 1,
+        "handle": "@migrationology",
+        "title": "Ghorepani Poon Hill Trek - Ultimate Guide and Itinerary"
+      },
+      {
+        "batch": 1,
+        "handle": "@migrationology",
+        "title": "Karakoram Mountains of Pakistan - Guide to the Khunjerab Pass"
+      },
+      {
+        "batch": 1,
+        "handle": "@migrationology",
+        "title": "Top 10 Things to Do in Luang Prabang [Your Perfect One Day Itinerary]"
+      },
+      {
+        "batch": 2,
+        "handle": "@theblondeabroad",
+        "title": "Itinerary for Two Weeks in Morocco"
+      },
+      {
+        "batch": 2,
+        "handle": "@theblondeabroad",
+        "title": "The Ultimate Oregon Adventure Road Trip Itinerary"
+      },
+      {
+        "batch": 2,
+        "handle": "@theblondeabroad",
+        "title": "The Ultimate 7-Day Cotswolds Itinerary"
+      },
+      {
+        "batch": 2,
+        "handle": "@thebrokebackpacker",
+        "title": "3-Month Southeast Asia Itinerary: The Banana Pancake Trail"
+      },
+      {
+        "batch": 2,
+        "handle": "@thebrokebackpacker",
+        "title": "2-Week Southeast Asia Itinerary: An Epic Getaway"
+      },
+      {
+        "batch": 2,
+        "handle": "@thebrokebackpacker",
+        "title": "1-Month Southeast Asia Itinerary: Digging in Deeper"
+      },
+      {
         "batch": 4,
         "handle": "@thenationalparktravelers",
         "title": "Columbia River Gorge Waterfall Drive"
@@ -26,8 +81,8 @@
     "skipped_council": []
   },
   "checks": {
-    "influencers": 200,
-    "itineraries": 186,
+    "influencers": 401,
+    "itineraries": 364,
     "orphan_items": 0,
     "orphan_itineraries": 0,
     "itineraries_without_source": 0,

@@ -1,0 +1,543 @@
+{
+ "batch": 16,
+ "extractions": [
+  {
+   "handle": "@solotravelinstyle",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "USA",
+     "days": 7,
+     "destination": "New York City",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Arrival and Midtown Manhattan exploration",
+       "item_type": "activity",
+       "location": "New York City, USA",
+       "name": "Midtown Manhattan arrival day",
+       "price_hint": ""
+      }
+     ],
+     "source_urls": [
+      "https://thesolotravelinstyleblog.com/nyc-one-week-itinerary/"
+     ],
+     "summary": "Seven-day solo travel itinerary for New York City with day-by-day structure covering Manhattan highlights, neighborhoods, and practical tips. Updated 2026-08-11.",
+     "title": "NYC One-Week Itinerary"
+    }
+   ],
+   "notes": "Ioana Moga is an individual solo travel blogger. Itinerary published within window (updated 2026-08-11). Affiliate disclosure present on site.",
+   "platform": "Instagram"
+  },
+  {
+   "handle": "@bucketlistly",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Costa Rica",
+     "days": 15,
+     "destination": "Costa Rica",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Arrival in San Jose and initial exploration",
+       "item_type": "activity",
+       "location": "San Jose, Costa Rica",
+       "name": "San Jose arrival",
+       "price_hint": ""
+      }
+     ],
+     "source_urls": [
+      "https://www.bucketlistly.blog/posts/costa-rica-backpacking-itinerary"
+     ],
+     "summary": "15-day backpacking itinerary for Costa Rica with explicit day-by-day structure, lodging recommendations, activities, and firsthand opinions. Updated approximately 2026-09-10.",
+     "title": "Costa Rica Backpacking Itinerary"
+    }
+   ],
+   "notes": "Pete Rojwongsuriya is an individual solo travel blogger and photographer based in Thailand. Itinerary is firsthand with explicit day structure and price references. Affiliate partnerships disclosed.",
+   "platform": "Instagram"
+  },
+  {
+   "handle": "@theladywhotravels_",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Italy",
+     "days": 7,
+     "destination": "Italy",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Arrival and first day exploration",
+       "item_type": "activity",
+       "location": "Italy",
+       "name": "Italy arrival day",
+       "price_hint": ""
+      }
+     ],
+     "source_urls": [
+      "https://www.theladywhotravels.com/1-week-in-italy-itinerary/"
+     ],
+     "summary": "Seven-day Italy itinerary with day-by-day structure. Updated 2026-04-01.",
+     "title": "One Week in Italy Itinerary"
+    }
+   ],
+   "notes": "Abigail A is an individual solo travel creator and host. Itinerary updated within window (2026-04-01). Affiliate disclosure present on site.",
+   "platform": "Instagram"
+  },
+  {
+   "handle": "@gracefkim",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Guatemala",
+     "days": 10,
+     "destination": "Guatemala",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Arrival and Antigua exploration",
+       "item_type": "activity",
+       "location": "Antigua, Guatemala",
+       "name": "Antigua arrival",
+       "price_hint": ""
+      }
+     ],
+     "source_urls": [
+      "https://gracefkim.com/10-day-guatemala-itinerary/"
+     ],
+     "summary": "Ten-day Guatemala itinerary with day-by-day structure. Published 2025-04-28.",
+     "title": "10-Day Guatemala Itinerary"
+    }
+   ],
+   "notes": "Grace Kim is an individual travel creator. Itinerary published within window (2025-04-28). Affiliate disclosure present on site.",
+   "platform": "Instagram"
+  },
+  {
+   "handle": "@meanderandwander",
+   "platform": "instagram",
+   "itineraries": [
+    {
+     "title": "Egypt Trip: Important Things to Know Before Your Trip",
+     "destination": "Egypt",
+     "country": "Egypt",
+     "days": null,
+     "summary": "Structured Egypt travel-planning guide by Rachita Saxena covering best season, passport/visa, India-to-Egypt flights with fares, budget to luxury accommodation with price bands, money/currency guidance, and transport options. Page cites 'Present Rates (October 2024)', placing publication/update after the 2024-09-17 cutoff.",
+     "source_urls": [
+      "https://meanderwander.com/egypt-trip/"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "item_type": "flight",
+       "name": "EgyptAir non-stop Mumbai/Delhi to Cairo",
+       "location": "Mumbai/Delhi, India to Cairo, Egypt",
+       "details": "Non-stop flights offered by EgyptAir; flight duration approx 6-7 hours",
+       "booking_link": null,
+       "price_hint": "INR 35,000 - 50,000 round-trip economy (source-stated)"
+      },
+      {
+       "day": null,
+       "item_type": "flight",
+       "name": "One-stop India to Egypt options",
+       "location": "India to Egypt",
+       "details": "One-stop options via Emirates, Qatar Airways, Etihad Airways, Saudia with layovers in Dubai, Doha, Abu Dhabi, Kuwait or Jeddah; comparison tools Skyscanner, Google Flights, Kayak recommended; book directly with airlines",
+       "booking_link": null,
+       "price_hint": "INR 30,000 - 70,000 round-trip (source-stated)"
+      },
+      {
+       "day": null,
+       "item_type": "hotel",
+       "name": "Budget guesthouses and hostels",
+       "location": "Cairo, Luxor, Aswan, Egypt",
+       "details": "Affordable guesthouses and hostels in downtown Cairo, Luxor and Aswan; basic amenities such as shared bathrooms, breakfast, WiFi",
+       "booking_link": null,
+       "price_hint": "INR 800 - 1,500 per night (~10-20 USD, source-stated)"
+      },
+      {
+       "day": null,
+       "item_type": "hotel",
+       "name": "Mid-range hotels",
+       "location": "Giza, Zamalek, Downtown Cairo, Luxor, Aswan, Egypt",
+       "details": "Mid-range hotels with private bathrooms near pyramids (Giza), sightseeing areas (Zamalek, Downtown Cairo), East Bank of Luxor and Corniche in Aswan",
+       "booking_link": null,
+       "price_hint": "INR 2,000 - 5,000 per night (~20-70 USD, source-stated)"
+      },
+      {
+       "day": null,
+       "item_type": "hotel",
+       "name": "Luxury 4- and 5-star resorts",
+       "location": "Cairo, Luxor, Aswan, Hurghada, Sharm el-Sheikh, Egypt",
+       "details": "Luxury resorts with swimming pools, fine dining, spas and scenic Nile or Pyramids views",
+       "booking_link": null,
+       "price_hint": "INR 8,000 and above per night (~100+ USD, source-stated)"
+      },
+      {
+       "day": null,
+       "item_type": "transport",
+       "name": "Nile cruise between Luxor and Aswan",
+       "location": "Luxor to Aswan, Egypt",
+       "details": "Nile cruise noted as an alternative option for those exploring Luxor and Aswan",
+       "booking_link": null,
+       "price_hint": ""
+      },
+      {
+       "day": null,
+       "item_type": "other",
+       "name": "Egypt e-visa",
+       "location": "Egypt",
+       "details": "Indians eligible for e-visa; official site visa2egypt.gov.eg or via Atlys (author got hers within 3 working days); sticker visa also possible via Embassy in New Delhi or Consulate in Mumbai",
+       "booking_link": null,
+       "price_hint": "e-visa fee 25 USD (source-stated)"
+      },
+      {
+       "day": null,
+       "item_type": "other",
+       "name": "Money and currency guidance",
+       "location": "Egypt",
+       "details": "Official currency Egyptian Pound (EGP); carry both cash and forex card; use ATMs for local currency; rates cited as present rates of October 2024",
+       "booking_link": null,
+       "price_hint": "1 EGP = 1.73 INR; 1 USD = 48.3 EGP; 1 EUR = 54 EGP (source-stated, Oct 2024)"
+      }
+     ]
+    }
+   ],
+   "notes": "Rachita Saxena is an individual freelance travel blogger (meanderwander.com). Guide updated on/after Oct 2024 per 'Present Rates (October 2024)' citation. No personalized travel planning, coaching, or hosted group trips sold; affiliate links and brand partnerships only."
+  },
+  {
+   "handle": "@lakshmisharath",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "India",
+     "days": 4,
+     "destination": "Sunderbans",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Arrive Kolkata; road transfer to Gadkhali Ferry Point and ferry crossing to Bali Island",
+       "item_type": "transport",
+       "location": "Kolkata to Bali Island, West Bengal, India",
+       "name": "Kolkata to Bali Island transfer",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Check in to Bonbibi Home Stay on Bali Island",
+       "item_type": "hotel",
+       "location": "Bali Island, Sunderbans, India",
+       "name": "Bonbibi Home Stay",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Guided village walks and birdwatching in the Bali Island villages",
+       "item_type": "activity",
+       "location": "Bali Island, Sunderbans, India",
+       "name": "Village walks and birdwatching",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Bengali meals and farm-to-table dining experiences",
+       "item_type": "restaurant",
+       "location": "Bali Island, Sunderbans, India",
+       "name": "Bengali meals",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Evening Baul singers folk performance",
+       "item_type": "activity",
+       "location": "Bali Island, Sunderbans, India",
+       "name": "Baul singers performance",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Island hopping by island ferries; Gosaba village visit; Rangabelia crafts and batik workshops",
+       "item_type": "activity",
+       "location": "Sunderbans, West Bengal, India",
+       "name": "Island hopping and craft villages",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Tuk-tuk transfers between island villages",
+       "item_type": "transport",
+       "location": "Sunderbans, West Bengal, India",
+       "name": "Tuk-tuk transfers",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Guided nature trails through the mangrove delta",
+       "item_type": "activity",
+       "location": "Sunderbans, West Bengal, India",
+       "name": "Mangrove nature trails",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Village theatre performance",
+       "item_type": "activity",
+       "location": "Sunderbans, West Bengal, India",
+       "name": "Village theatre",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Stay at Sundarban WELD Camp",
+       "item_type": "hotel",
+       "location": "Sunderbans, West Bengal, India",
+       "name": "Sundarban WELD Camp",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Stay at Nitai Gaur Homestay",
+       "item_type": "hotel",
+       "location": "Sunderbans, West Bengal, India",
+       "name": "Nitai Gaur Homestay",
+       "price_hint": ""
+      }
+     ],
+     "source_urls": [
+      "https://lakshmisharath.com/sunderbans-beyond-the-tiger-local-experiences/"
+     ],
+     "summary": "Four-day Sunderbans local-experiences journey beyond the tiger: Kolkata arrival, Gadkhali Ferry Point crossing to Bali Island, homestays, village walks, birdwatching, Baul music, village theatre, nature trails, island hopping, Gosaba, Rangabelia crafts and batik, Bengali farm-to-table meals. Published 2026-07-01.",
+     "title": "Sunderbans Beyond the Tiger: Local Experiences"
+    }
+   ],
+   "notes": "Lakshmi Sharath is an individual travel blogger (lakshmisharath.com). Guide published 2026-07-01. No consumer trip planning, coaching, hosted trips, or operator activity found; named operators are article subjects, not her business. Day breaks are the worker's synthesis of the guide's sequence.",
+   "platform": "Instagram"
+  },
+  {
+   "handle": "@anna.everywhere",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Switzerland/France",
+     "days": 10,
+     "destination": "Switzerland and France",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Overnight in Zurich on arrival day",
+       "item_type": "hotel",
+       "location": "Zurich, Switzerland",
+       "name": "Zurich hotel",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Explore Zurich's old town and lakeside highlights",
+       "item_type": "activity",
+       "location": "Zurich, Switzerland",
+       "name": "Zurich sightseeing",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Train transfer from Zurich to Lucerne",
+       "item_type": "transport",
+       "location": "Zurich to Lucerne, Switzerland",
+       "name": "Zurich to Lucerne train",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Explore Lucerne old town, Chapel Bridge and lakefront",
+       "item_type": "activity",
+       "location": "Lucerne, Switzerland",
+       "name": "Lucerne old town",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Train and cable car connections into the Lauterbrunnen valley",
+       "item_type": "transport",
+       "location": "Lucerne to Lauterbrunnen, Switzerland",
+       "name": "Lucerne to Lauterbrunnen",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Waterfalls and alpine viewpoints in the Lauterbrunnen valley",
+       "item_type": "activity",
+       "location": "Lauterbrunnen, Switzerland",
+       "name": "Lauterbrunnen valley",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Pick up rental car for the cross-border driving leg",
+       "item_type": "transport",
+       "location": "Lauterbrunnen, Switzerland",
+       "name": "Rental car pickup",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Scenic drive from the Swiss Alps to Chamonix",
+       "item_type": "transport",
+       "location": "Lauterbrunnen, Switzerland to Chamonix, France",
+       "name": "Drive to Chamonix",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Cable car up to Aiguille du Midi for Mont Blanc views",
+       "item_type": "activity",
+       "location": "Chamonix, France",
+       "name": "Aiguille du Midi cable car",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Dinner at Le Freti restaurant mentioned in the guide",
+       "item_type": "restaurant",
+       "location": "Chamonix, France",
+       "name": "Le Freti",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 8,
+       "details": "Drive from Chamonix to Annecy",
+       "item_type": "transport",
+       "location": "Chamonix to Annecy, France",
+       "name": "Drive to Annecy",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 8,
+       "details": "Explore Annecy's old town canals and lake",
+       "item_type": "activity",
+       "location": "Annecy, France",
+       "name": "Annecy old town and lake",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 9,
+       "details": "Leisure day around Lake Annecy",
+       "item_type": "activity",
+       "location": "Annecy, France",
+       "name": "Annecy leisure day",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 10,
+       "details": "Drive to Geneva for onward travel",
+       "item_type": "transport",
+       "location": "Annecy, France to Geneva, Switzerland",
+       "name": "Drive to Geneva and depart",
+       "price_hint": ""
+      }
+     ],
+     "source_urls": [
+      "https://annaeverywhere.com/switzerland-france-itinerary/"
+     ],
+     "summary": "10-day self-drive and rail itinerary across Switzerland and France: Zurich, Lucerne, Lauterbrunnen, Chamonix, Annecy, Geneva. Covers hotels, rental car, trains and cable cars, alpine attractions, and Le Freti restaurant. Updated approximately mid-July 2026.",
+     "title": "Switzerland and France Itinerary"
+    }
+   ],
+   "notes": "Anna Karsten is an individual travel blogger/historian/journalist (annaeverywhere.com); own page confirms Instagram handle @anna.everywhere. Guide updated approximately mid-July 2026 (within window). No consumer trip planning, coaching, hosted trips, or operator activity found. Day breaks are the worker's synthesis of the guide's 10-day route.",
+   "platform": "Instagram"
+  },
+  {
+   "handle": "@wandersmiles",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Spain",
+     "days": 2,
+     "destination": "Granada",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Visit the UNESCO World Heritage-listed Alhambra: Nasrid Palaces, Alcazaba fortress and Generalife gardens",
+       "item_type": "activity",
+       "location": "Granada, Spain",
+       "name": "Alhambra palace and fortress complex",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Wander the Albaicin quarter: Plaza de San Nicolas viewpoint, Calle Caldereria Nueva tea houses and shops",
+       "item_type": "activity",
+       "location": "Granada, Spain",
+       "name": "Albaicin neighborhood",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Open-air museum of eleven recreated cave homes in Barranco de los Negros; Romani culture and zambra flamenco history",
+       "item_type": "activity",
+       "location": "Sacromonte, Granada, Spain",
+       "name": "Sacromonte Cave Museum",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Traditional remojon granadino salad and Nasrid chicken at Jardines Alberto",
+       "item_type": "restaurant",
+       "location": "Granada, Spain",
+       "name": "Lunch: remojon granadino and Nasrid chicken",
+       "price_hint": ""
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Sunset dinner with Alhambra views; salmorejo followed by Iberian beef cheeks with celeriac",
+       "item_type": "restaurant",
+       "location": "Albaicin, Granada, Spain",
+       "name": "Sunset dinner at Las Tomases",
+       "price_hint": ""
+      }
+     ],
+     "source_urls": [
+      "https://www.wandersmiles.com/2-days-in-granada-spain/"
+     ],
+     "summary": "Two-day Granada first-timer itinerary: the Alhambra, Albaicin, Sacromonte Cave Museum, traditional Andalusian food (remojon granadino, salmorejo, Iberian beef cheeks), and a sunset dinner at Las Tomases. Published 2026-09-01, updated 2026-09-06.",
+     "title": "2 Days In Granada Spain: Best Itinerary For First-Timers"
+    }
+   ],
+   "notes": "Vanessa is the individual award-winning blogger and writer behind She Wanders Miles (Lancashire, England); Tripadvisor confirms handle @wandersmiles. Itinerary published 2026-09-01 and updated 2026-09-06 (within window). Her services page covers brand work only (sponsored content, UGC, reviews, freelance writing) - no consumer planning, coaching, hosted trips, or operator activity. Designated replacement addition for stale @meanderandwander.",
+   "platform": "Instagram"
+  }
+ ]
+}

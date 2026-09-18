@@ -1,0 +1,531 @@
+{
+ "batch": 11,
+ "extractions": [
+  {
+   "handle": "@thescenicpassport",
+   "itineraries": [
+    {
+     "confidence": "high",
+     "country": "Iceland",
+     "days": 7,
+     "destination": "Iceland Ring Road",
+     "items": [
+      {
+       "booking_link": null,
+       "day": 1,
+       "details": "Seljalandsfoss, Gljufrabui, Skogafoss, Kvernufoss, Dyrholaey Lighthouse, Reynisfjara Beach, Vik.",
+       "item_type": "destination",
+       "location": "South Iceland",
+       "name": "South Coast",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 2,
+       "details": "Fjadrargljufur Canyon, Skaftafell/Svartifoss, Svinafellsjokull Glacier, Jokulsarlon Glacier Lagoon, Diamond Beach, Mulagljufur Canyon.",
+       "item_type": "destination",
+       "location": "Southeast Iceland",
+       "name": "Southeast Iceland",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 3,
+       "details": "Stokksnes/Vestrahorn, Hengifoss, Litlanesfoss, Studlagil Canyon, Laugavallalaug Hot Spring.",
+       "item_type": "destination",
+       "location": "East Iceland",
+       "name": "East Iceland",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 4,
+       "details": "Dettifoss, Hverir Geothermal Area, Myvatn Nature Baths, Godafoss, Akureyri.",
+       "item_type": "destination",
+       "location": "North Iceland",
+       "name": "North Iceland",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 5,
+       "details": "Kirkjufell, Kirkjufellsfoss, Londrangar, Arnarstapi Sea Cliffs, Budakirkja.",
+       "item_type": "destination",
+       "location": "West Iceland",
+       "name": "Snaefellsnes Peninsula",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 6,
+       "details": "Landmannalaugar, Frostastadavatn, Sigoldugljufur, Haifoss, Blahylur.",
+       "item_type": "destination",
+       "location": "Iceland Highlands",
+       "name": "Highlands",
+       "price_hint": null
+      },
+      {
+       "booking_link": null,
+       "day": 7,
+       "details": "Gullfoss, Geysir, Bruarfoss, Blue Lagoon.",
+       "item_type": "destination",
+       "location": "Southwest Iceland",
+       "name": "Golden Circle to Keflavik",
+       "price_hint": null
+      }
+     ],
+     "source_urls": [
+      "https://www.tiktok.com/@thescenicpassport/video/7528975870283877646?_r=1&_d=secCgYIASAHKAESPgo8LEKBZA4pwD9omYZDfuvByYyvneXIqndIHMxQfeR1I4LuK9HwwlaH3JPvsUC2vxwGsdQwB%2BekmvutiU16GgA%3D&_svg=3&checksum=40069de2ab5d1ca4a76667b94a17f4d0a2e27cd76c08dae04d813d46625a0f47&link_reflow_popup_iteration_sharer=%7B%22click_empty_to_play%22%3A1%2C%22dynamic_cover%22%3A1%2C%22follow_to_play_duration%22%3A-1%7D&preview_pb=0&sec_user_id=MS4wLjABAAAAFj9nCFTJnX3e7XqSDFnbb6hfVYkQX_PM-dDggeg6S_-Bx8P_p93fCOfrADP3ekxh&share_app_id=1233&share_item_id=7528975870283877646&share_link_id=17BF6B1A-929B-4616-9517-6439A8D81236&share_scene=2&sharer_language=en&social_share_type=0&source=h5_m&timestamp=1754449689&tt_from=facebook&u_code=eehecaf5ji745b&ug_btm=b2001&user_id=7380113995082122283"
+     ],
+     "summary": "Lauren (@thescenicpassport) publishes a 7-day Iceland Ring Road itinerary (counterclockwise) on TikTok with day-by-day stops covering South Coast, Southeast, East, North, Snaefellsnes, Highlands and Golden Circle.",
+     "title": "7-Day Iceland Ring Road Itinerary (Counterclockwise)"
+    }
+   ],
+   "notes": "Day-by-day 7-day Iceland Ring Road itinerary from TikTok video caption; specific stops listed per day; published within trailing 24 months.",
+   "platform": "tiktok"
+  },
+  {
+   "handle": "@katieosheaaway",
+   "platform": "tiktok",
+   "notes": "California national-parks road trip from TikTok video; Sequoia, Kings Canyon, Yosemite; published 2025-08-08.",
+   "itineraries": [
+    {
+     "title": "California National Parks Road Trip",
+     "destination": "California (Sequoia, Kings Canyon, Yosemite)",
+     "country": "USA",
+     "days": 3,
+     "summary": "Katie O'Shea (@katieosheaaway) shares a California national-parks road trip on TikTok covering Sequoia, Kings Canyon, and Yosemite; published 2025-08-08.",
+     "source_urls": [
+      "https://www.tiktok.com/@katieosheaaway/video/7536275089478651167"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": 1,
+       "name": "Sequoia National Park",
+       "location": "California, USA",
+       "item_type": "activity",
+       "details": "Giant sequoias and park highlights.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 2,
+       "name": "Kings Canyon National Park",
+       "location": "California, USA",
+       "item_type": "activity",
+       "details": "Canyon views and trails.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": 3,
+       "name": "Yosemite National Park",
+       "location": "California, USA",
+       "item_type": "activity",
+       "details": "Valley views and iconic landmarks.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@alynnavalbuena",
+   "platform": "tiktok",
+   "notes": "Seven-day DIY Bali itinerary from TikTok video; published 2025-07-07.",
+   "itineraries": [
+    {
+     "title": "Seven-Day DIY Bali Itinerary",
+     "destination": "Bali",
+     "country": "Indonesia",
+     "days": 7,
+     "summary": "Alynna (@alynnavalbuena) publishes a seven-day DIY Bali itinerary on TikTok; published 2025-07-07.",
+     "source_urls": [
+      "https://www.tiktok.com/@alynnavalbuena/video/7524199296187632903"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Bali DIY Itinerary",
+       "location": "Bali, Indonesia",
+       "item_type": "other",
+       "details": "Seven-day do-it-yourself Bali itinerary with day-by-day plan.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@chloeconortravels",
+   "platform": "tiktok",
+   "notes": "Prague day itinerary from TikTok video; published 2026-01-11.",
+   "itineraries": [
+    {
+     "title": "Prague Day Itinerary",
+     "destination": "Prague",
+     "country": "Czech Republic",
+     "days": 1,
+     "summary": "Chloe (@chloeconortravels) shares a Prague day itinerary on TikTok; published 2026-01-11.",
+     "source_urls": [
+      "https://www.tiktok.com/@chloeconortravels/video/7594054954680126742"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": 1,
+       "name": "Prague Day Plan",
+       "location": "Prague, Czech Republic",
+       "item_type": "other",
+       "details": "Structured day itinerary for Prague.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@explorinwithnic",
+   "platform": "tiktok",
+   "notes": "South Island New Zealand route from TikTok video; published 2026-02-17.",
+   "itineraries": [
+    {
+     "title": "South Island New Zealand Route",
+     "destination": "South Island",
+     "country": "New Zealand",
+     "days": null,
+     "summary": "Nicole (@explorinwithnic) publishes a South Island New Zealand route on TikTok; published 2026-02-17.",
+     "source_urls": [
+      "https://www.tiktok.com/@explorinwithnic/video/7607945794917879062"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "South Island Route",
+       "location": "South Island, New Zealand",
+       "item_type": "other",
+       "details": "Structured route guide for New Zealand's South Island.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@lucyinthesskyy",
+   "platform": "tiktok",
+   "notes": "Greek-island guide from TikTok video; published 2026-03-02.",
+   "itineraries": [
+    {
+     "title": "Greek Island Guide",
+     "destination": "Greek Islands",
+     "country": "Greece",
+     "days": null,
+     "summary": "Lucy (@lucyinthesskyy) shares a Greek-island guide on TikTok; published 2026-03-02.",
+     "source_urls": [
+      "https://www.tiktok.com/@lucyinthesskyy/video/7612631506153999638"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Greek Islands Guide",
+       "location": "Greece",
+       "item_type": "other",
+       "details": "Structured guide to Greek islands.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@_cocoylim",
+   "platform": "tiktok",
+   "notes": "Ten Taiwan day-trip ideas from TikTok video; published 2026-03-15.",
+   "itineraries": [
+    {
+     "title": "Ten Taiwan Day-Trip Ideas",
+     "destination": "Taiwan",
+     "country": "Taiwan",
+     "days": null,
+     "summary": "cocoy (@_cocoylim) publishes ten Taiwan day-trip ideas on TikTok; published 2026-03-15.",
+     "source_urls": [
+      "https://www.tiktok.com/@_cocoylim/video/7617345387824778503"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Taiwan Day Trips",
+       "location": "Taiwan",
+       "item_type": "other",
+       "details": "Ten structured day-trip ideas for Taiwan.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@sarah.rh.bashir",
+   "platform": "tiktok",
+   "notes": "Three-day Morocco Imperial Cities from TikTok video; published 2026-04-29.",
+   "itineraries": [
+    {
+     "title": "Morocco Imperial Cities (3 Days)",
+     "destination": "Morocco Imperial Cities",
+     "country": "Morocco",
+     "days": 3,
+     "summary": "Sarah Bashir (@sarah.rh.bashir) shares a three-day Morocco Imperial Cities itinerary on TikTok; published 2026-04-29.",
+     "source_urls": [
+      "https://www.tiktok.com/@sarah.rh.bashir/video/7634256652715298055"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Imperial Cities Itinerary",
+       "location": "Morocco",
+       "item_type": "other",
+       "details": "Three-day structured itinerary for Morocco's Imperial Cities.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@daniellestravelblog",
+   "platform": "tiktok",
+   "notes": "Italy train route from TikTok video; Milan to Naples/Amalfi; published 2026-02-08.",
+   "itineraries": [
+    {
+     "title": "Italy Train Route",
+     "destination": "Italy (Milan to Naples/Amalfi)",
+     "country": "Italy",
+     "days": null,
+     "summary": "Danielle (@daniellestravelblog) publishes an Italy train route on TikTok covering Milan, Verona, Venice, Florence, Rome, Naples/Amalfi; published 2026-02-08.",
+     "source_urls": [
+      "https://www.tiktok.com/@daniellestravelblog/video/7604623136306253078"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Milan",
+       "location": "Milan, Italy",
+       "item_type": "transport",
+       "details": "Start of Italy train route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Verona",
+       "location": "Verona, Italy",
+       "item_type": "transport",
+       "details": "Train stop on Italy route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Venice",
+       "location": "Venice, Italy",
+       "item_type": "transport",
+       "details": "Train stop on Italy route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Florence",
+       "location": "Florence, Italy",
+       "item_type": "transport",
+       "details": "Train stop on Italy route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Rome",
+       "location": "Rome, Italy",
+       "item_type": "transport",
+       "details": "Train stop on Italy route.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Naples/Amalfi",
+       "location": "Naples, Italy",
+       "item_type": "transport",
+       "details": "End of Italy train route.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@eralevich",
+   "platform": "tiktok",
+   "notes": "Eight-day Switzerland itinerary from TikTok video; published 2025-07-10.",
+   "itineraries": [
+    {
+     "title": "Eight-Day Switzerland Itinerary",
+     "destination": "Switzerland",
+     "country": "Switzerland",
+     "days": 8,
+     "summary": "Erick Enriquez (@eralevich) publishes an eight-day Switzerland itinerary on TikTok covering Zurich, Zermatt, Grindelwald, Interlaken, Spiez, Blausee, Oeschinen; published 2025-07-10.",
+     "source_urls": [
+      "https://www.tiktok.com/@eralevich/video/7525598971625000210"
+     ],
+     "confidence": "high",
+     "items": [
+      {
+       "day": null,
+       "name": "Zurich",
+       "location": "Zurich, Switzerland",
+       "item_type": "other",
+       "details": "Switzerland itinerary stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Zermatt",
+       "location": "Zermatt, Switzerland",
+       "item_type": "other",
+       "details": "Switzerland itinerary stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Grindelwald",
+       "location": "Grindelwald, Switzerland",
+       "item_type": "other",
+       "details": "Switzerland itinerary stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Interlaken/Spiez",
+       "location": "Interlaken, Switzerland",
+       "item_type": "other",
+       "details": "Switzerland itinerary stop.",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "name": "Blausee/Oeschinen",
+       "location": "Switzerland",
+       "item_type": "activity",
+       "details": "Lake and mountain highlights.",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "handle": "@catchagypsea",
+   "platform": "tiktok",
+   "itineraries": [
+    {
+     "title": "Egypt multi-day itinerary",
+     "destination": "Egypt",
+     "country": "Egypt",
+     "days": 14,
+     "summary": "Multi-day Egypt itinerary covering Giza (2 days), Siwa (3 days), Aswan (2 days), Abu Simbel (1 day), Luxor (3 days) and Marsa Alam (3 days), with named hotels, restaurants and activities. TikTok video 7559954654868589835 published 2025-10-11; verified 2026-09-17.",
+     "source_urls": [
+      "https://www.tiktok.com/@catchagypsea/video/7559954654868589835"
+     ],
+     "confidence": "medium",
+     "items": [
+      {
+       "day": null,
+       "item_type": "hotel",
+       "name": "Mena House",
+       "location": "Giza, Egypt",
+       "details": "Named hotel in the Egypt itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "hotel",
+       "name": "Guardian Guesthouse / Xuru Stays",
+       "location": "Egypt",
+       "details": "Named accommodation in the Egypt itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "restaurant",
+       "name": "9 Pyramids Lounge",
+       "location": "Giza, Egypt",
+       "details": "Named restaurant in the Egypt itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "restaurant",
+       "name": "Khufu's Restaurant",
+       "location": "Giza, Egypt",
+       "details": "Named restaurant in the Egypt itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Kato Dool",
+       "location": "Siwa, Egypt",
+       "details": "Named activity/stop in the Egypt itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Felucca ride",
+       "location": "Aswan, Egypt",
+       "details": "Named activity in the Egypt itinerary",
+       "booking_link": null,
+       "price_hint": null
+      },
+      {
+       "day": null,
+       "item_type": "activity",
+       "name": "Sataya Reef",
+       "location": "Marsa Alam, Egypt",
+       "details": "Named activity/stop in the Egypt itinerary",
+       "booking_link": null,
+       "price_hint": null
+      }
+     ]
+    }
+   ],
+   "notes": "Itinerary verified 2026-09-17 by batch11 worker (video 7559954654868589835, published 2025-10-11). Item-day assignments not handed off; day=null pending re-harvest of full video text by wave-3 worker. No invented mappings."
+  }
+ ]
+}

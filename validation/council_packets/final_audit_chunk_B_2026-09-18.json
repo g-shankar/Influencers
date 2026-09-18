@@ -1,0 +1,3297 @@
+{
+ "auditor": "B",
+ "date": "2026-09-18",
+ "packets": [
+  {
+   "batch": 6,
+   "packet_index": 0,
+   "handle": "@thegingerwanderlust",
+   "platform": "tiktok",
+   "title": "Ultimate Norway road trip itinerary (Bergen area)",
+   "destination": "Bergen area",
+   "country": "Norway",
+   "days": 2,
+   "summary": "Day-by-day Norway road trip itinerary near Bergen, published 2024-10-03 on creator-owned blog.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Day 1: Bergen to Trolltunga",
+     "location": "Bergen",
+     "details": "Per creator-owned post headings",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Day 2: Trolltunga hike",
+     "location": "Trolltunga",
+     "details": "Per creator-owned post headings",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://thegingerwanderlust.com/2024/10/03/ultimate-norway-road-trip-itinerary-best-places-to-see-near-bergen/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 6,
+   "packet_index": 0,
+   "handle": "@makisantos_",
+   "platform": "tiktok",
+   "title": "Phu Quoc itineraries (24 hours + 2 days)",
+   "destination": "Phu Quoc",
+   "country": "Vietnam",
+   "days": 2,
+   "summary": "Two Phu Quoc itineraries (24-hour and 2-day), both posted 2026-09-02.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "24 hours in Phu Quoc itinerary",
+     "location": "Phu Quoc",
+     "details": "Posted 2026-09-02",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "2 days in Phu Quoc",
+     "location": "Phu Quoc",
+     "details": "Posted 2026-09-02",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://urlebird.com/user/makisantos_/",
+    "https://www.tiktok.com/@makisantos_/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 6,
+   "packet_index": 0,
+   "handle": "@explorewithcriostoir",
+   "platform": "tiktok",
+   "title": "Ireland scenic-drive guides + recommendations map",
+   "destination": "Ireland",
+   "country": "Ireland",
+   "days": null,
+   "summary": "Ireland scenic-drive guide series (Copper Coast Drive, Molls Gap, Doolough Valley, Causeway Coastal Route, Fanad Drive, Ring of Kerry) plus a recommendations travel map and personalized-itinerary offer. Dates: 2026-02-26, 2026-03-09, 2026-03-27 (video-ID decodes corroborated by indexed exact-handle captions).",
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Copper Coast Drive",
+     "location": "Ireland",
+     "details": "Scenic drive guide (indexed caption).",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Molls Gap",
+     "location": "Ireland",
+     "details": "Scenic drive guide (indexed caption).",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Doolough Valley",
+     "location": "Ireland",
+     "details": "Scenic drive guide (indexed caption).",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Causeway Coastal Route",
+     "location": "Ireland",
+     "details": "Scenic drive guide (indexed caption).",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Fanad Drive",
+     "location": "Ireland",
+     "details": "Scenic drive guide (indexed caption).",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Ring of Kerry",
+     "location": "Ireland",
+     "details": "Scenic drive guide (indexed caption).",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Ireland recommendations travel map",
+     "location": "Ireland",
+     "details": "Creator offers an Ireland recommendations travel map and personalized itineraries.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@explorewithcriostoir/video/7611266906783354134",
+    "https://www.tiktok.com/@explorewithcriostoir/video/7615356204503649558",
+    "https://www.tiktok.com/@explorewithcriostoir/video/7622023952445050134"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 6,
+   "packet_index": 0,
+   "handle": "@wawawandering__",
+   "platform": "tiktok",
+   "title": "Things to do in Stockholm, Sweden (local guide, Part 1)",
+   "destination": "Stockholm",
+   "country": "Sweden",
+   "days": null,
+   "summary": "Creator's own Stockholm local-guide video series (Part 1), published 2025-05-21 (video-ID decode); third-party attribution via Airial.travel as secondary source.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Things to do in Stockholm — local guide series",
+     "location": "Stockholm",
+     "details": "Creator's own TikTok guide video 'Part 1. Things to do in Stockholm, Sweden — Planning a trip to Stockholm? Let me be your local guide!' (oEmbed confirms authorship + guide content); enumerated stops not visible in caption, so no invented stops.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@wawawandering__/video/7506991838360767752",
+    "https://www.airial.travel/attractions/sweden/sandhamn/sandhamn-stockholm-PPUrjjEG"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 6,
+   "packet_index": 0,
+   "handle": "@nikitabathia",
+   "platform": "tiktok",
+   "title": "Abu Dhabi travel guide (Day 1 itinerary)",
+   "destination": "Abu Dhabi",
+   "country": "United Arab Emirates",
+   "days": null,
+   "summary": "Luxury travel creator guide to Abu Dhabi with a Day 1 itinerary, posted 2026-07-07/08.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Day 1 itinerary",
+     "location": "Abu Dhabi",
+     "details": "Itinerary-format post, 2026-07-08",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Abu Dhabi travel guide",
+     "location": "Abu Dhabi",
+     "details": "Guide post, 2026-07-07",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://urlebird.com/user/nikitabathia/",
+    "https://www.tiktok.com/@nikitabathia/"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 6,
+   "packet_index": 1,
+   "handle": "@abdulwanders",
+   "platform": "tiktok",
+   "title": "Aswan, Egypt guide",
+   "destination": "Aswan, Egypt",
+   "country": "Egypt",
+   "days": null,
+   "summary": "Aswan guide: Nubian culture along the Nile; logistics (getting there/around); Philae Temple, Nile islands, riverside viewpoints; best time Oct-Apr. Guide date 2026-06-02 (video-ID decode) corroborated by the indexed exact-handle caption (69.8K-229K likes across indexed versions).",
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Getting there",
+     "location": "Aswan, Egypt",
+     "details": "Arrive by plane, train or car from Cairo or Luxor.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Getting around",
+     "location": "Aswan, Egypt",
+     "details": "Boats commonly used to reach islands and Nile attractions.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Philae Temple",
+     "location": "Aswan, Egypt",
+     "details": "Don't-miss stop.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Nile islands and riverside viewpoints",
+     "location": "Aswan, Egypt",
+     "details": "Don't-miss stops.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Nubian culture experiences",
+     "location": "Aswan, Egypt",
+     "details": "Nubian culture, colorful riverside houses, local markets; best time October to April.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@abdulwanders/video/7646742765174361377"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 7,
+   "packet_index": 0,
+   "handle": "@fivefortheroadblog",
+   "platform": "instagram",
+   "title": "London Paris Itinerary with Kids",
+   "destination": "London & Paris",
+   "country": "UK & France",
+   "days": 13,
+   "summary": "Creator-authored London-Paris itinerary with kids, published 2026-09-08. Day references covering Days 1-13.",
+   "items": [],
+   "source_urls": [
+    "https://fivefortheroad.com/london-paris-itinerary-with-kids/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 7,
+   "packet_index": 0,
+   "handle": "@outsidesuburbia",
+   "platform": "instagram",
+   "title": "2 Days in Bern: A Slow Travel Guide",
+   "destination": "Bern",
+   "country": "Switzerland",
+   "days": 2,
+   "summary": "Creator-authored 2-day Bern guide, published 2026-07-30. Explicit Days 1-2.",
+   "items": [],
+   "source_urls": [
+    "https://outsidesuburbia.com/art/2-days-in-bern-a-slow-travel-guide-to-switzerlands-most-charming-capital/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 7,
+   "packet_index": 0,
+   "handle": "@marcieinmommyland",
+   "platform": "instagram",
+   "title": "7 Days in Paris with Kids: The Complete 2026 Itinerary",
+   "destination": "Paris",
+   "country": "France",
+   "days": 7,
+   "summary": "Marcie Cheung's own 7-day Paris itinerary (trip April 11-18, 2026), structured day-by-day for families with kids: crepe cafes, museums (Paradox Museum, Louvre scavenger hunt), a Montmartre art class, a Provins day trip, Jardin d'Acclimatation, and kid-friendly restaurants throughout. Arrival day mapped to day 1; guide's Day 1-6 mapped to days 2-7.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Residence du Lion Louvre",
+     "location": "Paris, 1st arr.",
+     "details": "Family base for the 7-day trip.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "CDG arrival + Monoprix snack run",
+     "location": "Paris",
+     "details": "Airport arrival; Monoprix for snacks.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Le Zinc d'Honore",
+     "location": "Paris",
+     "details": "Arrival dinner.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Happy Cafe (crepes)",
+     "location": "Paris",
+     "details": "Day 1 breakfast.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Paradox Museum Paris",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Adidas Champs-Elysees (custom dragon sneakers)",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Mussels lunch, Champs-Elysees",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Paris Catacombs (reopened Apr 8 2026)",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Trocadero",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Chez Andres",
+     "location": "Paris",
+     "details": "Dinner.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Cafe de Carrousel",
+     "location": "Paris",
+     "details": "Day 2 breakfast.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Louvre scavenger hunt w/ The Little Art Seeker (9am-1pm)",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Jardin du Tuileries (carousel, trampolines, toy sailboats)",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Galeries Lafayette",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Brasserie dinner",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Marlette",
+     "location": "Montmartre, Paris",
+     "details": "Breakfast.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Montmartre art class w/ guide Billy (Renoir spot, Sacre-Coeur painting)",
+     "location": "Montmartre, Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Au Cadet de Gascogne",
+     "location": "Montmartre, Paris",
+     "details": "Lunch.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Carette (macarons)",
+     "location": "Montmartre, Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Crepe class Caramel Sarrasin",
+     "location": "Montmartre, Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Navigo train Gare de l'Est 9:47am to Provins",
+     "location": "Paris -> Provins",
+     "details": "Day trip.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Val'se de Crepes",
+     "location": "Provins",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Medieval city + Saint Jean's Gate ramparts",
+     "location": "Provins",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Legends of the Knights show",
+     "location": "Provins",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "4:45pm train back to Paris",
+     "location": "Provins -> Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Italian dinner",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Notre Dame (private guided tour)",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Shakespeare & Co",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Ostera Paris",
+     "location": "Paris",
+     "details": "Lunch.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Musee Vivant du Fromage",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "La Grande Epicerie",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "All'Antico Vinaio",
+     "location": "Paris",
+     "details": "Dinner.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Happy Cafe",
+     "location": "Paris",
+     "details": "Breakfast.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Jardin d'Acclimatation (unlimited ride passes)",
+     "location": "Paris",
+     "details": null,
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "l'Alsace (mussels)",
+     "location": "Paris",
+     "details": "Farewell dinner.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.marcieinmommyland.com/7-days-in-paris-with-kids/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 7,
+   "packet_index": 0,
+   "handle": "@mumpacktravel",
+   "platform": "instagram",
+   "title": "Luxe Komodo Women's Adventure 2026-2027",
+   "destination": "Komodo / Labuan Bajo, Indonesia",
+   "country": "Indonesia",
+   "days": 8,
+   "summary": "Evie's own 8-day luxe women's adventure to Komodo (trip runs September 5-12, 2026): airport hotel in Denpasar, flight to Komodo, Sudamala Komodo in Labuan Bajo with welcome dinner, four days on a private luxury sailing boat/liveaboard, then Sudamala Seraya private beachfront bungalow. Guide page published 2026-06-08, updated 2026-09-12; newsletter promotion indexed Aug/Sep 2026.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Novotel Airport hotel, Denpasar",
+     "location": "Denpasar, Bali",
+     "details": "Night 1 at the airport hotel at Ngurah Rai International Airport before the group flies to Komodo.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Flight to Komodo",
+     "location": "Denpasar to Labuan Bajo",
+     "details": "Group flight from Bali to Komodo; transfer to Sudamala Komodo in Labuan Bajo on Day 2.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Sudamala Komodo",
+     "location": "Labuan Bajo",
+     "details": "Boutique stay in Labuan Bajo; welcome dinner included.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Welcome dinner",
+     "location": "Labuan Bajo",
+     "details": "Welcome dinner for the women's group on arrival day.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Private luxury sailing boat / liveaboard (Days 3-6)",
+     "location": "Komodo National Park",
+     "details": "Four days cruising Komodo on a private luxury sailing boat exploring the islands.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Sudamala Seraya private beachfront bungalow",
+     "location": "Seraya Island",
+     "details": "Final nights in a private beachfront bungalow at Sudamala Seraya.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://mumpacktrips.com.au/luxe-komodo-womens-adventure-2026-2027/",
+    "https://mailchi.mp/mumpacktravel/newsletter-11031411"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 7,
+   "packet_index": 0,
+   "handle": "@shivya",
+   "platform": "instagram",
+   "title": "Perfect 3-Day Goa Itinerary for Slow Travel",
+   "destination": "Goa",
+   "country": "India",
+   "days": 3,
+   "summary": "Shivya Nath's own-blog 3-day slow-travel Goa plan, updated ~2026-08-06. North Goa: Day 1 — explore the Goan neighbourhood (walks, bakery, market), cycle/e-bike Chorao island with Cycling Zens or B:Live, thrift at Good Karma (Vagator), shop organic fair-trade at No Nasties (Assagao). Day 2 — hike to a secret waterfall/swimming hole with Beatroute Explorers or The Local Beat. Day 3 — surfing lesson with Salty Soul (Mandrem), lazy beach day at Morjim/Ashwem/Keri. Stay picks: Cancio's House (Aldona), Siolim House, Jardin d'Ulysse, Botanique, Mojigao, The Secret Garden; South Goa: Casa Jaali, Tanshikar Spice Farm, Mangaal Farmstay, Cabo Serai, Alila Diwa. Eat: Kokni Kanteen, Mum's Kitchen (Panjim), Bloom & Brew, The Rice Mill, Bean Me Up, Moka.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Cancio's House",
+     "location": "Aldona, Goa, India",
+     "details": "500-year-old traditional Goan homestay hosted by three generations of the Amaral family; outhouse cottage.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Cycle or e-bike on Chorao island",
+     "location": "Chorao, Goa, India",
+     "details": "Guided cycling or e-biking ride with Cycling Zens or B:Live; mangroves, paddy fields, old houses.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Good Karma thrift store",
+     "location": "Vagator, Goa, India",
+     "details": "Pre-loved clothes, accessories, shoes and books; profits partly to WAG.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "No Nasties",
+     "location": "Assagao, Goa, India",
+     "details": "Homegrown organic fair-trade clothing store.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Kokni Kanteen",
+     "location": "Goa, India",
+     "details": "True blue Goan thali; good starting point for Goan food.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Mum's Kitchen",
+     "location": "Panjim, Goa, India",
+     "details": "Favourite Goan restaurant (avoid the Assagao branch); uddamethi and tamdi bhaji with sanna.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Bloom & Brew",
+     "location": "Assagao, Goa, India",
+     "details": "Vegan-friendly cafe favourite.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "The Rice Mill",
+     "location": "Morjim, Goa, India",
+     "details": "Vegan-friendly cafe favourite.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Bean Me Up",
+     "location": "Vagator, Goa, India",
+     "details": "Vegan-friendly cafe favourite.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Moka",
+     "location": "Siolim, Goa, India",
+     "details": "Vegan-friendly cafe favourite.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Hike to a secret waterfall or swimming hole",
+     "location": "Western Ghats, Goa, India",
+     "details": "Forest hike and swim with Beatroute Explorers or The Local Beat; homemade lunch with a local family.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Surf lesson with Salty Soul",
+     "location": "Mandrem, Goa, India",
+     "details": "Surf lesson run by two Goan surfers; gentle waves, good for beginners.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Lazy beach day",
+     "location": "Morjim/Ashwem/Keri, Goa, India",
+     "details": "Sun, sand and sunset evening on North Goa beaches.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Siolim House",
+     "location": "Siolim, Goa, India",
+     "details": "Restored 17th century heritage house turned boutique hotel.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Jardin d'Ulysse",
+     "location": "Morjim, Goa, India",
+     "details": "Across the beach from Morjim; vegan-friendly food; huts out back.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Botanique",
+     "location": "Assagao, Goa, India",
+     "details": "Restored Goan house hotel; Japanese food at Izumi in its backyard.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Mojigao",
+     "location": "Assagao, Goa, India",
+     "details": "Wood and tiled roof cottages in Assagao wilderness; cafe, yoga, music gigs.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "The Secret Garden",
+     "location": "Saligao, Goa, India",
+     "details": "Traditional Goan house refurbished by a Goan-British couple; food forest.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Casa Jaali",
+     "location": "Patnem, Goa, India",
+     "details": "Cottages overlooking the coast; vegan-friendly in-house cafe.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Tanshikar Spice Farm",
+     "location": "Sanguem, Goa, India",
+     "details": "Working family-run organic farm; huts among cashew and black pepper plantations.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Mangaal Farmstay",
+     "location": "Quepem, Goa, India",
+     "details": "Working organic farm; private waterfall 1.5 hour trek away.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Cabo Serai",
+     "location": "Canacona, Goa, India",
+     "details": "Eco-lodge near Cabo de Rama Fort, accessible by short hike; pinewood and thatched huts.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Alila Diwa",
+     "location": "Majorda, Goa, India",
+     "details": "Luxury resort with Balinese/Goan architecture; infinity pool over rice paddies.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://the-shooting-star.com/perfect-3-day-goa-itinerary/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 7,
+   "packet_index": 0,
+   "handle": "@radhika_nomllers",
+   "platform": "instagram",
+   "title": "Triund Trek Guide: Everything You Need to Know",
+   "destination": "Triund (Dharamshala)",
+   "country": "India",
+   "days": 2,
+   "summary": "Own-site 2-day weekend Triund trek plan: arrive McLeodganj and explore on Day 1, trek McLeodganj to Triund on Day 2; also covers how to reach from Delhi, costs, accommodation and seasons.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Arrive McLeodganj early morning",
+     "location": "McLeodganj",
+     "details": "Day 1 arrival per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "HosteLaVie",
+     "location": "McLeodganj",
+     "details": "Her named stay (breakfast included) per the guide.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Bhagsu Waterfall",
+     "location": "McLeodganj",
+     "details": "~20 min hike from most hostels per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Shiva Cafe",
+     "location": "Bhagsu, McLeodganj",
+     "details": "Tea and Maggi with sunset view per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "McLeodganj local market",
+     "location": "McLeodganj",
+     "details": "Explore per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "transport",
+     "name": "Shared taxi to Triund trek starting point",
+     "location": "McLeodganj",
+     "details": "Route option per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Trek McLeodganj to Triund (~8 km, 3-4 hours)",
+     "location": "Triund",
+     "details": "Day 2 trek per her guide; register at the trailhead.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Triund top (afternoon)",
+     "location": "Triund",
+     "details": "Reach by afternoon per her guide.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://nomllers.com/triund-trek-budget/"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 7,
+   "packet_index": 1,
+   "handle": "@wheresachi",
+   "platform": "instagram",
+   "title": "Spiritual Itinerary to Varanasi",
+   "destination": "Varanasi",
+   "country": "India",
+   "days": null,
+   "summary": "Own-blog spiritual Varanasi itinerary: a 10-temple circuit, must-do experiences and ghats context, plus must-try food spots.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Kashi Vishwanath Temple - The Abode of Lord Shiva",
+     "location": "Varanasi",
+     "details": "Temple 1 in her Varanasi itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Kaal Bhairav Temple - Guardian of Kashi",
+     "location": "Varanasi",
+     "details": "Temple 2 in her Varanasi itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Mrityunjay Mahadev Temple - Conqueror of Death",
+     "location": "Varanasi",
+     "details": "Temple 3 in her Varanasi itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Kashi Raj Kali Temple - Hidden Royal Shrine",
+     "location": "Varanasi",
+     "details": "Temple 4 in her Varanasi itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Durga Kund Mandir - The Warrior Goddess",
+     "location": "Varanasi",
+     "details": "Temple 5 in her Varanasi itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Tulsi Manas Mandir - The Epic's Birthplace",
+     "location": "Varanasi",
+     "details": "Temple 6 in her Varanasi itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sankat Mochan Hanuman Temple - Reliever of Troubles",
+     "location": "Varanasi",
+     "details": "Temple 7 in her Varanasi itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Nepali Temple (Kathwala Temple) - A Slice of Nepal",
+     "location": "Varanasi",
+     "details": "Temple 8 in her Varanasi itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Annapurna Temple - Goddess of Nourishment",
+     "location": "Varanasi",
+     "details": "Temple 9 in her Varanasi itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Bharat Mata Mandir - Mother India Temple",
+     "location": "Varanasi",
+     "details": "Temple 10 in her Varanasi itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Kashi Chat Bhandar",
+     "location": "Varanasi",
+     "details": "Must-try food spot per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Blue Lassi Shop",
+     "location": "Varanasi",
+     "details": "Must-try food spot per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Deena Chat Bhandar",
+     "location": "Varanasi",
+     "details": "Must-try food spot per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Baati Chokha Restaurant",
+     "location": "Varanasi",
+     "details": "Must-try food spot per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Ram Bhandar",
+     "location": "Varanasi",
+     "details": "Must-try food spot per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Banarasi Paan Bhandar",
+     "location": "Varanasi",
+     "details": "Must-try food spot per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Pappu Chai Stall",
+     "location": "Varanasi",
+     "details": "Must-try food spot per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Vishwanath Misthan Bhandar",
+     "location": "Varanasi",
+     "details": "Must-try food spot per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Laxmi Chai Wala",
+     "location": "Varanasi",
+     "details": "Must-try food spot per her guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Ksheer Sagar",
+     "location": "Varanasi",
+     "details": "Must-try food spot per her guide.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://wheresachi.com/spiritual-itinerary-to-varanasi/"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 7,
+   "packet_index": 1,
+   "handle": "@kritika_goel",
+   "platform": "instagram",
+   "title": "Taiwan 5-Day Itinerary (video guide)",
+   "destination": "Taiwan",
+   "country": "Taiwan",
+   "days": 5,
+   "summary": "Her own YouTube guide video presenting a Taiwan 5-day itinerary: Miaoli (Shine Mood Resort, Shengxing Old Street, Hakka Lei Tea workshop, Old Mountain Line Rail Bike), the 2026 Taiwan Lantern Festival, Alishan (tea plantation, forest railway, Shenmu giant trees, cherry blossoms, Tsou Cultural Park), then HSR to Taipei (Taipei 101, Din Tai Fung, Gold Museum, Yangming Spring).",
+   "items": [
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Shine Mood Resort",
+     "location": "Miaoli",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Shengxing Old Street",
+     "location": "Miaoli",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Hakka Lei Tea DIY Workshop",
+     "location": "Miaoli",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Old Mountain Line Rail Bike Ride",
+     "location": "Miaoli",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "voco Chiayi",
+     "location": "Chiayi",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "2026 Taiwan Lantern Festival",
+     "location": "Chiayi",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Alishan tea plantation (Drizzle Tea)",
+     "location": "Alishan",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "Alishan Forest Railway",
+     "location": "Alishan",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Shenmu Station and giant trees",
+     "location": "Alishan",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Alishan cherry blossoms",
+     "location": "Alishan",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Tsou Cultural Park",
+     "location": "Alishan",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "transport",
+     "name": "HSR to Taipei",
+     "location": "Taipei",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Taipei 101 Observatory",
+     "location": "Taipei",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Din Tai Fung",
+     "location": "Taipei",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Gold Museum",
+     "location": "New Taipei",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Yangming Spring (Michelin Green Star)",
+     "location": "Taipei",
+     "details": "Named in her Taiwan video.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.youtube.com/watch?v=KZxxi0_aIV0"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 7,
+   "packet_index": 1,
+   "handle": "@apytravelstories",
+   "platform": "instagram",
+   "title": "7 Day Kerala Itinerary",
+   "destination": "Kerala",
+   "country": "India",
+   "days": 7,
+   "summary": "Apoorva Rao's 7-day Kerala itinerary, published as her own YouTube Short (~2026-04-25). The Short's metadata confirms the 7-day Kerala itinerary exists; day-by-day item detail lives in the video itself and was not extractable from the text page. Item list left empty rather than invented.",
+   "items": [],
+   "source_urls": [
+    "https://www.youtube.com/shorts/RzkqlJVppEU"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 8,
+   "packet_index": 0,
+   "handle": "@lalarebelo",
+   "platform": "instagram",
+   "title": "Belize in 7 nights — San Pedro + Placencia (incl. sailboat)",
+   "destination": "Belize",
+   "country": "Belize",
+   "days": 8,
+   "summary": "Lala Rebelo's 7-night Belize route: 3 nights in San Pedro (Ambergris Caye) and 4 nights in Placencia — 2 in a hotel and 2 aboard a sailboat with The Moorings. Covers Hol Chan Marine Reserve snorkeling, Shark Ray Alley, the Caye Caulker/San Pedro transfer, and a Blue Hole scenic overflight. Originally traveled January 2022; guide maintained on her blog.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "flight",
+     "name": "Copa Airlines via Panama + Tropic Air",
+     "location": "San Pedro, Ambergris Caye, Belize",
+     "details": "International arrival via Panama (Copa), then domestic hop to San Pedro with Tropic Air.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "San Pedro hotel (3 nights)",
+     "location": "San Pedro, Ambergris Caye, Belize",
+     "details": "Base for the first 3 nights on Ambergris Caye.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Hol Chan Marine Reserve snorkeling",
+     "location": "Ambergris Caye, Belize",
+     "details": "Snorkeling in the marine reserve.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Shark Ray Alley",
+     "location": "Ambergris Caye, Belize",
+     "details": "Snorkel stop with nurse sharks and rays.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "Caye Caulker / San Pedro transfer to Placencia",
+     "location": "Placencia, Belize",
+     "details": "Transfer south to Placencia for the second half of the trip.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "hotel",
+     "name": "Placencia hotel (2 nights)",
+     "location": "Placencia, Belize",
+     "details": "Hotel base for 2 nights in Placencia.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "hotel",
+     "name": "The Moorings sailboat (2 nights)",
+     "location": "Placencia, Belize",
+     "details": "Two nights aboard a sailboat with The Moorings.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Blue Hole scenic overflight (Tropic Air)",
+     "location": "Lighthouse Reef, Belize",
+     "details": "Scenic flight over the Great Blue Hole.",
+     "price_hint": "~$230"
+    }
+   ],
+   "source_urls": [
+    "https://lalarebelo.com/belize/"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 8,
+   "packet_index": 0,
+   "handle": "@emilyeatsandexplores",
+   "platform": "instagram",
+   "title": "Costa Rica with Emily Cooper — 7 days",
+   "destination": "Costa Rica",
+   "country": "Costa Rica",
+   "days": 7,
+   "summary": "Emily Cooper's hosted 7-day Costa Rica group trip (TrovaTrip, July 14–20, 2024): Arenal volcano hike and hot springs, Tenorio option, Selvatura hanging bridges, rainforest night walk, zipline — with named hotels, transfers and meals. Trip predates the 2024-09-16 content-fit cutoff, so it is extracted for the DB but not used as content-fit evidence.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Arrival hotel",
+     "location": "Costa Rica",
+     "details": "Group trip arrival; transfers included.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Arenal volcano hike",
+     "location": "La Fortuna, Costa Rica",
+     "details": "Guided Arenal hike.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Hot springs",
+     "location": "La Fortuna, Costa Rica",
+     "details": "Hot springs visit.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Tenorio (optional)",
+     "location": "Tenorio Volcano National Park, Costa Rica",
+     "details": "Optional Tenorio excursion.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Selvatura hanging bridges",
+     "location": "Monteverde, Costa Rica",
+     "details": "Hanging bridges walk.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Rainforest night walk + zipline",
+     "location": "Monteverde, Costa Rica",
+     "details": "Night walk and zipline.",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "transport",
+     "name": "Departure transfers",
+     "location": "Costa Rica",
+     "details": "Group trip departure transfers.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://trovatrip.com/trip/central-america/costa-rica/costa-rica-with-emily-cooper-jul-2024"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 8,
+   "packet_index": 0,
+   "handle": "@pasaportete",
+   "platform": "instagram",
+   "title": "Miami post-cruise extension",
+   "destination": "Miami",
+   "country": "USA",
+   "days": 3,
+   "summary": "Teté (@pasaportete) documents a multi-day post-cruise stay in Miami with her partner: poolside/hotel time at the Gale Miami Hotel & Residences in Downtown Miami, beach time, dining at Casa Gia, and practical guidance on pre/post-cruise Miami stays with Downtown access to Brickell, Wynwood and the Design District. Published as an Instagram carousel on 2026-09-10.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Gale Miami Hotel & Residences",
+     "location": "Downtown Miami, Miami, USA",
+     "details": "Post-cruise base; poolside and hotel-room content; Downtown location with access to Brickell, Wynwood and Design District.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Miami Beach",
+     "location": "Miami Beach, USA",
+     "details": "Beach time as part of the post-cruise extension.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Wynwood and Design District",
+     "location": "Miami, USA",
+     "details": "Neighborhoods reachable from Downtown base; murals and design-district exploring.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Casa Gia",
+     "location": "Miami, USA",
+     "details": "Restaurant featured in the Miami carousel.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.instagram.com/p/DdIDOj4iUn2/"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 9,
+   "packet_index": 0,
+   "handle": "@kevindroniak",
+   "platform": "tiktok",
+   "title": "Azores Day Route",
+   "destination": "São Miguel, Azores",
+   "country": "Portugal",
+   "days": 1,
+   "summary": "Kevin Droniak's day route around São Miguel in the Azores, starting with a motorbike rental and covering a tea house, grotto, local food stop, and coastal point. Published as a TikTok video on 2026-05-26.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Blue Sky Moto Rental",
+     "location": "São Miguel, Azores",
+     "details": "Motorbike rental starting point for the Azores day route.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Casa de Chá",
+     "location": "São Miguel, Azores",
+     "details": "Tea house stop on the Azores route.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Gruta do Pastor",
+     "location": "São Miguel, Azores",
+     "details": "Cave/grotto stop on the Azores route.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Rei das Bifanas",
+     "location": "São Miguel, Azores",
+     "details": "Food stop on the Azores route.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Ponta da Ferraria",
+     "location": "São Miguel, Azores",
+     "details": "Coastal/thermal stop on the Azores route.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@kevindroniak/video/7644279500557143310"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 9,
+   "packet_index": 0,
+   "handle": "@pang__bang",
+   "platform": "tiktok",
+   "title": "Route 66: 3-Day Road Trip Itinerary",
+   "destination": "Route 66 (California to Arizona)",
+   "country": "USA",
+   "days": 3,
+   "summary": "Nicole Pang's 3-day Route 66 itinerary: Santa Monica Pier, Burbank and diners on day 1; Lola Cafe, Elmer's Bottle Tree Ranch, Calico Ghost Town and Needles on day 2; Oatman, Hackberry General Store, Williams, an optional Grand Canyon detour and Flagstaff on day 3. Published as a TikTok video on 2026-05-01.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Santa Monica Pier",
+     "location": "Santa Monica, California",
+     "details": "Route 66 start point at Santa Monica Pier.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Orla Restaurant",
+     "location": "California",
+     "details": "Dinner stop on day 1 of the Route 66 itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Cambria Hotel Burbank",
+     "location": "Burbank, California",
+     "details": "Day 1 overnight stay.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Lola Cafe",
+     "location": "California",
+     "details": "Food stop on day 2.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Elmer's Bottle Tree Ranch",
+     "location": "California",
+     "details": "Roadside art stop on day 2.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Calico Ghost Town",
+     "location": "California",
+     "details": "Ghost town stop on day 2.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Peggy Sue's 50's Diner",
+     "location": "California",
+     "details": "Diner stop on day 2.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "hotel",
+     "name": "Choice Hotel in Needles",
+     "location": "Needles, California",
+     "details": "Day 2 overnight stay.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Oatman",
+     "location": "Oatman, Arizona",
+     "details": "Historic mining town stop on day 3.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Mr. D'z diner",
+     "location": "Arizona",
+     "details": "Diner stop on day 3.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Hackberry General Store",
+     "location": "Hackberry, Arizona",
+     "details": "Route 66 memorabilia stop on day 3.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Williams",
+     "location": "Williams, Arizona",
+     "details": "Town stop on day 3.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Grand Canyon",
+     "location": "Arizona",
+     "details": "Optional detour on day 3.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "hotel",
+     "name": "Kendrick Hotel Flagstaff",
+     "location": "Flagstaff, Arizona",
+     "details": "Day 3 overnight stay.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Northern Pines Restaurant",
+     "location": "Flagstaff, Arizona",
+     "details": "Dinner stop on day 3.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@pang__bang/video/7635018195757272334"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 9,
+   "packet_index": 0,
+   "handle": "@jetset_anna",
+   "platform": "tiktok",
+   "title": "How to spend a week in Taiwan",
+   "destination": "Taiwan (Taipei, Kenting, Tainan, Shifen, Jiufen)",
+   "country": null,
+   "days": 7,
+   "summary": "Week-long Taiwan itinerary from the creator's own TikTok video (published 2026-07-27): Taipei (days 1-3), Kenting (days 4-5), Tainan (day 6) and the surrounding sights, with named temples, night markets, restaurants and high-speed rail transport between regions.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Chiang Kai-Shek Memorial Hall",
+     "location": null,
+     "details": "watching the changing of the guards",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Taipei 101",
+     "location": null,
+     "details": "taking in the views",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Din Tai Fung",
+     "location": null,
+     "details": "in its home country",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Taipei temples",
+     "location": null,
+     "details": "exploring beautiful temples",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Taipei night markets",
+     "location": null,
+     "details": "buzzing night markets",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "transport",
+     "name": "Taiwan high-speed rail",
+     "location": null,
+     "details": "travelling south to Kenting",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Kenting coastal walks",
+     "location": null,
+     "details": "breathtaking coastal views",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "SUP in Kenting",
+     "location": null,
+     "details": "stand-up paddleboard in crystal-clear waters",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Kenting night market",
+     "location": null,
+     "details": "eating around the night market",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Confucius Temple",
+     "location": null,
+     "details": "Tainan",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Pung-tang candy making",
+     "location": null,
+     "details": "traditional candy making experience",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Indigo dyeing at Blueprint Park",
+     "location": null,
+     "details": "creative indigo dyeing",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Shennong Street",
+     "location": null,
+     "details": "wandering the magical streets, evening",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Sky lantern release in Shifen",
+     "location": null,
+     "details": "releasing a sky lantern",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Traditional tea tasting",
+     "location": null,
+     "details": "overlooking the mountains",
+     "price_hint": null
+    },
+    {
+     "day": 7,
+     "item_type": "activity",
+     "name": "Jiufen lantern-lit streets",
+     "location": null,
+     "details": "magical lantern-lit streets; said to have inspired Spirited Away scenes",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@jetset_anna/video/7667150847817567510"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 9,
+   "packet_index": 0,
+   "handle": "@trendytraveler",
+   "platform": "tiktok",
+   "title": "Croatia: Split to Hvar to Dubrovnik",
+   "destination": "Dalmatian Coast",
+   "country": "Croatia",
+   "days": null,
+   "summary": "Bernice Padilla's Croatia itinerary covering Split, Hvar, and Dubrovnik, with hotel recommendations (Hotel Fermai, Hotel Amfora), activities, and ferry durations. Published as a TikTok video on 2025-10-12.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Split",
+     "location": "Split, Croatia",
+     "details": "Starting point of the Croatia itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Hvar",
+     "location": "Hvar, Croatia",
+     "details": "Island stop with Hotel Amfora.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Dubrovnik",
+     "location": "Dubrovnik, Croatia",
+     "details": "Final stop of the Croatia itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Hotel Fermai",
+     "location": "Croatia",
+     "details": "Hotel recommendation in the Croatia itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Hotel Amfora",
+     "location": "Hvar, Croatia",
+     "details": "Hotel recommendation on Hvar.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@trendytraveler/video/7560439800738663693"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 9,
+   "packet_index": 0,
+   "handle": "@axelletaniegi_travel",
+   "platform": "tiktok",
+   "title": "Solo-travel guide",
+   "destination": null,
+   "country": null,
+   "days": null,
+   "summary": "Structured 100-page solo-travel guide TikTok video published 2026-05-07 (54,300 likes, 427 comments): ordered sections on destination choice, planning, packing, safety, and in-country setup. General guide, not a destination itinerary.",
+   "items": [],
+   "source_urls": [
+    "https://www.tiktok.com/@axelletaniegi_travel/video/7637136004633120022"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 9,
+   "packet_index": 0,
+   "handle": "@mindyonthemove",
+   "platform": "tiktok",
+   "title": "Toronto One-Day Itinerary",
+   "destination": "Toronto",
+   "country": "Canada",
+   "days": 1,
+   "summary": "Mindy Michaels' one-day Toronto itinerary (TikTok video published 2026-08-25): Historic Distillery District, El Catrin, University of Toronto, Toronto waterfront, BeaverTails, and St. Regis Toronto.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Historic Distillery District",
+     "location": "Toronto, Canada",
+     "details": "Historic pedestrian district stop on the one-day Toronto itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "El Catrin",
+     "location": "Toronto, Canada",
+     "details": "Mexican restaurant stop in the Distillery District on the Toronto itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "University of Toronto",
+     "location": "Toronto, Canada",
+     "details": "University campus stop on the Toronto itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Toronto waterfront",
+     "location": "Toronto, Canada",
+     "details": "Waterfront stop on the one-day Toronto itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "BeaverTails",
+     "location": "Toronto, Canada",
+     "details": "Pastry/food stop on the Toronto itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "St. Regis Toronto",
+     "location": "Toronto, Canada",
+     "details": "Hotel named on the one-day Toronto itinerary.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@mindyonthemove/video/7678070509019467039"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 10,
+   "packet_index": 0,
+   "handle": "@vannytelly",
+   "platform": "tiktok",
+   "title": "6D5N Phu Quoc detailed itinerary",
+   "destination": "Phu Quoc",
+   "country": "Vietnam",
+   "days": 6,
+   "summary": "Vanny Tang (@vannytelly) publishes a creator-owned complete 6-day/5-night Phu Quoc itinerary (TikTok video 7585058634669903124, published 2025-12-18): Scoot arrival, Wyndham Grand Hotel, Vinpearl Safari, Grand World, VinWonders, island tour with snorkeling, and Dinh Cau Night Market.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "flight",
+     "name": "Scoot flight to Phu Quoc",
+     "location": "Phu Quoc International Airport, Vietnam",
+     "details": "Arrival flight named in the creator's 6D5N itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Private complimentary transfer to hotel",
+     "location": "Phu Quoc, Vietnam",
+     "details": "Airport-to-hotel transfer named in the itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Wyndham Grand Hotel",
+     "location": "Phu Quoc, Vietnam",
+     "details": "Hotel check-in on day 1 of the itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Nautilus Restaurant",
+     "location": "Wyndham Grand Hotel, Phu Quoc, Vietnam",
+     "details": "Hotel dinner on day 1.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Vinpearl Safari",
+     "location": "Phu Quoc, Vietnam",
+     "details": "Safari park visit on day 2.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Grand World — Teddy Bear Museum, Love Lake/Gondola, Bamboo Legend",
+     "location": "Phu Quoc, Vietnam",
+     "details": "Grand World entertainment complex stops on day 2.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "The Quintessence of Vietnam show",
+     "location": "Grand World, Phu Quoc, Vietnam",
+     "details": "Evening show on day 2.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "VinWonders — Typhoon World, Sea Shell aquarium, outdoor theme park, ONCE show",
+     "location": "Phu Quoc, Vietnam",
+     "details": "Theme park day on day 3; ONCE show at 6:45pm.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Phu Quoc Island Tour — May Rut, Gam Ghi snorkeling, sea walking, sea sports",
+     "location": "Phu Quoc, Vietnam",
+     "details": "Island tour with snorkeling and sea sports on day 4; buffet lunch and cable car included in the creator's itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "SunWorld Hon Thom Island Water Park or Kiss Bridge",
+     "location": "Phu Quoc, Vietnam",
+     "details": "Alternative day-4 stops named in the itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Kids Club / Grand World massage / hotel pool and foam party",
+     "location": "Phu Quoc, Vietnam",
+     "details": "Free-and-easy day 5; foam party at 4pm.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Nha Hang Ganh Dau Cang",
+     "location": "Phu Quoc, Vietnam",
+     "details": "Local Vietnamese seafood lunch on day 5.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Dinh Cau Night Market",
+     "location": "Duong Dong, Phu Quoc, Vietnam",
+     "details": "Night market visit and dinner on day 5.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "flight",
+     "name": "Return flight home",
+     "location": "Phu Quoc International Airport, Vietnam",
+     "details": "Free-and-easy day 6, fly home.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@vannytelly/video/7585058634669903124"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 10,
+   "packet_index": 0,
+   "handle": "@emilyyyybuchtel",
+   "platform": "tiktok",
+   "title": "Pikes Peak & Manitou Springs day trip (1.5 hours from Denver)",
+   "destination": "Pikes Peak / Manitou Springs",
+   "country": "USA",
+   "days": 1,
+   "summary": "A structured day-trip itinerary 1.5 hours from Denver, posted 2026-05-11. The day runs: Pikes Peak Cog Railway, then the Manitou Springs mineral springs tour and Penny Arcade, ending at the Allusion Speakeasy. Confidence is high: the caption gives a sequenced plan with named venues.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Pikes Peak Cog Railway",
+     "location": "Pikes Peak, Colorado",
+     "details": "start the day with the cog railway ride; enjoy views and donuts at the top; grab reservations, drink lots of water, pack layers",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Manitou Springs mineral springs tour",
+     "location": "Manitou Springs, Colorado",
+     "details": "take the mineral springs tour",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Manitou Penny Arcade",
+     "location": "Manitou Springs, Colorado",
+     "details": "visit the Penny Arcade",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Allusion Speakeasy",
+     "location": "Colorado",
+     "details": "end the day here; two locations, each Star Wars themed; limited-time theme that changes every few months",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@emilyyyybuchtel/video/7638769919563205918"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 10,
+   "packet_index": 0,
+   "handle": "@lauravogelle",
+   "platform": "tiktok",
+   "title": "Paris 48h must-sees",
+   "destination": "Paris",
+   "country": "France",
+   "days": 2,
+   "summary": "Laura Vogel's 48-hour Paris guide published as a TikTok video on 2025-04-21, covering the Louvre, Musée d'Orsay, Musée Rodin, Montmartre, Versailles, a Seine River cruise, Notre-Dame and Sainte-Chapelle. Full details on her blog vogelle.com.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Louvre",
+     "location": "Paris",
+     "details": "Named must-see in 48h Paris guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Musée d'Orsay",
+     "location": "Paris",
+     "details": "Named must-see in 48h Paris guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Musée Rodin",
+     "location": "Paris",
+     "details": "Named must-see in 48h Paris guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Montmartre",
+     "location": "Paris",
+     "details": "Named must-see in 48h Paris guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Versailles",
+     "location": "Paris",
+     "details": "Named must-see in 48h Paris guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Seine River Cruise",
+     "location": "Paris",
+     "details": "Named must-see in 48h Paris guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Notre-Dame",
+     "location": "Paris",
+     "details": "Named must-see in 48h Paris guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Sainte-Chapelle",
+     "location": "Paris",
+     "details": "Named must-see in 48h Paris guide.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@lauravogelle/video/7495774131200232734"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 10,
+   "packet_index": 0,
+   "handle": "@viajaland",
+   "platform": "tiktok",
+   "title": "3-day Tingo Maria itinerary with full budget",
+   "destination": "Tingo Maria",
+   "country": "Peru",
+   "days": 3,
+   "summary": "Alan Huitron (@viajaland) publishes a creator-owned complete 3-day Tingo Maria route (TikTok video 7640281987332279573, create_time 1778891785 = 2026-05-16 UTC) with source-stated Soles prices: Hotel Kukama, Kotomono647, Cueva de las Lechuzas, Rio Monzon, waterfalls, caves, lagoons, and El Encanto de la Selva.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "GM Internacional bus",
+     "location": "Tingo Maria, Peru",
+     "details": "Bus to Tingo Maria, 12-hour trip.",
+     "price_hint": "from S/65"
+    },
+    {
+     "day": 1,
+     "item_type": "hotel",
+     "name": "Hotel Kukama",
+     "location": "Tingo Maria, Peru",
+     "details": "Stay named in the itinerary; rooms include breakfast and views; rooftop restaurant Kotomono647 on the top floor.",
+     "price_hint": "rooms from S/100 per night for two people"
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Kotomono647",
+     "location": "Hotel Kukama rooftop, Tingo Maria, Peru",
+     "details": "Rooftop restaurant with author drinks and typical food.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Cueva de las Lechuzas",
+     "location": "Tingo Maria, Peru",
+     "details": "Day 1 itinerary stop.",
+     "price_hint": "S/12"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Paseo Extremo Rio Monzon",
+     "location": "Tingo Maria, Peru",
+     "details": "Day 1 itinerary stop.",
+     "price_hint": "S/10"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Roca Flotante",
+     "location": "Tingo Maria, Peru",
+     "details": "Day 1 itinerary stop.",
+     "price_hint": "S/3"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Mirador Jacintillo",
+     "location": "Tingo Maria, Peru",
+     "details": "Day 1 itinerary stop.",
+     "price_hint": "S/0"
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Mirador Santa Cruz",
+     "location": "Tingo Maria, Peru",
+     "details": "Day 1 itinerary stop.",
+     "price_hint": "S/0"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Catarata Honolulu",
+     "location": "Tingo Maria, Peru",
+     "details": "Day 2 itinerary stop.",
+     "price_hint": "S/5"
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Cueva 1000 encantos",
+     "location": "Tingo Maria, Peru",
+     "details": "Day 2 itinerary stop.",
+     "price_hint": "S/5"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Laguna de los Milagros",
+     "location": "Tingo Maria, Peru",
+     "details": "Day 3 itinerary stop.",
+     "price_hint": "S/5"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Laguna Mistica",
+     "location": "Tingo Maria, Peru",
+     "details": "Day 3 itinerary stop.",
+     "price_hint": "S/5"
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Paddle",
+     "location": "Tingo Maria, Peru",
+     "details": "Day 3 itinerary stop.",
+     "price_hint": "S/15"
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "El Encanto de la Selva",
+     "location": "Tingo Maria, Peru",
+     "details": "Lunch spot recommended in the itinerary; day not specified by creator.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@viajaland/video/7640281987332279573"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 10,
+   "packet_index": 0,
+   "handle": "@ginacwiklinski",
+   "platform": "tiktok",
+   "title": "Amalfi Coast structured guide",
+   "destination": "Amalfi Coast",
+   "country": "Italy",
+   "days": null,
+   "summary": "Gina (@ginacwiklinski) publishes a creator-owned structured Amalfi Coast guide (TikTok photo carousel 7641692886282620168, TikTok-ID-derived date 2026-05-19 UTC) with named venues: Arienzo Beach Club, Positano old town, Luisa Positano, Franco's Bar, La Sponda at Le Sirenuse, a Capri boat day, and Da Vincenzo. No explicit day numbering is given in the indexed caption.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Arienzo Beach Club",
+     "location": "Positano, Italy",
+     "details": "Named in the creator's Amalfi Coast guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Positano old town",
+     "location": "Positano, Italy",
+     "details": "Named in the creator's Amalfi Coast guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Luisa Positano",
+     "location": "Positano, Italy",
+     "details": "Named in the creator's Amalfi Coast guide; venue type not verifiable from evidence.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "restaurant",
+     "name": "Franco's Bar",
+     "location": "Positano, Italy",
+     "details": "Named in the creator's Amalfi Coast guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "La Sponda at Le Sirenuse",
+     "location": "Positano, Italy",
+     "details": "Named in the creator's Amalfi Coast guide; venue type not verifiable from evidence.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Capri boat day",
+     "location": "Capri, Italy",
+     "details": "Boat day to Capri named in the creator's Amalfi Coast guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Da Vincenzo",
+     "location": "Positano, Italy",
+     "details": "Named in the creator's Amalfi Coast guide; venue type not verifiable from evidence.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@ginacwiklinski/photo/7641692886282620168"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 10,
+   "packet_index": 1,
+   "handle": "@emilyyyybuchtel",
+   "platform": "tiktok",
+   "title": "St. Elmo Ghost Town & Mt Princeton Hot Springs day trip (2.5 hours from Denver)",
+   "destination": "St. Elmo / Mt Princeton Hot Springs",
+   "country": "USA",
+   "days": 1,
+   "summary": "A structured day-trip itinerary 2.5 hours from Denver, posted 2026-05-10. The day runs: St. Elmo Ghost Town in the morning, Mt Princeton Hot Springs for soaking, and dinner at Mary Murphy Steakhouse. Confidence is high: the caption gives a sequenced plan with named venues.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "St. Elmo Ghost Town",
+     "location": "Colorado",
+     "details": "start the day at the ghost town",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Mt Princeton Hot Springs",
+     "location": "Colorado",
+     "details": "relax at the hot springs",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Mary Murphy Steakhouse",
+     "location": "Colorado",
+     "details": "dinner; cinnamon roll peach pancakes recommended; pork chop at night; make reservations for dinner",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@emilyyyybuchtel/video/7638309365354679583"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 10,
+   "packet_index": 1,
+   "handle": "@ginacwiklinski",
+   "platform": "tiktok",
+   "title": "Five-day French Riviera itinerary",
+   "destination": "French Riviera",
+   "country": "France",
+   "days": 5,
+   "summary": "Gina (@ginacwiklinski) publishes a creator-owned five-day French Riviera itinerary (TikTok photo carousel 7606448536602856711, TikTok-ID-derived date 2026-02-13 UTC). Day 1: Nice. Day 2: Antibes and Cannes/La Guérite. Day 3: Èze and Monaco. Day 4: Menton. Day 5: boat day and Villefranche-sur-Mer/Paloma Beach.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Nice",
+     "location": "Nice, France",
+     "details": "Day 1.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Antibes",
+     "location": "Antibes, France",
+     "details": "Day 2.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Cannes",
+     "location": "Cannes, France",
+     "details": "Day 2.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "other",
+     "name": "La Guérite",
+     "location": "Cannes, France",
+     "details": "Day 2 stop; venue type not verifiable from evidence.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Èze",
+     "location": "Èze, France",
+     "details": "Day 3.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Monaco",
+     "location": "Monaco",
+     "details": "Day 3.",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Menton",
+     "location": "Menton, France",
+     "details": "Day 4.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Boat day",
+     "location": "French Riviera, France",
+     "details": "Day 5: boat day.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Villefranche-sur-Mer",
+     "location": "Villefranche-sur-Mer, France",
+     "details": "Day 5.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Paloma Beach",
+     "location": "Saint-Jean-Cap-Ferrat, France",
+     "details": "Day 5.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@ginacwiklinski/photo/7606448536602856711"
+   ],
+   "confidence": "medium"
+  },
+  {
+   "batch": 11,
+   "packet_index": 0,
+   "handle": "@sarah.rh.bashir",
+   "platform": "tiktok",
+   "title": "Morocco Imperial Cities (3 Days)",
+   "destination": "Morocco Imperial Cities",
+   "country": "Morocco",
+   "days": 3,
+   "summary": "Sarah Bashir (@sarah.rh.bashir) shares a three-day Morocco Imperial Cities itinerary on TikTok; published 2026-04-29.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Imperial Cities Itinerary",
+     "location": "Morocco",
+     "details": "Three-day structured itinerary for Morocco's Imperial Cities.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@sarah.rh.bashir/video/7634256652715298055"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 11,
+   "packet_index": 0,
+   "handle": "@katieosheaaway",
+   "platform": "tiktok",
+   "title": "California National Parks Road Trip",
+   "destination": "California (Sequoia, Kings Canyon, Yosemite)",
+   "country": "USA",
+   "days": 3,
+   "summary": "Katie O'Shea (@katieosheaaway) shares a California national-parks road trip on TikTok covering Sequoia, Kings Canyon, and Yosemite; published 2025-08-08.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Sequoia National Park",
+     "location": "California, USA",
+     "details": "Giant sequoias and park highlights.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Kings Canyon National Park",
+     "location": "California, USA",
+     "details": "Canyon views and trails.",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Yosemite National Park",
+     "location": "California, USA",
+     "details": "Valley views and iconic landmarks.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@katieosheaaway/video/7536275089478651167"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 11,
+   "packet_index": 0,
+   "handle": "@nathsway",
+   "platform": "tiktok",
+   "title": "14-Day Southwest Australia Road Trip",
+   "destination": "Southwest Australia",
+   "country": "Australia",
+   "days": 14,
+   "summary": "A 14-day road trip looping from Perth through the southwest corner of Australia, covering beaches, wineries, forests, dramatic coastline, and outback landmarks. Nathan calls it one of his favourite trips, starting in vibrant Perth and ending with the surreal Wave Rock before looping back inland.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Perth",
+     "location": "Perth, Australia",
+     "details": "Starting point: the vibrant city of Perth",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Busselton",
+     "location": "Busselton, Western Australia",
+     "details": "Relaxing beaches",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Yallingup",
+     "location": "Yallingup, Western Australia",
+     "details": "Surf haven",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Margaret River",
+     "location": "Margaret River, Western Australia",
+     "details": "World-class wineries and forests",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Augusta",
+     "location": "Augusta, Western Australia",
+     "details": "Rugged coastline meets lighthouse views",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Walpole",
+     "location": "Walpole, Western Australia",
+     "details": "Towering trees",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Denmark",
+     "location": "Denmark, Western Australia",
+     "details": "Charming seaside town",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Albany",
+     "location": "Albany, Western Australia",
+     "details": "Historic port; uncover the town's heritage",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Stirling Range",
+     "location": "Stirling Range, Western Australia",
+     "details": "Hiking the dramatic peaks",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Bremer Bay",
+     "location": "Bremer Bay, Western Australia",
+     "details": "Orca watching safari",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Esperance",
+     "location": "Esperance, Western Australia",
+     "details": "Turquoise waters",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Cape Le Grand National Park",
+     "location": "Cape Le Grand, Western Australia",
+     "details": "Iconic granite boulders",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Wave Rock",
+     "location": "Wave Rock, Western Australia",
+     "details": "Surreal Wave Rock; the perfect finale",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Perth (return)",
+     "location": "Perth, Australia",
+     "details": "Loop back inland towards Perth",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@nathsway/photo/7595814757915954439"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 11,
+   "packet_index": 0,
+   "handle": "@_cocoylim",
+   "platform": "tiktok",
+   "title": "Ten Taiwan Day-Trip Ideas",
+   "destination": "Taiwan",
+   "country": "Taiwan",
+   "days": null,
+   "summary": "cocoy (@_cocoylim) publishes ten Taiwan day-trip ideas on TikTok; published 2026-03-15.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Taiwan Day Trips",
+     "location": "Taiwan",
+     "details": "Ten structured day-trip ideas for Taiwan.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@_cocoylim/video/7617345387824778503"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 11,
+   "packet_index": 0,
+   "handle": "@lucyinthesskyy",
+   "platform": "tiktok",
+   "title": "Greek Island Guide",
+   "destination": "Greek Islands",
+   "country": "Greece",
+   "days": null,
+   "summary": "Lucy (@lucyinthesskyy) shares a Greek-island guide on TikTok; published 2026-03-02.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "other",
+     "name": "Greek Islands Guide",
+     "location": "Greece",
+     "details": "Structured guide to Greek islands.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@lucyinthesskyy/video/7612631506153999638"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 12,
+   "packet_index": 0,
+   "handle": "@quingable",
+   "platform": "tiktok",
+   "title": "One-year North America van route",
+   "destination": "North America",
+   "country": null,
+   "days": null,
+   "summary": "Month-by-month van-life route for one year in North America: May Utah, June Wyoming, July Colorado, August Idaho/Glacier/Banff, September Washington, October Oregon, November-December California, January-March Baja California, April Arizona. TikTok video 7428021254650645791 published 2024-10-20; 277,200 plays, 26,700 likes. Verified by direct video fetch 2026-09-17.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "North America van route: May - Utah",
+     "location": "Utah, USA",
+     "details": "May segment of the one-year van route",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "other",
+     "name": "North America van route: through April - Arizona",
+     "location": "Arizona, USA",
+     "details": "April segment of the one-year van route",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@quingable/video/7428021254650645791"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 12,
+   "packet_index": 0,
+   "handle": "@darrenshavae",
+   "platform": "tiktok",
+   "title": "7-Day Costa Rica Itinerary",
+   "destination": "Costa Rica (San José, La Fortuna, Isla Tortuga, Uvita)",
+   "country": "Costa Rica",
+   "days": 7,
+   "summary": "Darren's 7-day Costa Rica route: San José 1 night, La Fortuna 3 days (volcano, hot springs, waterfalls), Isla Tortuga beach day trip, Uvita 2 days (waterfalls, Whale's Tail, ocean views). Rented a car and drove the whole way.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "San José",
+     "location": "San José, Costa Rica",
+     "details": "1 night in San José at the start of the 7-day itinerary.",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "La Fortuna - volcano, hot springs, waterfalls",
+     "location": "La Fortuna, Costa Rica",
+     "details": "3 days in La Fortuna: volcano, hot springs, waterfalls.",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Isla Tortuga - beach day trip",
+     "location": "Isla Tortuga, Costa Rica",
+     "details": "Beach day trip to Isla Tortuga.",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Uvita - waterfalls, Whale's Tail, ocean views",
+     "location": "Uvita, Costa Rica",
+     "details": "2 days in Uvita: waterfalls, Whale's Tail, ocean views.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@darrenshavae/video/7523587289868455181"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 12,
+   "packet_index": 0,
+   "handle": "@jasmine_lanae_",
+   "platform": "tiktok",
+   "title": "Turks & Caicos family guide",
+   "destination": "Turks & Caicos",
+   "country": null,
+   "days": null,
+   "summary": "Jasmine's structured Turks & Caicos family guide: Beaches Resort stay with lodging, food, kids camp, snorkeling and water park included; covers best and cheapest seasons. Source-stated budget about $5,500+.",
+   "items": [
+    {
+     "day": null,
+     "item_type": "hotel",
+     "name": "Beaches Resort",
+     "location": "Turks & Caicos",
+     "details": "Family stay featured in the guide: lodging, food, kids camp, snorkeling and water park included per source.",
+     "price_hint": "$5,500+"
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Snorkeling",
+     "location": "Turks & Caicos",
+     "details": "Included snorkeling per the source guide.",
+     "price_hint": null
+    },
+    {
+     "day": null,
+     "item_type": "activity",
+     "name": "Water park",
+     "location": "Turks & Caicos",
+     "details": "Included water park per the source guide.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@jasmine_lanae_/video/7612380372273270046"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 12,
+   "packet_index": 0,
+   "handle": "@alexis_zotos",
+   "platform": "tiktok",
+   "title": "Spring Break day-itineraries in St. Louis",
+   "destination": "St. Louis",
+   "country": "United States",
+   "days": 6,
+   "summary": "Six full-day St. Louis region itineraries (Downtown, Illinois Metro East, West County, Historic St. Charles, Chesterfield, adults-only day), each with breakfast, lunch, dinner, dessert and activities.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Rooster",
+     "location": "Downtown St. Louis",
+     "details": "Breakfast: crepes, brunch cocktails, coffee",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Gateway Arch National Park",
+     "location": "Downtown St. Louis",
+     "details": "Ride to the top; interactive museum",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Old Courthouse and Kiener Plaza",
+     "location": "Downtown St. Louis",
+     "details": "Historic site and photo stop",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Trust",
+     "location": "Downtown St. Louis",
+     "details": "Mid-morning coffee",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "St. Louis Union Station",
+     "location": "Downtown St. Louis",
+     "details": "Ferris wheel, aquarium, mini golf, ropes course",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "restaurant",
+     "name": "Salt + Smoke at Ballpark Village",
+     "location": "Downtown St. Louis",
+     "details": "Dinner: St. Louis BBQ",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Kruta Bakery",
+     "location": "Collinsville, IL",
+     "details": "Breakfast: donuts and pastries",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Willoughby Farm",
+     "location": "Edwardsville, IL",
+     "details": "Free working farm with animals",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Ed's Delicatessen",
+     "location": "Edwardsville, IL",
+     "details": "Lunch",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "activity",
+     "name": "Edwardsville Children's Museum",
+     "location": "Edwardsville, IL",
+     "details": "Hands-on indoor/outdoor fun",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Cleveland-Heath",
+     "location": "Edwardsville, IL",
+     "details": "Dinner: seasonal dishes",
+     "price_hint": null
+    },
+    {
+     "day": 2,
+     "item_type": "restaurant",
+     "name": "Bobby's Frozen Custard",
+     "location": "Maryville, IL",
+     "details": "Dessert: frozen custard",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Honeybee's Biscuits + Good Eats",
+     "location": "West County",
+     "details": "Breakfast",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "The Magic House",
+     "location": "West County",
+     "details": "Childrens museum, three floors of exhibits",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Hi-Pointe Drive-In",
+     "location": "West County",
+     "details": "Lunch: burgers, fries, shakes",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "activity",
+     "name": "Laumeier Sculpture Park",
+     "location": "West County",
+     "details": "Free outdoor sculpture park",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Katie's Pizza & Pasta Osteria",
+     "location": "Crestwood",
+     "details": "Dinner: handmade pastas, wood-fired pizza",
+     "price_hint": null
+    },
+    {
+     "day": 3,
+     "item_type": "restaurant",
+     "name": "Sylvie Dee's",
+     "location": "West County",
+     "details": "Dessert: candy shop and ice cream",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Frontier Perk Cafe",
+     "location": "St. Charles",
+     "details": "Breakfast",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Historic Main Street",
+     "location": "St. Charles",
+     "details": "Cobblestone streets, boutiques, candy shops",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "La Belle Vie",
+     "location": "Frenchtown, St. Charles",
+     "details": "Lunch",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Bike Stop Cafe",
+     "location": "St. Charles",
+     "details": "Coffee before the trail",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "activity",
+     "name": "Katy Trail State Park",
+     "location": "St. Charles",
+     "details": "Biking the rail-trail",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "Jalea Peruvian Bistro",
+     "location": "St. Charles",
+     "details": "Dinner",
+     "price_hint": null
+    },
+    {
+     "day": 4,
+     "item_type": "restaurant",
+     "name": "SugarBot Creamery",
+     "location": "St. Charles",
+     "details": "Dessert: ice cream",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "French Creperie",
+     "location": "Chesterfield",
+     "details": "Breakfast",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "Sophia M. Sachs Butterfly House",
+     "location": "Chesterfield",
+     "details": "Butterfly conservatory",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "St. Louis Carousel at Faust Park",
+     "location": "Chesterfield",
+     "details": "Carousel and playground",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Smokehouse Market",
+     "location": "Chesterfield",
+     "details": "Lunch: sandwiches",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "restaurant",
+     "name": "Kaldi's Coffee",
+     "location": "Chesterfield",
+     "details": "Coffee",
+     "price_hint": null
+    },
+    {
+     "day": 5,
+     "item_type": "activity",
+     "name": "The District",
+     "location": "Chesterfield",
+     "details": "Dining and entertainment district",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "restaurant",
+     "name": "Damn Fine Hand Pies",
+     "location": "St. Louis",
+     "details": "Breakfast",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Missouri Botanical Garden",
+     "location": "St. Louis",
+     "details": "Garden stroll, spring blooms",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "restaurant",
+     "name": "AO & Co.",
+     "location": "St. Louis",
+     "details": "Coffee shop and boutique",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "restaurant",
+     "name": "Jack Nolen's",
+     "location": "St. Louis",
+     "details": "Lunch: smash burgers",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "activity",
+     "name": "Anheuser-Busch Brewery",
+     "location": "St. Louis",
+     "details": "Brewery tour",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "restaurant",
+     "name": "Stews Food & Liquor",
+     "location": "St. Louis",
+     "details": "Dinner",
+     "price_hint": null
+    },
+    {
+     "day": 6,
+     "item_type": "restaurant",
+     "name": "NOTA at City Foundry STL",
+     "location": "St. Louis",
+     "details": "Nightcap: speakeasy",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.alexiszotos.com/blog-posts/7-spring-break-itineraries-in-st-louis-where-to-eat-drink-explore"
+   ],
+   "confidence": "high"
+  },
+  {
+   "batch": 12,
+   "packet_index": 0,
+   "handle": "@tavernatravels",
+   "platform": "tiktok",
+   "title": "Cape Kamui Day Trip Guide",
+   "destination": "Shakotan Coast, Hokkaido",
+   "country": "Japan",
+   "days": 1,
+   "summary": "Taylor's full-day Cape Kamui guide: rental car or GetYourGuide tour from Sapporo, free entry and parking, and the Path of Charenka hike to the viewing platform.",
+   "items": [
+    {
+     "day": 1,
+     "item_type": "transport",
+     "name": "Rental car pickup in Sapporo",
+     "location": "Sapporo, Japan",
+     "details": "Easiest access is by rental car from Sapporo (about 2.5 hrs) or Otaru (1.5 hrs).",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "Path of Charenka hike",
+     "location": "Shakotan Coast, Japan",
+     "details": "20-25 minute scenic walk from the parking lot along the coast; pack a jacket, it is windy.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "other",
+     "name": "Cape Kamui viewing platform",
+     "location": "Cape Kamui, Japan",
+     "details": "Viewing platform overlooking the ocean and offshore rocks; free entry, open year-round, free parking.",
+     "price_hint": null
+    },
+    {
+     "day": 1,
+     "item_type": "activity",
+     "name": "GetYourGuide full-day guided tour from Sapporo",
+     "location": "Sapporo, Japan",
+     "details": "Guided tour option for non-drivers visiting Cape Kamui.",
+     "price_hint": null
+    }
+   ],
+   "source_urls": [
+    "https://www.tiktok.com/@tavernatravels/video/7542311550212787487"
+   ],
+   "confidence": "high"
+  }
+ ]
+}

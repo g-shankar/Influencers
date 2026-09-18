@@ -1,0 +1,2246 @@
+{
+  "batch": 9,
+  "extractions": [
+    {
+      "handle": "@kevindroniak",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Portugal",
+          "days": 1,
+          "destination": "São Miguel, Azores",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Motorbike rental starting point for the Azores day route.",
+              "item_type": "transport",
+              "location": "São Miguel, Azores",
+              "name": "Blue Sky Moto Rental",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Tea house stop on the Azores route.",
+              "item_type": "restaurant",
+              "location": "São Miguel, Azores",
+              "name": "Casa de Chá",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Cave/grotto stop on the Azores route.",
+              "item_type": "activity",
+              "location": "São Miguel, Azores",
+              "name": "Gruta do Pastor",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Food stop on the Azores route.",
+              "item_type": "restaurant",
+              "location": "São Miguel, Azores",
+              "name": "Rei das Bifanas",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Coastal/thermal stop on the Azores route.",
+              "item_type": "activity",
+              "location": "São Miguel, Azores",
+              "name": "Ponta da Ferraria",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@kevindroniak/video/7644279500557143310"
+          ],
+          "summary": "Kevin Droniak's day route around São Miguel in the Azores, starting with a motorbike rental and covering a tea house, grotto, local food stop, and coastal point. Published as a TikTok video on 2026-05-26.",
+          "title": "Azores Day Route"
+        }
+      ],
+      "notes": "Individual solo-travel creator; Azores itinerary from TikTok video caption route.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@trendytraveler",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Croatia",
+          "days": null,
+          "destination": "Dalmatian Coast",
+          "items": [
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Starting point of the Croatia itinerary.",
+              "item_type": "other",
+              "location": "Split, Croatia",
+              "name": "Split",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Island stop with Hotel Amfora.",
+              "item_type": "other",
+              "location": "Hvar, Croatia",
+              "name": "Hvar",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Final stop of the Croatia itinerary.",
+              "item_type": "other",
+              "location": "Dubrovnik, Croatia",
+              "name": "Dubrovnik",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Hotel recommendation in the Croatia itinerary.",
+              "item_type": "hotel",
+              "location": "Croatia",
+              "name": "Hotel Fermai",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Hotel recommendation on Hvar.",
+              "item_type": "hotel",
+              "location": "Hvar, Croatia",
+              "name": "Hotel Amfora",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@trendytraveler/video/7560439800738663693"
+          ],
+          "summary": "Bernice Padilla's Croatia itinerary covering Split, Hvar, and Dubrovnik, with hotel recommendations (Hotel Fermai, Hotel Amfora), activities, and ferry durations. Published as a TikTok video on 2025-10-12.",
+          "title": "Croatia: Split to Hvar to Dubrovnik"
+        }
+      ],
+      "notes": "Individual itinerary creator; Croatia multi-stop itinerary from TikTok video.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@findingfiona",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Italy",
+          "days": null,
+          "destination": "Puglia",
+          "items": [
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Bakery stop in Bari (Panificio Fiore).",
+              "item_type": "restaurant",
+              "location": "Bari, Puglia, Italy",
+              "name": "Panificio Fiore",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Cave accommodation in Matera (Aquatio Cave).",
+              "item_type": "hotel",
+              "location": "Matera, Italy",
+              "name": "Aquatio Cave",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Coastal town stop in Puglia.",
+              "item_type": "other",
+              "location": "Polignano a Mare, Puglia, Italy",
+              "name": "Polignano a Mare",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Masseria stay with pasta-making experience.",
+              "item_type": "hotel",
+              "location": "Puglia, Italy",
+              "name": "Masseria Palombara",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@findingfiona/video/7644261805547719949"
+          ],
+          "summary": "Fiona Chen's Puglia mini-itinerary featuring Bari's Panificio Fiore bakery, Matera's Aquatio Cave stay, Polignano a Mare, and Masseria Palombara with pasta-making. Published as a TikTok video on 2026-05-26.",
+          "title": "Puglia Mini-Itinerary"
+        }
+      ],
+      "notes": "Individual itinerary creator; Puglia mini-itinerary from TikTok video caption.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@maddiefreemann",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Colombia",
+          "days": 35,
+          "destination": "Colombia",
+          "items": [
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Stop on the 5-week Colombia route.",
+              "item_type": "other",
+              "location": "Cartagena, Colombia",
+              "name": "Cartagena",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Island stop on the 5-week Colombia route.",
+              "item_type": "other",
+              "location": "San Andrés, Colombia",
+              "name": "San Andrés",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "National park stop on the 5-week Colombia route.",
+              "item_type": "other",
+              "location": "Tayrona, Colombia",
+              "name": "Tayrona",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "City stop on the 5-week Colombia route.",
+              "item_type": "other",
+              "location": "Medellín, Colombia",
+              "name": "Medellín",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": null,
+              "details": "Coffee region stop on the 5-week Colombia route.",
+              "item_type": "other",
+              "location": "Salento, Colombia",
+              "name": "Salento",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@maddiefreemann/video/7569652080261008662"
+          ],
+          "summary": "Maddie Freeman's five-week Colombia route covering Cartagena, San Andrés, Tayrona, Medellín, and Salento, with accommodation, activity, and transport recommendations. Published as a TikTok video on 2025-11-06.",
+          "title": "Colombia 5-Week Route"
+        }
+      ],
+      "notes": "Individual solo-travel creator; Colombia 5-week route from TikTok video.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@sunkissedblonde.travels",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Croatia",
+          "days": 1,
+          "destination": "Split",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "UNESCO World Heritage Site dating back to 305 AD; heart of Split's Old Town.",
+              "item_type": "activity",
+              "location": "Split, Croatia",
+              "name": "Diocletian's Palace",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Cathedral within Diocletian's Palace.",
+              "item_type": "activity",
+              "location": "Split, Croatia",
+              "name": "Cathedral of Saint Domnius",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Climb for panoramic city views.",
+              "item_type": "activity",
+              "location": "Split, Croatia",
+              "name": "Saint Domnius Bell Tower",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Historic gate in Split's Old Town.",
+              "item_type": "activity",
+              "location": "Split, Croatia",
+              "name": "Golden Gate",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Waterfront promenade for strolling.",
+              "item_type": "activity",
+              "location": "Split, Croatia",
+              "name": "Riva Promenade",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Square inspired by Venice.",
+              "item_type": "activity",
+              "location": "Split, Croatia",
+              "name": "Republic Square (Prokurative)",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Hike for breathtaking coastal views.",
+              "item_type": "activity",
+              "location": "Split, Croatia",
+              "name": "Marjan Hill",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Beach for relaxing.",
+              "item_type": "activity",
+              "location": "Split, Croatia",
+              "name": "Kašjuni Beach",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Coffee stop.",
+              "item_type": "restaurant",
+              "location": "Split, Croatia",
+              "name": "D16",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Breakfast spot right on the Riva.",
+              "item_type": "restaurant",
+              "location": "Split, Croatia",
+              "name": "Brasserie 7",
+              "price_hint": null
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Pizza with a view.",
+              "item_type": "restaurant",
+              "location": "Split, Croatia",
+              "name": "Pizzeria Skipper",
+              "price_hint": null
+            }
+          ],
+          "source_urls": [
+            "https://www.tiktok.com/@sunkissedblonde.travels/video/7606473972049349910"
+          ],
+          "summary": "Laura's one-day guide to Split, Croatia, covering Diocletian's Palace, the Cathedral and Bell Tower, Golden Gate, Riva Promenade, Republic Square, Marjan Hill, and Kašjuni Beach, with coffee at D16, breakfast at Brasserie 7, and pizza at Pizzeria Skipper. Published as a TikTok video on 2026-02-13.",
+          "title": "One Day in Split"
+        }
+      ],
+      "notes": "Individual luxury-travel creator; Split 1-day guide from TikTok video caption.",
+      "platform": "tiktok"
+    },
+    {
+      "handle": "@pang__bang",
+      "platform": "tiktok",
+      "notes": "Individual road-trip creator; Route 66 3-day itinerary from TikTok video.",
+      "itineraries": [
+        {
+          "title": "Route 66: 3-Day Road Trip Itinerary",
+          "destination": "Route 66 (California to Arizona)",
+          "country": "USA",
+          "days": 3,
+          "summary": "Nicole Pang's 3-day Route 66 itinerary: Santa Monica Pier, Burbank and diners on day 1; Lola Cafe, Elmer's Bottle Tree Ranch, Calico Ghost Town and Needles on day 2; Oatman, Hackberry General Store, Williams, an optional Grand Canyon detour and Flagstaff on day 3. Published as a TikTok video on 2026-05-01.",
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@pang__bang/video/7635018195757272334"
+          ],
+          "items": [
+            {
+              "day": 1,
+              "name": "Santa Monica Pier",
+              "item_type": "activity",
+              "location": "Santa Monica, California",
+              "details": "Route 66 start point at Santa Monica Pier.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "name": "Orla Restaurant",
+              "item_type": "restaurant",
+              "location": "California",
+              "details": "Dinner stop on day 1 of the Route 66 itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "name": "Cambria Hotel Burbank",
+              "item_type": "hotel",
+              "location": "Burbank, California",
+              "details": "Day 1 overnight stay.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "name": "Lola Cafe",
+              "item_type": "restaurant",
+              "location": "California",
+              "details": "Food stop on day 2.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "name": "Elmer's Bottle Tree Ranch",
+              "item_type": "activity",
+              "location": "California",
+              "details": "Roadside art stop on day 2.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "name": "Calico Ghost Town",
+              "item_type": "activity",
+              "location": "California",
+              "details": "Ghost town stop on day 2.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "name": "Peggy Sue's 50's Diner",
+              "item_type": "restaurant",
+              "location": "California",
+              "details": "Diner stop on day 2.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "name": "Choice Hotel in Needles",
+              "item_type": "hotel",
+              "location": "Needles, California",
+              "details": "Day 2 overnight stay.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "name": "Oatman",
+              "item_type": "activity",
+              "location": "Oatman, Arizona",
+              "details": "Historic mining town stop on day 3.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "name": "Mr. D'z diner",
+              "item_type": "restaurant",
+              "location": "Arizona",
+              "details": "Diner stop on day 3.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "name": "Hackberry General Store",
+              "item_type": "activity",
+              "location": "Hackberry, Arizona",
+              "details": "Route 66 memorabilia stop on day 3.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "name": "Williams",
+              "item_type": "activity",
+              "location": "Williams, Arizona",
+              "details": "Town stop on day 3.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "name": "Grand Canyon",
+              "item_type": "activity",
+              "location": "Arizona",
+              "details": "Optional detour on day 3.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "name": "Kendrick Hotel Flagstaff",
+              "item_type": "hotel",
+              "location": "Flagstaff, Arizona",
+              "details": "Day 3 overnight stay.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "name": "Northern Pines Restaurant",
+              "item_type": "restaurant",
+              "location": "Flagstaff, Arizona",
+              "details": "Dinner stop on day 3.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "handle": "@mindyonthemove",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Toronto One-Day Itinerary",
+          "destination": "Toronto",
+          "country": "Canada",
+          "days": 1,
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@mindyonthemove/video/7678070509019467039"
+          ],
+          "summary": "Mindy Michaels' one-day Toronto itinerary (TikTok video published 2026-08-25): Historic Distillery District, El Catrin, University of Toronto, Toronto waterfront, BeaverTails, and St. Regis Toronto.",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Historic Distillery District",
+              "location": "Toronto, Canada",
+              "details": "Historic pedestrian district stop on the one-day Toronto itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "El Catrin",
+              "location": "Toronto, Canada",
+              "details": "Mexican restaurant stop in the Distillery District on the Toronto itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "University of Toronto",
+              "location": "Toronto, Canada",
+              "details": "University campus stop on the Toronto itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Toronto waterfront",
+              "location": "Toronto, Canada",
+              "details": "Waterfront stop on the one-day Toronto itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "BeaverTails",
+              "location": "Toronto, Canada",
+              "details": "Pastry/food stop on the Toronto itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "hotel",
+              "name": "St. Regis Toronto",
+              "location": "Toronto, Canada",
+              "details": "Hotel named on the one-day Toronto itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Individual outdoor-travel creator; Toronto one-day itinerary extracted from TikTok video caption (video 2026-08-25)."
+    },
+    {
+      "handle": "@mellicorreia",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "10-Day Vancouver Island Road Trip",
+          "destination": "Vancouver Island",
+          "country": "Canada",
+          "days": 10,
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@mellicorreia/photo/7618032677966482709"
+          ],
+          "summary": "Mellissa Travels' 10-day Vancouver Island + Salt Spring Island road trip (TikTok guide published 2026-03-17): Sidney and Victoria, downtown Victoria, Salt Spring Island, Nanaimo and Port Alberni area, Tofino and Ucluelet, finishing at Shawnigan Lake and Malahat.",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Fishing Pier + Glass Beach",
+              "location": "Sidney, BC, Canada",
+              "details": "Day 1: fishing pier and glass beach stop near Sidney.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Victoria Distillers",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 1: distillery stop in Victoria.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Mary's Bleue Moon Café",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 1: café stop in Victoria.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Beacon Hill Park",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 1: park stop in Victoria.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Inner Harbour",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 2: downtown Victoria harbour area with BC Parliament and Empress Hotel.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "hotel",
+              "name": "Empress Hotel",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 2: landmark hotel named at the Inner Harbour.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Fisherman's Wharf",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 2: wharf stop in downtown Victoria.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Chinatown",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 2: Chinatown stop.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Fan Tan Alley",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 2: narrow alley stop in Chinatown.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "transport",
+              "name": "Swartz Bay to Fulford Harbour ferry",
+              "location": "Victoria to Salt Spring Island, BC, Canada",
+              "details": "Day 2: ferry crossing to Salt Spring Island.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Mount Maxwell Provincial Park",
+              "location": "Salt Spring Island, BC, Canada",
+              "details": "Day 3-4: provincial park on Salt Spring Island.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Mount Erskine Provincial Park",
+              "location": "Salt Spring Island, BC, Canada",
+              "details": "Day 3-4: provincial park on Salt Spring Island.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Ganges Harbour",
+              "location": "Salt Spring Island, BC, Canada",
+              "details": "Day 3-4: harbour town stop.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "restaurant",
+              "name": "Salt Spring Wild Cider House",
+              "location": "Salt Spring Island, BC, Canada",
+              "details": "Day 3-4: cider house stop.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 4,
+              "item_type": "transport",
+              "name": "Vesuvius Bay to Crofton Harbour ferry + drive to Nanaimo",
+              "location": "Salt Spring Island to Nanaimo, BC, Canada",
+              "details": "Day 3-4: ferry back and drive to Nanaimo.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "restaurant",
+              "name": "Authentic Nanaimo bar tasting",
+              "location": "Nanaimo, BC, Canada",
+              "details": "Day 5-6: try an authentic Nanaimo bar.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Coombs",
+              "location": "Vancouver Island, BC, Canada",
+              "details": "Day 5-6: town stop.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Little Qualicum Falls",
+              "location": "Vancouver Island, BC, Canada",
+              "details": "Day 5-6: waterfall hike.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Cathedral Grove",
+              "location": "Vancouver Island, BC, Canada",
+              "details": "Day 5-6: old-growth forest walk.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "other",
+              "name": "Port Alberni",
+              "location": "Vancouver Island, BC, Canada",
+              "details": "Day 5-6: town stop.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 6,
+              "item_type": "transport",
+              "name": "Pacific Rim Highway drive",
+              "location": "Port Alberni to Ucluelet, BC, Canada",
+              "details": "Day 5-6: scenic drive to Ucluelet.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 7,
+              "item_type": "activity",
+              "name": "Wild Pacific Trail",
+              "location": "Ucluelet, BC, Canada",
+              "details": "Day 7-9: coastal trail.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 7,
+              "item_type": "activity",
+              "name": "Artists Loop",
+              "location": "Ucluelet, BC, Canada",
+              "details": "Day 7-9: trail loop.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 7,
+              "item_type": "activity",
+              "name": "Rainforest Trail",
+              "location": "Tofino, BC, Canada",
+              "details": "Day 7-9: rainforest trail.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 7,
+              "item_type": "activity",
+              "name": "Long Beach",
+              "location": "Tofino, BC, Canada",
+              "details": "Day 7-9: beach stop.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 7,
+              "item_type": "activity",
+              "name": "Cox Bay Beach",
+              "location": "Tofino, BC, Canada",
+              "details": "Day 7-9: beach stop.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 7,
+              "item_type": "other",
+              "name": "Tofino & Ucluelet towns",
+              "location": "Vancouver Island, BC, Canada",
+              "details": "Day 7-9: explore both towns; return toward Victoria via Cowichan Valley.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 10,
+              "item_type": "activity",
+              "name": "Kinsol Trestle",
+              "location": "Shawnigan Lake, BC, Canada",
+              "details": "Day 10: historic trestle stop.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 10,
+              "item_type": "activity",
+              "name": "Malahat Skywalk",
+              "location": "Malahat, BC, Canada",
+              "details": "Day 10: skywalk viewpoint.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 10,
+              "item_type": "transport",
+              "name": "Return to airport",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 10: head back to the airport.",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Individual road-trip creator; 10-day Vancouver Island guide extracted from TikTok photo-post caption (2026-03-17)."
+    },
+    {
+      "handle": "@justatinabit",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "3-Day Kid-Friendly Victoria BC Itinerary",
+          "destination": "Victoria, BC",
+          "country": "Canada",
+          "days": 3,
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@justatinabit/video/7630539018224045325"
+          ],
+          "summary": "Tina's 3-day kid-friendly Victoria BC weekend itinerary (TikTok video published 2026-04-19): Seattle to Vancouver drive and ferry to Victoria, Beacon Hill Children's Farm, Pendray Tea House, Inner Harbour, Uni Sushi, Fisherman's Wharf water taxi, Butchart Gardens, and return via Vancouver and Richmond.",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "transport",
+              "name": "Drive Seattle to Vancouver",
+              "location": "Seattle, WA, USA to Vancouver, BC, Canada",
+              "details": "Day 1: drive from Seattle to Vancouver.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "transport",
+              "name": "Ferry Vancouver to Victoria",
+              "location": "Vancouver, BC to Victoria, BC, Canada",
+              "details": "Day 1: ferry to Victoria.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "hotel",
+              "name": "Victoria hotel (name not stated in source)",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 1: hotel check-in; hotel name not given in source.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Red Fish Blue Fish",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 1: fish & chips dinner.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Hotel pool time",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 1: pool time.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Beacon Hill Children's Farm",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 2: petting zoo.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "restaurant",
+              "name": "Pendray Tea House",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 2: afternoon tea.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Inner Harbour walk",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 2: walk around Inner Harbour (Fairmont Empress + British Columbia Parliament Buildings).",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "restaurant",
+              "name": "Uni Sushi",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 2: sushi dinner.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Hotel pool time",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 2: pool time.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "transport",
+              "name": "Water taxi to Fisherman's Wharf",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 3: water taxi ride.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Fisherman's Wharf",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 3: wharf visit after water taxi.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "hotel",
+              "name": "Victoria hotel checkout (name not stated in source)",
+              "location": "Victoria, BC, Canada",
+              "details": "Day 3: hotel check-out; hotel name not given in source.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Butchart Gardens",
+              "location": "Brentwood Bay, BC, Canada",
+              "details": "Day 3: visit Butchart Gardens.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "transport",
+              "name": "Ferry Victoria to Vancouver",
+              "location": "Victoria, BC to Vancouver, BC, Canada",
+              "details": "Day 3: ferry back to Vancouver.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "restaurant",
+              "name": "Richmond dinner stop (name not stated in source)",
+              "location": "Richmond, BC, Canada",
+              "details": "Day 3: dinner in Richmond; restaurant name not given in source.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "transport",
+              "name": "Drive Vancouver to Seattle",
+              "location": "Vancouver, BC, Canada to Seattle, WA, USA",
+              "details": "Day 3: drive home to Seattle.",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Structured 3-day itinerary from TikTok caption (2026-04-19); unnamed stops recorded as stated in source."
+    },
+    {
+      "handle": "@fatinrsyfqh",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "6D5N Sydney Itinerary",
+          "destination": "Sydney",
+          "country": "Australia",
+          "days": 6,
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@fatinrsyfqh/video/7602975009719471376"
+          ],
+          "summary": "Fatin ('smol') 6-day Sydney itinerary (TikTok video published 2026-02-04): Day 1 Circular Quay, Harbour Bridge, Opera House, The Rocks; Day 2 Royal Botanic Gardens, Observatory Hill; Day 3 WILD LIFE Sydney Zoo, Fish Market, Darling Square, Darling Harbour fireworks; Day 4 Bondi Market; Day 5 Art Gallery of NSW, Manly Ferry, University of Sydney, QVB, Haymarket; Day 6 Bondi Beach, Bondi Icebergs.",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Circular Quay",
+              "location": "Sydney, Australia",
+              "details": "Day 1 harbour stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Sydney Harbour Bridge",
+              "location": "Sydney, Australia",
+              "details": "Day 1 stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Sydney Opera House",
+              "location": "Sydney, Australia",
+              "details": "Day 1 stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "The Rocks",
+              "location": "Sydney, Australia",
+              "details": "Day 1 historic-district stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Artsicle ice cream",
+              "location": "The Rocks, Sydney, Australia",
+              "details": "Day 1 ice-cream stop named in the itinerary caption.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Royal Botanic Gardens",
+              "location": "Sydney, Australia",
+              "details": "Day 2 stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Observatory Hill",
+              "location": "Sydney, Australia",
+              "details": "Day 2 stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "WILD LIFE Sydney Zoo",
+              "location": "Sydney, Australia",
+              "details": "Day 3 wildlife-attraction stop; caption notes extra charge for close koala encounters.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "restaurant",
+              "name": "Sydney Fish Market",
+              "location": "Sydney, Australia",
+              "details": "Day 3 food stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Darling Square",
+              "location": "Sydney, Australia",
+              "details": "Day 3 stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Fireworks at Darling Harbour",
+              "location": "Sydney, Australia",
+              "details": "Day 3 evening stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Bondi Market",
+              "location": "Bondi, Sydney, Australia",
+              "details": "Day 4 market stop plus rest day.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Art Gallery of NSW",
+              "location": "Sydney, Australia",
+              "details": "Day 5 gallery stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "transport",
+              "name": "Ferry to Manly Beach",
+              "location": "Sydney, Australia",
+              "details": "Day 5 ferry leg to Manly Beach.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Manly Beach",
+              "location": "Manly, Sydney, Australia",
+              "details": "Day 5 beach stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "University of Sydney",
+              "location": "Sydney, Australia",
+              "details": "Day 5 campus stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Queen Victoria Building",
+              "location": "Sydney, Australia",
+              "details": "Day 5 shopping-building stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 5,
+              "item_type": "restaurant",
+              "name": "Haymarket (halal hotpot)",
+              "location": "Haymarket, Sydney, Australia",
+              "details": "Day 5 Haymarket stop for souvenirs and halal hotpot.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 6,
+              "item_type": "activity",
+              "name": "Bondi Beach",
+              "location": "Bondi, Sydney, Australia",
+              "details": "Day 6 beach stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 6,
+              "item_type": "activity",
+              "name": "Bondi Icebergs",
+              "location": "Bondi, Sydney, Australia",
+              "details": "Day 6 ocean-pool stop on the 6-day Sydney itinerary.",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Individual creator (Fatin, 'smol'); 53,600 TikTok followers observed 2026-09-17; guide video 222,300 plays / 12,200 likes / 52 comments / 2,597 shares / 6,688 saves observed 2026-09-17. Bio carries a Klook promo code (affiliate marketing). No consumer trip-planning, group trips, or booking service observed."
+    },
+    {
+      "handle": "@tom",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Must Do Activity in Sydney - The Coastal Walk",
+          "destination": "Sydney",
+          "country": "Australia",
+          "days": 1,
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@tom/video/7599581935580482837"
+          ],
+          "summary": "tom's 12-stop Coogee-to-Bondi coastal walk guide (TikTok video published 2026-01-26): Bondi Junction bus to Coogee, Coffee Room, Coogee Beach, Gordon's Bay, Clovelly Beach, Bronte Beach, Tamarama Beach, south Bondi, Icebergs Pool ($10, source-stated), Hall Street, Bills Bondi Ricotta Hotcakes ($32, source-stated), Bondi Markets, North Bondi.",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "transport",
+              "name": "Bus 313 or 350, Bondi Junction to Coogee Beach",
+              "location": "Sydney, Australia",
+              "details": "Starting leg of the coastal walk: bus from Bondi Junction to Coogee Beach.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Coffee Room, Coogee",
+              "location": "Coogee, Sydney, Australia",
+              "details": "Coffee stop before starting the coastal walk.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Coogee Beach",
+              "location": "Coogee, Sydney, Australia",
+              "details": "Coastal walk starting beach.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Gordon's Bay",
+              "location": "Sydney, Australia",
+              "details": "Coastal walk stop; noted as great for snorkelling.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Clovelly Beach",
+              "location": "Clovelly, Sydney, Australia",
+              "details": "Coastal walk stop; noted as good if you hate sand.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Bronte Beach",
+              "location": "Bronte, Sydney, Australia",
+              "details": "Coastal walk stop; cafes noted for coffee or water.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Tamarama Beach",
+              "location": "Tamarama, Sydney, Australia",
+              "details": "Coastal walk stop via the cliffside path.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "South Bondi Beach",
+              "location": "Bondi, Sydney, Australia",
+              "details": "Coastal walk stop; noted as great for whale spotting.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Icebergs Pool",
+              "location": "Bondi, Sydney, Australia",
+              "details": "Ocean-pool swim stop on the coastal walk.",
+              "price_hint": "$10 entry per person (source-stated)",
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Hall Street, Bondi",
+              "location": "Bondi, Sydney, Australia",
+              "details": "Coastal walk route stop in the main Bondi area.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Bills, Bondi",
+              "location": "Bondi, Sydney, Australia",
+              "details": "Breakfast stop; must-order Ricotta Hotcakes.",
+              "price_hint": "$32, no extras needed (source-stated)",
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Bondi Markets",
+              "location": "Bondi, Sydney, Australia",
+              "details": "Finish stop if it is a Sunday.",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "North Bondi",
+              "location": "Bondi, Sydney, Australia",
+              "details": "Alternative finish/relax stop on the coastal walk.",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Verified individual creator; 9,600,000 TikTok followers observed 2026-09-17; guide video 382,500 plays / 22,700 likes / 126 comments / 4,667 shares / 10,962 saves observed 2026-09-17. Bio links bit.ly/sydneyfoodmap, a creator-owned food map guide. No consumer trip-planning, group trips, or booking service observed."
+    },
+    {
+      "handle": "@naturevoyagesdecouvertes",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Six Days in the Verdon",
+          "destination": "Verdon, France",
+          "country": "France",
+          "days": 6,
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@naturevoyagesdecouvertes/video/7437072937846443296"
+          ],
+          "summary": "Audrey's six-day Verdon itinerary, published as a TikTok video on 2024-11-14. Stops presented in caption order.",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Moustiers-Sainte-Marie and Lac de Sainte-Croix",
+              "location": "Verdon, France",
+              "details": "Opening stop of the six-day Verdon itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Col de Plein Voir",
+              "location": "Verdon, France",
+              "details": "Viewpoint stop on the Verdon itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Gorges de Baudinard",
+              "location": "Verdon, France",
+              "details": "Gorge stop on the Verdon itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Lac de Quinson",
+              "location": "Verdon, France",
+              "details": "Lake stop on the Verdon itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Saint-Julien and Cotignac",
+              "location": "Verdon, France",
+              "details": "Village stops on the Verdon itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "item_type": "activity",
+              "name": "Caramy and Sillans-la-Cascade",
+              "location": "Verdon, France",
+              "details": "Closing stop of the six-day Verdon itinerary.",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Individual travel creator Audrey; Verdon itinerary extracted from TikTok video caption itinerary (stops in caption order)."
+    },
+    {
+      "handle": "@mauriliomask",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Four Days in the Algarve",
+          "destination": "Algarve, Portugal",
+          "country": "Portugal",
+          "days": 4,
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@mauriliomask/video/7627512158699408660"
+          ],
+          "summary": "Maurilio Mask's four-day Algarve itinerary, published as a TikTok video on 2026-04-11. Prices are source-stated only.",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Lagos",
+              "location": "Algarve, Portugal",
+              "details": "Day 1: Lagos and beaches.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Ponta da Piedade",
+              "location": "Algarve, Portugal",
+              "details": "Day 1: coastal cliffs.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Benagil",
+              "location": "Algarve, Portugal",
+              "details": "Day 2: Benagil cave area.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Carvoeiro",
+              "location": "Algarve, Portugal",
+              "details": "Day 2: Carvoeiro stop.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Praia da Marinha",
+              "location": "Algarve, Portugal",
+              "details": "Day 2: beach stop.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Albufeira",
+              "location": "Algarve, Portugal",
+              "details": "Day 3: Albufeira.",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Boat trip",
+              "location": "Algarve, Portugal",
+              "details": "Day 3: boat excursion.",
+              "booking_link": null,
+              "price_hint": "from EUR 15"
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "AquaShow",
+              "location": "Algarve, Portugal",
+              "details": "Day 4: water park.",
+              "booking_link": null,
+              "price_hint": "under EUR 30 depending on period"
+            }
+          ]
+        }
+      ],
+      "notes": "Individual travel creator Maurilio Mask; Algarve itinerary extracted from TikTok video caption itinerary."
+    },
+    {
+      "handle": "@em.layne_",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "The perfect 10 day Mallorca itinerary",
+          "destination": "Mallorca",
+          "country": "Spain",
+          "days": 10,
+          "summary": "A day-by-day 10-day Mallorca itinerary posted 2026-05-27. Days 1-5 cover Palma, Deia, Valldemossa and Soller with named hotels and restaurants; days 6-10 are based in Santanyi with markets, beaches and farm tours. Confidence is high: the caption enumerates each day with specific venues.",
+          "source_urls": [
+            "https://www.tiktok.com/@em.layne_/video/7509227042664221983"
+          ],
+          "confidence": "high",
+          "items": [
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Fika Farina",
+              "location": "Palma, Mallorca",
+              "details": "coffee & pastries to start Day 1, per caption",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "other",
+              "name": "Explore Palma",
+              "location": "Palma, Mallorca",
+              "details": "Day 1 sightseeing in Palma",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "restaurant",
+              "name": "Riki Tomi",
+              "location": "Palma, Mallorca",
+              "details": "lunch stop Day 1",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "hotel",
+              "name": "Hoteles Moli",
+              "location": "Deia, Mallorca",
+              "details": "check in after 45-minute drive from Palma; dinner at the hotel restaurant Es Jardi",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Pool day in Deia",
+              "location": "Deia, Mallorca",
+              "details": "pool day; explore Deia; dinner at Belmond La Residencia",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "restaurant",
+              "name": "Belmond La Residencia",
+              "location": "Deia, Mallorca",
+              "details": "dinner Day 2",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Son Mo olive farm tour & picnic",
+              "location": "Mallorca",
+              "details": "olive farm tour and picnic",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "other",
+              "name": "Valldemossa",
+              "location": "Valldemossa, Mallorca",
+              "details": "explore Valldemossa; sunset boat tour out of Palma",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Sunset boat tour out of Palma",
+              "location": "Palma, Mallorca",
+              "details": "sunset boat tour",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Cala Deia beach day",
+              "location": "Cala Deia, Mallorca",
+              "details": "beach day; lunch at Ca's Patro March; dinner in Deia at Trattoria Italiana",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "restaurant",
+              "name": "Ca's Patro March",
+              "location": "Cala Deia, Mallorca",
+              "details": "lunch Day 4",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "restaurant",
+              "name": "Trattoria Italiana",
+              "location": "Deia, Mallorca",
+              "details": "dinner Day 4",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "transport",
+              "name": "Drive to Soller",
+              "location": "Deia to Soller, Mallorca",
+              "details": "drive to Soller; citrus farm tour at Eco Vinyassa; 'Soller Bomb' at El Petit in the town square",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Eco Vinyassa citrus farm tour",
+              "location": "Soller, Mallorca",
+              "details": "citrus farm tour",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "restaurant",
+              "name": "El Petit",
+              "location": "Soller, Mallorca",
+              "details": "try a 'Soller Bomb' in the town square",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "hotel",
+              "name": "Hotel Can Abril",
+              "location": "Soller, Mallorca",
+              "details": "check in; take historic tram to Port de Soller and dinner by the sea",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "transport",
+              "name": "Historic tram to Port de Soller",
+              "location": "Soller to Port de Soller, Mallorca",
+              "details": "historic tram ride to the port",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "item_type": "transport",
+              "name": "Drive to Santanyi (days 6-10)",
+              "location": "Soller to Santanyi, Mallorca",
+              "details": "caption groups days 6-10: drive to Santanyi",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "item_type": "hotel",
+              "name": "Hotel Can Ferrereta",
+              "location": "Santanyi, Mallorca",
+              "details": "days 6-10 base; pool and spa relaxation",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "item_type": "activity",
+              "name": "Santanyi outdoor market",
+              "location": "Santanyi, Mallorca",
+              "details": "market on Wednesdays and Saturdays",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "item_type": "restaurant",
+              "name": "Bon Bar",
+              "location": "Cala Figuera, Mallorca",
+              "details": "dinner in Cala Figuera",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "item_type": "activity",
+              "name": "Beaches: Cala Llombards, Calo des Moro, Playa S'Amarador",
+              "location": "Santanyi area, Mallorca",
+              "details": "beach days during days 6-10",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "item_type": "activity",
+              "name": "Aubocassa olive farm tour & tasting",
+              "location": "Mallorca",
+              "details": "olive farm tour and tasting",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 6,
+              "item_type": "restaurant",
+              "name": "Escanetonet",
+              "location": "Santanyi, Mallorca",
+              "details": "dinner in Santanyi",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Caption enumerates Days 1-5 individually and Days 6-10 as a Santanyi-based cluster; items for days 6-10 recorded with day=6 and details noting the range."
+    },
+    {
+      "handle": "@amandanaviagem",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "8-day Natal / Pipa / Joao Pessoa route",
+          "destination": "Natal, Pipa, Joao Pessoa, Brazil",
+          "source_url": "https://www.tiktok.com/@amandanaviagem/video/7638748083026660616",
+          "published_date": "2026-05-11",
+          "days": [
+            {
+              "day": 1,
+              "summary": "4x4 no litoral sul, passando por lagoas e finalizando no por do sol",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "4x4 no litoral sul",
+                  "detail": "lagoas; por do sol; R$170; agency @nataltrippasseios, desconto avisando que e seguidor"
+                }
+              ]
+            },
+            {
+              "day": 2,
+              "summary": "Parrachos do Rio do Fogo",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Parrachos do Rio do Fogo",
+                  "detail": "R$190; agency @nataltrippasseios"
+                }
+              ]
+            },
+            {
+              "day": 3,
+              "summary": "Buggy nas dunas do litoral norte",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Buggy nas dunas do litoral norte",
+                  "detail": "parada para brincadeiras (skibunda, tirolesa, cobrados a parte); R$180; agency @nataltrippasseios"
+                }
+              ]
+            },
+            {
+              "day": 4,
+              "summary": "Ida para Pipa",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Praia do Madeiro",
+                  "detail": "Pipa, 80km de Natal; possivel ver golfinhos"
+                },
+                {
+                  "type": "activity",
+                  "name": "Praia do Amor",
+                  "detail": "Pipa; visual das falesias; centrinho charmoso a noite"
+                }
+              ]
+            },
+            {
+              "day": 5,
+              "summary": "Ida para Joao Pessoa; dia de chegada",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Orla de Joao Pessoa",
+                  "detail": "chegada; feirinha de artesanatos; recomenda alugar carro ou onibus/transfer"
+                },
+                {
+                  "type": "transport",
+                  "name": "Pipa -> Joao Pessoa",
+                  "detail": "~3 horas; carro alugado ou onibus/transfer"
+                }
+              ]
+            },
+            {
+              "day": 6,
+              "summary": "Litoral sul em Joao Pessoa: Costa do Conde",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Costa do Conde",
+                  "detail": "passeio de quadriciclo aos mirantes (adicional); agency @encontredestinos"
+                }
+              ]
+            },
+            {
+              "day": 7,
+              "summary": "Cabedelo",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Praias de Cabedelo",
+                  "detail": "Uber; por do sol na lagoa do Jacare; passeio de barco com agency @encontredestinos"
+                }
+              ]
+            },
+            {
+              "day": 8,
+              "summary": "Piscinas naturais do Seixas",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Piscinas naturais do Seixas",
+                  "detail": "depende da mare baixa; consultar agency @encontredestinos"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "notes": "Day-by-day creator itinerary with per-day prices; third-party agencies with follower discounts (not creator-hosted)."
+    },
+    {
+      "handle": "@lolahubner",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "7-day Hawaii itinerary: Maui & O'ahu",
+          "destination": "Maui, O'ahu, Hawaii",
+          "source_url": "https://lolahubner.com/blogs/travel/7-day-hawaii-itinerary-maui-oahu",
+          "published_date": "2026-03-03",
+          "days": [
+            {
+              "day": 1,
+              "summary": "Arrival in Maui; Ka'anapali",
+              "items": [
+                {
+                  "type": "hotel",
+                  "name": "Royal Lahaina Resort & Bungalows",
+                  "detail": "Ka'anapali, Maui; beachfront bungalow"
+                },
+                {
+                  "type": "activity",
+                  "name": "Sunset beach walk",
+                  "detail": "Ka'anapali; dinner nearby"
+                }
+              ]
+            },
+            {
+              "day": 2,
+              "summary": "Beach day & luau",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Ka'anapali Beach",
+                  "detail": "morning beach; pool at resort"
+                },
+                {
+                  "type": "activity",
+                  "name": "Myths of Maui Luau",
+                  "detail": "evening Polynesian show; fire knife finale"
+                },
+                {
+                  "type": "restaurant",
+                  "name": "Myths of Maui Luau",
+                  "detail": "evening dinner show"
+                }
+              ]
+            },
+            {
+              "day": 3,
+              "summary": "Coastal snorkelling & whale watching",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Snorkelling cruise",
+                  "detail": "Maui; three-story boat; breakfast/lunch served"
+                },
+                {
+                  "type": "activity",
+                  "name": "Whale watching",
+                  "detail": "February peak humpback season; multiple breaches"
+                }
+              ]
+            },
+            {
+              "day": 4,
+              "summary": "Waikiki & evening show",
+              "items": [
+                {
+                  "type": "hotel",
+                  "name": "The Laylow",
+                  "detail": "Waikiki, O'ahu; retro, near beach"
+                },
+                {
+                  "type": "activity",
+                  "name": "'Auana by Cirque du Soleil",
+                  "detail": "evening show in Waikiki"
+                }
+              ]
+            },
+            {
+              "day": 5,
+              "summary": "Full day O'ahu island tour",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "O'ahu island tour with Fun Group Hawai'i",
+                  "detail": "lookouts, local eateries, North Shore"
+                },
+                {
+                  "type": "restaurant",
+                  "name": "Matsumoto Shave Ice",
+                  "detail": "Haleiwa, North Shore"
+                }
+              ]
+            },
+            {
+              "day": 6,
+              "summary": "Le'ahi (Diamond Head) & sunset cruise",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Le'ahi (Diamond Head) hike",
+                  "detail": "45-90 min return; tunnels/stairs; book entry"
+                },
+                {
+                  "type": "activity",
+                  "name": "Waikiki Beach",
+                  "detail": "surfboard rental"
+                },
+                {
+                  "type": "activity",
+                  "name": "Sunset dinner cruise",
+                  "detail": "Waikiki coastline; Friday fireworks"
+                }
+              ]
+            },
+            {
+              "day": 7,
+              "summary": "Departure",
+              "items": [
+                {
+                  "type": "restaurant",
+                  "name": "Breakfast in Waikiki",
+                  "detail": "final morning before Sydney flight"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "notes": "Creator-authored blog itinerary; also has Alice Springs-Uluru and 19-day Queensland itineraries."
+    },
+    {
+      "handle": "@jetset_anna",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "How to spend a week in Taiwan",
+          "destination": "Taiwan (Taipei, Kenting, Tainan, Shifen, Jiufen)",
+          "source_url": "https://www.tiktok.com/@jetset_anna/video/7667150847817567510",
+          "published_date": "2026-07-27",
+          "days": [
+            {
+              "day": 1,
+              "summary": "Days 1-3: Taipei",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Chiang Kai-Shek Memorial Hall",
+                  "detail": "watching the changing of the guards"
+                },
+                {
+                  "type": "activity",
+                  "name": "Taipei 101",
+                  "detail": "taking in the views"
+                },
+                {
+                  "type": "restaurant",
+                  "name": "Din Tai Fung",
+                  "detail": "in its home country"
+                },
+                {
+                  "type": "activity",
+                  "name": "Taipei temples",
+                  "detail": "exploring beautiful temples"
+                },
+                {
+                  "type": "activity",
+                  "name": "Taipei night markets",
+                  "detail": "buzzing night markets"
+                }
+              ]
+            },
+            {
+              "day": 4,
+              "summary": "Days 4-5: Kenting",
+              "items": [
+                {
+                  "type": "transport",
+                  "name": "Taiwan high-speed rail",
+                  "detail": "travelling south to Kenting"
+                },
+                {
+                  "type": "activity",
+                  "name": "Kenting coastal walks",
+                  "detail": "breathtaking coastal views"
+                },
+                {
+                  "type": "activity",
+                  "name": "SUP in Kenting",
+                  "detail": "stand-up paddleboard in crystal-clear waters"
+                },
+                {
+                  "type": "activity",
+                  "name": "Kenting night market",
+                  "detail": "eating around the night market"
+                }
+              ]
+            },
+            {
+              "day": 6,
+              "summary": "Day 6: Tainan",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Confucius Temple",
+                  "detail": "Tainan"
+                },
+                {
+                  "type": "activity",
+                  "name": "Pung-tang candy making",
+                  "detail": "traditional candy making experience"
+                },
+                {
+                  "type": "activity",
+                  "name": "Indigo dyeing at Blueprint Park",
+                  "detail": "creative indigo dyeing"
+                },
+                {
+                  "type": "activity",
+                  "name": "Shennong Street",
+                  "detail": "wandering the magical streets, evening"
+                }
+              ]
+            },
+            {
+              "day": 7,
+              "summary": "Day 7: Shifen & Jiufen",
+              "items": [
+                {
+                  "type": "activity",
+                  "name": "Sky lantern release in Shifen",
+                  "detail": "releasing a sky lantern"
+                },
+                {
+                  "type": "activity",
+                  "name": "Traditional tea tasting",
+                  "detail": "overlooking the mountains"
+                },
+                {
+                  "type": "activity",
+                  "name": "Jiufen lantern-lit streets",
+                  "detail": "magical lantern-lit streets; said to have inspired Spirited Away scenes"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "notes": "7-day structured itinerary from creator's TikTok caption (tourism-board collaboration with Tour Taiwan UK)."
+    },
+    {
+      "handle": "@corrin7",
+      "platform": "tiktok",
+      "notes": "Corrin | Travel Itineraries. Individual owner-operated creator; 24,800 TikTok followers observed 2026-09-17. Purchase intent absent (Linktree/collab email is contact-only). Dedup clear 2026-09-17.",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "United States",
+          "days": null,
+          "destination": "Austin, Texas (South Congress)",
+          "items": [],
+          "source_urls": [
+            "https://www.tiktok.com/@corrin7/video/7600937054180085023"
+          ],
+          "summary": "Structured Austin/South Congress TikTok guide published 2026-01-29 covering market, murals, shops, live music, food, and brunch. Day count not stated in recovered evidence.",
+          "title": "Austin / South Congress guide"
+        }
+      ]
+    },
+    {
+      "handle": "@ferinajo",
+      "platform": "tiktok",
+      "notes": "Ipinmi Akinkugbe (Férìnàjò). Individual owner-operated creator; 18,800 TikTok followers observed 2026-09-17. Purchase intent present (paid group trips via WeTravel). Specific TikTok video URL for the 2026-01-27 South Africa guide was not recovered; profile URL used as source. Dedup clear 2026-09-17.",
+      "itineraries": [
+        {
+          "confidence": "medium",
+          "country": "South Africa",
+          "days": 12,
+          "destination": "Cape Town, Kruger National Park, Johannesburg",
+          "items": [],
+          "source_urls": [
+            "https://www.tiktok.com/@ferinajo"
+          ],
+          "summary": "Structured South Africa TikTok guide dated 2026-01-27 (5,038 likes, 99 comments) covering Cape Town, Kruger National Park, and Johannesburg. Companion 12-day itinerary on ferinajo.com (Cape Town days 1-6, Kruger days 7-10, Johannesburg days 11-12); day split from blog, not confirmed in TikTok evidence.",
+          "title": "South Africa 12-day guide"
+        }
+      ]
+    },
+    {
+      "handle": "@whitneyelle_",
+      "platform": "tiktok",
+      "notes": "Individual owner-operated travel advisor/creator; 116,600 TikTok followers observed 2026-09-17. Display name handle-derived. Purchase intent present via travel-advisor services. Dedup clear 2026-09-17.",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Guatemala",
+          "days": 7,
+          "destination": "Lake Atitlán, Antigua",
+          "items": [],
+          "source_urls": [
+            "https://www.tiktok.com/@whitneyelle_/video/7612619256848518414"
+          ],
+          "summary": "Structured 7-day Guatemala TikTok itinerary published 2026-03-02 (3,488 likes, 52 comments) across Lake Atitlán and Antigua: lodging, zipline, volcano, ATV, massage, driver, tours.",
+          "title": "Guatemala 7-day itinerary"
+        }
+      ]
+    },
+    {
+      "handle": "@axelletaniegi_travel",
+      "platform": "tiktok",
+      "notes": "Axelle Taniegi. Individual owner-operated solo-travel creator; 125,300 TikTok followers observed 2026-09-17. Purchase intent present (EUR 14.99 guide). Structured general solo-travel guide accepted under the guide gate; no destination itinerary, destination recorded as unknown. Dedup clear 2026-09-17.",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": null,
+          "days": null,
+          "destination": null,
+          "items": [],
+          "source_urls": [
+            "https://www.tiktok.com/@axelletaniegi_travel/video/7637136004633120022"
+          ],
+          "summary": "Structured 100-page solo-travel guide TikTok video published 2026-05-07 (54,300 likes, 427 comments): ordered sections on destination choice, planning, packing, safety, and in-country setup. General guide, not a destination itinerary.",
+          "title": "Solo-travel guide"
+        }
+      ]
+    }
+  ]
+}

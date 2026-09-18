@@ -1,0 +1,1417 @@
+{
+ "_WARNING": "NOT CANONICAL — wave-3 output for the parent coordinator. Parent must rebuild the dedup universe and re-check all 8 handles immediately before the atomic append.",
+ "batch": 10,
+ "platform": "tiktok",
+ "wave": 3,
+ "date": "2026-09-17",
+ "conversions": 8,
+ "target_additions": 21,
+ "shortfall_after_this_wave": 13,
+ "additions": [
+  {
+   "batch10_csv_row": "Kim Bulan,@kim_bulan4,tiktok,Bali travel,62.4K,https://www.tiktok.com/@kim_bulan4,https://www.tiktok.com/@kim_bulan4/video/7543998408571243796",
+   "selection_log_row": [
+    "10",
+    "@kim_bulan4",
+    "tiktok",
+    "Kim Bulan",
+    "Bali travel",
+    "62.4K",
+    "62400",
+    "TikTok profile @kim_bulan4, observed 2026-09-17",
+    "https://www.tiktok.com/@kim_bulan4",
+    "web discovery 2026-09-17",
+    "pass",
+    "profile nickname 'Kim Bulan' resolves to named individual",
+    "pass",
+    "Creator-owned one-day Ubud route (ATV Adventure, Pemulan Bali Coffee Plantation, Pura Tirta Empul, Food Monkey Legend, Fold), TikTok video 7543998408571243796 published 2025-08-29 (in window)",
+    "pass — 62,400 >= 10,000",
+    "74,400 plays; 2,363 likes; 115 comments; 1,032 shares; 2,102 saves (creator-owned video metrics, observed 2026-09-17)",
+    "pass — profile live 2026-09-17 (3.0M profile likes; 2,480 videos)",
+    "present — affiliate discount codes; no planning/hosted-trip/agency service",
+    "pass — affiliate codes only; no consumer trip planning/coaching, hosted group trips, or travel-agency booking identified (observed 2026-09-17)",
+    "include",
+    "Full 5-venue day-1 item list extracted from creator-owned video; ready for canonical append.",
+    "2026-09-17",
+    "batch10-topup"
+   ],
+   "itinerary": {
+    "handle": "@kim_bulan4",
+    "platform": "tiktok",
+    "notes": "One-day Ubud itinerary; 5 named venues extracted from creator-owned video.",
+    "itineraries": [
+     {
+      "title": "One-day Ubud itinerary: ATV, coffee plantation, Tirta Empul, food stops",
+      "destination": "Ubud, Bali",
+      "country": "Indonesia",
+      "days": 1,
+      "confidence": "high",
+      "summary": "Kim Bulan (@kim_bulan4) publishes a creator-owned one-day Ubud route (TikTok video 7543998408571243796, published 2025-08-29): ATV adventure, Pemulan Bali Coffee Plantation, Pura Tirta Empul, then Food Monkey Legend and Fold.",
+      "guide_date": "2025-08-29",
+      "engagement": {
+       "plays": 74400,
+       "likes": 2363,
+       "comments": 115,
+       "shares": 1032,
+       "saves": 2102,
+       "source": "creator-owned video metrics, observed 2026-09-17"
+      },
+      "source_urls": [
+       "https://www.tiktok.com/@kim_bulan4/video/7543998408571243796"
+      ],
+      "items": [
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "ATV Adventure",
+        "details": "ATV ride, first stop on the creator's one-day Ubud route.",
+        "location": "Ubud, Bali, Indonesia",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Pemulan Bali Coffee Plantation",
+        "details": "Coffee plantation visit, second stop on the creator's one-day Ubud route.",
+        "location": "Ubud, Bali, Indonesia",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Pura Tirta Empul",
+        "details": "Temple visit, third stop on the creator's one-day Ubud route.",
+        "location": "Ubud, Bali, Indonesia",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "restaurant",
+        "name": "Food Monkey Legend",
+        "details": "Food stop on the creator's one-day Ubud route.",
+        "location": "Ubud, Bali, Indonesia",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "other",
+        "name": "Fold",
+        "details": "Final stop named in the creator's one-day Ubud route; venue type not verifiable from evidence, recorded as 'other'.",
+        "location": "Ubud, Bali, Indonesia",
+        "price_hint": null,
+        "booking_link": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "batch10_csv_row": "Vanny Tang,@vannytelly,tiktok,Singapore-based travel (Vietnam),81.8K,https://www.tiktok.com/@vannytelly,https://www.tiktok.com/@vannytelly/video/7585058634669903124",
+   "selection_log_row": [
+    "10",
+    "@vannytelly",
+    "tiktok",
+    "Vanny Tang",
+    "Singapore-based travel (Vietnam)",
+    "81.8K",
+    "81800",
+    "TikTok profile @vannytelly, observed 2026-09-17",
+    "https://www.tiktok.com/@vannytelly",
+    "web discovery 2026-09-17",
+    "pass",
+    "named individual 'Vanny Tang', supported by 8days.sg and MoneySmartGirl references",
+    "pass",
+    "Creator-owned complete 6D5N Phu Quoc itinerary, TikTok video 7585058634669903124 published 2025-12-18 (in window)",
+    "pass — 81,800 >= 10,000",
+    "63,900 plays; 651 likes; 23 comments; 1,554 shares; 982 saves (creator-owned video metrics, observed 2026-09-17)",
+    "pass — profile live 2026-09-17 (2.2M profile likes; guide video within window)",
+    "present — Klook affiliate promo code; no planning/hosted-trip/agency service",
+    "pass — affiliate code only; no consumer trip planning/coaching, hosted group trips, or travel-agency booking identified (observed 2026-09-17)",
+    "include",
+    "Latest profile open 2026-09-17 showed 81,800 followers (not 81,900); using 81,800. Full 14-item 6-day item list extracted; ready for canonical append.",
+    "2026-09-17",
+    "batch10-topup"
+   ],
+   "itinerary": {
+    "handle": "@vannytelly",
+    "platform": "tiktok",
+    "notes": "Complete 6D5N Phu Quoc itinerary; 14 items extracted from creator-owned video.",
+    "itineraries": [
+     {
+      "title": "6D5N Phu Quoc detailed itinerary",
+      "destination": "Phu Quoc",
+      "country": "Vietnam",
+      "days": 6,
+      "confidence": "high",
+      "summary": "Vanny Tang (@vannytelly) publishes a creator-owned complete 6-day/5-night Phu Quoc itinerary (TikTok video 7585058634669903124, published 2025-12-18): Scoot arrival, Wyndham Grand Hotel, Vinpearl Safari, Grand World, VinWonders, island tour with snorkeling, and Dinh Cau Night Market.",
+      "guide_date": "2025-12-18",
+      "engagement": {
+       "plays": 63900,
+       "likes": 651,
+       "comments": 23,
+       "shares": 1554,
+       "saves": 982,
+       "source": "creator-owned video metrics, observed 2026-09-17"
+      },
+      "source_urls": [
+       "https://www.tiktok.com/@vannytelly/video/7585058634669903124"
+      ],
+      "items": [
+       {
+        "day": 1,
+        "item_type": "flight",
+        "name": "Scoot flight to Phu Quoc",
+        "details": "Arrival flight named in the creator's 6D5N itinerary.",
+        "location": "Phu Quoc International Airport, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "transport",
+        "name": "Private complimentary transfer to hotel",
+        "details": "Airport-to-hotel transfer named in the itinerary.",
+        "location": "Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "hotel",
+        "name": "Wyndham Grand Hotel",
+        "details": "Hotel check-in on day 1 of the itinerary.",
+        "location": "Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "restaurant",
+        "name": "Nautilus Restaurant",
+        "details": "Hotel dinner on day 1.",
+        "location": "Wyndham Grand Hotel, Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Vinpearl Safari",
+        "details": "Safari park visit on day 2.",
+        "location": "Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Grand World — Teddy Bear Museum, Love Lake/Gondola, Bamboo Legend",
+        "details": "Grand World entertainment complex stops on day 2.",
+        "location": "Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "The Quintessence of Vietnam show",
+        "details": "Evening show on day 2.",
+        "location": "Grand World, Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "VinWonders — Typhoon World, Sea Shell aquarium, outdoor theme park, ONCE show",
+        "details": "Theme park day on day 3; ONCE show at 6:45pm.",
+        "location": "Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 4,
+        "item_type": "activity",
+        "name": "Phu Quoc Island Tour — May Rut, Gam Ghi snorkeling, sea walking, sea sports",
+        "details": "Island tour with snorkeling and sea sports on day 4; buffet lunch and cable car included in the creator's itinerary.",
+        "location": "Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 4,
+        "item_type": "activity",
+        "name": "SunWorld Hon Thom Island Water Park or Kiss Bridge",
+        "details": "Alternative day-4 stops named in the itinerary.",
+        "location": "Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 5,
+        "item_type": "activity",
+        "name": "Kids Club / Grand World massage / hotel pool and foam party",
+        "details": "Free-and-easy day 5; foam party at 4pm.",
+        "location": "Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 5,
+        "item_type": "restaurant",
+        "name": "Nha Hang Ganh Dau Cang",
+        "details": "Local Vietnamese seafood lunch on day 5.",
+        "location": "Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 5,
+        "item_type": "activity",
+        "name": "Dinh Cau Night Market",
+        "details": "Night market visit and dinner on day 5.",
+        "location": "Duong Dong, Phu Quoc, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 6,
+        "item_type": "flight",
+        "name": "Return flight home",
+        "details": "Free-and-easy day 6, fly home.",
+        "location": "Phu Quoc International Airport, Vietnam",
+        "price_hint": null,
+        "booking_link": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "batch10_csv_row": "Jeje Jaelani,@somay.mekdi,tiktok,Bandung travel (Indonesia),354.5K,https://www.tiktok.com/@somay.mekdi,https://www.tiktok.com/@somay.mekdi/video/7624855363052997908",
+   "selection_log_row": [
+    "10",
+    "@somay.mekdi",
+    "tiktok",
+    "Jeje Jaelani",
+    "Bandung travel (Indonesia)",
+    "354.5K",
+    "354500",
+    "TikTok profile @somay.mekdi, observed 2026-09-17",
+    "https://www.tiktok.com/@somay.mekdi",
+    "web discovery 2026-09-17",
+    "pass",
+    "named individual 'Jeje Jaelani'",
+    "pass",
+    "Creator-owned standalone one-day Bandung itinerary (self-contained despite 'Part.2' label), TikTok video 7624855363052997908, create_time 1775299989 = 2026-04-04 UTC (in window); five day-1 venues transcribed from the creator-owned video description: BMB Burger, The Deli Bakes Pudak, Sate Pak Hartono, Aksara Hotel, Tahu Priangan",
+    "pass — 354,500 >= 10,000",
+    "212,000 plays; 6,153 likes; 37 comments; 2,011 shares; 4,307 saves (creator-owned video metrics, observed 2026-09-17)",
+    "pass — profile live 2026-09-17 (17.2M profile likes; guide video within window)",
+    "present — affiliate/product mentions; no planning service",
+    "pass — brand/campaign contact email is not consumer trip planning; no hosted trips or agency booking identified (observed 2026-09-17)",
+    "include",
+    "Day-1 venue names extracted from the creator-owned video description 2026-09-17; in-video order not verifiable from text evidence — all recorded as day 1. Ready for canonical append.",
+    "2026-09-17",
+    "batch10-topup"
+   ],
+   "itinerary": {
+    "handle": "@somay.mekdi",
+    "platform": "tiktok",
+    "notes": "One-day Bandung itinerary; 5 venues transcribed from the creator-owned video description.",
+    "itineraries": [
+     {
+      "title": "One-day Bandung itinerary (Part.2, self-contained)",
+      "destination": "Bandung",
+      "country": "Indonesia",
+      "days": 1,
+      "confidence": "high",
+      "summary": "Jeje Jaelani (@somay.mekdi) publishes a creator-owned standalone one-day Bandung itinerary (TikTok video 7624855363052997908, labeled 'Part.2' but self-contained, create_time 1775299989 = 2026-04-04 UTC): BMB Burger, The Deli Bakes Pudak, Sate Pak Hartono, Aksara Hotel, Tahu Priangan.",
+      "guide_date": "2026-04-04",
+      "engagement": {
+       "plays": 212000,
+       "likes": 6153,
+       "comments": 37,
+       "shares": 2011,
+       "saves": 4307,
+       "source": "creator-owned video metrics, observed 2026-09-17"
+      },
+      "source_urls": [
+       "https://www.tiktok.com/@somay.mekdi/video/7624855363052997908"
+      ],
+      "items": [
+       {
+        "day": 1,
+        "item_type": "restaurant",
+        "name": "BMB Burger",
+        "details": "Named in the creator's one-day Bandung route.",
+        "location": "Bandung, Indonesia",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "restaurant",
+        "name": "The Deli Bakes Pudak",
+        "details": "Named in the creator's one-day Bandung route.",
+        "location": "Bandung, Indonesia",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "restaurant",
+        "name": "Sate Pak Hartono",
+        "details": "Named in the creator's one-day Bandung route.",
+        "location": "Bandung, Indonesia",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "hotel",
+        "name": "Aksara Hotel",
+        "details": "Hotel named in the creator's one-day Bandung route.",
+        "location": "Bandung, Indonesia",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "restaurant",
+        "name": "Tahu Priangan",
+        "details": "Named in the creator's one-day Bandung route.",
+        "location": "Bandung, Indonesia",
+        "price_hint": null,
+        "booking_link": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "batch10_csv_row": "Alan Huitron,@viajaland,tiktok,Peru budget travel,386K,https://www.tiktok.com/@viajaland,https://www.tiktok.com/@viajaland/video/7640281987332279573",
+   "selection_log_row": [
+    "10",
+    "@viajaland",
+    "tiktok",
+    "Alan Huitron",
+    "Peru budget travel",
+    "386K",
+    "386000",
+    "TikTok profile @viajaland, observed 2026-09-17",
+    "https://www.tiktok.com/@viajaland",
+    "web discovery 2026-09-17",
+    "pass",
+    "named individual 'Alan Huitron' (profile nickname 'Viajaland - Alan Huitron')",
+    "pass",
+    "Creator-owned complete 3-day Tingo Maria route with per-activity Soles prices, TikTok video 7640281987332279573, create_time 1778891785 = 2026-05-16 UTC (in window)",
+    "pass — 386,000 >= 10,000",
+    "228,500 plays; 11,100 likes; 153 comments; 3,872 shares; 4,386 saves (creator-owned video metrics, observed 2026-09-17)",
+    "pass — profile live 2026-09-17 (5.8M profile likes; 543 videos; guide video within window)",
+    "present — named hotel with room prices, named restaurants, transport prices; no affiliate codes observed",
+    "pass — TikTok profile bio ('Viajes | Planes | Foodie | Lifestyle / Colaboraciones al DM') shows no consumer trip planning, coaching, hosted group trips, or agency booking (observed 2026-09-17). Profile links beacons.ai/alanhuitron — that link page could not be inspected this session (browser tool failure); parent may confirm it carries no planning/agency offer.",
+    "include",
+    "Exclusions confirmed on the TikTok profile bio 2026-09-17; beacons link unchecked (browser block). Full 14-item 3-day item list extracted; ready for canonical append.",
+    "2026-09-17",
+    "batch10-topup"
+   ],
+   "itinerary": {
+    "handle": "@viajaland",
+    "platform": "tiktok",
+    "notes": "3-day Tingo Maria itinerary with source-stated Soles prices; 14 items.",
+    "itineraries": [
+     {
+      "title": "3-day Tingo Maria itinerary with full budget",
+      "destination": "Tingo Maria",
+      "country": "Peru",
+      "days": 3,
+      "confidence": "high",
+      "summary": "Alan Huitron (@viajaland) publishes a creator-owned complete 3-day Tingo Maria route (TikTok video 7640281987332279573, create_time 1778891785 = 2026-05-16 UTC) with source-stated Soles prices: Hotel Kukama, Kotomono647, Cueva de las Lechuzas, Rio Monzon, waterfalls, caves, lagoons, and El Encanto de la Selva.",
+      "guide_date": "2026-05-16",
+      "engagement": {
+       "plays": 228500,
+       "likes": 11100,
+       "comments": 153,
+       "shares": 3872,
+       "saves": 4386,
+       "source": "creator-owned video metrics, observed 2026-09-17"
+      },
+      "source_urls": [
+       "https://www.tiktok.com/@viajaland/video/7640281987332279573"
+      ],
+      "items": [
+       {
+        "day": 1,
+        "item_type": "transport",
+        "name": "GM Internacional bus",
+        "details": "Bus to Tingo Maria, 12-hour trip.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "from S/65",
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "hotel",
+        "name": "Hotel Kukama",
+        "details": "Stay named in the itinerary; rooms include breakfast and views; rooftop restaurant Kotomono647 on the top floor.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "rooms from S/100 per night for two people",
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "restaurant",
+        "name": "Kotomono647",
+        "details": "Rooftop restaurant with author drinks and typical food.",
+        "location": "Hotel Kukama rooftop, Tingo Maria, Peru",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Cueva de las Lechuzas",
+        "details": "Day 1 itinerary stop.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "S/12",
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Paseo Extremo Rio Monzon",
+        "details": "Day 1 itinerary stop.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "S/10",
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Roca Flotante",
+        "details": "Day 1 itinerary stop.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "S/3",
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Mirador Jacintillo",
+        "details": "Day 1 itinerary stop.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "S/0",
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Mirador Santa Cruz",
+        "details": "Day 1 itinerary stop.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "S/0",
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Catarata Honolulu",
+        "details": "Day 2 itinerary stop.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "S/5",
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Cueva 1000 encantos",
+        "details": "Day 2 itinerary stop.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "S/5",
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "Laguna de los Milagros",
+        "details": "Day 3 itinerary stop.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "S/5",
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "Laguna Mistica",
+        "details": "Day 3 itinerary stop.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "S/5",
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "Paddle",
+        "details": "Day 3 itinerary stop.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": "S/15",
+        "booking_link": null
+       },
+       {
+        "day": null,
+        "item_type": "restaurant",
+        "name": "El Encanto de la Selva",
+        "details": "Lunch spot recommended in the itinerary; day not specified by creator.",
+        "location": "Tingo Maria, Peru",
+        "price_hint": null,
+        "booking_link": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "batch10_csv_row": "Mary,@marymatheustraveler,tiktok,Tennessee/US travel,322.5K,https://www.tiktok.com/@marymatheustraveler,https://www.tiktok.com/@marymatheustraveler/video/7567550908217773343",
+   "selection_log_row": [
+    "10",
+    "@marymatheustraveler",
+    "tiktok",
+    "Mary",
+    "Tennessee/US travel",
+    "322.5K",
+    "322500",
+    "TikTok profile @marymatheustraveler, observed 2026-09-17",
+    "https://www.tiktok.com/@marymatheustraveler",
+    "web discovery 2026-09-17",
+    "pass",
+    "named individual 'Mary'; full surname not conclusively established — canonical name kept as 'Mary'",
+    "pass",
+    "Creator-owned complete three-day Tennessee itinerary with named venues and source-stated prices, TikTok video 7567550908217773343, create_time 1761957759 = 2025-11-01 UTC (in window); day-by-day items transcribed from the creator-owned video caption",
+    "pass — 322,500 >= 10,000",
+    "947,000 plays; 37,600 likes; 236 comments; 29,000 shares; 23,439 saves (creator-owned video metrics, observed 2026-09-17)",
+    "pass — profile live 2026-09-17 (6.2M profile likes; 1,973 videos; guide video within window)",
+    "present — named hotels and attractions with source-stated prices; no planning service observed",
+    "pass — bio promotes travel tips/recommendations/itineraries; no consumer trip planning, coaching, hosted group trips, or agency booking identified (observed 2026-09-17)",
+    "include",
+    "Day-1..3 items extracted from the creator-owned caption 2026-09-17; caption carries source-stated prices — exact per-venue figures not transcribed this session, parent may add them. Canonical name is 'Mary' (surname not established). Ready for canonical append.",
+    "2026-09-17",
+    "batch10-topup"
+   ],
+   "itinerary": {
+    "handle": "@marymatheustraveler",
+    "platform": "tiktok",
+    "notes": "3-day Tennessee itinerary; items transcribed from the creator-owned caption; prices in caption not transcribed.",
+    "itineraries": [
+     {
+      "title": "Three-day Tennessee itinerary: Gatlinburg, Pigeon Forge, Knoxville",
+      "destination": "Tennessee (Gatlinburg, Pigeon Forge, Knoxville)",
+      "country": "USA",
+      "days": 3,
+      "confidence": "high",
+      "summary": "Mary (@marymatheustraveler) publishes a creator-owned three-day Tennessee itinerary (TikTok video 7567550908217773343, create_time 1761957759 = 2025-11-01 UTC) with named venues and source-stated prices. Day 1 Gatlinburg: Ober Mountain, downtown Gatlinburg, The Village Shops, a liquor shop at 643 Parkway, and the Howard Johnson by Wyndham Gatlinburg. Day 2 Pigeon Forge: Titanic Museum Attraction, Sunliner Diner, The Inn at Christmas Place, and The Island. Day 3 Knoxville: Ancient Lore Village.",
+      "guide_date": "2025-11-01",
+      "engagement": {
+       "plays": 947000,
+       "likes": 37600,
+       "comments": 236,
+       "shares": 29000,
+       "saves": 23439,
+       "source": "creator-owned video metrics, observed 2026-09-17"
+      },
+      "source_urls": [
+       "https://www.tiktok.com/@marymatheustraveler/video/7567550908217773343"
+      ],
+      "items": [
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Ober Mountain",
+        "details": "Day 1 Gatlinburg stop.",
+        "location": "Gatlinburg, Tennessee, USA",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "other",
+        "name": "Downtown Gatlinburg",
+        "details": "Day 1 Gatlinburg stop.",
+        "location": "Gatlinburg, Tennessee, USA",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "other",
+        "name": "The Village Shops",
+        "details": "Day 1 Gatlinburg stop.",
+        "location": "Gatlinburg, Tennessee, USA",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "other",
+        "name": "Unnamed liquor shop (643 Parkway)",
+        "details": "Liquor shop at 643 Parkway named on day 1; shop name not given in caption.",
+        "location": "Gatlinburg, Tennessee, USA",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "hotel",
+        "name": "Howard Johnson by Wyndham Gatlinburg",
+        "details": "Hotel named on day 1.",
+        "location": "Gatlinburg, Tennessee, USA",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Titanic Museum Attraction",
+        "details": "Day 2 Pigeon Forge stop.",
+        "location": "Pigeon Forge, Tennessee, USA",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "restaurant",
+        "name": "Sunliner Diner",
+        "details": "Day 2 Pigeon Forge stop.",
+        "location": "Pigeon Forge, Tennessee, USA",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "hotel",
+        "name": "The Inn at Christmas Place",
+        "details": "Hotel named on day 2.",
+        "location": "Pigeon Forge, Tennessee, USA",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "The Island",
+        "details": "Entertainment complex named on day 2.",
+        "location": "Pigeon Forge, Tennessee, USA",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "other",
+        "name": "Ancient Lore Village",
+        "details": "Day 3 Knoxville stop; venue type not verifiable from evidence, recorded as 'other'.",
+        "location": "Knoxville, Tennessee, USA",
+        "price_hint": null,
+        "booking_link": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "batch10_csv_row": "Mariana,@sonhealtoviagens,tiktok,Brazil travel (Itacaré),501.9K,https://www.tiktok.com/@sonhealtoviagens,https://www.tiktok.com/@sonhealtoviagens/video/7609058815115382034",
+   "selection_log_row": [
+    "10",
+    "@sonhealtoviagens",
+    "tiktok",
+    "Mariana",
+    "Brazil travel (Itacaré)",
+    "501.9K",
+    "501900",
+    "TikTok profile @sonhealtoviagens, observed 2026-09-17",
+    "https://www.tiktok.com/@sonhealtoviagens",
+    "web discovery 2026-09-17",
+    "pass",
+    "named individual 'Mariana'; profile nickname 'Mariana | Sonhe Alto Viagens'; first-person singular bio indicates individual account",
+    "pass",
+    "Creator-owned complete six-day Itacaré itinerary, TikTok video 7609058815115382034, create_time 1771628400 = 2026-02-20 UTC (in window); day-by-day items transcribed from the creator-owned video caption",
+    "pass — 501,900 >= 10,000",
+    "16,500 plays; 953 likes; 41 comments; 158 shares; 178 saves (creator-owned video metrics, observed 2026-09-17)",
+    "pass — profile live 2026-09-17 (12.5M profile likes; 917 videos; guide video within window)",
+    "present — pre-made editorial guide products mentioned ('Meus guias de Paris, Londres e Japão e descontos'); editorial, not prohibited",
+    "pass — 'my guides' indicates pre-made editorial products, not 1:1 consumer trip planning/coaching, hosted trips, or agency booking (decision recorded 2026-09-17). Linktree could not be fetched; no contents observed",
+    "include",
+    "Day-1..6 items extracted from the creator-owned caption 2026-09-17; venue types not verifiable from caption evidence are recorded as 'other'. Ready for canonical append.",
+    "2026-09-17",
+    "batch10-topup"
+   ],
+   "itinerary": {
+    "handle": "@sonhealtoviagens",
+    "platform": "tiktok",
+    "notes": "6-day Itacaré itinerary; items transcribed from the creator-owned caption.",
+    "itineraries": [
+     {
+      "title": "Six-day Itacaré itinerary",
+      "destination": "Itacaré",
+      "country": "Brazil",
+      "days": 6,
+      "confidence": "high",
+      "summary": "Mariana (@sonhealtoviagens) publishes a creator-owned complete six-day Itacaré itinerary (TikTok video 7609058815115382034, create_time 1771628400 = 2026-02-20 UTC). Day 1: Aldeia do Mar, Uça, Praia da Concha, Hawaiian canoe, Saravá. Day 2: Resende/Tiririca/Costa/Ribeira beaches, treetop course, Tia Deth. Day 3: Rio de Contas boat trip, Villa Rosa cacao farm, Noré and Cleandro waterfalls, Auri, Ponta do Xaréu. Day 4: four-beach trail, Itacarezinho Restaurante, Café com Cacau. Day 5: Jeribucaçu, La Cabana, Jiló. Day 6: Prainha, Ilhéus, Serra Grande viewpoint.",
+      "guide_date": "2026-02-20",
+      "engagement": {
+       "plays": 16500,
+       "likes": 953,
+       "comments": 41,
+       "shares": 158,
+       "saves": 178,
+       "source": "creator-owned video metrics, observed 2026-09-17"
+      },
+      "source_urls": [
+       "https://www.tiktok.com/@sonhealtoviagens/video/7609058815115382034"
+      ],
+      "items": [
+       {
+        "day": 1,
+        "item_type": "other",
+        "name": "Aldeia do Mar",
+        "details": "Day 1 stop; venue type not verifiable from evidence.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "other",
+        "name": "Uça",
+        "details": "Day 1 stop; venue type not verifiable from evidence.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Praia da Concha",
+        "details": "Day 1 beach stop.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Hawaiian canoe",
+        "details": "Day 1 activity.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 1,
+        "item_type": "other",
+        "name": "Saravá",
+        "details": "Day 1 stop; venue type not verifiable from evidence.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Resende, Tiririca, Costa and Ribeira beaches",
+        "details": "Day 2 beach stops.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Treetop course (arvorismo)",
+        "details": "Day 2 activity.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "other",
+        "name": "Tia Deth",
+        "details": "Day 2 stop; venue type not verifiable from evidence.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "Rio de Contas boat trip",
+        "details": "Day 3 activity.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "Villa Rosa cacao farm",
+        "details": "Day 3 activity.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "Noré waterfall",
+        "details": "Day 3 waterfall stop.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "Cleandro waterfall",
+        "details": "Day 3 waterfall stop.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "other",
+        "name": "Auri",
+        "details": "Day 3 stop; venue type not verifiable from evidence.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "Ponta do Xaréu",
+        "details": "Day 3 stop.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 4,
+        "item_type": "activity",
+        "name": "Four-beach trail",
+        "details": "Day 4 activity.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 4,
+        "item_type": "restaurant",
+        "name": "Itacarezinho Restaurante",
+        "details": "Day 4 stop.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 4,
+        "item_type": "other",
+        "name": "Café com Cacau",
+        "details": "Day 4 stop; venue type not verifiable from evidence.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 5,
+        "item_type": "activity",
+        "name": "Jeribucaçu beach",
+        "details": "Day 5 beach stop.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 5,
+        "item_type": "other",
+        "name": "La Cabana",
+        "details": "Day 5 stop; venue type not verifiable from evidence.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 5,
+        "item_type": "other",
+        "name": "Jiló",
+        "details": "Day 5 stop; venue type not verifiable from evidence.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 6,
+        "item_type": "activity",
+        "name": "Prainha",
+        "details": "Day 6 beach stop.",
+        "location": "Itacaré, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 6,
+        "item_type": "activity",
+        "name": "Ilhéus",
+        "details": "Day 6 stop.",
+        "location": "Ilhéus, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 6,
+        "item_type": "activity",
+        "name": "Serra Grande viewpoint",
+        "details": "Day 6 stop.",
+        "location": "Serra Grande, Brazil",
+        "price_hint": null,
+        "booking_link": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "batch10_csv_row": "Ishry van Valkengoed,@valkengoedtravel,tiktok,Philippines travel,13.1K,https://www.tiktok.com/@valkengoedtravel,https://www.tiktok.com/@valkengoedtravel/photo/7602549629825142049",
+   "selection_log_row": [
+    "10",
+    "@valkengoedtravel",
+    "tiktok",
+    "Ishry van Valkengoed",
+    "Philippines travel",
+    "13.1K",
+    "13100",
+    "TikTok profile @valkengoedtravel, observed 2026-09-17",
+    "https://www.tiktok.com/@valkengoedtravel",
+    "web discovery 2026-09-17",
+    "pass",
+    "named individual 'Ishry van Valkengoed'",
+    "pass",
+    "Creator-owned complete Philippines day sequence (Manila through Coron), TikTok photo carousel 7602549629825142049, TikTok-ID-derived date 2026-02-03 UTC (formula calibrated on 4 known create_time pairs; diffs within minutes; in window)",
+    "pass — 13,100 >= 10,000",
+    "10,700 likes; 137 comments (indexed third-party snapshot, observed 2026-09-17)",
+    "pass — profile live 2026-09-17 (102,300 profile likes; 535 videos; guide within window)",
+    "present — not yet verifiable from carousel content without live view",
+    "pass — no planning/hosted-trip/agency indicators observed (observed 2026-09-17)",
+    "include",
+    "Profile follower count (13,100) per prior worker's live observation 2026-09-17; not re-opened this session (browser tool failure). Day sequence and engagement from dated public index of the creator-posted carousel; carousel slides were not viewable live, so confidence is medium and parent may confirm the displayed carousel date.",
+    "2026-09-17",
+    "batch10-topup"
+   ],
+   "itinerary": {
+    "handle": "@valkengoedtravel",
+    "platform": "tiktok",
+    "notes": "20-day Philippines sequence from indexed creator-posted carousel; medium confidence (slides not live-viewed).",
+    "itineraries": [
+     {
+      "title": "20-day Philippines itinerary: Manila to Coron",
+      "destination": "Philippines (Manila, Bohol, Siquijor, Dumaguete, Moalboal, Boracay, El Nido, Coron)",
+      "country": "Philippines",
+      "days": 20,
+      "confidence": "medium",
+      "summary": "Ishry van Valkengoed (@valkengoedtravel) publishes a creator-owned 20-day Philippines itinerary as a photo carousel (TikTok photo 7602549629825142049, TikTok-ID-derived date 2026-02-03 UTC). Day 1 Manila. Days 2–3 Bohol: Loboc River, Alona Beach, Kawasan Falls, Chocolate Hills, tarsiers, sea of clouds. Days 4–5 Siquijor. Day 6 Dumaguete/Apo Island. Days 7–8 Moalboal. Days 9–11 Boracay. Days 12–15 El Nido. Days 16–20 Coron: Kayangan Lake, Barracuda Lake, Malcapuya Island, hot springs.",
+      "guide_date": "2026-02-03",
+      "engagement": {
+       "likes": 10700,
+       "comments": 137,
+       "source": "indexed third-party snapshot, observed 2026-09-17"
+      },
+      "source_urls": [
+       "https://www.tiktok.com/@valkengoedtravel/photo/7602549629825142049"
+      ],
+      "items": [
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Manila",
+        "details": "Day 1: Manila.",
+        "location": "Manila, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Loboc River",
+        "details": "Days 2–3: Bohol.",
+        "location": "Bohol, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Alona Beach",
+        "details": "Days 2–3: Bohol.",
+        "location": "Bohol, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Kawasan Falls",
+        "details": "Days 2–3: Bohol region (as listed in the carousel).",
+        "location": "Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Chocolate Hills",
+        "details": "Days 2–3: Bohol.",
+        "location": "Bohol, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Tarsiers",
+        "details": "Days 2–3: Bohol.",
+        "location": "Bohol, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Sea of clouds",
+        "details": "Days 2–3: Bohol.",
+        "location": "Bohol, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 4,
+        "item_type": "activity",
+        "name": "Siquijor",
+        "details": "Days 4–5: Siquijor.",
+        "location": "Siquijor, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 6,
+        "item_type": "activity",
+        "name": "Dumaguete / Apo Island",
+        "details": "Day 6: Dumaguete and Apo Island.",
+        "location": "Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 7,
+        "item_type": "activity",
+        "name": "Moalboal",
+        "details": "Days 7–8: Moalboal.",
+        "location": "Cebu, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 9,
+        "item_type": "activity",
+        "name": "Boracay",
+        "details": "Days 9–11: Boracay.",
+        "location": "Boracay, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 12,
+        "item_type": "activity",
+        "name": "El Nido",
+        "details": "Days 12–15: El Nido.",
+        "location": "Palawan, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 16,
+        "item_type": "activity",
+        "name": "Kayangan Lake",
+        "details": "Days 16–20: Coron.",
+        "location": "Coron, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 16,
+        "item_type": "activity",
+        "name": "Barracuda Lake",
+        "details": "Days 16–20: Coron.",
+        "location": "Coron, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 16,
+        "item_type": "activity",
+        "name": "Malcapuya Island",
+        "details": "Days 16–20: Coron.",
+        "location": "Coron, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 16,
+        "item_type": "activity",
+        "name": "Hot springs",
+        "details": "Days 16–20: Coron.",
+        "location": "Coron, Philippines",
+        "price_hint": null,
+        "booking_link": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "batch10_csv_row": "Gina,@ginacwiklinski,tiktok,\"Italy/France travel (Amalfi Coast, French Riviera)\",19.0K,https://www.tiktok.com/@ginacwiklinski,https://www.tiktok.com/@ginacwiklinski/photo/7641692886282620168;https://www.tiktok.com/@ginacwiklinski/photo/7606448536602856711",
+   "selection_log_row": [
+    "10",
+    "@ginacwiklinski",
+    "tiktok",
+    "Gina",
+    "Italy/France travel (Amalfi Coast, French Riviera)",
+    "19.0K",
+    "19000",
+    "TikTok profile @ginacwiklinski, observed 2026-09-17",
+    "https://www.tiktok.com/@ginacwiklinski",
+    "web discovery 2026-09-17",
+    "pass",
+    "named individual 'Gina'",
+    "pass",
+    "Creator-owned complete itinerary carousels: Amalfi Coast structured guide (Arienzo Beach Club, Positano old town, Luisa Positano, Franco's Bar, La Sponda at Le Sirenuse, Capri boat day, Da Vincenzo), TikTok photo 7641692886282620168, ID-derived 2026-05-19 UTC; five-day French Riviera itinerary (Nice; Antibes + Cannes/La Guérite; Èze + Monaco; Menton; boat day + Villefranche-sur-Mer/Paloma Beach), TikTok photo 7606448536602856711, ID-derived 2026-02-13 UTC — both in window",
+    "pass — 19,000 >= 10,000",
+    "Amalfi: 1,183 likes; 121 comments. Riviera: 732 likes; 28 comments (indexed third-party snapshots, observed 2026-09-17)",
+    "pass — profile live 2026-09-17 (99,900 profile likes; 179 videos; both guides within window)",
+    "present — partnership email only; no planning service observed",
+    "pass — partnership email only; no consumer trip planning, coaching, hosted group trips, or agency booking identified (observed 2026-09-17)",
+    "include",
+    "Two guides from indexed creator-posted carousels with full day-by-day captions; carousel slides were not viewable live (browser tool failure), confidence medium. Venue types not verifiable from evidence are recorded as 'other'. Dedup-checked 2026-09-17 — not present. Ready for canonical append.",
+    "2026-09-17",
+    "batch10-topup"
+   ],
+   "itinerary": {
+    "handle": "@ginacwiklinski",
+    "platform": "tiktok",
+    "notes": "Two guides: Amalfi structured guide (no day numbering) + 5-day French Riviera.",
+    "itineraries": [
+     {
+      "title": "Amalfi Coast structured guide",
+      "destination": "Amalfi Coast",
+      "country": "Italy",
+      "days": null,
+      "confidence": "medium",
+      "summary": "Gina (@ginacwiklinski) publishes a creator-owned structured Amalfi Coast guide (TikTok photo carousel 7641692886282620168, TikTok-ID-derived date 2026-05-19 UTC) with named venues: Arienzo Beach Club, Positano old town, Luisa Positano, Franco's Bar, La Sponda at Le Sirenuse, a Capri boat day, and Da Vincenzo. No explicit day numbering is given in the indexed caption.",
+      "guide_date": "2026-05-19",
+      "engagement": {
+       "likes": 1183,
+       "comments": 121,
+       "source": "indexed third-party snapshot, observed 2026-09-17"
+      },
+      "source_urls": [
+       "https://www.tiktok.com/@ginacwiklinski/photo/7641692886282620168"
+      ],
+      "items": [
+       {
+        "day": null,
+        "item_type": "activity",
+        "name": "Arienzo Beach Club",
+        "details": "Named in the creator's Amalfi Coast guide.",
+        "location": "Positano, Italy",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": null,
+        "item_type": "activity",
+        "name": "Positano old town",
+        "details": "Named in the creator's Amalfi Coast guide.",
+        "location": "Positano, Italy",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": null,
+        "item_type": "other",
+        "name": "Luisa Positano",
+        "details": "Named in the creator's Amalfi Coast guide; venue type not verifiable from evidence.",
+        "location": "Positano, Italy",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": null,
+        "item_type": "restaurant",
+        "name": "Franco's Bar",
+        "details": "Named in the creator's Amalfi Coast guide.",
+        "location": "Positano, Italy",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": null,
+        "item_type": "other",
+        "name": "La Sponda at Le Sirenuse",
+        "details": "Named in the creator's Amalfi Coast guide; venue type not verifiable from evidence.",
+        "location": "Positano, Italy",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": null,
+        "item_type": "activity",
+        "name": "Capri boat day",
+        "details": "Boat day to Capri named in the creator's Amalfi Coast guide.",
+        "location": "Capri, Italy",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": null,
+        "item_type": "other",
+        "name": "Da Vincenzo",
+        "details": "Named in the creator's Amalfi Coast guide; venue type not verifiable from evidence.",
+        "location": "Positano, Italy",
+        "price_hint": null,
+        "booking_link": null
+       }
+      ]
+     },
+     {
+      "title": "Five-day French Riviera itinerary",
+      "destination": "French Riviera",
+      "country": "France",
+      "days": 5,
+      "confidence": "medium",
+      "summary": "Gina (@ginacwiklinski) publishes a creator-owned five-day French Riviera itinerary (TikTok photo carousel 7606448536602856711, TikTok-ID-derived date 2026-02-13 UTC). Day 1: Nice. Day 2: Antibes and Cannes/La Guérite. Day 3: Èze and Monaco. Day 4: Menton. Day 5: boat day and Villefranche-sur-Mer/Paloma Beach.",
+      "guide_date": "2026-02-13",
+      "engagement": {
+       "likes": 732,
+       "comments": 28,
+       "source": "indexed third-party snapshot, observed 2026-09-17"
+      },
+      "source_urls": [
+       "https://www.tiktok.com/@ginacwiklinski/photo/7606448536602856711"
+      ],
+      "items": [
+       {
+        "day": 1,
+        "item_type": "activity",
+        "name": "Nice",
+        "details": "Day 1.",
+        "location": "Nice, France",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Antibes",
+        "details": "Day 2.",
+        "location": "Antibes, France",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "activity",
+        "name": "Cannes",
+        "details": "Day 2.",
+        "location": "Cannes, France",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 2,
+        "item_type": "other",
+        "name": "La Guérite",
+        "details": "Day 2 stop; venue type not verifiable from evidence.",
+        "location": "Cannes, France",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "Èze",
+        "details": "Day 3.",
+        "location": "Èze, France",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 3,
+        "item_type": "activity",
+        "name": "Monaco",
+        "details": "Day 3.",
+        "location": "Monaco",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 4,
+        "item_type": "activity",
+        "name": "Menton",
+        "details": "Day 4.",
+        "location": "Menton, France",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 5,
+        "item_type": "activity",
+        "name": "Boat day",
+        "details": "Day 5: boat day.",
+        "location": "French Riviera, France",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 5,
+        "item_type": "activity",
+        "name": "Villefranche-sur-Mer",
+        "details": "Day 5.",
+        "location": "Villefranche-sur-Mer, France",
+        "price_hint": null,
+        "booking_link": null
+       },
+       {
+        "day": 5,
+        "item_type": "activity",
+        "name": "Paloma Beach",
+        "details": "Day 5.",
+        "location": "Saint-Jean-Cap-Ferrat, France",
+        "price_hint": null,
+        "booking_link": null
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

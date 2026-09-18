@@ -4,18 +4,18 @@
   "status": "PASS",
   "results": {
     "influencers_total": {
-      "value": 200,
-      "expected": 200,
+      "value": 401,
+      "expected": 401,
       "pass": true
     },
     "platform_instagram": {
-      "value": 100,
-      "expected": 100,
+      "value": 170,
+      "expected": 170,
       "pass": true
     },
     "platform_tiktok": {
-      "value": 100,
-      "expected": 100,
+      "value": 231,
+      "expected": 231,
       "pass": true
     },
     "empty_followers": {
@@ -29,20 +29,20 @@
       "pass": true
     },
     "itineraries_total": {
-      "value": 186,
-      "gate1_total": 189
+      "value": 364,
+      "gate1_total": 378
     },
     "itineraries_reconciled": {
-      "value": 186,
+      "value": 364,
       "pass": true
     },
     "items_total": {
-      "value": 1831
+      "value": 3421
     },
     "confidence_split": {
-      "high": 111,
-      "low": 7,
-      "medium": 68
+      "high": 222,
+      "low": 16,
+      "medium": 126
     },
     "orphan_items": {
       "value": 0,
@@ -71,60 +71,123 @@
       "pass": true
     },
     "quarantined_handles": [
+      "@27travels",
+      "@_themayway_",
+      "@adventurouskate",
       "@africansafari",
+      "@alexlaurenceco",
+      "@backpackingbananas",
+      "@buildabreak",
+      "@crisalynlove",
+      "@explorepal",
+      "@fadastravel",
+      "@fancynancista",
+      "@grrrltraveler",
+      "@helloangelia",
+      "@inditales",
+      "@karlwatsondocs",
+      "@kimmconn",
       "@limsawkward",
+      "@livingourmemories",
+      "@losangeleswander",
       "@marklharriosn",
       "@martinsilvaq",
+      "@migrationology",
       "@nastasiawong",
       "@nomadicmovement",
       "@oceanwanderer",
       "@rachid_dahnoun",
+      "@rockytravel",
+      "@shaleewanders",
+      "@siddharthajoshi",
       "@sidewalkerdaily",
-      "@thenationalparktravelers"
+      "@texaswanderers",
+      "@theblondeabroad",
+      "@thebrokebackpacker",
+      "@thenationalparktravelers",
+      "@thewanderdiary_",
+      "@thewanderingquinn",
+      "@tourwithliesner",
+      "@travellinfoodie",
+      "@travellingtuesdays",
+      "@travelmadmum",
+      "@traveltomtom",
+      "@travlinmad",
+      "@wanderingearl",
+      "@withlovesophiella",
+      "@yakeandmarie",
+      "@zenwander",
+      "unknown"
     ],
     "top_countries": [
       [
         "USA",
-        17
+        37
       ],
       [
         "United States",
-        14
+        27
       ],
       [
         "Italy",
-        9
-      ],
-      [
-        "United Kingdom",
-        8
+        23
       ],
       [
         "Japan",
-        8
+        19
+      ],
+      [
+        "United Kingdom",
+        16
       ],
       [
         "Spain",
-        7
+        10
       ],
       [
         "Indonesia",
-        5
-      ],
-      [
-        "India",
-        5
+        10
       ],
       [
         "Canada",
-        5
+        10
       ],
       [
-        "Thailand",
+        "Australia",
+        10
+      ],
+      [
+        "China",
+        9
+      ],
+      [
+        "Philippines",
+        8
+      ],
+      [
+        "Greece",
+        8
+      ],
+      [
+        "France",
+        8
+      ],
+      [
+        "Portugal",
+        7
+      ],
+      [
+        null,
+        7
+      ]
+    ],
+    "top_destinations": [
+      [
+        "Taiwan",
         4
       ],
       [
-        "Iceland",
+        "Istanbul",
         4
       ],
       [
@@ -132,29 +195,43 @@
         4
       ],
       [
-        "Croatia",
+        "Bali",
         4
       ],
       [
-        "United Arab Emirates",
+        "Tokyo",
         3
       ],
       [
-        "Turkey",
-        3
-      ]
-    ],
-    "top_destinations": [
-      [
-        "Taiwan",
+        "Sydney",
         3
       ],
       [
-        "Southeast Asia",
+        "Scotland",
         3
       ],
       [
-        "Istanbul",
+        "Puglia",
+        3
+      ],
+      [
+        "Phu Quoc",
+        3
+      ],
+      [
+        "Paris",
+        3
+      ],
+      [
+        "Mexico City",
+        3
+      ],
+      [
+        "Japan",
+        3
+      ],
+      [
+        "Hong Kong",
         3
       ],
       [
@@ -162,48 +239,8 @@
         3
       ],
       [
-        "Tokyo",
-        2
-      ],
-      [
-        "Phu Quoc",
-        2
-      ],
-      [
-        "Oahu, Hawaii",
-        2
-      ],
-      [
-        "New York City, USA",
-        2
-      ],
-      [
-        "Iceland",
-        2
-      ],
-      [
-        "Great Ocean Road, Victoria",
-        2
-      ],
-      [
-        "Egypt",
-        2
-      ],
-      [
-        "Cotswolds, England",
-        2
-      ],
-      [
-        "Cinque Terre",
-        2
-      ],
-      [
-        "California, USA",
-        2
-      ],
-      [
-        "Amalfi Coast",
-        2
+        "Costa Rica",
+        3
       ]
     ]
   },

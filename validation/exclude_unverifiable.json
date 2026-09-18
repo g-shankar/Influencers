@@ -10,5 +10,11 @@
   "handle": "@chloe__trips",
   "title": "Travel guides (creator series)",
   "status": "STILL EXCLUDED 2026-09-16: exact profile confirmed (20.6K followers) but no attributable structured guide found. Replacement candidate."
+ },
+ {
+  "batch": 15,
+  "handle": "@ordinarytraveler",
+  "title": "Windstar French Polynesia Package",
+  "status": "EXCLUDED 2026-09-18: recorded source keepface.com/ordinarytraveler returns the site's own 404 (keepface.com live, profile gone). Extraction referenced a 2026-01-27 Instagram post but no post URL was recorded; one read-only instagram-cli lookup of @ordinarytraveler could not surface the post (windowed query returned 0 posts; a broader query hit the API rate limit, and the IG path was stopped per policy). Itinerary marked UNVERIFIABLE; creator retained in canonical files, itinerary excluded at load time via load_db.py --exclude-json."
  }
 ]

@@ -1,0 +1,236 @@
+{
+  "batch": 16,
+  "extractions": [
+    {
+      "handle": "@bucketlistly",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Costa Rica",
+          "days": 15,
+          "destination": "Costa Rica",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Arrival in San Jose and initial exploration",
+              "item_type": "activity",
+              "location": "San Jose, Costa Rica",
+              "name": "San Jose arrival",
+              "price_hint": ""
+            }
+          ],
+          "source_urls": [
+            "https://www.bucketlistly.blog/posts/costa-rica-backpacking-itinerary"
+          ],
+          "summary": "15-day backpacking itinerary for Costa Rica with explicit day-by-day structure, lodging recommendations, activities, and firsthand opinions. Updated approximately 2026-09-10.",
+          "title": "Costa Rica Backpacking Itinerary"
+        }
+      ],
+      "notes": "Pete Rojwongsuriya is an individual solo travel blogger and photographer based in Thailand. Itinerary is firsthand with explicit day structure and price references. Affiliate partnerships disclosed.",
+      "platform": "Instagram"
+    },
+    {
+      "handle": "@lakshmisharath",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "India",
+          "days": 4,
+          "destination": "Sunderbans",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Arrive Kolkata; road transfer to Gadkhali Ferry Point and ferry crossing to Bali Island",
+              "item_type": "transport",
+              "location": "Kolkata to Bali Island, West Bengal, India",
+              "name": "Kolkata to Bali Island transfer",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Check in to Bonbibi Home Stay on Bali Island",
+              "item_type": "hotel",
+              "location": "Bali Island, Sunderbans, India",
+              "name": "Bonbibi Home Stay",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Guided village walks and birdwatching in the Bali Island villages",
+              "item_type": "activity",
+              "location": "Bali Island, Sunderbans, India",
+              "name": "Village walks and birdwatching",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Bengali meals and farm-to-table dining experiences",
+              "item_type": "restaurant",
+              "location": "Bali Island, Sunderbans, India",
+              "name": "Bengali meals",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Evening Baul singers folk performance",
+              "item_type": "activity",
+              "location": "Bali Island, Sunderbans, India",
+              "name": "Baul singers performance",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Island hopping by island ferries; Gosaba village visit; Rangabelia crafts and batik workshops",
+              "item_type": "activity",
+              "location": "Sunderbans, West Bengal, India",
+              "name": "Island hopping and craft villages",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 3,
+              "details": "Tuk-tuk transfers between island villages",
+              "item_type": "transport",
+              "location": "Sunderbans, West Bengal, India",
+              "name": "Tuk-tuk transfers",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Guided nature trails through the mangrove delta",
+              "item_type": "activity",
+              "location": "Sunderbans, West Bengal, India",
+              "name": "Mangrove nature trails",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Village theatre performance",
+              "item_type": "activity",
+              "location": "Sunderbans, West Bengal, India",
+              "name": "Village theatre",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Stay at Sundarban WELD Camp",
+              "item_type": "hotel",
+              "location": "Sunderbans, West Bengal, India",
+              "name": "Sundarban WELD Camp",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 4,
+              "details": "Stay at Nitai Gaur Homestay",
+              "item_type": "hotel",
+              "location": "Sunderbans, West Bengal, India",
+              "name": "Nitai Gaur Homestay",
+              "price_hint": ""
+            }
+          ],
+          "source_urls": [
+            "https://lakshmisharath.com/sunderbans-beyond-the-tiger-local-experiences/"
+          ],
+          "summary": "Four-day Sunderbans local-experiences journey beyond the tiger: Kolkata arrival, Gadkhali Ferry Point crossing to Bali Island, homestays, village walks, birdwatching, Baul music, village theatre, nature trails, island hopping, Gosaba, Rangabelia crafts and batik, Bengali farm-to-table meals. Published 2026-07-01.",
+          "title": "Sunderbans Beyond the Tiger: Local Experiences"
+        }
+      ],
+      "notes": "Lakshmi Sharath is an individual travel blogger (lakshmisharath.com). Guide published 2026-07-01. No consumer trip planning, coaching, hosted trips, or operator activity found; named operators are article subjects, not her business. Day breaks are the worker's synthesis of the guide's sequence.",
+      "platform": "Instagram"
+    },
+    {
+      "handle": "@wandersmiles",
+      "itineraries": [
+        {
+          "confidence": "high",
+          "country": "Spain",
+          "days": 2,
+          "destination": "Granada",
+          "items": [
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Visit the UNESCO World Heritage-listed Alhambra: Nasrid Palaces, Alcazaba fortress and Generalife gardens",
+              "item_type": "activity",
+              "location": "Granada, Spain",
+              "name": "Alhambra palace and fortress complex",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 1,
+              "details": "Wander the Albaicin quarter: Plaza de San Nicolas viewpoint, Calle Caldereria Nueva tea houses and shops",
+              "item_type": "activity",
+              "location": "Granada, Spain",
+              "name": "Albaicin neighborhood",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Open-air museum of eleven recreated cave homes in Barranco de los Negros; Romani culture and zambra flamenco history",
+              "item_type": "activity",
+              "location": "Sacromonte, Granada, Spain",
+              "name": "Sacromonte Cave Museum",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Traditional remojon granadino salad and Nasrid chicken at Jardines Alberto",
+              "item_type": "restaurant",
+              "location": "Granada, Spain",
+              "name": "Lunch: remojon granadino and Nasrid chicken",
+              "price_hint": ""
+            },
+            {
+              "booking_link": null,
+              "day": 2,
+              "details": "Sunset dinner with Alhambra views; salmorejo followed by Iberian beef cheeks with celeriac",
+              "item_type": "restaurant",
+              "location": "Albaicin, Granada, Spain",
+              "name": "Sunset dinner at Las Tomases",
+              "price_hint": ""
+            }
+          ],
+          "source_urls": [
+            "https://www.wandersmiles.com/2-days-in-granada-spain/"
+          ],
+          "summary": "Two-day Granada first-timer itinerary: the Alhambra, Albaicin, Sacromonte Cave Museum, traditional Andalusian food (remojon granadino, salmorejo, Iberian beef cheeks), and a sunset dinner at Las Tomases. Published 2026-09-01, updated 2026-09-06.",
+          "title": "2 Days In Granada Spain: Best Itinerary For First-Timers"
+        }
+      ],
+      "notes": "Vanessa is the individual award-winning blogger and writer behind She Wanders Miles (Lancashire, England); Tripadvisor confirms handle @wandersmiles. Itinerary published 2026-09-01 and updated 2026-09-06 (within window). Her services page covers brand work only (sponsored content, UGC, reviews, freelance writing) - no consumer planning, coaching, hosted trips, or operator activity. Designated replacement addition for stale @meanderandwander.",
+      "platform": "Instagram"
+    },
+    {
+      "handle": "@solotravelinstyle",
+      "platform": "instagram",
+      "itineraries": [],
+      "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+    },
+    {
+      "handle": "@theladywhotravels_",
+      "platform": "instagram",
+      "itineraries": [],
+      "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+    },
+    {
+      "handle": "@annasherchand",
+      "platform": "instagram",
+      "itineraries": [],
+      "notes": "RESTORED 2026-09-18 via read-only Instagram login (@sgshankar84): identity + exact follower integer + dated engagement verified. Itinerary extraction was NOT performed in the restore pass; no itinerary content is claimed. itineraries: [] per EXTRACTION_BRIEF honesty rules (never force one)."
+    }
+  ]
+}

@@ -1,1 +1,48 @@
-{"batch_size":25,"batches":[1,2,3,4,5,6,7,8],"creators_total":200,"new_batches":[5,6,7,8],"platforms":{"instagram":100,"tiktok":100},"reach_floor_followers":10000,"selection_date":"2026-09-16","stage":1}
+{
+  "batch_size": 25,
+  "batches": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "creators_total": 401,
+  "new_batches": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "platforms": {
+    "instagram": 170,
+    "tiktok": 231
+  },
+  "reach_floor_followers": 10000,
+  "selection_date": "2026-09-18",
+  "stage": 2,
+  "founder_accepted_total": "2026-09-18: founder accepted 402 verified rows; @wherejesstravels provisional restore failed the engagement gate on convergence review -> 401 verified + honest shortfall of 99 vs 500 target"
+}

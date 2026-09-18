@@ -1,0 +1,476 @@
+{
+  "built": "2026-09-18",
+  "method": "stratified sample: >=30% of itineraries across all Stage 2 batches and confidence levels, low confidence oversampled at 60%; deterministic seed 20260918",
+  "total_itineraries": 192,
+  "sample_size": 64,
+  "sample_fraction": 0.3333,
+  "by_confidence": {
+    "high": 38,
+    "medium": 20,
+    "low": 6
+  },
+  "by_batch": {
+    "9": 6,
+    "10": 7,
+    "11": 5,
+    "12": 8,
+    "13": 8,
+    "14": 10,
+    "15": 4,
+    "16": 1,
+    "17": 1,
+    "18": 3,
+    "19": 4,
+    "20": 7
+  },
+  "sample": [
+    {
+      "batch": 9,
+      "packet_index": 1,
+      "handle": "@trendytraveler",
+      "title": "Croatia: Split to Hvar to Dubrovnik",
+      "confidence": "high"
+    },
+    {
+      "batch": 9,
+      "packet_index": 4,
+      "handle": "@sunkissedblonde.travels",
+      "title": "One Day in Split",
+      "confidence": "high"
+    },
+    {
+      "batch": 9,
+      "packet_index": 9,
+      "handle": "@fatinrsyfqh",
+      "title": "6D5N Sydney Itinerary",
+      "confidence": "high"
+    },
+    {
+      "batch": 9,
+      "packet_index": 11,
+      "handle": "@naturevoyagesdecouvertes",
+      "title": "Six Days in the Verdon",
+      "confidence": "high"
+    },
+    {
+      "batch": 9,
+      "packet_index": 13,
+      "handle": "@em.layne_",
+      "title": "The perfect 10 day Mallorca itinerary",
+      "confidence": "high"
+    },
+    {
+      "batch": 9,
+      "packet_index": 16,
+      "handle": "@jetset_anna",
+      "title": "How to spend a week in Taiwan",
+      "confidence": "high"
+    },
+    {
+      "batch": 10,
+      "packet_index": 3,
+      "handle": "@vivianaaltea",
+      "title": "Lake Garda Busatte-Tempesta trail guide",
+      "confidence": "medium"
+    },
+    {
+      "batch": 10,
+      "packet_index": 4,
+      "handle": "@kim_bulan4",
+      "title": "One-day Ubud itinerary: ATV, coffee plantation, Tirta Empul, food stops",
+      "confidence": "high"
+    },
+    {
+      "batch": 10,
+      "packet_index": 7,
+      "handle": "@viajaland",
+      "title": "3-day Tingo Maria itinerary with full budget",
+      "confidence": "high"
+    },
+    {
+      "batch": 10,
+      "packet_index": 12,
+      "handle": "@ginacwiklinski",
+      "title": "Five-day French Riviera itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 10,
+      "packet_index": 15,
+      "handle": "@emilyyyybuchtel",
+      "title": "St. Elmo Ghost Town & Mt Princeton Hot Springs day trip (2.5 hours from Denver)",
+      "confidence": "high"
+    },
+    {
+      "batch": 10,
+      "packet_index": 16,
+      "handle": "@emilyyyybuchtel",
+      "title": "Bear Creek Lake Park day trip (under 1 hour from Denver)",
+      "confidence": "high"
+    },
+    {
+      "batch": 10,
+      "packet_index": 23,
+      "handle": "@vistanirish",
+      "title": "Cebu 3D2N itinerary",
+      "confidence": "high"
+    },
+    {
+      "batch": 11,
+      "packet_index": 1,
+      "handle": "@katieosheaaway",
+      "title": "California National Parks Road Trip",
+      "confidence": "high"
+    },
+    {
+      "batch": 11,
+      "packet_index": 3,
+      "handle": "@chloeconortravels",
+      "title": "Prague Day Itinerary",
+      "confidence": "high"
+    },
+    {
+      "batch": 11,
+      "packet_index": 11,
+      "handle": "@nathsway",
+      "title": "14-Day Southwest Australia Road Trip",
+      "confidence": "high"
+    },
+    {
+      "batch": 11,
+      "packet_index": 12,
+      "handle": "@de_knees__",
+      "title": "3D2N Beijing itinerary",
+      "confidence": "high"
+    },
+    {
+      "batch": 11,
+      "packet_index": 14,
+      "handle": "@adamrikys",
+      "title": "Cape Town TOP 10 list",
+      "confidence": "high"
+    },
+    {
+      "batch": 12,
+      "packet_index": 1,
+      "handle": "@darrenshavae",
+      "title": "7-Day Costa Rica Itinerary",
+      "confidence": "high"
+    },
+    {
+      "batch": 12,
+      "packet_index": 5,
+      "handle": "@seewithjosie",
+      "title": "Lake Como Day Trip from Milan",
+      "confidence": "high"
+    },
+    {
+      "batch": 12,
+      "packet_index": 7,
+      "handle": "@jasmine_lanae_",
+      "title": "Turks & Caicos family guide",
+      "confidence": "high"
+    },
+    {
+      "batch": 12,
+      "packet_index": 9,
+      "handle": "@gottabemaddy",
+      "title": "Barcelona + Paris budget itinerary",
+      "confidence": "high"
+    },
+    {
+      "batch": 12,
+      "packet_index": 10,
+      "handle": "@gottabemaddy",
+      "title": "St. Kitts 4-day/3-night budget plan",
+      "confidence": "high"
+    },
+    {
+      "batch": 12,
+      "packet_index": 18,
+      "handle": "@karenexplores",
+      "title": "10 Things to Do in Busan",
+      "confidence": "medium"
+    },
+    {
+      "batch": 12,
+      "packet_index": 21,
+      "handle": "@jetset.nicolette",
+      "title": "Yokohama & Tokyo Itinerary (Pt 2)",
+      "confidence": "medium"
+    },
+    {
+      "batch": 12,
+      "packet_index": 22,
+      "handle": "@beercutieandfoodie",
+      "title": "72 Hour Budget-Friendly Asheville Itinerary",
+      "confidence": "high"
+    },
+    {
+      "batch": 13,
+      "packet_index": 2,
+      "handle": "@asyatravels",
+      "title": "3-day Carmel, Big Sur and San Simeon itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 13,
+      "packet_index": 7,
+      "handle": "@zozomccormack",
+      "title": "Paris shopping guide",
+      "confidence": "medium"
+    },
+    {
+      "batch": 13,
+      "packet_index": 8,
+      "handle": "@marco.miglionico_",
+      "title": "14-day Patagonia itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 13,
+      "packet_index": 16,
+      "handle": "@jadecrawfordtravels",
+      "title": "Glencoe 10-stop travel guide",
+      "confidence": "medium"
+    },
+    {
+      "batch": 13,
+      "packet_index": 17,
+      "handle": "@emiporelmundo",
+      "title": "5-day Mexico City slow-travel itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 13,
+      "packet_index": 18,
+      "handle": "@docsammy.travels",
+      "title": "6-day four-city Japan itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 13,
+      "packet_index": 21,
+      "handle": "@christina.inthe.clouds",
+      "title": "3-day Lisbon itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 13,
+      "packet_index": 23,
+      "handle": "@travelexplore000",
+      "title": "6-day Bali itinerary",
+      "confidence": "high"
+    },
+    {
+      "batch": 14,
+      "packet_index": 3,
+      "handle": "@helloshayne_",
+      "title": "Five days in Da Nang and Hoi An",
+      "confidence": "medium"
+    },
+    {
+      "batch": 14,
+      "packet_index": 4,
+      "handle": "@jvwanderer",
+      "title": "Da Nang/Hoi An five-day route (JV)",
+      "confidence": "low"
+    },
+    {
+      "batch": 14,
+      "packet_index": 7,
+      "handle": "@_travelcuriosity_",
+      "title": "Two-day Abruzzo route",
+      "confidence": "high"
+    },
+    {
+      "batch": 14,
+      "packet_index": 8,
+      "handle": "@travelwithtolu",
+      "title": "Five days in Seoul",
+      "confidence": "high"
+    },
+    {
+      "batch": 14,
+      "packet_index": 11,
+      "handle": "@wander_j",
+      "title": "Seoul first-timer itinerary",
+      "confidence": "low"
+    },
+    {
+      "batch": 14,
+      "packet_index": 16,
+      "handle": "@bontraveler",
+      "title": "Northern California coast road trip (4 days / 3 nights)",
+      "confidence": "high"
+    },
+    {
+      "batch": 14,
+      "packet_index": 17,
+      "handle": "@dnvrchoi",
+      "title": "Five days in Taipei",
+      "confidence": "medium"
+    },
+    {
+      "batch": 14,
+      "packet_index": 19,
+      "handle": "@_jessiecarr",
+      "title": "Samoa itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 14,
+      "packet_index": 23,
+      "handle": "@heyoleahpinay",
+      "title": "Siargao day trip",
+      "confidence": "low"
+    },
+    {
+      "batch": 14,
+      "packet_index": 24,
+      "handle": "@aprylwanders",
+      "title": "Windsor in 48 Hours",
+      "confidence": "high"
+    },
+    {
+      "batch": 15,
+      "packet_index": 1,
+      "handle": "@wanderlustchloe",
+      "title": "Calabria Itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 15,
+      "packet_index": 2,
+      "handle": "@insidetravellab",
+      "title": "Morocco Itinerary",
+      "confidence": "low"
+    },
+    {
+      "batch": 15,
+      "packet_index": 3,
+      "handle": "@araioflight",
+      "title": "Portland to San Francisco Road Trip: Best Stops",
+      "confidence": "medium"
+    },
+    {
+      "batch": 15,
+      "packet_index": 6,
+      "handle": "@travelingspud",
+      "title": "Southern Idaho Road Trip: Best Way to See Various Landscapes",
+      "confidence": "high"
+    },
+    {
+      "batch": 16,
+      "packet_index": 0,
+      "handle": "@bucketlistly",
+      "title": "Costa Rica Backpacking Itinerary",
+      "confidence": "high"
+    },
+    {
+      "batch": 17,
+      "packet_index": 1,
+      "handle": "@thepinaysolobackpacker",
+      "title": "PUERTO PRINCESA ITINERARY + BUDGET TRAVEL GUIDE 2026",
+      "confidence": "high"
+    },
+    {
+      "batch": 18,
+      "packet_index": 0,
+      "handle": "@absolutelylucy",
+      "title": "5 Day Boston Itinerary for First-Timers",
+      "confidence": "high"
+    },
+    {
+      "batch": 18,
+      "packet_index": 1,
+      "handle": "@sarowly",
+      "title": "Amalfi Coast 5-Day Itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 18,
+      "packet_index": 5,
+      "handle": "@girlonahike",
+      "title": "Clayton Peak via Guardsmans Pass: Day Hike",
+      "confidence": "high"
+    },
+    {
+      "batch": 19,
+      "packet_index": 0,
+      "handle": "@jessica_traveler",
+      "title": "Where to Go in Corsica - A Two Week Itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 19,
+      "packet_index": 1,
+      "handle": "@marissa.daily",
+      "title": "San Francisco Itinerary: 7 Days of Food, Culture & Bay Views",
+      "confidence": "high"
+    },
+    {
+      "batch": 19,
+      "packet_index": 3,
+      "handle": "@liveloveruntravel",
+      "title": "Best Things to Do in Portsmouth NH - Day Trip Itinerary",
+      "confidence": "medium"
+    },
+    {
+      "batch": 19,
+      "packet_index": 8,
+      "handle": "@tomiko.harvey",
+      "title": "Is Cancun Safe? Cancun Travel Warning Guide (2026)",
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "packet_index": 0,
+      "handle": "@dangerousbiz",
+      "title": "A Realistic 5 Days in Kyoto Itinerary for Your First Japan Trip",
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "packet_index": 2,
+      "handle": "@jayneytravels",
+      "title": "Weekend Guide to Linz & the Donau Region",
+      "confidence": "medium"
+    },
+    {
+      "batch": 20,
+      "packet_index": 4,
+      "handle": "@michaelturtle",
+      "title": "Three Days in Athens Itinerary",
+      "confidence": "low"
+    },
+    {
+      "batch": 20,
+      "packet_index": 5,
+      "handle": "@triphackr",
+      "title": "Now Is the Time to Discover El Salvador: Sample 5-Day Route from Coco Surf",
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "packet_index": 7,
+      "handle": "@tourdelust",
+      "title": "Istanbul Travel Guide: 3-Day Itinerary",
+      "confidence": "low"
+    },
+    {
+      "batch": 20,
+      "packet_index": 14,
+      "handle": "@em_luxton",
+      "title": "South Cornwall Travel Guide: Mevagissey & Around (3-4 day itinerary)",
+      "confidence": "high"
+    },
+    {
+      "batch": 20,
+      "packet_index": 18,
+      "handle": "@kirstenalana",
+      "title": "How to Spend Two Nights in San Luis Obispo",
+      "confidence": "high"
+    }
+  ]
+}

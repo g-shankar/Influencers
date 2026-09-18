@@ -1,0 +1,22 @@
+Batch 13 consolidated state (2026-09-17, coordinator) — for batch-13 closer worker.
+
+12 CANDIDATES (reach >=10K verified 2026-09-17, dedup-clear; need content-fit + extraction):
+@kawaiiicoco, @kirstenwendlandt, @asyatravels, @amomexplores, @japantravelbasics,
+@nessahuangg (first claim b13), @lifeofthetravelingpin, @zozomccormack,
+@wherejesstravels, @marco.miglionico_, @findingalexxtravel, @barefoot.blaze (46K, individual per coordinator profile open)
+
+3 NEW LEADS (need full verification: reach, identity, dedup, content-fit, extraction):
+@thisatravels — Sri Lanka 7-day; video 7597466346220174594 (~Feb 2026); "2x award-winning travel writer"
+@gabstraveljournal — "7-Day Egypt Itinerary for First Timers"; video 7592047605551484191 (~Jan 2026); Day 1-7 in snippet; individual voice (Gab)
+@explorewithmairy — Mairy | Travel & Lifestyle; "Colombia 10 day itinerary"; 100.3K likes; 7455375288315268385
+
+CONFIRMED REJECTS (do not select):
+@aureliestoryy — couple/dual identity (@aureandysee = "Auré & Ysée")
+@voyagefox — dedup (@voyagefox_ line 295) + couple/business ambiguity
+@livingourmemories — couple (b10 reject)
+@maddiefreemann — BANKED by batch 9
+@detouristahq — in dedup universe (b9 + b14 rejects)
+@dearandrea_ — in dedup universe (below floor 4,272)
+@amys.camera.lens, @jvwanderer, @travelwithtolu, @theufuoma, @shelbyreickstravels, @ioviaggiosola45, @amymarietta, @marianawengorovius, @markodea8 — BANKED by batch 14
+@madisonbrookstravel, @jasmine_lanae_, @everydropoftia — claimed by batch 12
+@trendytraveler — BANKED by batch 9

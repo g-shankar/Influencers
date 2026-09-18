@@ -43,23 +43,102 @@
       "batch": 7,
       "status": "PASS",
       "extractions": 25,
-      "itineraries": 31
+      "itineraries": 29
     },
     {
       "batch": 8,
       "status": "PASS",
       "extractions": 25,
       "itineraries": 9
+    },
+    {
+      "batch": 9,
+      "status": "PASS",
+      "extractions": 20,
+      "itineraries": 20
+    },
+    {
+      "batch": 10,
+      "status": "PASS",
+      "extractions": 21,
+      "itineraries": 24
+    },
+    {
+      "batch": 11,
+      "status": "PASS",
+      "extractions": 16,
+      "itineraries": 16
+    },
+    {
+      "batch": 12,
+      "status": "PASS",
+      "extractions": 25,
+      "itineraries": 26
+    },
+    {
+      "batch": 13,
+      "status": "PASS",
+      "extractions": 24,
+      "itineraries": 25
+    },
+    {
+      "batch": 14,
+      "status": "PASS",
+      "extractions": 25,
+      "itineraries": 27
+    },
+    {
+      "batch": 15,
+      "status": "PASS",
+      "extractions": 16,
+      "itineraries": 7
+    },
+    {
+      "batch": 16,
+      "status": "PASS",
+      "extractions": 6,
+      "itineraries": 3
+    },
+    {
+      "batch": 17,
+      "status": "PASS",
+      "extractions": 9,
+      "itineraries": 3
+    },
+    {
+      "batch": 18,
+      "status": "PASS",
+      "extractions": 9,
+      "itineraries": 8
+    },
+    {
+      "batch": 19,
+      "status": "PASS",
+      "extractions": 12,
+      "itineraries": 13
+    },
+    {
+      "batch": 20,
+      "status": "PASS",
+      "extractions": 18,
+      "itineraries": 19
     }
   ],
   "errors": [],
   "warnings": [
     "batch6[20].itineraries[0]: possible duplicate title+destination within batch",
+    "staging/WAVE3b_batch10_output_2026-09-17.json: non-canonical file ignored by gates",
+    "staging/WORKING_batch10_candidates_2026-09-17.json: non-canonical file ignored by gates",
+    "staging/batch10_dedup_universe.json: non-canonical file ignored by gates",
+    "staging/batch10_verified_7_handoff.json: non-canonical file ignored by gates",
+    "staging/engagement_remediation_groupD_edit_report_2026-09-17.json: non-canonical file ignored by gates",
     "staging/itineraries_batch9_replacements.json: non-canonical file ignored by gates",
     "staging/itineraries_ig_slot_2026-09-17.json: non-canonical file ignored by gates",
     "staging/itineraries_replacements3_2026-09-16.json: non-canonical file ignored by gates",
     "staging/itineraries_replacements_2026-09-16.json: non-canonical file ignored by gates",
     "staging/itineraries_replacements_ig_2026-09-16.json: non-canonical file ignored by gates",
-    "staging/itineraries_replacements_tiktok_2026-09-16.json: non-canonical file ignored by gates"
+    "staging/itineraries_replacements_tiktok_2026-09-16.json: non-canonical file ignored by gates",
+    "staging/restore_queue_2026-09-17.json: non-canonical file ignored by gates",
+    "staging/wave3_batch11_queue.json: non-canonical file ignored by gates"
   ]
 }

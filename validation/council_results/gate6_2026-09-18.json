@@ -1,0 +1,28 @@
+{
+ "gate": 6,
+ "name": "money firewall / prohibited framing",
+ "status": "PASS",
+ "date": "2026-09-18",
+ "texts_scanned": 9049,
+ "raw_regex_hits": 17,
+ "false_positives": [
+  {
+   "kind": "disclaimer self-match",
+   "detail": "Slide 2 text 'It contains no projections, no recommendations, and no calls to action' matched the words 'projections'/'recommendations' \u2014 the deck's own money-firewall disclaimer, not a violation."
+  },
+  {
+   "kind": "verbatim creator titles",
+   "detail": "Dollar figures appear only inside quoted creator itinerary titles from pilot.db ('How to Visit 15 European Cities for less than $350/\u00a3300', '5-day Scotland itinerary (under $1,000)', 'How far does $100 get you in Lombok') \u2014 factual reporting of collected titles, not report economics."
+  },
+  {
+   "kind": "travel-tips sense of 'recommendations'",
+   "detail": "'Ireland scenic-drive guides + recommendations map' and 'Taiwan travel recommendations (Nataly & Murad Osmann)' are creator content titles about travel tips, not business recommendations by the report."
+  },
+  {
+   "kind": "person name",
+   "detail": "'Will Hatton' excluded as before."
+  }
+ ],
+ "violations": [],
+ "note": "Deterministic scan of all 50 deck slides and every workbook cell. No report-authored dollar figures, projections, recommendations, CTAs, sales language, or commercial framing. Economics remain parked per the money firewall."
+}

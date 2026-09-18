@@ -2,9 +2,9 @@
   "gate": 3,
   "name": "source liveness",
   "status": "PASS",
-  "itineraries_checked": 189,
-  "urls_checked": 222,
-  "urls_reachable": 210,
+  "itineraries_checked": 378,
+  "urls_checked": 412,
+  "urls_reachable": 397,
   "dead_itineraries": [],
   "overridden_script_false_negatives": [
     {
@@ -130,9 +130,43 @@
         "https://www.lemon8-app.com/sightsofsara/7220679971399287301?region=us": null
       },
       "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 4,
+      "handle": "@themomtrotter",
+      "title": "Utah National Parks + Southwest RV Road Trip with Kids",
+      "verified_by_manual_browser_fetch": [
+        "https://themomtrotter.com/utah-national-parks-southwest-road-trip/"
+      ],
+      "script_statuses": {
+        "https://themomtrotter.com/utah-national-parks-southwest-road-trip/": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
+    },
+    {
+      "batch": 4,
+      "handle": "@themomtrotter",
+      "title": "St. Croix Family Itinerary",
+      "verified_by_manual_browser_fetch": [
+        "https://themomtrotter.com/things-to-do-in-st-croix/"
+      ],
+      "script_statuses": {
+        "https://themomtrotter.com/things-to-do-in-st-croix/": null
+      },
+      "evidence_file": "validation/reports/gate3_override_evidence.json"
     }
   ],
   "url_results": {
+    "http://joansfootprints.com/2025/02/18/bicol-backpacking-catanduanes-albay-sorsogon-ultimate-diy-itinerary-for-first-timers/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "http://lattesnluggage.com/2025/04/07/your-ultimate-travel-guide-to-key-west-florida/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "http://orlaghclaire.com/travel/a-9-day-road-trip-across-the-east-coast-of-america-travel-route/": {
       "status": 200,
       "error": null,
@@ -163,6 +197,21 @@
       "error": null,
       "reachable": true
     },
+    "https://absolutelylucy.com/5-day-boston-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://adilmusa.com/kuala-lumpur-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://adventuresfromelle.com/2026/07/10/orlando-florida-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://africansafari.co.in/4-days-kenyas-golden-safari-circuit-rift-valley-lakes-the-wild-mara/": {
       "status": 200,
       "error": null,
@@ -173,7 +222,22 @@
       "error": null,
       "reachable": true
     },
+    "https://amymarietta.com/ultimate-belgium-itinerary-best-things-to-do-in-brussels-bruges-ghent/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://angieaway.com/2026/07/20/things-to-do-in-ridgeland-mississippi/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://asiatravel.com.np/Trekking/Royal_Trek_-_7_Days.htm": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://bucketlistjourney.net/oaxaca-mexico-itinerary/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -208,10 +272,25 @@
       "error": null,
       "reachable": true
     },
+    "https://expertvagabond.com/ring-road-trip-iceland/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://farfetch.com/me/style-guide/destination-style/travelling-to-taiwan-with-nataly-murad-osmann/": {
       "status": null,
       "error": "HTTPError: HTTP Error 403: Forbidden",
       "reachable": false
+    },
+    "https://findingalexx.com/10-day-switzerland-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://findingalexx.com/alonissos-greece-travel-guide/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
     },
     "https://finduslost.com/cotswolds-england-7-day-itinerary-first-time-visitors/": {
       "status": 200,
@@ -224,6 +303,11 @@
       "reachable": true
     },
     "https://fivefortheroad.com/london-paris-itinerary-with-kids/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://girlonahike.com/clayton-peak.html": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -243,6 +327,26 @@
       "error": null,
       "reachable": true
     },
+    "https://globetrottergirls.com/48-hours-in-austin-texas/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://gracefkim.com/10-day-guatemala-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://haileyoutside.com/7-days-costa-rica-itinerary-costa-rica-with-kids/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://happytowander.com/western-europe-backpacking-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://heleneinbetween.com/2026/01/walking-the-cotswold-way-full-guide-everything-you-need-to-know.html": {
       "status": 200,
       "error": null,
@@ -254,6 +358,16 @@
       "reachable": true
     },
     "https://holrmagazine.com/borneo-emmett-sparling/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://iamaileen.com/about/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://iamaileen.com/tokyo-itinerary/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -274,6 +388,11 @@
       "reachable": true
     },
     "https://izea.com/resources/tiktok-travel-influencers/": {
+      "status": null,
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "reachable": false
+    },
+    "https://jayneytravels.com/weekend-guide-to-linz-the-donau-region-upper-austria/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -308,17 +427,47 @@
       "error": null,
       "reachable": true
     },
+    "https://kirstenalana.com/travel/san-luis-obispo/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://kirstenwendlandt.com/magical-christmas-towns-in-ontario/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://lakshmisharath.com/sunderbans-beyond-the-tiger-local-experiences/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://lalarebelo.com/belize/": {
       "status": 200,
       "error": null,
       "reachable": true
     },
-    "https://laxtoluxury.com/four-day-fall-foliage-itinerary/": {
+    "https://lattesnluggage.com/2026/04/03/best-place-to-stay-in-berlin/": {
       "status": 200,
       "error": null,
       "reachable": true
     },
+    "https://laxtoluxury.com/four-day-fall-foliage-itinerary/": {
+      "status": 202,
+      "error": null,
+      "reachable": true
+    },
     "https://letravelstyle.com/california-road-trip-itinerary-10-days/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://liveloveruntravel.com/best-things-to-do-in-portsmouth-nh-day-trip/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://lolahubner.com/blogs/travel/7-day-hawaii-itinerary-maui-oahu": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -343,6 +492,11 @@
       "error": null,
       "reachable": true
     },
+    "https://mikesroadtrip.com/phoenix-to-colorado-springs-road-trip-guide/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://mletraveldiary.com/destinations/santa-barbara-day-trip-itinerary/": {
       "status": 200,
       "error": null,
@@ -353,17 +507,12 @@
       "error": null,
       "reachable": true
     },
-    "https://mylifesamovie.com/best-things-to-do-in-trinidad-and-cienfuegos/": {
-      "status": 200,
-      "error": null,
-      "reachable": true
-    },
-    "https://mylifesamovie.com/ultimate-balkans-roadtrip-travel-guide/": {
-      "status": 200,
-      "error": null,
-      "reachable": true
-    },
     "https://neoreach.com/tiktok-travel/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://nessahuangg.com/7-day-hong-kong-itinerary/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -383,12 +532,22 @@
       "error": null,
       "reachable": true
     },
+    "https://passportsandgrub.com/is-cancun-safe-cancun-travel-warning/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://rileejsmith.com/guide/barcelona": {
       "status": 200,
       "error": null,
       "reachable": true
     },
     "https://rileejsmith.com/guide/croatia": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://sarowly.me/blog/amalficoasttravelguide": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -409,6 +568,11 @@
       "reachable": true
     },
     "https://simply-slow-traveler.com": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://sinahsstories.com/2025/05/30/ultimate-puglia-7-day-itinerary/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -438,12 +602,32 @@
       "error": null,
       "reachable": true
     },
-    "https://themomtrotter.com/things-to-do-in-st-croix/": {
+    "https://themarissadaily.com/2025/08/19/7-day-san-francisco-itinerary-where-to-eat-explore-experience-the-city/": {
       "status": 200,
       "error": null,
       "reachable": true
     },
+    "https://themobilehomie.com/pacific-northwest-road-trip/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://themomtrotter.com/things-to-do-in-st-croix/": {
+      "status": null,
+      "error": "TimeoutError: The read operation timed out",
+      "reachable": false
+    },
     "https://themomtrotter.com/utah-national-parks-southwest-road-trip/": {
+      "status": null,
+      "error": "TimeoutError: The read operation timed out",
+      "reachable": false
+    },
+    "https://thepinaysolobackpacker.com/puerto-galera-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://thepinaysolobackpacker.com/puerto-princesa-itinerary/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -458,12 +642,27 @@
       "error": null,
       "reachable": true
     },
+    "https://thereshegoesagain.org/tenerife-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://theslowtraveler.net/airlie-beach-to-port-douglas-road-trip/": {
       "status": 200,
       "error": null,
       "reachable": true
     },
     "https://theslowtraveler.net/epic-3-day-road-trip-along-the-great-ocean-road/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://thetravelbunny.com/china-itinerary-sichuan/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://theufuoma.com/a-travel-guide-to-belize-things-to-see-do-experience/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -483,7 +682,17 @@
       "error": null,
       "reachable": true
     },
+    "https://tourdelust.com/istanbul-travel-guide-3-day-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://travelbabbo.com/six-asian-countries-with-kids/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://traveldave.co.uk/louisiana-road-trip-itinerary/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -493,8 +702,23 @@
       "error": null,
       "reachable": true
     },
+    "https://travelingblackwidow.com/perfect-itinerary-pensacola-vacation/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://travelingmel.com/iceland-without-a-car-based-in-reykjavik/": {
-      "status": 202,
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://travellikejessie.com.au": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://travelsofsarahfay.com/3-days-in-barbados/": {
+      "status": 200,
       "error": null,
       "reachable": true
     },
@@ -504,6 +728,11 @@
       "reachable": true
     },
     "https://travelynnfamily.com/indonesia-with-kids-java-bali-and-lombok/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://triphackr.com/now-is-the-time-to-discover-el-salvador/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -578,12 +807,22 @@
       "error": null,
       "reachable": true
     },
+    "https://vickyflipfloptravels.com/7-day-tokyo-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://wheresachi.com/discover-istanbul-an-ultimate-4-days-itinerary/": {
       "status": 200,
       "error": null,
       "reachable": true
     },
     "https://wheresachi.com/spiritual-itinerary-to-varanasi/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://wheretarawent.com/blog/albania-itinerary": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -608,12 +847,37 @@
       "error": null,
       "reachable": true
     },
+    "https://www.alexiszotos.com/blog-posts/7-spring-break-itineraries-in-st-louis-where-to-eat-drink-explore": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.amyenvoyage.com/best-things-to-do-in-helsinki-4-day-itinerary-hidden-gems/": {
       "status": 200,
       "error": null,
       "reachable": true
     },
+    "https://www.araioflight.com/drive-portland-to-san-francisco-road-trip-best-stops/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.bigworldsmallpockets.com/one-day-bordeaux-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.bontraveler.com/a-three-night-road-trip-on-northern-californias-coast/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.bucketlistly.blog/posts/costa-rica-backpacking-itinerary": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.camelsandchocolate.com/best-things-to-do-in-tupelo-mississippi/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -643,6 +907,31 @@
       "error": null,
       "reachable": true
     },
+    "https://www.dangerous-business.com/5-days-in-kyoto-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.emilyluxton.co.uk/south-cornwall-mevagissey-travel-guide/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.girlgoneabroad.com/blog/tromso-northern-lights-guide-with-photography-tips": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.gottabemaddy.com/post/budget-travel-under-1200-how-to-plan-a-vacation-to-st-kitts-on-a-budget": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.insidethetravellab.com/morocco-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.instagram.com/p/DdIDOj4iUn2/": {
       "status": 200,
       "error": null,
@@ -663,7 +952,17 @@
       "error": null,
       "reachable": true
     },
+    "https://www.minoritynomad.com/blog/a-locals-bangkok-luxury-hotel-guide": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.my-travelmonkey.com/3-day-istanbul-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.myfeetwillleadme.com/where-to-go-in-corsica-a-two-week-itinerary/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -749,7 +1048,7 @@
       "reachable": false
     },
     "https://www.the5worldexplorers.com/5-days-in-hong-kong/": {
-      "status": 200,
+      "status": 202,
       "error": null,
       "reachable": true
     },
@@ -798,6 +1097,21 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@_cocoylim/video/7617345387824778503": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@_jessiecarr/photo/7625999250861837586": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@_travelcuriosity_/video/7648666157196610849": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@abdulwanders/video/7644887247384349985": {
       "status": 200,
       "error": null,
@@ -808,7 +1122,37 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@adamrikys/video/7547318284329225479": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@adell.explores/video/7525487843072451478": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@aintthattobi/video/7596144003909799188": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@ally.porz/video/7588563559219465502": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@alynnavalbuena/video/7524199296187632903": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@amandanaviagem/video/7638748083026660616": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@amomexplores/video/7427141383615614254": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -818,7 +1162,82 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@amymarietta/video/7605805860270443807": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@amys.camera.lens/video/7628166285691555092": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@anna.utazik/video/7614838109192097046": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@annagroessl/photo/7615865157205380374": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@anniesbucketlist/video/7488504185252613394": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@antavialauren/video/7488843573119536415": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@aprylwanders/video/7502510378634262": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@ashlaygoose/video/7575342985991195959": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@asyatravels/video/7596373989673405727": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@audris_lim/video/7608301243190103309": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@axelletaniegi_travel/video/7637136004633120022": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@barefoot.blaze/video/7514575758677839122": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@beercutieandfoodie/video/7568188871935053111": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@benihunyadi2/video/7598238391964126486": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@biancainmelbourne/video/7511630127042743559": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@brittany.erekson/video/7622442568562855182": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -833,7 +1252,62 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@catchagypsea/video/7559954654868589835": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@charlieonhistravels/video/7613079975113035030": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@charlieonhistravels/video/7625324292930129174": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@chloeconortravels/video/7594054954680126742": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@christian.the.creative/video/7680272896685575438": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@christina.inthe.clouds/video/7628897750796602646": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@corrin7/video/7600937054180085023": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@daniellestravelblog/video/7604623136306253078": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@darrenshavae/video/7523587289868455181": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@daveguino/video/7622215325941009671?_r=1&_d=secCgYIASAHKAESPgo8DPrCK6IAPzUFFjo4Q6W%2F9TpaPu80k2YvtgqdgMkw93LQLXSG6l81tPeBZsKKS%2FITvJqzWYCYfA1h1ByMGgA%3D&_svg=1&checksum=7500f70801a7003ccbd2028cba417fe5a8a73b3dab3962ae1dc0143af5f65dc3&item_author_type=2&link_reflow_popup_iteration_sharer": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@de_knees__/video/7638622335053909268?_r=1&_d=secCgYIASAHKAESPgo8KRahB7WIOrjLq%2FJf9g6KgimGQ7ZKzczFRj6I9NYswse9A7V9X31UQ%2F%2BhYG9AugYowc156XrJaYqcQ0yWGgA%3D&_svg=1&biz_cover_on=1&checksum=7e11e0dadef0b0de69fb08f6077080e4dfbb8a5b483b2750a2064e997526f2a2&item_author_type=2&link_reflow_popup_iteration_sharer=%7B%22follow_to_play_duration%22%3A-1%2C%22dynamic_cover%22%3A1%2C%22profile_clickable%22%3A1%7D&mid=7638622449101261576&preview_pb=0&reflow_page_type=1&reflow_sign_scene=1&region=SG&rgssign=2.1.6aS3j0JJHrk_3j9wij-U&sec_user_id=MS4wLjABAAAAFK2FjJMIm-v2t0UKeoFZbtNeKtQtv47MM1KaGwNLznt3p-P0iGkp9wvxUJWookeW&share_app_id=1180&share_item_id=7638622335053909268&share_link_id=B5CE3F97-701D-4DB2-ACEB-A50BF9C897F1&share_region=SG&share_scene=2&sharer_language=en&social_share_type=0&source=h5_t&sp_level=1&sp_root_d=secCgYIASAHKAESPgo8KRahB7WIOrjLq%2FJf9g6KgimGQ7ZKzczFRj6I9NYswse9A7V9X31UQ%2F%2BhYG9AugYowc156XrJaYqcQ0yWGgA%3D&sp_root_share_link_id=B5CE3F97-701D-4DB2-ACEB-A50BF9C897F1&sp_root_u=e669jma2l7l57g&timestamp=1778696969&tt_from=facebook&u_code=e669jma2l7l57g&ug_btm=b2001&user_id=7194122490075022337&utm_campaign=client_share&utm_medium=ios&utm_source=facebook": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@deccadotcom/video/7582695666606935326": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -843,7 +1317,52 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@divyadiscovers/video/7556626430650617118": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@dnvrchoi/photo/7613765932393008405": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@docsammy.travels/video/7586235903945772296": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@dwanders/video/7513684450497006904": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@elisetanriverdi/video/7538009994608856342": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@em.layne_/video/7509227042664221983": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@emilyyyybuchtel/video/7638309365354679583": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@emilyyyybuchtel/video/7638769919563205918": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@emilyyyybuchtel/video/7639991478495759647": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@emiporelmundo/video/7618732410192006430": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -853,7 +1372,17 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@eralevich/video/7525598971625000210": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@evapzc/video/7682434874808028448": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@everydropoftia/video/7596642470528617750": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -878,6 +1407,41 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@explorinwithnic/video/7607945794917879062": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@fatinrsyfqh/video/7602975009719471376": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@findingalexxtravel/video/7475540148290243847": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@findingalexxtravel/video/7479148926852025607": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@findingfiona/video/7644261805547719949": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@ginacwiklinski/photo/7606448536602856711": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@ginacwiklinski/photo/7641692886282620168": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@gokylahgo/video/7685523563368942862": {
       "status": 200,
       "error": null,
@@ -888,7 +1452,17 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@gottabemaddy/video/7579341295160708365": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@heleneinbetween/video/7606063553845431566": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@helloshayne_/video/7543960475990592769": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -898,7 +1472,52 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@heyoleahpinay/video/7634813667724315926": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@himemet/video/7626729068020485384": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@hudsonandemily/video/7619036734390553874?_r=1&_d=secCgYIASAHKAESPgo8ovXHD7NaPo7riw5R7iWLZyHpzGuBlmmhFccgpnHwo84XV7mk23r%2FWdbI745LVuemWk%2FqnKJ7s70FETfdGgA%3D&_svg=1&checksum=0cb32fccaa648231d422b40f0d0eb980ede8084b3747b2783f5ac3a262e4b6e7&item_author_type=2&link_reflow_popup_iteration_s": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@ioviaggiosola45/video/7622308775302630679": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@irisabv/video/7602633461878295830": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@itsalyssablake/video/7635292542468132109": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@jadecrawfordtravels/video/7585870795721706774": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@japantravelbasics/video/7608893409436192001": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@jasmine_lanae_/video/7612380372273270046": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@jens.in.amsterdam/video/7574519878204362017": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -908,7 +1527,47 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@jetlagjana/video/7588227245353782550?_r=1&_d=secCgYIASAHKAESPgo8UL80AOBHkIRpwSp%2BQEbpx3uMGQcZr%2FKpBU92E891mFgOQZcPLVDL5IIDdMRulhsdp6XNGTYhALUWpvVaGgA%3D&_svg=1&checksum=f9b8869da6700731a3ba0a86e43897aa157bac665f5ae6e1e7ae2a72ce5f1881&enable_card_refactor=1&item_author_type=2&link_ref": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@jetset.nicolette/video/7533314121530346807": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@jetset_anna/video/7667150847817567510": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@juliatraveltips/video/7597870726225448214": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@justatinabit/video/7630539018224045325": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@jvwanderer/video/7613120581881318677": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@karenexplores/video/7475306178168376583": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@katieosheaaway/video/7536275089478651167": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@kawaiiicoco/video/7634412121131879693": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -918,12 +1577,37 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@kevindroniak/video/7644279500557143310": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@kim_bulan4/video/7543998408571243796": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@kristinacors/video/7620248311236152606": {
       "status": 200,
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@laagendademile/video/7585751562161622292": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@lauravogelle/video/7495774131200232734": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@lexxhidalgo/video/7648002741138148621": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@lifeofthetravelingpin/video/7480394699061284142": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -938,12 +1622,42 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@lorrainestravels/photo/7425707402408021251": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@lostleblanc/video/7394475609621056775": {
       "status": 200,
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@lucyinthesskyy/video/7612631506153999638": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@maddiefreemann/video/7569652080261008662": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@madisonbrookstravel/video/7580531799017770253": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@makisantos_/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@marco.miglionico_/video/7608041596633845006": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@marianawengorovius/video/7620460271911390496": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -963,7 +1677,57 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@markodea8/video/7599983438338379029": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@marymatheustraveler/video/7567550908217773343": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@mauriliomask/video/7627512158699408660": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@meghanorourkee/video/7438522433746881835": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@mellicorreia/photo/7618032677966482709": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@mgtenazas/video/7298644410747620641": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@mikoaroundtheworld/video/7541759222753660167": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@mindyonthemove/video/7678070509019467039": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@minywander/video/7636776828895497503": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@nathsway/photo/7595814757915954439": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@naturevoyagesdecouvertes/video/7437072937846443296": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -983,6 +1747,21 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@outdoorswithlau/video/7607885107382275350": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@pang__bang/video/7635018195757272334": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@pointstopointtravel/video/7573477725353135373": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@postcardsbyhannah/": {
       "status": 200,
       "error": null,
@@ -993,7 +1772,47 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@quingable/video/7428021254650645791": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@renee.roaming/video/7606790109979102478": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@ridewithmari/video/7604413882647448855": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@samrculley/video/7473183593674607894": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@sandymakessense/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@sarah.rh.bashir/video/7634256652715298055": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@seewithjosie/video/7631669355092233494": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@shelbyreickstravels/video/7574488768208571679": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@sherlaolivia_/video/7559999522412301623": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -1018,7 +1837,42 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@sivanstravels/video/7588281592616094989": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@skylietravels/video/7685861774561791263": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@somay.mekdi/video/7624855363052997908": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@sonhealtoviagens/video/7609058815115382034": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@staysandgetaways/video/7632773916057947406": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@sunkissedblonde.travels/video/7606473972049349910": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@tavernatravels/video/7542311550212787487": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@taytakesatrip/video/7496957767614352683": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -1028,12 +1882,27 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@thescenicpassport/video/7528975870283877646?_r=1&_d=secCgYIASAHKAESPgo8LEKBZA4pwD9omYZDfuvByYyvneXIqndIHMxQfeR1I4LuK9HwwlaH3JPvsUC2vxwGsdQwB%2BekmvutiU16GgA%3D&_svg=3&checksum=40069de2ab5d1ca4a76667b94a17f4d0a2e27cd76c08dae04d813d46625a0f47&link_reflow_popup_iteration_sharer=%7B%22click_empty_to_play%22%3A1%2C%22dynamic_cover%22%3A1%2C%22follow_to_play_duration%22%3A-1%7D&preview_pb=0&sec_user_id=MS4wLjABAAAAFj9nCFTJnX3e7XqSDFnbb6hfVYkQX_PM-dDggeg6S_-Bx8P_p93fCOfrADP3ekxh&share_app_id=1233&share_item_id=7528975870283877646&share_link_id=17BF6B1A-929B-4616-9517-6439A8D81236&share_scene=2&sharer_language=en&social_share_type=0&source=h5_m&timestamp=1754449689&tt_from=facebook&u_code=eehecaf5ji745b&ug_btm=b2001&user_id=7380113995082122283": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@thoughtsofatraveller/video/7615679617436978434": {
       "status": 200,
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@tom/video/7599581935580482837": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@travelcheapwithchloe/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@travelexplore000/photo/7582882228896599329": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -1048,7 +1917,22 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@travelwithtolu/video/7638480524952079638": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@travelwithveronicca/video/7633894081160088854": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@trendytraveler/video/7560439800738663693": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@trinarivasss/video/7615913058765933842": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -1063,7 +1947,32 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@tzatchickie/video/7610847293901688097": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.tiktok.com/@uktravel/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@valkengoedtravel/photo/7602549629825142049": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@vannytelly/video/7585058634669903124": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@viajaland/video/7640281987332279573": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@vistanirish/video/7522024214480604424": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -1074,6 +1983,16 @@
       "reachable": true
     },
     "https://www.tiktok.com/@vitortrip/photo/7604583232327175446": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@vivianaaltea/video/7620505376185650454": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@wander_j/video/7592914241741458695": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -1098,12 +2017,62 @@
       "error": null,
       "reachable": true
     },
+    "https://www.tiktok.com/@whitneyelle_/video/7612619256848518414": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@xploredd/video/7617873802474573077": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.tiktok.com/@zozomccormack/video/7631632559805451528": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.timetravelturtle.com/greece/three-days-in-athens-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
     "https://www.travelandleisureasia.com/in/people/interview-with-murad-and-nataly-osmann-of-followmeto-series/": {
       "status": 200,
       "error": null,
       "reachable": true
     },
+    "https://www.travelingspud.com/the-ultimate-southern-idaho-road-trip-itinerary/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.travelrealizations.com/2-day-mount-shasta-itinerary/": {
+      "status": 202,
+      "error": null,
+      "reachable": true
+    },
     "https://www.vagabondeadventures.com/outremer-45-falmari": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.voyagesetc.fr/destinations/europe/italie/toscane/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.voyagesetc.fr/visiter-toscane-en-7-jours-itineraire-detaille/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.wanderlustchloe.com/calabria-itinerary-italy/": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.wandersmiles.com/2-days-in-granada-spain/": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -1184,7 +2153,7 @@
       "reachable": true
     },
     "https://www.youtube.com/watch?v=BV7Phig5jn0": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
@@ -1194,11 +2163,16 @@
       "reachable": true
     },
     "https://www.youtube.com/watch?v=E_QHaXiCrZo": {
-      "status": 204,
+      "status": 200,
       "error": null,
       "reachable": true
     },
     "https://www.youtube.com/watch?v=KZxxi0_aIV0": {
+      "status": 200,
+      "error": null,
+      "reachable": true
+    },
+    "https://www.youtube.com/watch?v=_CjPKUlx-Ho": {
       "status": 200,
       "error": null,
       "reachable": true
@@ -1245,6 +2219,8 @@
     }
   },
   "errors": [],
-  "warnings": [],
+  "warnings": [
+    "batch4 @mgtenazas 'Maldives on a Budget: Local-Island Stays': 1 unreachable URL(s), 1 reachable"
+  ],
   "caveat": "UNREACHABLE means not fetchable by script (bot-blocking possible); the evidence council verifies these in a real browser before any waiver."
 }

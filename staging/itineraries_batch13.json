@@ -1,0 +1,1703 @@
+{
+  "batch": 13,
+  "extractions": [
+    {
+      "handle": "@kawaiiicoco",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "4-day Toyama itinerary",
+          "destination": "Toyama",
+          "summary": "Four-day Toyama, Japan itinerary with detailed daily stops, published as a TikTok video guide by Kawaii Coco.",
+          "country": "Japan",
+          "days": 4,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@kawaiiicoco/video/7634412121131879693"
+          ],
+          "items": []
+        }
+      ],
+      "notes": "Video stats at capture: 345,500 plays, 67,700 likes, 180 comments, 6,578 shares, 19,834 saves; create_time 1777525127. Day-by-day stops verified on the opened page; item-level detail not reconstructed \u2014 left empty rather than invented."
+    },
+    {
+      "handle": "@kirstenwendlandt",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Magical Christmas towns in Ontario road trip",
+          "destination": "Ontario",
+          "summary": "Structured Christmas-town road trip through Ontario covering Almonte, Perth, St. Jacobs and Stratford, with named stays, food stops and activities.",
+          "country": "Canada",
+          "days": null,
+          "confidence": "medium",
+          "source_urls": [
+            "https://kirstenwendlandt.com/magical-christmas-towns-in-ontario/"
+          ],
+          "items": [
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Almonte",
+              "location": "Ontario, Canada",
+              "details": "Christmas-town road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Perth",
+              "location": "Ontario, Canada",
+              "details": "Christmas-town road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "St. Jacobs",
+              "location": "Ontario, Canada",
+              "details": "Christmas-town road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Stratford",
+              "location": "Ontario, Canada",
+              "details": "Christmas-town road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Recency evidence: search index recorded 'Last Updated: 306 days ago' on 2026-09-17 (approx Nov 2025, after cutoff); the opened page body carries no visible date, so confidence is medium."
+    },
+    {
+      "handle": "@asyatravels",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "3-day Carmel, Big Sur and San Simeon itinerary",
+          "destination": "Big Sur",
+          "summary": "Three-day central California coast itinerary covering Carmel, Big Sur and San Simeon, with named stops, stays and restaurants.",
+          "country": "United States",
+          "days": 3,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@asyatravels/video/7596373989673405727"
+          ],
+          "items": [
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Carmel",
+              "location": "California, USA",
+              "details": "Coastal itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Big Sur",
+              "location": "California, USA",
+              "details": "Coastal itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "San Simeon",
+              "location": "California, USA",
+              "details": "Coastal itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "create_time 1768668664; 126,700 plays / 7,509 likes at capture. Stop order not retained; day left null."
+    },
+    {
+      "handle": "@amomexplores",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "7-day Scotland with kids itinerary",
+          "destination": "Scotland",
+          "summary": "Seven-day Scotland family itinerary: Edinburgh, the Glenfinnan Viaduct and Jacobite steam train, the Highlands, the Isle of Skye, Clava Cairns and Culloden.",
+          "country": "United Kingdom",
+          "days": 7,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@amomexplores/video/7427141383615614254"
+          ],
+          "items": [
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Edinburgh",
+              "location": "Scotland, UK",
+              "details": "Family itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Glenfinnan Viaduct and Jacobite steam train",
+              "location": "Scotland, UK",
+              "details": "Family itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Scottish Highlands",
+              "location": "Scotland, UK",
+              "details": "Family itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Isle of Skye",
+              "location": "Scotland, UK",
+              "details": "Family itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Clava Cairns",
+              "location": "Scotland, UK",
+              "details": "Family itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Culloden",
+              "location": "Scotland, UK",
+              "details": "Family itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "create_time 1729266115 (2024-10-18), after cutoff; 72,700 plays / 2,377 likes at capture. Two older pre-cutoff videos by the same creator were opened and deliberately excluded."
+    },
+    {
+      "handle": "@japantravelbasics",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "5 easy day trips from Tokyo",
+          "destination": "Tokyo (day trips)",
+          "summary": "Five easy day trips from Tokyo \u2014 Kamakura, Mt. Takao, Kawagoe, Mt. Fuji/Kawaguchiko and Hakone \u2014 with routes, durations and explicitly stated JPY prices.",
+          "country": "Japan",
+          "days": null,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@japantravelbasics/video/7608893409436192001"
+          ],
+          "items": [
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Kamakura",
+              "location": "Japan",
+              "details": "Day trip from Tokyo",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Mt. Takao",
+              "location": "Japan",
+              "details": "Day trip from Tokyo",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Kawagoe",
+              "location": "Japan",
+              "details": "Day trip from Tokyo",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Mt. Fuji / Lake Kawaguchiko",
+              "location": "Japan",
+              "details": "Day trip from Tokyo",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Hakone",
+              "location": "Japan",
+              "details": "Day trip from Tokyo",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "create_time 1771583623; 73,000 plays / 2,026 likes at capture. Explicit JPY prices existed in the source but exact figures were not retained; price_hint left null rather than reconstructed."
+    },
+    {
+      "handle": "@nessahuangg",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "7-day Hong Kong and Macau itinerary",
+          "destination": "Hong Kong",
+          "summary": "Seven-day Hong Kong and Macau travel guide with named hotels and explicitly stated Airport Express and Macau ferry prices.",
+          "country": "China",
+          "days": 7,
+          "confidence": "medium",
+          "source_urls": [
+            "https://nessahuangg.com/7-day-hong-kong-itinerary/"
+          ],
+          "items": [
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Hong Kong",
+              "location": "China",
+              "details": "7-day itinerary base",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Macau",
+              "location": "China",
+              "details": "Itinerary leg",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "Recency evidence: search index recorded 'Last Updated: 402 days ago' on 2026-09-17 (approx Aug 2025, after cutoff). Article co-signed 'Nessa and Linardo'; TikTok profile presents individual creator Vanessa Huang. Exact hotel names and prices not retained at capture."
+    },
+    {
+      "handle": "@lifeofthetravelingpin",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "7-day Croatia itinerary",
+          "destination": "Croatia",
+          "summary": "Seven-day Croatia itinerary: Dubrovnik, Hvar, Split and Plitvice Lakes.",
+          "country": "Croatia",
+          "days": 7,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@lifeofthetravelingpin/video/7480394699061284142"
+          ],
+          "items": [
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Dubrovnik",
+              "location": "Croatia",
+              "details": "Itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Hvar",
+              "location": "Croatia",
+              "details": "Itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Split",
+              "location": "Croatia",
+              "details": "Itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Plitvice Lakes",
+              "location": "Croatia",
+              "details": "Itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "create_time 1741665155; 327,800 plays / 14,300 likes at capture."
+    },
+    {
+      "handle": "@zozomccormack",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Paris shopping guide",
+          "destination": "Paris",
+          "summary": "Structured Paris shopping guide organized by category: clothes, skincare, perfume, souvenirs and purses.",
+          "country": "France",
+          "days": null,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@zozomccormack/video/7631632559805451528"
+          ],
+          "items": [
+            {
+              "item_type": "other",
+              "day": null,
+              "name": "Clothes shopping",
+              "location": "Paris, France",
+              "details": "Shopping category in Paris guide",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "other",
+              "day": null,
+              "name": "Skincare shopping",
+              "location": "Paris, France",
+              "details": "Shopping category in Paris guide",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "other",
+              "day": null,
+              "name": "Perfume shopping",
+              "location": "Paris, France",
+              "details": "Shopping category in Paris guide",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "other",
+              "day": null,
+              "name": "Souvenir shopping",
+              "location": "Paris, France",
+              "details": "Shopping category in Paris guide",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "other",
+              "day": null,
+              "name": "Purse shopping",
+              "location": "Paris, France",
+              "details": "Shopping category in Paris guide",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "create_time 1776877929; 349,700 plays / 23,100 likes at capture. Store names were not exposed in the captured material; none invented."
+    },
+    {
+      "handle": "@marco.miglionico_",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "14-day Patagonia itinerary",
+          "destination": "Patagonia",
+          "summary": "Fourteen-day Patagonia itinerary: Santiago/Buenos Aires gateway, Puerto Natales, Torres del Paine, El Calafate and the Perito Moreno glacier, El Chalten, an estancia tour, and return.",
+          "country": "Chile and Argentina",
+          "days": 14,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@marco.miglionico_/video/7608041596633845006"
+          ],
+          "items": [
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Santiago / Buenos Aires",
+              "location": "Patagonia",
+              "details": "Gateway cities",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Puerto Natales",
+              "location": "Patagonia, Chile",
+              "details": "Itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Torres del Paine",
+              "location": "Patagonia, Chile",
+              "details": "Itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "El Calafate and Perito Moreno Glacier",
+              "location": "Patagonia, Argentina",
+              "details": "Itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "El Chalten",
+              "location": "Patagonia, Argentina",
+              "details": "Itinerary stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Estancia tour",
+              "location": "Patagonia",
+              "details": "Ranch experience",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Return leg",
+              "location": "Patagonia",
+              "details": "Itinerary close",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "create_time 1771385250; 1,100,000 plays / 106,400 likes at capture."
+    },
+    {
+      "handle": "@findingalexxtravel",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Puglia without a car",
+          "destination": "Puglia",
+          "summary": "Detailed Puglia route designed for travel without a car: Bari, Matera, Monopoli, Alberobello, Ostuni and Lecce, with transport, stays, food and activities.",
+          "country": "Italy",
+          "days": null,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@findingalexxtravel/video/7479148926852025607"
+          ],
+          "items": [
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Bari",
+              "location": "Puglia, Italy",
+              "details": "Car-free route stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Matera",
+              "location": "Basilicata, Italy",
+              "details": "Car-free route stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Monopoli",
+              "location": "Puglia, Italy",
+              "details": "Car-free route stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Alberobello",
+              "location": "Puglia, Italy",
+              "details": "Car-free route stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Ostuni",
+              "location": "Puglia, Italy",
+              "details": "Car-free route stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Lecce",
+              "location": "Puglia, Italy",
+              "details": "Car-free route stop",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        },
+        {
+          "title": "Albania travel route",
+          "destination": "Albania",
+          "summary": "Detailed Albania travel route published as a TikTok video guide by Alexx.",
+          "country": "Albania",
+          "days": null,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@findingalexxtravel/video/7475540148290243847"
+          ],
+          "items": []
+        }
+      ],
+      "notes": "Puglia video create_time 1741375068 (186,900 plays / 7,612 likes); Albania video create_time 1740534831 (231,300 plays / 12,200 likes). Albania stop-level detail was verified at capture but is not reconstructed here; left empty rather than invented. A photo post by the creator exposed no content and was not used."
+    },
+    {
+      "handle": "@barefoot.blaze",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Western Australia 2WD road trip",
+          "destination": "Western Australia",
+          "summary": "9-10+ day Western Australia 2WD road trip route: Perth, Sandy Cape, Kalbarri, Shark Bay/Monkey Mia, Quobba, Coral Bay, Bullara and Exmouth/Ningaloo.",
+          "country": "Australia",
+          "days": null,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@barefoot.blaze/video/7514575758677839122"
+          ],
+          "items": [
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Perth",
+              "location": "Western Australia",
+              "details": "Road trip start",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Sandy Cape",
+              "location": "Western Australia",
+              "details": "Road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Kalbarri",
+              "location": "Western Australia",
+              "details": "Road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Shark Bay / Monkey Mia",
+              "location": "Western Australia",
+              "details": "Road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Quobba",
+              "location": "Western Australia",
+              "details": "Road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Coral Bay",
+              "location": "Western Australia",
+              "details": "Road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Bullara",
+              "location": "Western Australia",
+              "details": "Road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Exmouth / Ningaloo",
+              "location": "Western Australia",
+              "details": "Road trip stop",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "create_time 1749623514; 46,400 plays / 1,525 likes at capture. Duration stated as 9-10+ days; days left null rather than approximated."
+    },
+    {
+      "handle": "@pointstopointtravel",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Mexico City mini guide",
+          "destination": "Mexico City",
+          "summary": "Mini guide to Mexico City from a week-long stay: a street food bike tour with Foodhood Tours, a sunrise hot air balloon ride over the Teotihuacan pyramids, Chapultepec Park and Castle, the city's museums, and the Condesa and Roma Norte neighborhoods.",
+          "country": "Mexico",
+          "days": null,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@pointstopointtravel/video/7573477725353135373"
+          ],
+          "items": [
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Street food bike tour with Foodhood Tours",
+              "location": "Mexico City, Mexico",
+              "details": "Guided food tour",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Hot air balloon over Teotihuacan at sunrise",
+              "location": "Teotihuacan, Mexico",
+              "details": "Balloon ride",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Chapultepec Park and Chapultepec Castle",
+              "location": "Mexico City, Mexico",
+              "details": "Park and castle",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Mexico City museums",
+              "location": "Mexico City, Mexico",
+              "details": "Museums",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": null,
+              "name": "Condesa and Roma Norte",
+              "location": "Mexico City, Mexico",
+              "details": "Neighborhoods",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "create_time 1763337723; 269,200 plays / 23,300 likes at capture."
+    },
+    {
+      "handle": "@deccadotcom",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Perfect 5-day Mexico City weekend",
+          "destination": "Mexico City",
+          "summary": "Day-by-day 5-day Mexico City itinerary with named restaurants, bars, markets, museums and neighborhoods, from a Friday arrival through a Teotihuacan Tuesday.",
+          "country": "Mexico",
+          "days": 5,
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@deccadotcom/video/7582695666606935326"
+          ],
+          "items": [
+            {
+              "item_type": "restaurant",
+              "day": 1,
+              "name": "Lardo",
+              "location": "Mexico City, Mexico",
+              "details": "Breakfast, day 1",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 1,
+              "name": "Chapultepec Park",
+              "location": "Mexico City, Mexico",
+              "details": "Explore",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 1,
+              "name": "Chapultepec Castle",
+              "location": "Mexico City, Mexico",
+              "details": "Visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 1,
+              "name": "Museo Nacional de Antropologia",
+              "location": "Mexico City, Mexico",
+              "details": "Visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 1,
+              "name": "Abraza Mar",
+              "location": "Mexico City, Mexico",
+              "details": "Lunch",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 1,
+              "name": "Roma and Condesa",
+              "location": "Mexico City, Mexico",
+              "details": "Explore neighborhoods",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 1,
+              "name": "Salon Palomilla",
+              "location": "Mexico City, Mexico",
+              "details": "Specialty drinks",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 1,
+              "name": "La Unica (Polanco)",
+              "location": "Mexico City, Mexico",
+              "details": "Dinner before Lucha Libre",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 1,
+              "name": "Lucha Libre",
+              "location": "Mexico City, Mexico",
+              "details": "Evening event",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 2,
+              "name": "Tetetlan",
+              "location": "Mexico City, Mexico",
+              "details": "Breakfast",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 2,
+              "name": "Coyoacan",
+              "location": "Mexico City, Mexico",
+              "details": "Explore",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 2,
+              "name": "Coyoacan markets",
+              "location": "Mexico City, Mexico",
+              "details": "Shopping",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 2,
+              "name": "Condesa",
+              "location": "Mexico City, Mexico",
+              "details": "Afternoon explore",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 2,
+              "name": "Myka Greek",
+              "location": "Mexico City, Mexico",
+              "details": "Treat",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 2,
+              "name": "Botica Masaryk",
+              "location": "Mexico City, Mexico",
+              "details": "Dinner",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 2,
+              "name": "El Ayer DF or Cometa Disco",
+              "location": "Mexico City, Mexico",
+              "details": "Nightlife",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 3,
+              "name": "Quentin Cafe (Condesa)",
+              "location": "Mexico City, Mexico",
+              "details": "Breakfast",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 3,
+              "name": "Bike on Reforma",
+              "location": "Mexico City, Mexico",
+              "details": "Sunday bike ride",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 3,
+              "name": "Zocalo",
+              "location": "Mexico City, Mexico",
+              "details": "Explore",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 3,
+              "name": "Palacio de Bellas Artes",
+              "location": "Mexico City, Mexico",
+              "details": "Explore",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 3,
+              "name": "Sunday Bazaars on Colima street (Roma Norte)",
+              "location": "Mexico City, Mexico",
+              "details": "Shopping",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 3,
+              "name": "Maizajo",
+              "location": "Mexico City, Mexico",
+              "details": "Lunch",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 3,
+              "name": "Pandora Roof MX",
+              "location": "Mexico City, Mexico",
+              "details": "Rooftop dinner",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 4,
+              "name": "Aura Mex cooking class and market tour",
+              "location": "Mexico City, Mexico",
+              "details": "Cooking class",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 4,
+              "name": "Museo Soumaya",
+              "location": "Mexico City, Mexico",
+              "details": "Visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 4,
+              "name": "Museo Jumex",
+              "location": "Mexico City, Mexico",
+              "details": "Visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 4,
+              "name": "La Bonvi",
+              "location": "Mexico City, Mexico",
+              "details": "Lunch",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 4,
+              "name": "Polanco",
+              "location": "Mexico City, Mexico",
+              "details": "Explore",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 4,
+              "name": "Entre Mar",
+              "location": "Mexico City, Mexico",
+              "details": "Dinner",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 5,
+              "name": "Cafe Tierra Azul",
+              "location": "Mexico City, Mexico",
+              "details": "Breakfast",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 5,
+              "name": "Teotihuacan",
+              "location": "Teotihuacan, Mexico",
+              "details": "Visit",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 5,
+              "name": "Sunrise hot air balloons over Teotihuacan",
+              "location": "Teotihuacan, Mexico",
+              "details": "Optional early start",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 5,
+              "name": "Barra Lupe",
+              "location": "Mexico City, Mexico",
+              "details": "Authentic lunch",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "activity",
+              "day": 5,
+              "name": "Explore favorite neighborhood",
+              "location": "Mexico City, Mexico",
+              "details": "Free explore",
+              "price_hint": null,
+              "booking_link": null
+            },
+            {
+              "item_type": "restaurant",
+              "day": 5,
+              "name": "Homare",
+              "location": "Mexico City, Mexico",
+              "details": "Special dinner",
+              "price_hint": null,
+              "booking_link": null
+            }
+          ]
+        }
+      ],
+      "notes": "create_time 1765483924; 369,000 plays / 22,500 likes at capture. Venue names transcribed from the creator's @-mentions (e.g. @lardomexico -> Lardo). No booking links were provided by the creator."
+    },
+    {
+      "handle": "@daveguino",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "9-day Beijing-Shanghai DIY solo itinerary",
+          "destination": "Beijing\u2013Shanghai",
+          "summary": "Nine-day Beijing-Shanghai, China DIY solo trip itinerary presented by Dave Guino (Dave 'The Kuripot Traveler') as a TikTok video guide.",
+          "country": "China",
+          "days": 9,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@daveguino/video/7622215325941009671?_r=1&_d=secCgYIASAHKAESPgo8DPrCK6IAPzUFFjo4Q6W%2F9TpaPu80k2YvtgqdgMkw93LQLXSG6l81tPeBZsKKS%2FITvJqzWYCYfA1h1ByMGgA%3D&_svg=1&checksum=7500f70801a7003ccbd2028cba417fe5a8a73b3dab3962ae1dc0143af5f65dc3&item_author_type=2&link_reflow_popup_iteration_sharer"
+          ],
+          "items": []
+        }
+      ],
+      "notes": "Video 7622215325941009671 (2026-03-28). Nine-day route established; daily stop detail not extracted \u2014 items left empty rather than invented."
+    },
+    {
+      "handle": "@jetlagjana",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Ultimate 3-week Panama itinerary",
+          "destination": "Panama",
+          "summary": "Three-week Panama route by Jana: Bocas del Toro 6 nights, Boquete 4, Santa Catalina 3, San Blas Islands 4, Panama City 4, with activities per region.",
+          "country": "Panama",
+          "days": 21,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@jetlagjana/video/7588227245353782550?_r=1&_d=secCgYIASAHKAESPgo8UL80AOBHkIRpwSp%2BQEbpx3uMGQcZr%2FKpBU92E891mFgOQZcPLVDL5IIDdMRulhsdp6XNGTYhALUWpvVaGgA%3D&_svg=1&checksum=f9b8869da6700731a3ba0a86e43897aa157bac665f5ae6e1e7ae2a72ce5f1881&enable_card_refactor=1&item_author_type=2&link_ref"
+          ],
+          "items": []
+        }
+      ],
+      "notes": "Video 7588227245353782550 (2025-12-26). Caption details island hopping, hiking, ziplining, rafting, coffee tours, surfing, Coiba, Panama Canal, Casco Viejo, Embera Village; item-level detail not reconstructed."
+    },
+    {
+      "handle": "@jadecrawfordtravels",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Glencoe 10-stop travel guide",
+          "destination": "Glencoe, Scotland",
+          "summary": "Ordered 10-stop Glencoe guide by Jade Arianne Crawford: trails, Glenfinnan Viaduct, Wee White House, Dumbledore's resting place, Meeting of Three Waters, Glen Etive, Fort William, A82 views, Kingshouse Hotel, cabin stay.",
+          "country": "United Kingdom",
+          "days": null,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@jadecrawfordtravels/video/7585870795721706774"
+          ],
+          "items": []
+        }
+      ],
+      "notes": "Video 7585870795721706774 (2025-12-20). Stop-ordered guide, not day-structured; items left empty rather than invented."
+    },
+    {
+      "handle": "@emiporelmundo",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "5-day Mexico City slow-travel itinerary",
+          "destination": "Mexico City",
+          "summary": "Five-day slow-travel Mexico City itinerary by Emiliana covering Reforma/Zocalo, Chapultepec/Polanco, Roma/Condesa, Coyoacan, the Frida Kahlo Museum and Biblioteca Vasconcelos.",
+          "country": "Mexico",
+          "days": 5,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@emiporelmundo/video/7618732410192006430"
+          ],
+          "items": []
+        }
+      ],
+      "notes": "Video 7618732410192006430 (2026-03-18). Day-level stops verified; item-level detail not reconstructed."
+    },
+    {
+      "handle": "@docsammy.travels",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "6-day four-city Japan itinerary",
+          "destination": "Japan",
+          "summary": "Six-day four-city Japan trip by Sammy Agoda with DIY tips and budget notes across Tokyo, Kawaguchiko, Kyoto and Osaka.",
+          "country": "Japan",
+          "days": 6,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@docsammy.travels/video/7586235903945772296"
+          ],
+          "items": []
+        }
+      ],
+      "notes": "Video 7586235903945772296 (2025-12-21). Six-day route established; item-level detail not reconstructed."
+    },
+    {
+      "handle": "@adventuresofkatelyn",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Bright Victoria weekend itinerary",
+          "destination": "Bright, Victoria",
+          "summary": "Weekend itinerary in Bright, Victoria by Katelyn Morse: Bright shops, Gum Tree Pies, river walk, Riverside Adventure Playground, Bright Brewery, Razorback toward Mount Feathertop, Mount Hotham summit, Red Stag Deer & Emu Farm, Wandi Pub, Nightingale's Alpine Produce.",
+          "country": "Australia",
+          "days": 3,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.youtube.com/watch?v=_CjPKUlx-Ho"
+          ],
+          "items": []
+        }
+      ],
+      "notes": "Own-channel YouTube video filmed May 2026; two nights at Discovery Parks Bright. Older TikTok Blackheath itinerary (2023-10-28) rejected as stale."
+    },
+    {
+      "handle": "@anniesbucketlist",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "2-day Melbourne itinerary",
+          "destination": "Melbourne",
+          "summary": "Two-day Melbourne itinerary by Annie Nguyen: Patricia Coffee Brewers, Hosier Lane, Hector's Deli, Muli Express, NGV, Royal Botanic Gardens punting, voco Melbourne Central, Pearl Diver, Secondipity, South Melbourne Market, Metartworld, Soi 38.",
+          "country": "Australia",
+          "days": 2,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@anniesbucketlist/video/7488504185252613394"
+          ],
+          "items": []
+        }
+      ],
+      "notes": "Video 7488504185252613394 (2025-04-02). Day-level stops verified; item-level detail not reconstructed."
+    },
+    {
+      "handle": "@christina.inthe.clouds",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "3-day Lisbon itinerary",
+          "destination": "Lisbon",
+          "summary": "Three-day Lisbon itinerary presented by Christina (Christina | 30s Travel & photography) as a TikTok video guide.",
+          "country": "Portugal",
+          "days": 3,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@christina.inthe.clouds/video/7628897750796602646"
+          ],
+          "items": []
+        }
+      ],
+      "notes": "Video 7628897750796602646 (2026-04-09). Title-explicit three-day itinerary; day-level stops not extracted \u2014 items left empty rather than invented."
+    },
+    {
+      "handle": "@xploredd",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "3 days solo in Bohol",
+          "destination": "Bohol",
+          "summary": "Solo creator ExplorEdd's three-day Bohol itinerary with named daily stops (Panglao, Pamilacan Island, countryside tour) and a full \u20b121,146 expense breakdown including flights, 2-night hotel, tours, food and ferry.",
+          "country": "Philippines",
+          "days": 3,
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@xploredd/video/7617873802474573077"
+          ],
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Hinagdanan Cave",
+              "location": "Panglao, Bohol",
+              "details": "Day 1 Panglao Tour stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Bohol Bee Farm",
+              "location": "Panglao, Bohol",
+              "details": "Day 1 Panglao Tour stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Panglao Church",
+              "location": "Panglao, Bohol",
+              "details": "Day 1 Panglao Tour stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Shell Museum",
+              "location": "Panglao, Bohol",
+              "details": "Day 1 Panglao Tour stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Alona Beach",
+              "location": "Panglao, Bohol",
+              "details": "Day 1 Panglao Tour stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 2,
+              "item_type": "activity",
+              "name": "Pamilacan Island Tour \u2014 Dolphin & Turtle Watching",
+              "location": "Pamilacan Island, Bohol",
+              "details": "Day 2 island tour",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Chocolate Hills",
+              "location": "Bohol",
+              "details": "Day 3 Countryside Tour stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "restaurant",
+              "name": "Loboc Floating Restaurant",
+              "location": "Loboc, Bohol",
+              "details": "Day 3 Countryside Tour stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Tarsier",
+              "location": "Bohol",
+              "details": "Day 3 Countryside Tour stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Baclayon Church",
+              "location": "Baclayon, Bohol",
+              "details": "Day 3 Countryside Tour stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "flight",
+              "name": "All flights (airline not named)",
+              "location": "Bohol, Philippines",
+              "details": "All flights per her expense breakdown; airline not named",
+              "booking_link": null,
+              "price_hint": "\u20b12,805 (all flights)"
+            },
+            {
+              "day": null,
+              "item_type": "transport",
+              "name": "Ferry to Cebu",
+              "location": "Bohol to Cebu",
+              "details": "Named ferry in expense breakdown",
+              "booking_link": null,
+              "price_hint": "\u20b1809"
+            }
+          ]
+        }
+      ],
+      "notes": "Video 7617873802474573077, create_time 1773674467 (2026-03-16), observed 2026-09-17: 1,845 likes, 74 comments, 57,700 plays, 1,055 saves, 462 shares. Day totals from her expense breakdown: Day 1 \u20b12,048; Day 2 \u20b14,888; Day 3 \u20b12,210; hotel 2 nights \u20b17,906; total \u20b121,146. Hotel and Grab rides unnamed \u2014 not reconstructed."
+    },
+    {
+      "handle": "@travelexplore000",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "6-day Bali itinerary",
+          "destination": "Bali",
+          "summary": "Travel Explore's six-day Bali itinerary as a TikTok photo post: two days in Ubud, Nusa Penida, Seminyak, and two days in Uluwatu, with named temples, beaches, waterfalls and activities each day plus a personally recommended restaurant.",
+          "country": "Indonesia",
+          "days": 6,
+          "confidence": "high",
+          "source_urls": [
+            "https://www.tiktok.com/@travelexplore000/photo/7582882228896599329"
+          ],
+          "items": [
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Monkey Forest",
+              "location": "Ubud, Bali",
+              "details": "Days 1-2 Ubud stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Tirta Empul Temple",
+              "location": "Ubud, Bali",
+              "details": "Days 1-2 Ubud stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Tegenungan Waterfalls",
+              "location": "Ubud, Bali",
+              "details": "Days 1-2 Ubud stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Rice Terraces",
+              "location": "Ubud, Bali",
+              "details": "Days 1-2 Ubud stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Bali Swing",
+              "location": "Ubud, Bali",
+              "details": "Days 1-2 Ubud stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "Mt. Batur Sunrise",
+              "location": "Ubud, Bali",
+              "details": "Days 1-2 Ubud stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "ATV Ride Experience",
+              "location": "Ubud, Bali",
+              "details": "Days 1-2 Ubud stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 1,
+              "item_type": "activity",
+              "name": "White Water Rafting",
+              "location": "Ubud, Bali",
+              "details": "Days 1-2 Ubud stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Angel Billabong",
+              "location": "Nusa Penida, Bali",
+              "details": "Day 3 Nusa Penida Island stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Broken Beach",
+              "location": "Nusa Penida, Bali",
+              "details": "Day 3 Nusa Penida Island stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Kelingking Beach",
+              "location": "Nusa Penida, Bali",
+              "details": "Day 3 Nusa Penida Island stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 3,
+              "item_type": "activity",
+              "name": "Crystal Bay",
+              "location": "Nusa Penida, Bali",
+              "details": "Day 3 Nusa Penida Island stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Seminyak Beach (surf)",
+              "location": "Seminyak, Bali",
+              "details": "Day 4 Seminyak stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Beach clubs (Potato Head)",
+              "location": "Seminyak, Bali",
+              "details": "Day 4 beach club daytrip",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "activity",
+              "name": "Seminyak Square",
+              "location": "Seminyak, Bali",
+              "details": "Day 4 shopping stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 4,
+              "item_type": "restaurant",
+              "name": "101 cafe & restaurant",
+              "location": "Seminyak, Bali",
+              "details": "Personally recommended food stop ('is one I tried that I highly recommend')",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Garuda Wisnu Kencana Cultural Park",
+              "location": "Uluwatu, Bali",
+              "details": "Days 5-6 Uluwatu stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Uluwatu Temple",
+              "location": "Uluwatu, Bali",
+              "details": "Days 5-6 Uluwatu stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Padang-padang Beach",
+              "location": "Uluwatu, Bali",
+              "details": "Days 5-6 Uluwatu stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Tanah Barak",
+              "location": "Uluwatu, Bali",
+              "details": "Days 5-6 Uluwatu stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Kecak Dance",
+              "location": "Uluwatu, Bali",
+              "details": "Days 5-6 Uluwatu stop",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": 5,
+              "item_type": "activity",
+              "name": "Uluwatu beach clubs (The Edge, Palmilla, Sundays, Single-fin, Minoo)",
+              "location": "Uluwatu, Bali",
+              "details": "Her recommended beach clubs",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Photo post 7582882228896599329, create_time 1765527350 (2025-12-12). Engagement from search-index captures: 30.8K likes/114 comments (crawl ~196d ago), 36.3K/130 (~124d ago), 34.6K/124 (~167d ago) \u2014 consistent strong engagement. Caption text captured from multiple search crawls; no hotels or prices named, none reconstructed."
+    },
+    {
+      "handle": "@lorrainestravels",
+      "platform": "tiktok",
+      "itineraries": [
+        {
+          "title": "Bali travel guide \u2014 where to stay",
+          "destination": "Bali",
+          "summary": "Lorraine's Travels' Bali travel guide carousel: recommends eleven areas to stay across Bali based on traveler preference (Canggu, Kuta, Ubud, Nusa Penida, Nusa Lembongan, Uluwatu, Seminyak, Sidemen, Sanur, Amed, Lovina).",
+          "country": "Indonesia",
+          "days": null,
+          "confidence": "medium",
+          "source_urls": [
+            "https://www.tiktok.com/@lorrainestravels/photo/7425707402408021251"
+          ],
+          "items": [
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Canggu",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Kuta",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Ubud",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Nusa Penida",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Nusa Lembongan",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Uluwatu",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Seminyak",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Sidemen",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Sanur",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Amed",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            },
+            {
+              "day": null,
+              "item_type": "other",
+              "name": "Lovina",
+              "location": "Bali, Indonesia",
+              "details": "Recommended area to stay in her Bali travel guide",
+              "booking_link": null,
+              "price_hint": null
+            }
+          ]
+        }
+      ],
+      "notes": "Photo post 7425707402408021251, create_time 1728932234 (2024-10-14). Engagement from search-index capture: 13.6K likes, 179 comments (crawl ~192d ago). Area-level guide, not day-by-day \u2014 confidence medium. No hotels, prices or booking links named, none reconstructed."
+    }
+  ]
+}

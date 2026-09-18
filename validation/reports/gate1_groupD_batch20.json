@@ -1,0 +1,19 @@
+{
+  "gate": "1-scoped",
+  "remediation_group": "D",
+  "batch": 20,
+  "status": "PASS",
+  "rows": 18,
+  "qualified_updated": [
+    "@vickyflipflop",
+    "@expertvagabond"
+  ],
+  "remove_candidates_unchanged": [
+    "@kirstenalana",
+    "@em_luxton",
+    "@findingalexx",
+    "@girlgoneabroad"
+  ],
+  "errors": [],
+  "warnings": []
+}

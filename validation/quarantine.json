@@ -1,87 +1,1320 @@
 {
- "quarantine": [
-  {
-   "added": "2026-09-15",
-   "handle": "@africansafari",
-   "platform": "instagram",
-   "reason": "May be a brand/tour-operator account rather than an individual creator. Verify account nature before any attribution or outreach.",
-   "status": "quarantined"
-  },
-  {
-   "added": "2026-09-15",
-   "handle": "@limsawkward",
-   "platform": "tiktok",
-   "reason": "Handle confirmed real: EF travel blog explicitly names @limsawkward (Alexa, DC travel creator); the Elon Edge roundup spelling @lilmsawkward was the typo source, not this handle. Documented re-search 2026-09-16 found no itinerary content. Stays quarantined: nothing to attribute.",
-   "status": "quarantined",
-   "evidence_update": "2026-09-16"
-  },
-  {
-   "added": "2026-09-15",
-   "handle": "@marklharriosn",
-   "platform": "tiktok",
-   "reason": "Possible source-list typo ('harrison'?). Re-verify against the source publication before use.",
-   "status": "quarantined"
-  },
-  {
-   "handle": "@nastasiawong",
-   "platform": "instagram",
-   "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
-   "status": "quarantined",
-   "added": "2026-09-15"
-  },
-  {
-   "handle": "@nomadicmovement",
-   "platform": "instagram",
-   "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
-   "status": "quarantined",
-   "added": "2026-09-15"
-  },
-  {
-   "handle": "@oceanwanderer",
-   "platform": "instagram",
-   "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
-   "status": "quarantined",
-   "added": "2026-09-15"
-  },
-  {
-   "handle": "@rachid_dahnoun",
-   "platform": "instagram",
-   "reason": "Flagged by batch-2 extraction: Morocco itineraries found belong to a same-named tour operator, not this creator. Do not attribute operator content to the creator.",
-   "status": "quarantined",
-   "added": "2026-09-15"
-  },
-  {
-   "handle": "@sidewalkerdaily",
-   "platform": "tiktok",
-   "reason": "Flagged by batch-4 extraction: influencer-marketing consultancy, not a travel creator. Exclude from itinerary attribution unless re-verified.",
-   "status": "quarantined",
-   "added": "2026-09-15"
-  },
-  {
-   "added": "2026-09-16",
-   "handle": "@thenationalparktravelers",
-   "platform": "tiktok",
-   "itinerary_title": "Columbia River Gorge Waterfall Drive",
-   "reason": "Full re-verification 2026-09-16 (worker7): UNVERIFIABLE. TikTok video URL unfetchable (rate-limited) with no indexed caption found anywhere; AFAR article's mention of the account could not be confirmed. Independent re-check confirmed no trace of the video caption. Excluded from DB load via --exclude-json. Do not attribute until a reachable source is produced.",
-   "status": "quarantined",
-   "scope": "itinerary"
-  },
-  {
-   "handle": "@martinsilvaq",
-   "platform": "tiktok",
-   "status": "quarantined",
-   "added": "2026-09-16",
-   "reason": "DEVIATION DOCUMENTED 2026-09-16: a prior live-browser verdict required preserving this handle, but 4 independent public searches found no indexed TikTok profile, structured guide, or reach evidence for @martinsilvaq. Including the handle would violate the work order's evidence gates (identity, recent structured guide with citable URL, >=10K reach). Stays quarantined and OUT of the 200; restore only after a recent structured guide with a citable URL is found. Replacement @elisetanriverdi (batch 6) is fully evidenced (council PASS, two-signal date corroboration)."
-  },
-  {
-   "handle": "@sarahdegheselle",
-   "platform": "instagram",
-   "reason": "Gate 4 council QUARANTINE 2026-09-16: no exact follower integer (only abbreviated third-party estimates 81.8K-87.1K, unverified) and no directly-dated Instagram post on/after 2026-06-18. Instagram login-walled on 2026-09-16/17 so no live read was possible. Identity (Sarah De Gheselle) and Dalat guide date (2026-03-10, WP REST API + JSON-LD two-signal) verified; this is a verification-access block, not a content failure.",
-   "cure": "Live Instagram read of instagram.com/sarahdegheselle: exact follower integer from profile header + latest post date from grid. If exact >= 10,000 and a travel post >= 2026-06-18, clear the quarantine (morning retry cron scheduled 2026-09-17 06:30 EDT).",
-   "status": "replaced",
-   "added": "2026-09-16",
-   "resolved": "2026-09-17",
-   "resolution": "Slot filled by @mylifesatravelmovie (Alyssa Ramos) per Gate 4 mini-council PASS 2026-09-17 (3/3 verifiers; reports in validation/council_results/ig_slot_council_verifier{1,2,3}_2026-09-17.json). Instagram cure never materialized: 2026-09-17 06:33 EDT cron retry and subagent research both hit the login wall; no login was used. Sarah's Dalat guide evidence retained in staging/itineraries_replacements_ig_2026-09-16.json for provenance."
-  }
- ]
+  "quarantine": [
+    {
+      "added": "2026-09-15",
+      "handle": "@africansafari",
+      "platform": "instagram",
+      "reason": "May be a brand/tour-operator account rather than an individual creator. Verify account nature before any attribution or outreach.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-15",
+      "handle": "@limsawkward",
+      "platform": "tiktok",
+      "reason": "Handle confirmed real: EF travel blog explicitly names @limsawkward (Alexa, DC travel creator); the Elon Edge roundup spelling @lilmsawkward was the typo source, not this handle. Documented re-search 2026-09-16 found no itinerary content. Stays quarantined: nothing to attribute.",
+      "status": "quarantined",
+      "evidence_update": "2026-09-16"
+    },
+    {
+      "added": "2026-09-15",
+      "handle": "@marklharriosn",
+      "platform": "tiktok",
+      "reason": "Possible source-list typo ('harrison'?). Re-verify against the source publication before use.",
+      "status": "quarantined"
+    },
+    {
+      "handle": "@nastasiawong",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@nomadicmovement",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@oceanwanderer",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: handle resolves to an unrelated non-travel account. Re-verify against the source publication before any use.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@rachid_dahnoun",
+      "platform": "instagram",
+      "reason": "Flagged by batch-2 extraction: Morocco itineraries found belong to a same-named tour operator, not this creator. Do not attribute operator content to the creator.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "handle": "@sidewalkerdaily",
+      "platform": "tiktok",
+      "reason": "Flagged by batch-4 extraction: influencer-marketing consultancy, not a travel creator. Exclude from itinerary attribution unless re-verified.",
+      "status": "quarantined",
+      "added": "2026-09-15"
+    },
+    {
+      "added": "2026-09-16",
+      "handle": "@thenationalparktravelers",
+      "platform": "tiktok",
+      "itinerary_title": "Columbia River Gorge Waterfall Drive",
+      "reason": "Full re-verification 2026-09-16 (worker7): UNVERIFIABLE. TikTok video URL unfetchable (rate-limited) with no indexed caption found anywhere; AFAR article's mention of the account could not be confirmed. Independent re-check confirmed no trace of the video caption. Excluded from DB load via --exclude-json. Do not attribute until a reachable source is produced.",
+      "status": "quarantined",
+      "scope": "itinerary"
+    },
+    {
+      "handle": "@martinsilvaq",
+      "platform": "tiktok",
+      "status": "quarantined",
+      "added": "2026-09-16",
+      "reason": "DEVIATION DOCUMENTED 2026-09-16: a prior live-browser verdict required preserving this handle, but 4 independent public searches found no indexed TikTok profile, structured guide, or reach evidence for @martinsilvaq. Including the handle would violate the work order's evidence gates (identity, recent structured guide with citable URL, >=10K reach). Stays quarantined and OUT of the 200; restore only after a recent structured guide with a citable URL is found. Replacement @elisetanriverdi (batch 6) is fully evidenced (council PASS, two-signal date corroboration)."
+    },
+    {
+      "handle": "@sarahdegheselle",
+      "platform": "instagram",
+      "reason": "Gate 4 council QUARANTINE 2026-09-16: no exact follower integer (only abbreviated third-party estimates 81.8K-87.1K, unverified) and no directly-dated Instagram post on/after 2026-06-18. Identity (Sarah De Gheselle) and Dalat guide date (2026-03-10, WP REST API + JSON-LD two-signal) verified; this is a verification-access block, not a content failure.",
+      "cure": "Live Instagram read of instagram.com/sarahdegheselle: exact follower integer from profile header + latest post date from grid. If exact >= 10,000 and a travel post >= 2026-06-18, clear the quarantine.",
+      "status": "resolved",
+      "added": "2026-09-16",
+      "resolution": "CURE ACHIEVED via read-only Instagram login (@sgshankar84), 2026-09-18: exact follower integer 85,038 (>=10,000) from profile header; named individual 'Sarah De Gheselle, Belgian travel photographer'; directly-verifiable IG travel posts with absolute dates >= 2026-06-18 (instagram.com/p/DdRTrIyipym 'Postcards from Antwerp' 2026-09-14, 102 comments; instagram.com/reel/DdB2ZYVKp2q/ 'Planning a trip to the Cotswolds? Save this 3-day itinerary' 2026-09-08, 71 comments; plus reels 2026-09-15/16/17). Structured guide in window: Dalat guide 2026-03-10 (WP REST API + JSON-LD). Absent from exclusions. Selection-log row added 2026-09-18.",
+      "resolved": "2026-09-18"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@thewanderdiary_",
+      "platform": "tiktok",
+      "reason": "Couple account ('husband & wife traveling the world' per live TikTok bio, fetched 2026-09-17) — fails Section 3 individual-creator identity requirement. Rejected at coordinator review; batch-10 worker's 'Liv | Travel Creator' identity pass was superseded by the live bio.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@travelmadmum",
+      "platform": "tiktok",
+      "reason": "Couple account: Heepsy bio 'Along with hubby Shaun AKA Travel Mad Dad, the couple take their subscribers...'; Clubhouse bio 'Wife to Shaun aka @travelmaddad'. Fails Section 3 individual-creator identity requirement. Flagged by batch-12 worker, recorded by coordinator.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@zenwander",
+      "platform": "tiktok",
+      "reason": "Commercial map brand, not an individual creator. Rejected by batch-11 worker 2026-09-17.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@explorepal",
+      "platform": "tiktok",
+      "reason": "AI-generated account, no identifiable individual. Rejected by batch-11 worker 2026-09-17.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@buildabreak",
+      "platform": "tiktok",
+      "reason": "Brand account, not an individual creator. Rejected by batch-11 worker 2026-09-17.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@losangeleswander",
+      "platform": "tiktok",
+      "reason": "Brand-style account, no named individual. Rejected by batch-11 worker 2026-09-17.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@alexlaurenceco",
+      "platform": "tiktok",
+      "reason": "Consultancy account. Rejected by batch-11 worker 2026-09-17.",
+      "status": "quarantined"
+    },
+    {
+      "handle": "@livingourmemories",
+      "platform": "tiktok",
+      "status": "quarantined",
+      "reason": "couple-operated account/brand",
+      "evidence": "Own about page https://livingourmemories.com/who-are-living-our-memories/: \"We're Chris and Reanna, a 20-something couple from sunny Bournemouth, UK.\" Brand 'Living Our Memories' is couple-run; TikTok presents solo but the operation is a couple.",
+      "date": "2026-09-17",
+      "decided_by": "stage2-coordinator"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@_themayway_",
+      "platform": "tiktok",
+      "reason": "REACH_FAIL: TikTok profile shows 8,338 followers (opened 2026-09-17), below 10,000 floor. Worker cited 440.1K views as reach evidence — views are not followers. Removed from batch 11.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@travellingtuesdays",
+      "platform": "tiktok",
+      "reason": "EXCLUSION: hosts paid group tours — \"Travelling Tuesdays Japan 7 Day Exclusive Tour, hosted by Travelling Tuesdays, From £1899\" (onelifeadventures.com/travelling-tuesdays/japan-7-day-tour/, page updated 38 days before 2026-09-17). Removed from batch 11.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@travellinfoodie",
+      "platform": "instagram",
+      "reason": "EXCLUSION: sells personalized travel planning — \"Travel Planning Chat (30-Minute Session): Let's chat about your trip ideas, itinerary and questions\" (travellingfoodie.kit.com/products/trip-planning-chat, linked from travellingfoodie.net/links/, observed 2026-09-17). Removed from batch 15.",
+      "status": "quarantined"
+    },
+    {
+      "handle": "@globalgallivanting",
+      "platform": "instagram",
+      "name": "Anna Phipps",
+      "reason": "Hosted-trip operator: her own blog (2021 travel roundup, global-gallivanting.com) states she was 'running my first group tour in Kerala.' Fails hosted-consumer-group-trip exclusion.",
+      "evidence": "https://www.global-gallivanting.com/category/reflections/ (\"My 2021 Travel and Life Round Up\")",
+      "quarantine_date": "2026-09-17",
+      "added_by": "coordinator"
+    },
+    {
+      "handle": "@justonewayticket",
+      "platform": "instagram",
+      "name": "Sabrina Iovino",
+      "reason": "Coaching/mentoring exclusion: her own Travel Massive profile states 'my work evolved beyond travel blogging. Today I focus on helping creators and digital nomads turn content into real businesses. I teach creators how to monetize their knowledge through: Blogging, Digital products, Affiliate partnerships, Creator-led businesses' plus speaking/workshops across Europe and Asia.",
+      "evidence": "https://www.travelmassive.com/@sabrina-iovino-1076584415",
+      "quarantine_date": "2026-09-17",
+      "added_by": "coordinator"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@taywanders",
+      "platform": "instagram",
+      "reason": "Hosts consumer group trips: TrovaTrip 'Canada with Tay Wanders + Goldie Ventures' Sep 1-6 2026, 14-22 travelers, $1,895 (observed 2026-09-17). Violates hosted-group-trips exclusion.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@heleninwonderlust",
+      "platform": "instagram",
+      "reason": "Hosts consumer group trips: 'Southern Tanzania & Mafia Island Group Trip (26 Oct - 10 Nov 2025)' with 'join me and some fellow intrepid travellers' language at heleninwonderlust.co.uk (observed 2026-09-17). Violates hosted-group-trips exclusion.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@anna.everywhere",
+      "platform": "instagram",
+      "reason": "Sells consumer trip-planning: $100 travel consultation + $175 custom itinerary with accommodation/activity recommendations at annaeverywhere.com/trip-planning-service/ (observed 2026-09-17). Violates consumer-planning exclusion. Handle variant @annaeverywhere also disqualified.",
+      "status": "excluded"
+    },
+    {
+      "handle": "@fadastravel",
+      "platform": "tiktok",
+      "added": "2026-09-17",
+      "reason": "Personalized itinerary-planning service: 7-day Turkey itinerary video caption ends with \"comment 'Luxury' and we'll plan your entire Turkish holiday for you\" (observed in web search snippet 2026-09-17). Excluded per no-customized-planning rule.",
+      "status": "quarantined"
+    },
+    {
+      "handle": "@helloangelia",
+      "platform": "tiktok",
+      "added": "2026-09-17",
+      "reason": "Shared/couple account: display name 'Ang + Chris | Travel Couple' (observed in web search results 2026-09-17). Excluded per individual-creator requirement.",
+      "status": "quarantined"
+    },
+    {
+      "handle": "@crisalynlove",
+      "platform": "tiktok",
+      "added": "2026-09-17",
+      "reason": "Couple/shared account signals: Thailand itinerary video caption says 'Sharing our January 21-29, 2026 Thailand travel itinerary' (observed in web search snippet 2026-09-17). Excluded per individual-creator requirement.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@psimonmyway",
+      "platform": "instagram",
+      "reason": "Own site (psimonmyway.com/how-i-can-afford-a-life-of-travel/, updated ~73 days before 2026-09-17) explicitly offers '1-on-1 travel coaching' ('I help them plan their trip'); also lists travel consulting and group trips as revenue streams. Violates consumer-planning/coaching exclusion.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@janelleonajet",
+      "platform": "instagram",
+      "reason": "Hosted TrovaTrip consumer group trips: 'European Christmas Markets 2.0' (Dec 3-9, 2024), 'Italy with Janelle' (Oct 2023), 'South Africa with Janelle' (Jan 2024). Violates hosted-group-trips exclusion.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@grrrltraveler",
+      "platform": "instagram",
+      "reason": "STAGE 1 ROW (influencers.csv + batch8.csv). New finding 2026-09-17: operates hosted group tours — grrrltraveler.com/group-tours-solo-travel/fall-japan-group-trip/ ('11 Day Fall Japan Adventure Trip', 'join Christine on an excursion'); Udaipur guide states scouting for group tour. Flagged for Gate 5 adjudication on whether the hosted-trips exclusion applies to the Stage 1 row.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@outdoorsydiva",
+      "platform": "instagram",
+      "reason": "Offers 'curated group adventure trips' (observed 2026-09-17). Violates hosted-group-trips exclusion.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@therichaunt",
+      "platform": "instagram",
+      "reason": "Sells 'Customized Travel Plan For You' ($299.99) (observed 2026-09-17). Violates consumer-trip-planning exclusion.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@bridgesandballowns",
+      "platform": "instagram",
+      "reason": "Couple/family-run account (Victoria + Steve) (observed 2026-09-17). Fails named-individual gate.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@evs_adventures",
+      "platform": "instagram",
+      "reason": "Binding reject 2026-09-17 (batch18): hosted group trips/tours.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@thesojournies",
+      "platform": "instagram",
+      "reason": "Binding reject 2026-09-17 (batch18): hosted group trips/tours.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@theglobetrottingdetective",
+      "platform": "instagram",
+      "reason": "Binding reject 2026-09-17 (batch18): hosted group trips/tours.",
+      "status": "excluded"
+    },
+    {
+      "handle": "@wanderingearl",
+      "platform": "instagram",
+      "reason": "Runs Wandering Earl Tours (hosted group tours) — exclusion: hosted group trips. Founder of Wandering Earl Tours (podcast/interview sources 2026-09-17).",
+      "status": "quarantined",
+      "added": "2026-09-17"
+    },
+    {
+      "handle": "@rockytravel",
+      "platform": "instagram",
+      "reason": "Michela Fantinel's Services page sells 'Trip Planning Services + Private Tours + Travel Coaching' and 'small group tours for over 50' — consumer trip planning + hosted group tours. Exclusion fail (2026-09-17).",
+      "status": "quarantined",
+      "added": "2026-09-17"
+    },
+    {
+      "handle": "@thebrokebackpacker",
+      "platform": "instagram",
+      "reason": "Will Hatton launched Elsewheria Expeditions 2025 — leads hosted trips in Pakistan, Baja and Albania; also runs 'Ditch Your Desk Retreats'. Hosted-trips exclusion fail (2026-09-17).",
+      "status": "quarantined",
+      "added": "2026-09-17"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@dutchbloggeronthemove",
+      "platform": "instagram",
+      "reason": "Hosted group trips: own Tanzania/Zanzibar article states 'I'm putting together my next small group trip to East Africa for late 2026'; Feedspot bio 'Botswana group safari, Nov 2026' (observed 2026-09-17). Violates hosted-group-trips exclusion.",
+      "status": "excluded"
+    },
+    {
+      "handle": "@ayngelina",
+      "platform": "instagram",
+      "reason": "Hosted group trip operator: creator's own blog post 'Travel With Me To Oaxaca' (2020, still live at baconismagic.ca/travel-with-me-to-oaxaca/) offered a hosted group trip with an organized tour company - 10 spots, $2,950 USD/person; creator newsletter (baconismagic.kit.com/posts/4-lessons-from-a-tired-traveler, current) states she still wants to plan group trips to Vietnam and Cuba. Hosted group trips are excluded.",
+      "check_date": "2026-09-17",
+      "source": "https://www.baconismagic.ca/travel-with-me-to-oaxaca/|https://baconismagic.kit.com/posts/4-lessons-from-a-tired-traveler"
+    },
+    {
+      "handle": "@hopscotchtheglobe",
+      "platform": "instagram",
+      "reason": "Hosted group trip operator: 'HTG Tribe Trips' page (hopscotchtheglobe.com/htg-travel-tribe-trips/) sells hosted group tours - e.g. Costa Rica 12-day 'HTG Group Trip' with 'Professional Tour Leader and Host along with Kristen and Siya', avg 15 travelers + Kristen; also Guatemala, Ecuador, Peru trips. Hosted group trips are excluded.",
+      "check_date": "2026-09-17",
+      "source": "http://hopscotchtheglobe.com/htg-travel-tribe-trips/|https://hopscotchtheglobe.com/?p=16159"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@backpackingbananas",
+      "platform": "instagram",
+      "reason": "Hosts retreats/group trips and sells personalized itinerary services - excluded per batch-20 closeout screening.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@travlinmad",
+      "platform": "instagram",
+      "reason": "Hosts a Tuscany group tour - excluded per batch-20 closeout screening.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@traveltomtom",
+      "platform": "instagram",
+      "reason": "Operates group trips - excluded per batch-20 closeout screening.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@fancynancista",
+      "platform": "instagram",
+      "reason": "Historically hosted six group trips and recently described leading a Morocco group - excluded per batch-20 closeout screening.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@siddharthajoshi",
+      "platform": "instagram",
+      "reason": "Current hosted Bhutan itinerary; no recent qualifying own-site itinerary - excluded per batch-20 closeout screening.",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "unknown",
+      "platform": "unknown",
+      "reason": "Leisurely Linds / Lindsey - personalized travel-planning services - excluded per batch-20 closeout screening (handle not established).",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@karlwatsondocs",
+      "platform": "instagram",
+      "reason": "Hosted group trips: own YouTube description documents a bespoke tour he hosted with Intrepid Travel; separate video previews his upcoming Central Asia group tour (observed 2026-09-17).",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@withlovesophiella",
+      "platform": "instagram",
+      "reason": "Hosted group trip: personally tailored and hosted 12-day Spring 2025 Pakistan group tour, marketed as 'Sophie's 12 Day Epic Pakistan Tour' (wetravel.com listing, observed 2026-09-17).",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@adventurouskate",
+      "platform": "instagram",
+      "reason": "Hosted group trips + consumer trip-planning: own 2015 post documents running a two-week El Salvador/Guatemala tour for 10 people; adventuresbykate.com sample itinerary PDF is a consumer travel-planning service (observed 2026-09-17).",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@shaleewanders",
+      "platform": "instagram",
+      "reason": "Shared/couple operation: own media kit describes husband Josh and Shalee as a two-person production team; historical hosted Peru group trip (shaleewanders.com/come-with-me-to-peru/, observed 2026-09-17).",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@inditales",
+      "platform": "instagram",
+      "reason": "Brand handle with shared operation: husband Shashi is co-owner/photography contributor plus guest authors; personal handle @anuradhagoyal under 10K (observed 2026-09-17).",
+      "status": "quarantined"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@thenomadsyouknow",
+      "platform": "instagram",
+      "reason": "Shared duo account (Harry & Lydia). Fails named-individual gate under the consistent couple/shared-account standard (cf. @bridgesandballowns, @helloangelia). REMOVED from batch20 2026-09-17 after the writing worker justified it with a fabricated precedent ('duo precedent @exploringnomad batch17' — no such row exists in batch17). Do not reselect without a genuine founder ruling on duos.",
+      "status": "excluded"
+    },
+    {
+      "handle": "@nomadasaurus",
+      "platform": "instagram",
+      "reason": "Hosted group trip/tour operator: run their own small-group photography expeditions/tours (Antarctica & South Georgia 2024, Crossing the Antarctic Circle 2025, Pamir Highway tour) - own registration forms and YouTube descriptions. Hosted group trips are excluded.",
+      "check_date": "2026-09-17",
+      "source": "https://ukaht.org/latest-news/in-conversation-with-travel-bloggers-alesha-and-jarryd-of-nomadasaurus/|https://www.youtube.com/watch?v=5ThvYtOa8Ik"
+    },
+    {
+      "handle": "@eliasandkajsa",
+      "platform": "instagram",
+      "reason": "Hosted group trip operator: run 'Hike & Create' small-group multi-day hiking/content experiences (Appenzell Jul 7-10 2026 completed; Dolomites Sep 11-15 2026, 8 spots, apply-now). Hosted group trips are excluded.",
+      "check_date": "2026-09-17",
+      "source": "https://hikeandcreate.com/|https://hikeandcreate.com/dolomitesapply"
+    },
+    {
+      "handle": "@migrationology",
+      "platform": "instagram",
+      "reason": "DEDUP BLOCK (2026-09-17, batch18-topup): Mark Wiens @migrationology already in influencers.csv AND batch1.csv (food, 1.3M). Cannot be re-added to batch18. Flagged for Gate 5 adjudication per coordinator rule (handle exists in dataset).",
+      "status": "quarantined",
+      "added": "2026-09-17"
+    },
+    {
+      "handle": "@awaywiththesteiners",
+      "reason": "hosted group trip operation",
+      "evidence": "Own page 'Morocco Sahara Desert Group Trip: Away With The Steiners' (awaywiththesteiners.com/morocco-2025/) sells a day-by-day group trip: Day 1 welcome to Marrakech with group welcome dinner, Day 2 group road trip to Ouarzazate with lunch/dinner/breakfast included.",
+      "discovered_batch": 15,
+      "check_date": "2026-09-17",
+      "source": "browser.search evidence 2026-09-17"
+    },
+    {
+      "handle": "@eatdrinkvacationrepeat",
+      "reason": "hosted group trip operation",
+      "evidence": "TrovaTrip page 'Italy with Sharon & Joe aka Eat Drink Vacation Repeat!' (trovatrip.com, dates May 16-22 2027, 12-24 travelers, $4,599) - hosted group trip sold by creators Sharon & Joe.",
+      "discovered_batch": 15,
+      "check_date": "2026-09-17",
+      "source": "browser.search evidence 2026-09-17"
+    },
+    {
+      "handle": "@highlands2hammocks",
+      "reason": "travel operator - own campervan rental fleet + bespoke trip planning service",
+      "evidence": "Own site highlands2hammocks.co.uk: 'Campervan Hire Scotland for the NC500 and More' page with availability calendar, booking system, 'Our Fleet' of serviced campervans for hire; homepage offers 'Bespoke Trip Planning' and 'Campervan Rentals' as services.",
+      "discovered_batch": 15,
+      "check_date": "2026-09-17",
+      "source": "browser.search evidence 2026-09-17"
+    },
+    {
+      "check_date": "2026-09-17",
+      "handle": "@emmacruises",
+      "platform": "instagram",
+      "reason": "Agency/operator exclusion (2026-09-17, batch18-topup): creator's own site (Bruges port guide, emmacruises.com) states 'Book a Cruise (I've Launched My Own Travel Agency)' and 'in 2026, I launched my own agency.' Absent from dataset (influencers.csv and all batch*.csv) at fresh 2026-09-17 dedup; recorded as excluded.",
+      "source": "https://emmacruises.com/port-destination-guide-bruges/"
+    },
+    {
+      "check_date": "2026-09-17",
+      "handle": "@thesocalhiker",
+      "platform": "instagram",
+      "reason": "Hosted group trip exclusion (2026-09-17, batch18-topup): Trovatrip advertised 'Iceland with Jeff Hester & Social Hikers,' Jan 18-24, 2025, 8-14 travelers, hosted by the creator. Absent from dataset (influencers.csv and all batch*.csv) at fresh 2026-09-17 dedup; recorded as excluded.",
+      "source": "https://trovatrip.com/trip/europe/iceland/iceland-with-jeff-hester-jan-2025"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@bearfoottheory",
+      "platform": "instagram",
+      "reason": "Hosted group trips: own wetravel.com listing (bearfoottheory.wetravel.com) for 'Bearfoot Theory Canadian Rockies Hiking Adventure' organized by Kristen; own copy documents led group trips to Alaska, Patagonia, Olympic NP, Southern Utah, Everest Base Camp. REMOVED from batch18 2026-09-17 after a cross-check by a batch19 worker caught the missed exclusion.",
+      "status": "excluded"
+    },
+    {
+      "handle": "@girlgoingtravel",
+      "reason": "hosted group trips",
+      "evidence": "Own site girlgoingtravel.com sells hosted group trips: 7-day Colombia women's group trip, India trip $2,299 (payment plan through Dec 2025), Brazil trip - all with 'Girl Going Travel trip hosting & community' as an inclusion.",
+      "discovered_batch": 15,
+      "check_date": "2026-09-17",
+      "source": "browser.search evidence 2026-09-17"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@alexinwanderland",
+      "platform": "instagram",
+      "reason": "Hosted group trips: Wander Women Retreats founder/host (per staging/browser_verdicts_instagram_retry.md). Documented as REJECT in prior research but never recorded in quarantine.json; added 2026-09-17 to prevent re-research.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@bemytravelmuse",
+      "platform": "instagram",
+      "reason": "Hosted group trips: organizes and leads women's tours (per staging/browser_verdicts_instagram_retry.md). Documented as REJECT in prior research but never recorded in quarantine.json; added 2026-09-17 to prevent re-research.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@thefamilyvoyage",
+      "platform": "instagram",
+      "reason": "Identity gate FAIL 2026-09-17 (batch19-writer independent re-verification): thefamilyvoyage.com (linked from instagram.com/thefamilyvoyage) is Melissa's family blog — 'About Us' page names Melissa, wife of Ronnie, mom of Jacob and Shoshana; site voice is family/we. 'Jessica' (Jessica Averett of Skiing Kids / Bring The Kids) is only a GUEST contributor on some posts (e.g. byline 'Thanks to Jessica of Bring The Kids'), not the handle operator. Prior worker attribution '@thefamilyvoyage / Jessica' was a misattribution; identity does not resolve to a single named individual.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@maptrotting",
+      "platform": "instagram",
+      "reason": "Identity gate FAIL 2026-09-17 (batch19-writer independent re-verification): instagram.com/maptrotting links to maptrotting.com, whose privacy policy states 'MapTrotting, operating under the holding company of Stamp Digital Ltd' — a company-run brand account. Content voice is couple/family ('our family of four', 'my wife and our nine-year-old'). No evidence ties the handle to a single named individual; prior worker's 'Erin Cohen' attribution is a misattribution (erin-cohen.com and explorewitherin.com are separate, unrelated creators). Named-individual gate not met.",
+      "status": "excluded"
+    },
+    {
+      "handle": "@yakeandmarie",
+      "platform": "instagram",
+      "status": "quarantined",
+      "reason": "couple-operated/shared duo account — fails named-individual gate",
+      "evidence": "Own about page yakeandmarie.com/about/: 'Jake McFadden & Marie Carter, Canadian couple photographers, full-time travel content creators'. REMOVED from batch15 2026-09-17 for consistency with the @livingourmemories (couple-operated brand) and @thenomadsyouknow (shared duo) exclusions; do not reselect without a genuine founder ruling on duos.",
+      "date": "2026-09-17",
+      "decided_by": "batch15-fill"
+    },
+    {
+      "handle": "@27travels",
+      "platform": "instagram",
+      "status": "quarantined",
+      "reason": "couple-operated/shared duo account — fails named-individual gate",
+      "evidence": "Own about page 27travels.com/about: Gabi and Shanna, lesbian travel couple based in Brooklyn NY. REMOVED from batch15 2026-09-17 for consistency with @livingourmemories/@thenomadsyouknow couple-shared-account standard; do not reselect without a genuine founder ruling on duos.",
+      "date": "2026-09-17",
+      "decided_by": "batch15-fill"
+    },
+    {
+      "handle": "@texaswanderers",
+      "platform": "instagram",
+      "status": "quarantined",
+      "reason": "family/shared account — fails named-individual gate",
+      "evidence": "Own about page texaswanderers.com/about/: Houston-based family blog (author Yocheved Schlachter), account brand 'texaswanderers' is family-operated. REMOVED from batch15 2026-09-17 under the named-individual/shared-account rule; do not reselect without a founder ruling.",
+      "date": "2026-09-17",
+      "decided_by": "batch15-fill"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@ourglobematters",
+      "platform": "instagram",
+      "reason": "Identity gate FAIL 2026-09-17 (batch19-writer independent re-verification): no verifiable evidence found that an Instagram travel creator '@ourglobematters / Michelle' exists — no own site, no indexed posts, no directory listing across three targeted search formulations. Prior worker's 'fully gated' claim could not be reproduced. Handle unverifiable; do not attribute.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@miss.everywhere",
+      "platform": "instagram",
+      "reason": "Consumer travel service: own site 'Book my travels now!' (misseverywhere.com/bookmytravels/) + luxury hotel booking preferred-rates client network. Evidence: https://misseverywhere.com/bookmytravels/ ; https://gulfmagazine.co/travel-influencer-miss-everywhere-launches-r/",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@brendanvanson",
+      "platform": "instagram",
+      "reason": "Hosted group trips + coaching: listed as Photography Workshop Instructor (weareguides.com) with workshop service areas Patagonia/Peru/Iceland/Namibia/Dolomites; own video describes leading a photography workshop in Peru. Evidence: https://www.weareguides.com/canada/brendan-van-son ; https://www.youtube.com/watch?v=Tv0WXjx0LIw",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@jamespopsys",
+      "platform": "instagram",
+      "reason": "Hosted group trip/coaching: advertises 'Antarctica workshop' 2026 (geni.us/Antarctica2026) in own YouTube video descriptions. Evidence: https://www.youtube.com/watch?v=Wo25zD_k1F0",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@naomijaneadams",
+      "platform": "instagram",
+      "reason": "Exclusions: IG bio 'Shop my feed + book my hotels + register for antarctica' = consumer hotel-booking service + hosted group trip (Antarctica). Also weak activity signal (Heepsy: not recently >60 days, 0.08 posts/week). Evidence: https://www.heepsy.com/instagram-profile/naomijaneadams",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@thewanderlustwithin",
+      "platform": "instagram",
+      "name": "Roshni Patel",
+      "reason": "ROW REMOVED 2026-09-17 under revoked-criteria remediation (batch19-writer). Fail-closed: (a) Gate 3 reach — only evidence was rounded aggregate '~120K' (The Influencers Network 2026 roundup); void ruling 3 ('rounded values stay rounded') revoked; no more precise figure found after targeted StarNgage/Heepsy search. (b) Founder §5 engagement — no creator-published media kit; no YouTube channel found; tiktok.com/@thewanderlustwithin resolves (nickname 'Roshni') but has 21 followers / 0 videos (negligible, possibly dormant/squatter); blog share counts (1.6K Bicol guide, 751 Panama City Beach guide, obs 2026-09-17) are real but outside founder's accepted media-kit/TikTok/YouTube categories. Identity, content-fit date (page-own 2025-12-15), purchase intent, exclusions all passed. Do not re-add without (i) precise follower count from named source and (ii) media-kit or TikTok/YouTube engagement signal.",
+      "status": "removed"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@seairadives",
+      "platform": "instagram",
+      "reason": "Hosted group trips: sells hosted dive trips via WeTravel (seairadives.wetravel.com 'Galapa-gooo to the Galapagos' — 'As your dedicated travel coordinator... every dive trip is meticulously planned'); own calendar lists multiple hosted trips (Galapagos, Women's Komodo Adventure). Evidence: https://seairadives.wetravel.com/trips/galapa-gooo-to-the-galapagos-seaira-dives-83367016 ; https://seairadives.com/calendar",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@girl_and_globe",
+      "platform": "instagram",
+      "reason": "Hosted group trips: runs 'Girl about the Globe' hosted tours (Madagascar tour Sept 2026 with Indus Travels, advertised via podcast/webinar). Evidence: https://ivy.fm/podcast/girl-about-the-globe-936550 ; https://www.girlabouttheglobe.com/solo-travel-in-portugal/",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@davemorrow",
+      "platform": "instagram",
+      "reason": "Hosted photography workshops/tours: 'I offer high-intensity workshops and tours designed for all skill and fitness levels.' Evidence: https://www.davemorrowphotography.com/wp-content/uploads/2026/01/Black-and-White-Photography-Guide-Dave-Morrow.pdf",
+      "status": "excluded"
+    },
+    {
+      "handle": "@jess.wandering",
+      "platform": "instagram",
+      "reason": "Sells personalized itinerary planning service: Rexby page \"Personalised Itinerary by Jess Dales\" - complete purchase, answer survey, receive personalised itinerary. Violates consumer-planning exclusion (observed 2026-09-17).",
+      "status": "excluded",
+      "added": "2026-09-17"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@aladyinlondon",
+      "platform": "instagram",
+      "reason": "Consumer travel planning service: own \"Travel Planning Services\" page offers custom itineraries, accommodation/flight/transport advice, consultations with per-destination pricing (\"Pricing depends on the number of destinations\"). Excluded per consumer-travel-planning rule despite otherwise-strong profile (600K+ IG). Evidence: https://www.aladyinlondon.com/travel-planning-services ; https://www.aladyinlondon.com/travel-planning-sample-itinerary",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@hutravelstheworld",
+      "platform": "instagram",
+      "reason": "Hosted group trips exclusion: Feedspot bio explicitly states 'Hosting group trips' (observed 2026-09-17). Consumer trip hosting = Gate 7 fail. Never selected.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@lostwithpurpose",
+      "platform": "instagram",
+      "reason": "Hosted group trips exclusion: Feedspot bio explicitly states 'Join my Pakistan tours' (observed 2026-09-17). Consumer trip hosting = Gate 7 fail. Never selected.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@_thehungryhiker",
+      "platform": "instagram",
+      "reason": "Consumer travel coaching exclusion: Feedspot bio explicitly states 'Backpacking Coach' (observed 2026-09-17). = Gate 7 fail. Never selected.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "added_by": "batch16-topup",
+      "handle": "@wheresmollie",
+      "platform": "instagram",
+      "status": "excluded",
+      "reason": "Hosted group trips: 'Where's Mollie Global Travellers' — creator 'carefully plans and puts together trips throughout the year; members can book tickets and join' (shanylou.co.uk/why-did-i-join-wheres-mollie-global-travellers/, observed 2026-09-17).",
+      "evidence": "Feedspot solo female travel Instagram influencers list snapshot observed 2026-09-17 unless noted"
+    },
+    {
+      "added": "2026-09-17",
+      "added_by": "batch16-topup",
+      "handle": "@roxadventures",
+      "platform": "instagram",
+      "status": "excluded",
+      "reason": "Hosted group trips: IG bio 'Join my group trips' (Feedspot solo female travel Instagram influencers list, observed 2026-09-17).",
+      "evidence": "Feedspot solo female travel Instagram influencers list snapshot observed 2026-09-17 unless noted"
+    },
+    {
+      "added": "2026-09-17",
+      "added_by": "batch16-topup",
+      "handle": "@sarahwoodardtravels",
+      "platform": "instagram",
+      "status": "excluded",
+      "reason": "Hosted group trip: IG bio 'Join me Antarctica 2027' (Feedspot solo female travel Instagram influencers list, observed 2026-09-17).",
+      "evidence": "Feedspot solo female travel Instagram influencers list snapshot observed 2026-09-17 unless noted"
+    },
+    {
+      "added": "2026-09-17",
+      "added_by": "batch16-topup",
+      "handle": "@rachelsmith___",
+      "platform": "instagram",
+      "status": "excluded",
+      "reason": "Hosted group trip: IG bio 'PHILIPPINES GROUP TRIP' (Feedspot solo female travel Instagram influencers list, observed 2026-09-17).",
+      "evidence": "Feedspot solo female travel Instagram influencers list snapshot observed 2026-09-17 unless noted"
+    },
+    {
+      "added": "2026-09-17",
+      "added_by": "batch16-topup",
+      "handle": "@thisgirlswanderlust_",
+      "platform": "instagram",
+      "status": "excluded",
+      "reason": "Hosted group trips: IG bio 'founder of @joinedatthetriptours — tour company' (Feedspot solo female travel Instagram influencers list, observed 2026-09-17).",
+      "evidence": "Feedspot solo female travel Instagram influencers list snapshot observed 2026-09-17 unless noted"
+    },
+    {
+      "added": "2026-09-17",
+      "added_by": "batch16-topup",
+      "handle": "@travelsbytash",
+      "platform": "instagram",
+      "status": "excluded",
+      "reason": "Hosted group trips: IG bio 'Maldives Group Trips: @sayyes.adventures' (Feedspot solo female travel Instagram influencers list, observed 2026-09-17).",
+      "evidence": "Feedspot solo female travel Instagram influencers list snapshot observed 2026-09-17 unless noted"
+    },
+    {
+      "added": "2026-09-17",
+      "added_by": "batch16-topup",
+      "handle": "@theworldwasherefirst",
+      "platform": "instagram",
+      "status": "excluded",
+      "reason": "Identity FAIL (shared/couple account): Travelpayouts interview states 'We met when travelling solo through the Balkans in 2016. Maggie ... while Michael ... In 2017, we started The World Was Here First' — operated by two people (travelpayouts.com/blog/the-story-of-theworldwasherefirst-com/, observed 2026-09-17).",
+      "evidence": "Feedspot solo female travel Instagram influencers list snapshot observed 2026-09-17 unless noted"
+    },
+    {
+      "added": "2026-09-17",
+      "added_by": "batch16-topup",
+      "handle": "@theblondeabroad",
+      "platform": "instagram",
+      "status": "quarantined",
+      "reason": "NEW FINDING 2026-09-17 (batch16-topup): hosted group trips — IG bio 'All-Female Tours: @tbaescapes' (Feedspot solo female travel Instagram influencers list, observed 2026-09-17). Already banked in batch2.csv; validation council to adjudicate.",
+      "evidence": "Feedspot solo female travel Instagram influencers list snapshot observed 2026-09-17 unless noted"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@diana_travels_",
+      "platform": "tiktok",
+      "reason": "TikTok profile 2026-09-17: 2,137 followers (< 10,000 reach floor)",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@emilyytravelss",
+      "platform": "tiktok",
+      "reason": "TikTok profile 2026-09-17: 2,499 followers (< 10,000 reach floor)",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@mydestinationdiaries",
+      "platform": "tiktok",
+      "reason": "TikTok profile 2026-09-17: 4,773 followers (< 10,000 reach floor)",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@dg_travel",
+      "platform": "tiktok",
+      "reason": "Shared/couple account: TikTok bio 'Giulia & Donato' observed 2026-09-17 (13,400 followers); no named individual established",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@ladytrailmix",
+      "platform": "tiktok",
+      "reason": "TikTok profile 2026-09-17: 1,599 followers (< 10,000 reach floor)",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@vannypacktravels",
+      "platform": "tiktok",
+      "reason": "TikTok profile 2026-09-17: 186 followers (< 10,000 reach floor)",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@global.and.beyond.travel",
+      "platform": "tiktok",
+      "reason": "Excluded during 2026-09-17 TikTok top-up verification (failure detail in worker notes); handle not selected in any batch",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@dailyblissna2",
+      "platform": "tiktok",
+      "reason": "Excluded during 2026-09-17 TikTok top-up verification (failure detail in worker notes); handle not selected in any batch",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@gabstraveljournal",
+      "platform": "tiktok",
+      "reason": "Excluded during 2026-09-17 TikTok top-up verification (failure detail in worker notes); handle not selected in any batch",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@thisatravels",
+      "platform": "tiktok",
+      "reason": "Excluded during 2026-09-17 TikTok top-up verification (failure detail in worker notes); handle not selected in any batch",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@bellahoppa",
+      "platform": "tiktok",
+      "reason": "Excluded during 2026-09-17 TikTok top-up verification (failure detail in worker notes); handle not selected in any batch",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "added_by": "batch16-topup",
+      "handle": "@trulynomadly",
+      "platform": "instagram",
+      "status": "excluded",
+      "reason": "Hosted group trips: PADI AmbassaDiver bio states she organizes group trips so more Indians can get dive certified (padi.com/.../sharanya-iyer, observed 2026-09-17).",
+      "evidence": "PADI AmbassaDiver profile page snapshot observed 2026-09-17"
+    },
+    {
+      "handle": "@curbfreecorylee",
+      "name": "Cory Lee",
+      "status": "excluded",
+      "reason": "Annual group trips where followers join him (disabilitysa.org). Hosted group trips — excluded per SELECTION_CRITERIA.md §6.",
+      "evidence": "Verified by batch19 finisher-2 (2026-09-17); never selected.",
+      "date": "2026-09-17",
+      "decided_by": "batch19-finisher2"
+    },
+    {
+      "handle": "@desigirltraveller",
+      "name": "Priyanka Chandola",
+      "status": "excluded",
+      "reason": "Group trips / hosted travel — excluded per SELECTION_CRITERIA.md §6. Verified excluded in prior research.",
+      "evidence": "Verified by batch19 finisher-2 (2026-09-17); never selected.",
+      "date": "2026-09-17",
+      "decided_by": "batch19-finisher2"
+    },
+    {
+      "handle": "@jordhammond",
+      "name": "Jord Hammond",
+      "status": "excluded",
+      "reason": "Group trips / hosted travel — excluded per SELECTION_CRITERIA.md §6. Verified excluded in prior research.",
+      "evidence": "Verified by batch19 finisher-2 (2026-09-17); never selected.",
+      "date": "2026-09-17",
+      "decided_by": "batch19-finisher2"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@vivomunditraveldiaries",
+      "platform": "tiktok",
+      "reason": "Lead-closer 2026-09-17: reach FAIL - TikTok profile followerCount 5,766 (<10K floor). Also identity is brand-ish (nickname 'vivomunditravel', hotel-curation bio, no named individual). Dropped, never selected.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@haylsa",
+      "platform": "tiktok",
+      "reason": "Lead-closer 2026-09-17: identity FAIL - duo/couple account. YouTube channel is 'Haylsa & Kyle' (travel vlogs titled '... | Haylsa & Kyle'); hellomay.com.au wedding article confirms Hayley (@haylsa) and Kyle (@Kyle_Hunter) are a travel-creator couple; haylsaandkyle.com sells prints as 'Haylsa & Kyle'. Not a single named individual. Dropped, never selected.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@followmeaway",
+      "platform": "tiktok",
+      "reason": "Lead-closer 2026-09-17: identity FAIL - brand account. followmeaway.com/work-with-us states 'Follow Me Away is a travel media brand'; TikTok nickname 'Followmeaway' is the brand name with no attributable individual. Dropped, never selected.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@jetsetjodie",
+      "platform": "tiktok",
+      "reason": "Lead-closer 2026-09-17: identity unproven - pseudonym 'JetSetJodie' with no real person name; TikTok bio 'Travel | Humour | Tips' gives no attributable individual; ownership/activity clarity not closable this turn. Dropped, never selected.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@theglobalwanderess",
+      "platform": "instagram",
+      "reason": "Engagement gate FAIL: no creator media kit found; YouTube channel @theglobalwanderess exposes no subscriber metrics via page fetch; no same-creator TikTok found; Collabstr aggregates prohibited. Reach 28.2K via Feedspot 2026-09-17 and itinerary dates valid (Winter Park Aug 12 2025; Savannah Feb 9 2026), but engagement unknown = FAIL per 2026-09-16 adjudication. Observed 2026-09-17.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@svadore",
+      "platform": "instagram",
+      "reason": "Consumer travel-planning exclusion: svadore.com/4-days-in-tokyo-itinerary/ invites readers to 'book a travel consultation with me' (observed 2026-09-17). Binding exclusion per 2026-09-16 adjudication.",
+      "status": "excluded"
+    },
+    {
+      "added": "2026-09-17",
+      "handle": "@girlof10000lakes",
+      "platform": "instagram",
+      "reason": "Engagement gate FAIL: YouTube channel youtube.com/girlof10000lakes exposes no subscriber metrics; no media kit found; Keepface 47.56% is third-party analytics (prohibited). Itinerary date gate FAIL: no creator-owned guide with explicit post-2024-09-17 calendar date found. Reach 46.3K via Feedspot 2026-09-17. Observed 2026-09-17.",
+      "status": "excluded"
+    },
+    {
+      "handle": "@thewanderingquinn",
+      "name": "Ellie Quinn Belhaj",
+      "status": "quarantined",
+      "reason": "Hosted group trips: creator site advertises women's group tours/retreats (thewanderingquinn.com/work-with-me/; /5-day-iceland-womens-group-tour-february-2024/; /morocco-womens-tour-2023/). Excluded per SELECTION_CRITERIA.md §6.",
+      "evidence": "Creator-owned site pages, found by Group C remediation worker 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "groupC-remediation"
+    },
+    {
+      "handle": "@kimmconn",
+      "name": "Kimmie Conner",
+      "status": "quarantined",
+      "reason": "Hosted group trip: creator newsletter (adventuresnsunsets.kit.com) describes Pakistan group trip Oct 1-13, 2025 she ran. Excluded per SELECTION_CRITERIA.md §6.",
+      "evidence": "Creator-owned newsletter, found by Group C remediation worker 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "groupC-remediation"
+    },
+    {
+      "handle": "@wherejesstravels",
+      "name": "Jess",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 13.",
+      "evidence": "Engagement remediation Group B 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: provisional (TikTok; engagement unverified, convergence review required)"
+    },
+    {
+      "handle": "@mrsoaroundtheworld",
+      "name": "Ana Silva O'Reilly",
+      "status": "removed",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation"
+    },
+    {
+      "handle": "@theboutiqueadventurer",
+      "name": "Amanda O'Brien",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@danflyingsolo",
+      "name": "Daniel James Clarke",
+      "status": "removed",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation"
+    },
+    {
+      "handle": "@charliepauly",
+      "name": "Charlie Pauly",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@pocketwanderings",
+      "name": "Jessie Moore",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@thetravelista",
+      "name": "Jessica Ruth Gibson",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@bonnierakhit",
+      "name": "Bonnie Rakhit",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@thetravelhack",
+      "name": "Monica Stott",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@voyagefox_",
+      "name": "Nathalie Aron",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@intrepidescape",
+      "name": "Scott Tisson",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@adilmusa1",
+      "name": "Adil Musa",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 15.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17",
+      "restored_by": "restore-worker-2026-09-17",
+      "restored_note": "Login-verified 2026-09-17: 55,040 followers; dated travel posts (Maldives 2026-06-18, Doha) with 53-77 comments."
+    },
+    {
+      "handle": "@solotravelinstyle",
+      "name": "Ioana Moga",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 16.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@annasherchand",
+      "name": "Anna Sherchand",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 16.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@theladywhotravels_",
+      "name": "Abigail A",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 16.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@charlies_wanderings",
+      "name": "Charlotte Lint",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@worldwanderlust",
+      "name": "Brooke Saward",
+      "status": "removed",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation"
+    },
+    {
+      "handle": "@elise.abroad",
+      "name": "Elise",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@talesofabackpacker",
+      "name": "Claire Sturzaker",
+      "status": "removed",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation"
+    },
+    {
+      "handle": "@kamischka",
+      "name": "Kamila Napora",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@thirdeyetraveller",
+      "name": "Sophie Pearce",
+      "status": "removed",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation"
+    },
+    {
+      "handle": "@wanderwithjo",
+      "name": "Jo",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@boundlessroads",
+      "name": "Isabella Biava",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@thecommontraveler",
+      "name": "Annick Lenoir-Peek",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@enjoytheadventures",
+      "name": "Jess",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-18",
+      "restored_via": "ig-restore-retry-2026-09-18: Instagram login engagement verification (@sgshankar84, read-only)"
+    },
+    {
+      "handle": "@theworldtravelguy",
+      "name": "David Leiter",
+      "status": "removed",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 17.",
+      "evidence": "Engagement remediation Group C 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation"
+    },
+    {
+      "handle": "@malaysiaasia",
+      "name": "David Hogan Jr",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 18.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@learningescapes",
+      "name": "Marta Correale",
+      "status": "removed",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 18.",
+      "evidence": "Engagement remediation Group D 2026-09-17.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "evidence_update": "Re-verified 2026-09-17: handle does not resolve via founder-authorized Instagram login (empty profile, 0 posts). Removal stands."
+    },
+    {
+      "handle": "@thetravelbunny",
+      "name": "Suzanne Jones",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 19.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@minoritynomad",
+      "name": "Erick Prince",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 19.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@adventuresfromelle",
+      "name": "Rochelle Knight",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 19.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@thereshegoesagn",
+      "name": "Samantha",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 19.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@travelingblackwidow",
+      "name": "Charlotte Simpson",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 19.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@wheretarawent",
+      "name": "Tara",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 19.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@tomiko.harvey",
+      "name": "Tomiko Harvey",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 19.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@girlgoneabroad",
+      "name": "Lauren Carey",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 20.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@findingalexx",
+      "name": "Alexx Hayward",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 20.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@em_luxton",
+      "name": "Emily Luxton",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 20.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@kirstenalana",
+      "name": "Kirsten Alana",
+      "status": "restored",
+      "reason": "Removed 2026-09-17: no compliant §5 engagement evidence (no media kit, no attributable TikTok/YouTube metrics) after genuine remediation search. Batch 20.",
+      "evidence": "Login-verified engagement evidence (Instagram @sgshankar84, 2026-09-17): exact follower count + recent travel posts with like/comment counts recorded in selection log.",
+      "date": "2026-09-17",
+      "decided_by": "engagement-remediation",
+      "restored_date": "2026-09-17"
+    },
+    {
+      "handle": "@tourwithliesner",
+      "name": "Liesner",
+      "platform": "tiktok",
+      "status": "quarantined",
+      "date": "2026-09-17",
+      "decided_by": "parent-agent instruction (wave-5)",
+      "reason": "HELD per parent instruction 2026-09-17: mononym \"Liesner\" (press-confirmed individual, cubaheadlines.com: \"The content creator Liesner, known online as @tour_with_liesner\") — founder has not ruled whether a mononym satisfies the \"named individual\" gate. SELECTION_CRITERIA.md §6 coordinator adjudication says mononym-as-consistent-public-identity passes, but the specific row is held pending explicit founder ruling. Restore to batch11 if founder approves.",
+      "evidence": "staging/selection_log_batch11.csv.pre-liesner-hold.bak (row preserved); batch11.csv.pre-liesner-hold.bak"
+    },
+    {
+      "handle": "@adventurousmiriam",
+      "name": "Miriam Risager",
+      "platform": "instagram",
+      "status": "removed",
+      "date": "2026-09-17",
+      "decided_by": "wave-5 coordinator",
+      "reason": "Login-verified 2026-09-17: only 9,342 followers — below the 10,000 reach floor (was 37.5K StarNgage estimate). Fails hard reach gate. Repair worker flagged; coordinator removed.",
+      "evidence": "staging/selection_log_batch15.csv.pre-miriam-removal.bak"
+    }
+  ]
 }
